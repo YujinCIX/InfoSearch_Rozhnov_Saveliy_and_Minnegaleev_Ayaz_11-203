@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Солнце в карело-финской мифологии — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"f2d894df-c0e7-4001-a955-d15ff1e69015","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Солнце_в_карело-финской_мифологии","wgTitle":"Солнце в карело-финской мифологии","wgCurRevisionId":146918445,"wgRevisionId":146918445,"wgArticleId":9197900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Незавершённые статьи по мифологии","Солярные божества","Карело-финская мифология"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Солнце_в_карело-финской_мифологии","wgRelevantArticleId":9197900,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":0,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5490050","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Солнце в карело-финской мифологии — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Солнце_в_карело-финской_мифологии rootpage-Солнце_в_карело-финской_мифологии skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Солнце в карело-финской мифологии</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-stable-unreviewed plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Данная страница <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> участниками с соответствующими правами.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><p>Олицетворённое <b><a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5" title="Солнце">Солнце</a></b> (<a href="/wiki/%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Финский язык">фин.</a> <i>Päivätär</i>) в <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D1%84%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2" title="Традиционные верования финнов">древней финской религии</a>&#160;— <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F" title="Богиня">богиня</a>, персонификация <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5" title="Солнце">солнца</a> и <a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C" title="День">дня</a>, а также прекрасная девушка, чья подруга или <a href="/wiki/%D0%91%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B8%D1%84%D1%8B" title="Близнечные мифы">близнец</a>&#160;— не менее красивая богиня, представляющая <a href="/w/index.php?title=%D0%9B%D1%83%D0%BD%D0%B0_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Луна (Калевала) (страница отсутствует)">Луну</a>. Солнце и Луна владеют <a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE" title="Золото">золотом</a> и <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE" title="Серебро">серебром</a>, которые видны в сиянии луны и солнца, а также в «золотоокаймленных» облаках на закате.
+</p><p>Пайвяэр и Куутар иногда видятся в небе как <a href="/w/index.php?title=%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B8_%D0%B8%D0%B7_%D0%9F%D0%BE%D1%85%D1%8C%D1%91%D0%BB%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Девушки из Похьёлы (страница отсутствует)">девушки из Похьёлы</a>, прядут золотую и серебряную нить и ткут из неё золотые и серебряные <a href="/wiki/%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0" title="Одежда">одежды</a>. В <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0" title="Калевала">Калевале</a> девушки просят у Солнца и Луны золотые и серебряные <a href="/wiki/%D0%AE%D0%B2%D0%B5%D0%BB%D0%B8%D1%80%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%B5" title="Ювелирное изделие">украшения</a>, а также одежду.
+</p><p>Профессор Анна-Лина Сиикала считает возможным, что Пяйватар была богиней не только Солнца, но и управлявщей <a href="/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C" title="Жизнь">жизнью</a> и <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82" title="Свет">светом</a>. В <a href="/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Христианство">христианский</a> период её заменила <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Богородица">Дева Мария</a><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В первой руне Калевалы рассказывается история о сотворении мира, в ней Солнце и Луна происходят из <a href="/wiki/%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D1%8F%D0%B9%D1%86%D0%BE" title="Мировое яйцо">яиц</a>, снесённых уткой.
+</p><p>В других рунах также фигурируют дочь и сын Солнца, Луны, Звезды.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i>Kauhanen, Erkki.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.tiede.fi/artikkeli/jutut/artikkelit/samaaninen_suomessa_hyori_jumalia_luonnon_taydelta">Samaanien Suomessa hyöri jumalia luonnon täydeltä</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;<i>Tiede</i>&#32;(май 2003).&#32;Дата обращения: 21 марта 2010.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141106015315/http://www.tiede.fi/artikkeli/jutut/artikkelit/samaaninen_suomessa_hyori_jumalia_luonnon_taydelta">Архивировано</a> 6 ноября 2014 года.</span></span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Stub-meta plainlinks metadata ambox ambox-style" style="border:0; background:none; color:inherit; margin:0; font-style:italic;"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dragon_template.png" class="mw-file-description"><img alt="Дракон" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dragon_template.png/40px-Dragon_template.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/1/19/Dragon_template.png 1.5x" data-file-width="48" data-file-height="48" /></a></span></div></div><div class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a>&#32;по <a href="/wiki/%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Мифология">мифологии</a>. Помогите Википедии, дополнив её.</div><div class="mbox-textsmall-div hide-when-compact"></div></div></div><div role="navigation" class="navbox" aria-labelledby="25px&amp;#124;Runonlaulajan&#95;kädet&#95;-merkki&#95;Калевала&#95;25px&amp;#124;Runonlaulajan&#95;kädet&#95;-merkki" data-name="Калевала"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0" title="Перейти к шаблону «Калевала»"><img alt="Перейти к шаблону «Калевала»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="25px&amp;#124;Runonlaulajan&#95;kädet&#95;-merkki&#95;Калевала&#95;25px&amp;#124;Runonlaulajan&#95;kädet&#95;-merkki" style="font-size:114%;margin:0 5em"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Runonlaulajan_k%C3%A4det.svg" class="mw-file-description" title="Runonlaulajan kädet -merkki"><img alt="Runonlaulajan kädet -merkki" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Runonlaulajan_k%C3%A4det.svg/40px-Runonlaulajan_k%C3%A4det.svg.png" decoding="async" width="25" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Runonlaulajan_k%C3%A4det.svg/60px-Runonlaulajan_k%C3%A4det.svg.png 2x" data-file-width="531" data-file-height="325" /></a></span> <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0" title="Калевала">Калевала</a> <span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Runonlaulajan_k%C3%A4det,_peilikuva.svg" class="mw-file-description" title="Runonlaulajan kädet -merkki"><img alt="Runonlaulajan kädet -merkki" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Runonlaulajan_k%C3%A4det%2C_peilikuva.svg/40px-Runonlaulajan_k%C3%A4det%2C_peilikuva.svg.png" decoding="async" width="25" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Runonlaulajan_k%C3%A4det%2C_peilikuva.svg/60px-Runonlaulajan_k%C3%A4det%2C_peilikuva.svg.png 2x" data-file-width="531" data-file-height="325" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Боги</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%85%D1%82%D0%B8" title="Ахти">Ахти</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B0%D1%80" title="Вамматар">Вамматар</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BB%D0%B0%D0%BC%D0%BE" title="Велламо">Велламо</a></li>
+<li><a href="/wiki/%D0%98%D0%BB%D1%8C%D0%BC%D0%B0%D1%82%D0%B0%D1%80" title="Ильматар">Ильматар</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D0%BE%D0%B2%D0%B8%D0%B0%D1%82%D0%B0%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Ловиатар (страница отсутствует)">Ловиатар</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D1%80%D0%BC%D0%B0_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Сурма (мифология)">Сурма</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BF%D0%B8%D0%BE" title="Тапио">Тапио</a>
+<ul><li><a href="/w/index.php?title=%D0%9A%D1%83%D0%B8%D0%BF%D0%BF%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Куиппана (страница отсутствует)">Куиппана</a></li></ul></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80" title="Туонетар">Туонетар</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%BE%D0%BD%D0%B8" title="Туони">Туони</a></li>
+<li><a href="/wiki/%D0%A3%D0%BA%D0%BA%D0%BE" title="Укко">Укко</a>
+<ul><li><a href="/wiki/%D0%AE%D0%BC%D0%B0%D0%BB%D0%B0" title="Юмала">Юмала</a></li></ul></li>
+<li><a href="/w/index.php?title=%D0%A3%D0%BD%D1%82%D0%B0%D0%BC%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Унтамо (страница отсутствует)">Унтамо</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Олицетворения</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Солнце</a></li>
+<li><a href="/wiki/%D0%9B%D1%83%D0%BD%D0%B0_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Луна в карело-финской мифологии">Месяц</a></li>
+<li><a href="/w/index.php?title=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Звезда (Калевала) (страница отсутствует)">Звезда (Медведица)</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%B5%D1%82%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Ветер (Калевала) (страница отсутствует)">Ветер</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%B8%D1%85%D0%B8%D0%B8_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F)" title="Стихии (философия)">Стихии</a>
+<ul><li><a href="/w/index.php?title=%D0%9E%D0%B3%D0%BE%D0%BD%D1%8C_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Огонь (Калевала) (страница отсутствует)">Огонь</a></li>
+<li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Железо (Калевала) (страница отсутствует)">Железо</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%85_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Воздух (Калевала) (страница отсутствует)">Воздух</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%BE%D0%B4%D0%B0_(%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Вода (Калевала) (страница отсутствует)">Вода</a></li></ul></li>
+<li><a href="/w/index.php?title=%D0%9B%D0%BE%D0%B2%D0%B8%D0%B0%D1%82%D0%B0%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Ловиатар (страница отсутствует)">Болезни</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Герои</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D1%8F%D0%B9%D0%BD%D1%8F%D0%BC%D1%91%D0%B9%D0%BD%D0%B5%D0%BD" title="Вяйнямёйнен">Вяйнямёйнен</a></li>
+<li><a href="/wiki/%D0%98%D0%BB%D1%8C%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D0%BD" title="Ильмаринен">Ильмаринен</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%BB%D0%B5%D1%80%D0%B2%D0%BE" title="Куллерво">Куллерво</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%BC%D0%BC%D0%B8%D0%BD%D0%BA%D1%8F%D0%B9%D0%BD%D0%B5%D0%BD" title="Лемминкяйнен">Лемминкяйнен</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Злодеи</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%99%D0%BE%D1%83%D0%BA%D0%B0%D1%85%D0%B0%D0%B9%D0%BD%D0%B5%D0%BD" title="Йоукахайнен">Йоукахайнен</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%83%D1%85%D0%B0_%D0%9B%D0%BE%D1%83%D1%85%D0%B8" title="Старуха Лоухи">Лоухи</a></li>
+<li><a href="/wiki/%D0%A5%D0%B8%D0%B9%D1%81%D0%B8" title="Хийси">Хийси</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Другие</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B9%D0%BD%D0%BE" title="Айно">Айно</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BF%D1%83%D0%BD%D0%B5%D0%BD" title="Випунен">Випунен</a></li>
+<li><a href="/wiki/%D0%98%D0%BA%D1%83-%D0%A2%D1%83%D1%80%D1%81%D0%BE_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Ику-Турсо (мифология)">Ику-Турсо</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2" title="Калев">Калев</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%B5%D0%BB%D0%B8%D0%BA%D0%BA%D0%B8" title="Миеликки">Миеликки</a>
+<ul><li><a href="/w/index.php?title=%D0%A2%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Теллерво (страница отсутствует)">Теллерво</a></li></ul></li>
+<li><a href="/w/index.php?title=%D0%9D%D1%8E%D1%8E%D1%80%D0%B8%D0%BA%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Нююрикки (страница отсутствует)">Нююрикки</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BF%D1%81%D0%B0_%D0%9F%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5%D0%BD" title="Сампса Пеллервойнен">Сампса Пеллервойнен</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Артефакты</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5" title="Кантеле">Кантеле</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BF%D0%BE" title="Сампо">Сампо</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Мифические места</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D1%85%D1%8C%D1%91%D0%BB%D0%B0" title="Похьёла">Похьёла</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0" title="Манала">Туонела</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐6898d7777‐q652z
+Cached time: 20260212050224
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.083 seconds
+Real time usage: 0.154 seconds
+Preprocessor visited node count: 314/1000000
+Revision size: 2716/2097152 bytes
+Post‐expand include size: 17491/2097152 bytes
+Template argument size: 158/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3338/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1843794/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  127.859      1 -total
+ 67.59%   86.422      1 Шаблон:Примечания
+ 63.37%   81.019      1 Шаблон:Cite_web
+ 24.41%   31.214      1 Шаблон:Myth-stub
+ 23.22%   29.684      1 Шаблон:Stub-meta
+ 22.08%   28.235      1 Шаблон:Ambox
+  7.88%   10.079      1 Шаблон:Калевала
+  6.60%    8.434      1 Шаблон:Навигационная_таблица
+  0.74%    0.941      1 Шаблон:Sp
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:9197900:|#|:idhash:canonical and timestamp 20260212050224 and revision id 146918445. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Солнце_в_карело-финской_мифологии&amp;oldid=146918445">https://ru.wikipedia.org/w/index.php?title=Солнце_в_карело-финской_мифологии&amp;oldid=146918445</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Солярные божества">Солярные божества</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Карело-финская мифология">Карело-финская мифология</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Категория:Незавершённые статьи по мифологии">Незавершённые статьи по мифологии</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5+%D0%B2+%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9+%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5+%D0%B2+%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9+%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;oldid=146918445" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;id=146918445&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25BE%25D0%25BB%25D0%25BD%25D1%2586%25D0%25B5_%25D0%25B2_%25D0%25BA%25D0%25B0%25D1%2580%25D0%25B5%25D0%25BB%25D0%25BE-%25D1%2584%25D0%25B8%25D0%25BD%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B9_%25D0%25BC%25D0%25B8%25D1%2584%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D0%25B8"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25BE%25D0%25BB%25D0%25BD%25D1%2586%25D0%25B5_%25D0%25B2_%25D0%25BA%25D0%25B0%25D1%2580%25D0%25B5%25D0%25BB%25D0%25BE-%25D1%2584%25D0%25B8%25D0%25BD%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B9_%25D0%25BC%25D0%25B8%25D1%2584%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D0%25B8"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5490050" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/P%C3%A4iv%C3%A4t%C3%A4r" title="Päivätär — английский" lang="en" hreflang="en" data-title="Päivätär" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/P%C3%A4iv%C3%A4t%C3%A4r" title="Päivätär — испанский" lang="es" hreflang="es" data-title="Päivätär" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/P%C3%A4iv%C3%A4t%C3%A4r" title="Päivätär — финский" lang="fi" hreflang="fi" data-title="Päivätär" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/P%C3%A4iv%C3%A4t%C3%A4r_et_Kuutar" title="Päivätär et Kuutar — французский" lang="fr" hreflang="fr" data-title="Päivätär et Kuutar" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8C%A8%EC%9D%B4%EB%B0%B0%ED%83%9C%EB%A5%B4" title="패이배태르 — корейский" lang="ko" hreflang="ko" data-title="패이배태르" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/P%C3%A4iv%C3%A4t%C3%A4r" title="Päivätär — шведский" lang="sv" hreflang="sv" data-title="Päivätär" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%99%BD%E9%9F%A6%E8%BE%BE%E5%B0%94" title="白韦达尔 — китайский" lang="zh" hreflang="zh" data-title="白韦达尔" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5490050#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 18 июля 2025 года в 09:21.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-lrbvd","wgBackendResponseTime":157,"wgPageParseReport":{"limitreport":{"cputime":"0.083","walltime":"0.154","ppvisitednodes":{"value":314,"limit":1000000},"revisionsize":{"value":2716,"limit":2097152},"postexpandincludesize":{"value":17491,"limit":2097152},"templateargumentsize":{"value":158,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3338,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  127.859      1 -total"," 67.59%   86.422      1 Шаблон:Примечания"," 63.37%   81.019      1 Шаблон:Cite_web"," 24.41%   31.214      1 Шаблон:Myth-stub"," 23.22%   29.684      1 Шаблон:Stub-meta"," 22.08%   28.235      1 Шаблон:Ambox","  7.88%   10.079      1 Шаблон:Калевала","  6.60%    8.434      1 Шаблон:Навигационная_таблица","  0.74%    0.941      1 Шаблон:Sp"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"10.000"},"limitreport-memusage":{"value":1843794,"limit":52428800}},"cachereport":{"origin":"mw-api-ext.eqiad.main-6898d7777-q652z","timestamp":"20260212050224","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u043e\u043b\u043d\u0446\u0435 \u0432 \u043a\u0430\u0440\u0435\u043b\u043e-\u0444\u0438\u043d\u0441\u043a\u043e\u0439 \u043c\u0438\u0444\u043e\u043b\u043e\u0433\u0438\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5_%D0%B2_%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5490050","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5490050","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2022-02-06T08:28:48Z","headline":"\u0431\u043e\u0433\u0438\u043d\u044f \u0441\u043e\u043b\u043d\u0446\u0430 \u0432 \u0434\u0440\u0435\u0432\u043d\u0435\u0439 \u0444\u0438\u043d\u0441\u043a\u043e\u0439 \u0440\u0435\u043b\u0438\u0433\u0438\u0438"}</script>
+</body>
+</html>

@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Высшая лига Латвии по футболу 1930 — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"7243429c-9095-4200-822c-5fdb7adb5bda","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Высшая_лига_Латвии_по_футболу_1930","wgTitle":"Высшая лига Латвии по футболу 1930","wgCurRevisionId":149975446,"wgRevisionId":149975446,"wgArticleId":5487852,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Спортивные соревнования по алфавиту","Википедия:Статьи без изображений (страна: Латвия)","Википедия:Статьи без изображений (тип: розыгрыш спортивного турнира)","Незавершённые статьи о футболе","Сезоны чемпионата Латвии по футболу","Футбол в Латвии в 1930 году"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Высшая_лига_Латвии_по_футболу_1930","wgRelevantArticleId":5487852,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149975446,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4014571","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Высшая лига Латвии по футболу 1930 — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Высшая_лига_Латвии_по_футболу_1930 rootpage-Высшая_лига_Латвии_по_футболу_1930 skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Высшая лига Латвии по футболу 1930</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-8fa04372463ed0fb" style="width:25em;" data-name="Сезон спортивного соревнования"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Высшая лига Латвии 1930</th></tr><tr><td colspan="2" class="" style="text-align:center; font-style:italic;"><span data-wikidata-claim-id="Q4014571$5c413a74-42fc-c0d1-a30d-b5913c7f823a" class="wikidata-claim" data-wikidata-property-id="P1705&#91;LANGUAGE!:RU&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латышский язык">латыш.</a> <span lang="lv" style="font-style:italic;">Virslīga 1930</span></span></span></td></tr>
+<tr>
+<th scope="row" class="plainlist">Число&#160;участников</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P1132" class="no-wikidata">7</span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Призовые места</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Победитель</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P1346" class="no-wikidata"><b><a href="/wiki/%D0%A0%D0%B8%D0%B3%D0%B0%D1%81_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0_%D0%BA%D0%BB%D1%83%D0%B1%D1%81" class="mw-redirect" title="Ригас Футбола клубс">Ригас ФК</a></b>&#32;<span class="nowrap">(1-й раз)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Второе место</th>
+<td class="plainlist">
+<a href="/w/index.php?title=%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D1%8F_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9B%D0%B8%D0%B5%D0%BF%D0%B0%D1%8F,_1922)&amp;action=edit&amp;redlink=1" class="new" title="Олимпия (футбольный клуб, Лиепая, 1922) (страница отсутствует)">Олимпия</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Третье место</th>
+<td class="plainlist">
+<a href="/w/index.php?title=%D0%A0%D0%B8%D0%B3%D0%B0_%D0%A3%D0%BE%D0%BD%D0%B4%D0%B5%D1%80%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Рига Уондерер (страница отсутствует)">Рига Уондерер</a></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><style data-mw-deduplicate="TemplateStyles:r117420449">.mw-parser-output .ts-Карточка-хронология{display:flex;align-items:center}.mw-parser-output .ts-Карточка-хронология-prev,.mw-parser-output .ts-Карточка-хронология-next{flex:1;line-height:1.4}.mw-parser-output .ts-Карточка-хронология-prev.is-local:before,.mw-parser-output .ts-Карточка-хронология-prev ul li:before,.mw-parser-output .ts-Карточка-хронология-next.is-local:after,.mw-parser-output .ts-Карточка-хронология-next ul li:after{display:flex;align-items:center;position:absolute;top:0;bottom:0}.mw-parser-output .ts-Карточка-хронология-prev.is-local,.mw-parser-output .ts-Карточка-хронология-prev ul li{padding:.1em .15em .1em 1.5em;position:relative;text-align:left}.mw-parser-output .ts-Карточка-хронология-prev.is-local:before,.mw-parser-output .ts-Карточка-хронология-prev ul li:before{left:.15em;content:"←"}.mw-parser-output .ts-Карточка-хронология-next.is-local,.mw-parser-output .ts-Карточка-хронология-next ul li{padding:.1em 1.5em .1em .15em;position:relative;text-align:right}.mw-parser-output .ts-Карточка-хронология-next.is-local:after,.mw-parser-output .ts-Карточка-хронология-next ul li:after{right:.15em;content:"→"}</style><div class="ts-Карточка-хронология plainlist" aria-label="Хронология"><div class="ts-Карточка-хронология-prev" aria-label="Предыдущий"><ul><li><span class="wikidata-claim" data-wikidata-property-id="P3450" data-wikidata-claim-id="Q4014571$0A4F0624-D66E-4758-A028-40B2B3DFC1C8"><span data-wikidata-hash="1a86bc35a31137ce16cabd86d8f0e7cfc6d05caa" class="wikidata-snak"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1929" title="Высшая лига Латвии по футболу 1929">1929</a></span></span></li></ul></div><div class="ts-Карточка-хронология-next" aria-label="Следующий"><ul><li><span class="wikidata-claim" data-wikidata-property-id="P3450" data-wikidata-claim-id="Q4014571$0A4F0624-D66E-4758-A028-40B2B3DFC1C8"><span data-wikidata-hash="b0336ee92ec6143ffcf34514b457660d040b8b1c" class="wikidata-snak"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1931" title="Высшая лига Латвии по футболу 1931">1931</a></span></span></li></ul></div></div></td></tr>
+</tbody></table>
+<p><b>Чемпиона́т Вы́сшей ли́ги Ла́твии по футбо́лу 1930 го́да </b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латышский язык">латыш.</a> <span lang="lv" style="font-style:italic;">1930. gada Latvijas futbola Virslīgas čempionāts</span>) — 10-й <a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" class="mw-redirect" title="Высшая лига Латвии по футболу">чемпионат Латвии по футболу</a>, четвёртый под названием «Высшая лига».
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Турнирная_таблица"><span id=".D0.A2.D1.83.D1.80.D0.BD.D0.B8.D1.80.D0.BD.D0.B0.D1.8F_.D1.82.D0.B0.D0.B1.D0.BB.D0.B8.D1.86.D0.B0"></span>Турнирная таблица</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Турнирная таблица»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=edit&amp;section=1" title="Редактировать код раздела «Турнирная таблица»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable" style="margin-top: 0.5em;">
+
+<tbody><tr>
+<th scope="col" style="width:2.5em;"><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="Место">М</span>
+</th>
+<th scope="col" style="width:12em;">Команда
+</th>
+<th scope="col" style="width:2.5em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Игры">И</span>
+</th>
+<th scope="col" style="width:2.5em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Выигрыши">В</span>
+</th>
+<th scope="col" style="width:2.5em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Ничьи">Н</span>
+</th>
+<th scope="col" style="width:2.5em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Проигрыши">П</span>
+</th>
+<th scope="col" style="width:4em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Количество забитых и пропущенных мячей">Мячи</span>
+</th>
+<th scope="col" style="width:2.5em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Разница забитых и пропущенных мячей">±</span>
+</th>
+<th scope="col" style="width:2.5em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Очки">О</span>
+</th></tr>
+<tr style="text-align:center;">
+<td>1
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/wiki/%D0%A0%D0%B8%D0%B3%D0%B0%D1%81_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0_%D0%BA%D0%BB%D1%83%D0%B1%D1%81" class="mw-redirect" title="Ригас Футбола клубс">Ригас ФК</a></span>
+</td>
+<td>12
+</td>
+<td>8
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>38<small>&#160;</small>&#8722;<small>&#160;</small>12
+</td>
+<td>+26
+</td>
+<td><b>19</b>
+</td></tr>
+<tr style="text-align:center;">
+<td>2
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/w/index.php?title=%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D1%8F_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9B%D0%B8%D0%B5%D0%BF%D0%B0%D1%8F,_1922)&amp;action=edit&amp;redlink=1" class="new" title="Олимпия (футбольный клуб, Лиепая, 1922) (страница отсутствует)">Олимпия</a></span>
+</td>
+<td>12
+</td>
+<td>8
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>29<small>&#160;</small>&#8722;<small>&#160;</small>12
+</td>
+<td>+17
+</td>
+<td><b>17</b>
+</td></tr>
+<tr style="text-align:center;">
+<td>3
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/w/index.php?title=%D0%A0%D0%B8%D0%B3%D0%B0_%D0%A3%D0%BE%D0%BD%D0%B4%D0%B5%D1%80%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Рига Уондерер (страница отсутствует)">Рига Уондерер</a></span>
+</td>
+<td>12
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>18<small>&#160;</small>&#8722;<small>&#160;</small>15
+</td>
+<td>+3
+</td>
+<td><b>14</b>
+</td></tr>
+<tr style="text-align:center;">
+<td>4
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/w/index.php?title=%D0%AE%D0%BD%D0%B8%D0%BE%D0%BD_%D0%A0%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Юнион Рига (страница отсутствует)">Юнион</a></span>
+</td>
+<td>12
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>4
+</td>
+<td>32<small>&#160;</small>&#8722;<small>&#160;</small>33
+</td>
+<td>&#8722;1
+</td>
+<td><b>11</b>
+</td></tr>
+<tr style="text-align:center;">
+<td>5
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/wiki/%D0%90%D0%A1%D0%9A_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%A0%D0%B8%D0%B3%D0%B0)" class="mw-redirect" title="АСК (футбольный клуб, Рига)">АСК</a></span>
+</td>
+<td>12
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>6
+</td>
+<td>25<small>&#160;</small>&#8722;<small>&#160;</small>21
+</td>
+<td>+4
+</td>
+<td><b>11</b>
+</td></tr>
+<tr style="text-align:center;">
+<td>6
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%82%D0%B8%D0%B5%D1%80%D0%B8%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Аматиерис (страница отсутствует)">Аматиерис</a></span>
+</td>
+<td>12
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>7
+</td>
+<td>13<small>&#160;</small>&#8722;<small>&#160;</small>35
+</td>
+<td>&#8722;22
+</td>
+<td><b>7</b>
+</td></tr>
+<tr style="text-align:center;">
+<td>7
+</td>
+<td style="text-align:left"><span class="nowrap"><a href="/w/index.php?title=%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%D1%81_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0_%D0%B1%D0%B8%D0%B5%D0%B4%D1%80%D0%B8%D0%B1%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Латвияс спорта биедриба (футбольный клуб) (страница отсутствует)">Латвияс спорта биедриба</a></span>
+</td>
+<td>12
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>9
+</td>
+<td>10<small>&#160;</small>&#8722;<small>&#160;</small>37
+</td>
+<td>&#8722;27
+</td>
+<td><b>5</b>
+</td></tr></tbody></table>
+<p><small>И — игры, В — выигрыши, Н — ничьи, П — проигрыши, Мячи — забитые и пропущенные голы, ± — разница голов, О — очки</small><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=edit&amp;section=2" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.rsssf.com/tablesl/lethist.html">История статистики на сайте RSSSF</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111116181156/http://www.rsssf.com/tablesl/lethist.html">Архивная копия</a> от 16 ноября 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Stub-meta plainlinks metadata ambox ambox-style" style="border:0; background:none; color:inherit; margin:0; font-style:italic;"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Soccer_stub.svg" class="mw-file-description"><img alt="Футбольный мяч" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Soccer_stub.svg/40px-Soccer_stub.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Soccer_stub.svg/60px-Soccer_stub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Soccer_stub.svg/120px-Soccer_stub.svg.png 2x" data-file-width="42" data-file-height="42" /></a></span></div></div><div class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a>&#32;о <a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB" title="Футбол">футболе</a>. Помогите Википедии, дополнив её.</div><div class="mbox-textsmall-div hide-when-compact"></div></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Сезоны&#95;чемпионатов&#95;Латвии&#95;по&#95;футболу" data-name="Сезоны чемпионата Латвии по футболу"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD%D1%8B_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Перейти к шаблону «Сезоны чемпионата Латвии по футболу»"><img alt="Перейти к шаблону «Сезоны чемпионата Латвии по футболу»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Сезоны&#95;чемпионатов&#95;Латвии&#95;по&#95;футболу" style="font-size:114%;margin:0 5em">Сезоны чемпионатов Латвии по футболу</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" class="mw-redirect" title="Высшая лига Латвии по футболу">Чемпионат</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><s><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1921" title="Чемпионат Латвии по футболу 1921">1921</a></s></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1922" title="Чемпионат Латвии по футболу 1922">1922</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1923" title="Чемпионат Латвии по футболу 1923">1923</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1924" title="Чемпионат Латвии по футболу 1924">1924</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1925" title="Чемпионат Латвии по футболу 1925">1925</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1926" title="Чемпионат Латвии по футболу 1926">1926</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" class="mw-redirect" title="Высшая лига Латвии по футболу">Высшая лига</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1927" title="Высшая лига Латвии по футболу 1927">1927</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1928" title="Высшая лига Латвии по футболу 1928">1928</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1929" title="Высшая лига Латвии по футболу 1929">1929</a></li>
+<li><a class="mw-selflink selflink">1930</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1931" title="Высшая лига Латвии по футболу 1931">1931</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1932" title="Высшая лига Латвии по футболу 1932">1932</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1933" title="Высшая лига Латвии по футболу 1933">1933</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1934" title="Высшая лига Латвии по футболу 1934">1934</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1935" title="Высшая лига Латвии по футболу 1935">1935</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1936" title="Высшая лига Латвии по футболу 1936">1936</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1937/1938" title="Высшая лига Латвии по футболу 1937/1938">1937/38</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1938/1939" title="Высшая лига Латвии по футболу 1938/1939">1938/39</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1939/1940" title="Высшая лига Латвии по футболу 1939/1940">1939/40</a></li>
+<li><s><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1940/1941" title="Высшая лига Латвии по футболу 1940/1941">1940/41</a></s></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1942" title="Высшая лига Латвии по футболу 1942">1942</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1943" title="Высшая лига Латвии по футболу 1943">1943</a></li>
+<li><s><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1944" title="Высшая лига Латвии по футболу 1944">1944</a></s></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Латвийской ССР по футболу">Латвийская ССР</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><s><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1941" title="Чемпионат Латвийской ССР по футболу 1941">1941</a></s></li>
+<li><span style="color:grey; text-decoration:inherit; text-decoration-color:grey;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Великая Отечественная война">1942</span></span></li>
+<li><span style="color:grey; text-decoration:inherit; text-decoration-color:grey;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Великая Отечественная война">1943</span></span></li>
+<li><span style="color:grey; text-decoration:inherit; text-decoration-color:grey;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Великая Отечественная война">1944</span></span></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1945" title="Чемпионат Латвийской ССР по футболу 1945">1945</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1946" title="Чемпионат Латвийской ССР по футболу 1946">1946</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1947" title="Чемпионат Латвийской ССР по футболу 1947">1947</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1948" title="Чемпионат Латвийской ССР по футболу 1948">1948</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1949" title="Чемпионат Латвийской ССР по футболу 1949">1949</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1950" title="Чемпионат Латвийской ССР по футболу 1950">1950</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1951" title="Чемпионат Латвийской ССР по футболу 1951">1951</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1952" title="Чемпионат Латвийской ССР по футболу 1952">1952</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1953" title="Чемпионат Латвийской ССР по футболу 1953">1953</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1954" title="Чемпионат Латвийской ССР по футболу 1954">1954</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1955" title="Чемпионат Латвийской ССР по футболу 1955">1955</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1956" title="Чемпионат Латвийской ССР по футболу 1956">1956</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1957" title="Чемпионат Латвийской ССР по футболу 1957">1957</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1958" title="Чемпионат Латвийской ССР по футболу 1958">1958</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1959" title="Чемпионат Латвийской ССР по футболу 1959">1959</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1960" title="Чемпионат Латвийской ССР по футболу 1960">1960</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1961" title="Чемпионат Латвийской ССР по футболу 1961">1961</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1962" title="Чемпионат Латвийской ССР по футболу 1962">1962</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1963" title="Чемпионат Латвийской ССР по футболу 1963">1963</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1964" title="Чемпионат Латвийской ССР по футболу 1964">1964</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1965" title="Чемпионат Латвийской ССР по футболу 1965">1965</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1966" title="Чемпионат Латвийской ССР по футболу 1966">1966</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1967" title="Чемпионат Латвийской ССР по футболу 1967">1967</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1968" title="Чемпионат Латвийской ССР по футболу 1968">1968</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1969" title="Чемпионат Латвийской ССР по футболу 1969">1969</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1970" title="Чемпионат Латвийской ССР по футболу 1970">1970</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1971" title="Чемпионат Латвийской ССР по футболу 1971">1971</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1972" title="Чемпионат Латвийской ССР по футболу 1972">1972</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1973" title="Чемпионат Латвийской ССР по футболу 1973">1973</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1974" title="Чемпионат Латвийской ССР по футболу 1974">1974</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1975" title="Чемпионат Латвийской ССР по футболу 1975">1975</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1976" title="Чемпионат Латвийской ССР по футболу 1976">1976</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1977" title="Чемпионат Латвийской ССР по футболу 1977">1977</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1978" title="Чемпионат Латвийской ССР по футболу 1978">1978</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1979" title="Чемпионат Латвийской ССР по футболу 1979">1979</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1980" title="Чемпионат Латвийской ССР по футболу 1980">1980</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1981" title="Чемпионат Латвийской ССР по футболу 1981">1981</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1982" title="Чемпионат Латвийской ССР по футболу 1982">1982</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1983" title="Чемпионат Латвийской ССР по футболу 1983">1983</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1984" title="Чемпионат Латвийской ССР по футболу 1984">1984</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1985" title="Чемпионат Латвийской ССР по футболу 1985">1985</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1986" title="Чемпионат Латвийской ССР по футболу 1986">1986</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1987" title="Чемпионат Латвийской ССР по футболу 1987">1987</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1988" title="Чемпионат Латвийской ССР по футболу 1988">1988</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1989" title="Чемпионат Латвийской ССР по футболу 1989">1989</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1990" title="Чемпионат Латвийской ССР по футболу 1990">1990</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1991" title="Чемпионат Латвийской ССР по футболу 1991">1991</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" class="mw-redirect" title="Высшая лига Латвии по футболу">Высшая лига</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1992" title="Высшая лига Латвии по футболу 1992">1992</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1993" title="Высшая лига Латвии по футболу 1993">1993</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1994" title="Высшая лига Латвии по футболу 1994">1994</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1995" title="Высшая лига Латвии по футболу 1995">1995</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1996" title="Высшая лига Латвии по футболу 1996">1996</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1997" title="Высшая лига Латвии по футболу 1997">1997</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1998" title="Высшая лига Латвии по футболу 1998">1998</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1999" title="Высшая лига Латвии по футболу 1999">1999</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2000" title="Высшая лига Латвии по футболу 2000">2000</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2001" title="Высшая лига Латвии по футболу 2001">2001</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2002" title="Высшая лига Латвии по футболу 2002">2002</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2003" title="Высшая лига Латвии по футболу 2003">2003</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2004" title="Высшая лига Латвии по футболу 2004">2004</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2005" title="Высшая лига Латвии по футболу 2005">2005</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2006" title="Высшая лига Латвии по футболу 2006">2006</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2007" title="Высшая лига Латвии по футболу 2007">2007</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2008" title="Высшая лига Латвии по футболу 2008">2008</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2009" title="Высшая лига Латвии по футболу 2009">2009</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2010" title="Высшая лига Латвии по футболу 2010">2010</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2011" title="Высшая лига Латвии по футболу 2011">2011</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Высшая лига Латвии по футболу 2012">2012</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Высшая лига Латвии по футболу 2013">2013</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2014" title="Высшая лига Латвии по футболу 2014">2014</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2015" title="Высшая лига Латвии по футболу 2015">2015</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Высшая лига Латвии по футболу 2016">2016</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2017" title="Высшая лига Латвии по футболу 2017">2017</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018" title="Высшая лига Латвии по футболу 2018">2018</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2019" title="Высшая лига Латвии по футболу 2019">2019</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2020" title="Высшая лига Латвии по футболу 2020">2020</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2021" title="Высшая лига Латвии по футболу 2021">2021</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2022" title="Высшая лига Латвии по футболу 2022">2022</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2023" title="Высшая лига Латвии по футболу 2023">2023</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2024" title="Высшая лига Латвии по футболу 2024">2024</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2025" title="Высшая лига Латвии по футболу 2025">2025</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Чемпионы&#95;Латвии&#95;по&#95;футболу" data-name="Чемпионы Латвии по футболу"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D1%8B_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Перейти к шаблону «Чемпионы Латвии по футболу»"><img alt="Перейти к шаблону «Чемпионы Латвии по футболу»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Чемпионы&#95;Латвии&#95;по&#95;футболу" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Латвии по футболу">Чемпионы Латвии по футболу</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BA%D0%BE%D0%BD%D1%82%D0%BE_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Сконто (футбольный клуб)">Сконто (Рига)</a> (<b>14</b>)</li>
+<li><a href="/wiki/%D0%A0%D0%B8%D0%B3%D0%B0%D1%81_%D0%A4%D0%9A" title="Ригас ФК">Ригас ФК</a> (<b>8</b>)</li>
+<li><a href="/w/index.php?title=%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D1%8F_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9B%D0%B8%D0%B5%D0%BF%D0%B0%D1%8F,_1922)&amp;action=edit&amp;redlink=1" class="new" title="Олимпия (футбольный клуб, Лиепая, 1922) (страница отсутствует)">Олимпия (Лиепая)</a> (<b>7</b>)</li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BD%D1%82%D1%81%D0%BF%D0%B8%D0%BB%D1%81_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Вентспилс (футбольный клуб)">Вентспилс</a> (<b>6</b>)</li>
+<li><a href="/wiki/%D0%A0%D0%B8%D0%B3%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_2015)" title="Рига (футбольный клуб, 2015)">Рига</a> (<b>4</b>)</li>
+<li><a href="/wiki/%D0%A1%D0%9A%D0%90_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%A0%D0%B8%D0%B3%D0%B0)" title="СКА (футбольный клуб, Рига)">АСК (Рига)</a> (<b>3</b>)</li>
+<li><a href="/wiki/%D0%A0%D0%A4%D0%A8_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="РФШ (футбольный клуб)">РФШ</a> (<b>3</b>)</li>
+<li><a href="/w/index.php?title=%D0%9A%D0%B0%D0%B9%D0%B7%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Кайзервальд (футбольный клуб) (страница отсутствует)">Кайзервальд (Рига)</a> (<b>2</b>)</li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D1%83%D1%80%D0%B3_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9B%D0%B8%D0%B5%D0%BF%D0%B0%D1%8F)" title="Металлург (футбольный клуб, Лиепая)">Металлург (Лиепая)</a> (<b>2</b>)</li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BA_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%AE%D1%80%D0%BC%D0%B0%D0%BB%D0%B0)" title="Спартак (футбольный клуб, Юрмала)">Спартак (Юрмала)</a> (<b>2</b>)</li>
+<li><a href="/wiki/%D0%94%D0%B0%D1%83%D0%B3%D0%B0%D0%B2%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%94%D0%B0%D1%83%D0%B3%D0%B0%D0%B2%D0%BF%D0%B8%D0%BB%D1%81)" title="Даугава (футбольный клуб, Даугавпилс)">Даугава (Даугавпилс)</a> (<b>1</b>)</li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B5%D0%BF%D0%B0%D1%8F_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Лиепая (футбольный клуб)">Лиепая</a> (<b>1</b>)</li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%BC%D0%B8%D0%B5%D1%80%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Валмиера (футбольный клуб)">Валмиера</a> (<b>1</b>)</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Футбол&#95;в&#95;Латвии" data-name="Футбол в Латвии"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8" title="Перейти к шаблону «Футбол в Латвии»"><img alt="Перейти к шаблону «Футбол в Латвии»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Футбол&#95;в&#95;Латвии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8" title="Футбол в Латвии">Футбол в Латвии</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Латвийская футбольная федерация">Латвийская футбольная федерация</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Латвийская футбольная Высшая лига (страница отсутствует)">Латвийская футбольная Высшая лига</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Лиги</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Латвии по футболу">Высшая лига</a>
+<ul><li><small><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%B4%D1%83%D0%B1%D0%BB%D1%91%D1%80%D0%BE%D0%B2_%D0%92%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат дублёров Высшей лиги Латвии по футболу (страница отсутствует)">Чемпионат дублёров Высшей лиги</a></small></li></ul></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Первая лига Латвии по футболу">Первая лига</a></li>
+<li><a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Вторая лига Латвии по футболу">Вторая лига</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Третья лига Латвии по футболу">Третья лига</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Кубки</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Кубок Латвии по футболу">Кубок Латвии</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Суперкубок Латвии по футболу">Суперкубок Латвии</a></li>
+<li><i><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%92%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8" title="Кубок Высшей лиги">Кубок Высшей лиги</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Сборные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dd><a href="/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Сборная Латвии по футболу">Национальная</a>
+<dl><dd><small><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%BE%D0%B9_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Список игроков сборной Латвии по футболу">список игроков</a></small></dd></dl></dd>
+<dd><a href="/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_(%D0%B4%D0%BE_23_%D0%BB%D0%B5%D1%82)" title="Сборная Латвии по футболу (до 23 лет)">Молодёжная (до 23 лет)</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_(%D0%B4%D0%BE_21_%D0%B3%D0%BE%D0%B4%D0%B0)" title="Сборная Латвии по футболу (до 21 года)">Молодёжная (до 21 года)</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_(%D0%B4%D0%BE_19_%D0%BB%D0%B5%D1%82)" title="Сборная Латвии по футболу (до 19 лет)">Юношеская (до 19)</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_(%D0%B4%D0%BE_17_%D0%BB%D0%B5%D1%82)" title="Сборная Латвии по футболу (до 17 лет)">Юношеская (до 17)</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Женщины</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dd><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD" title="Чемпионат Латвии по футболу среди женщин">Женский чемпионат</a></dd>
+<dd><a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Первая лига Латвии по футболу среди женщин (страница отсутствует)">Первая лига</a></dd>
+<dd><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD" title="Кубок Латвии по футболу среди женщин">Кубок Латвии</a></dd>
+<dd><a href="/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Женская сборная Латвии по футболу">Национальная сборная</a>
+<dl><dd><small><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%BE%D0%B9_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Список игроков женской сборной Латвии по футболу (страница отсутствует)">список игроков</a></small></dd></dl></dd>
+<dd><a href="/w/index.php?title=%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D0%BD%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Женская молодёжная сборная Латвии по футболу (страница отсутствует)">Молодёжная сборная</a></dd>
+<dd><a href="/w/index.php?title=%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%8E%D0%BD%D0%BE%D1%88%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Женская юношеская сборная Латвии по футболу (страница отсутствует)">Юношеская сборная</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Награды</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8" title="Футболист года в Латвии">Футболист года</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D1%83%D0%B1%D1%8B_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%B2_%D0%B5%D0%B2%D1%80%D0%BE%D0%BA%D1%83%D0%B1%D0%BA%D0%B0%D1%85" title="Футбольные клубы Латвии в еврокубках">Выступления в еврокубках</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BB%D0%B8%D0%B3_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8" title="Система футбольных лиг Латвии">Система футбольных лиг</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐qn6qc
+Cached time: 20260212102023
+Cache expiry: 1802
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.319 seconds
+Real time usage: 0.434 seconds
+Preprocessor visited node count: 2419/1000000
+Revision size: 2285/2097152 bytes
+Post‐expand include size: 86257/2097152 bytes
+Template argument size: 11050/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7124/5000000 bytes
+Lua time usage: 0.161/10.000 seconds
+Lua memory usage: 5047529/52428800 bytes
+Number of Wikibase entities loaded: 6/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  375.980      1 -total
+ 58.88%  221.383      1 Шаблон:Сезон_спортивного_соревнования
+ 51.84%  194.912      1 Шаблон:Карточка
+ 26.68%  100.293      5 Шаблон:Wikidata
+ 16.20%   60.916      1 Шаблон:Карточка/оригинал_названия
+ 15.56%   58.508     33 Шаблон:Replace
+ 12.87%   48.385      1 Шаблон:Soccer-stub
+ 11.91%   44.771      1 Шаблон:Stub-meta
+ 11.40%   42.878     11 Шаблон:Comment
+ 11.29%   42.464      1 Шаблон:Ambox
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:5487852:|#|:idhash:canonical and timestamp 20260212102023 and revision id 149975446. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Высшая_лига_Латвии_по_футболу_1930&amp;oldid=149975446">https://ru.wikipedia.org/w/index.php?title=Высшая_лига_Латвии_по_футболу_1930&amp;oldid=149975446</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD%D1%8B_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Категория:Сезоны чемпионата Латвии по футболу">Сезоны чемпионата Латвии по футболу</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%B2_1930_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Футбол в Латвии в 1930 году">Футбол в Латвии в 1930 году</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Спортивные соревнования по алфавиту">Спортивные соревнования по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0:_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F)" title="Категория:Википедия:Статьи без изображений (страна: Латвия)">Википедия:Статьи без изображений (страна: Латвия)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%80%D0%BE%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D1%88_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80%D0%B0)" title="Категория:Википедия:Статьи без изображений (тип: розыгрыш спортивного турнира)">Википедия:Статьи без изображений (тип: розыгрыш спортивного турнира)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5" title="Категория:Незавершённые статьи о футболе">Незавершённые статьи о футболе</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F+%D0%BB%D0%B8%D0%B3%D0%B0+%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8+%D0%BF%D0%BE+%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83+1930" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F+%D0%BB%D0%B8%D0%B3%D0%B0+%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8+%D0%BF%D0%BE+%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83+1930" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;oldid=149975446" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;id=149975446&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D1%258B%25D1%2581%25D1%2588%25D0%25B0%25D1%258F_%25D0%25BB%25D0%25B8%25D0%25B3%25D0%25B0_%25D0%259B%25D0%25B0%25D1%2582%25D0%25B2%25D0%25B8%25D0%25B8_%25D0%25BF%25D0%25BE_%25D1%2584%25D1%2583%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%25D1%2583_1930"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D1%258B%25D1%2581%25D1%2588%25D0%25B0%25D1%258F_%25D0%25BB%25D0%25B8%25D0%25B3%25D0%25B0_%25D0%259B%25D0%25B0%25D1%2582%25D0%25B2%25D0%25B8%25D0%25B8_%25D0%25BF%25D0%25BE_%25D1%2584%25D1%2583%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%25D1%2583_1930"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4014571" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%89_%D8%A7%D9%84%D9%84%D8%A7%D8%AA%D9%81%D9%89_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2_1930" title="الدورى اللاتفى الممتاز 1930 — Egyptian Arabic" lang="arz" hreflang="arz" data-title="الدورى اللاتفى الممتاز 1930" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Virsl%C4%ABga_1930" title="Virslīga 1930 — немецкий" lang="de" hreflang="de" data-title="Virslīga 1930" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/1930_Latvian_Higher_League" title="1930 Latvian Higher League — английский" lang="en" hreflang="en" data-title="1930 Latvian Higher League" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Virsl%C4%ABga_1930" title="Virslīga 1930 — итальянский" lang="it" hreflang="it" data-title="Virslīga 1930" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/1930._gada_Latvijas_futbola_Virsl%C4%ABgas_sezona" title="1930. gada Latvijas futbola Virslīgas sezona — латышский" lang="lv" hreflang="lv" data-title="1930. gada Latvijas futbola Virslīgas sezona" data-language-autonym="Latviešu" data-language-local-name="латышский" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Virsl%C4%ABga_1930" title="Virslīga 1930 — нидерландский" lang="nl" hreflang="nl" data-title="Virslīga 1930" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4014571#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 ноября 2025 года в 13:59.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-qn6qc","wgBackendResponseTime":612,"wgPageParseReport":{"limitreport":{"cputime":"0.319","walltime":"0.434","ppvisitednodes":{"value":2419,"limit":1000000},"revisionsize":{"value":2285,"limit":2097152},"postexpandincludesize":{"value":86257,"limit":2097152},"templateargumentsize":{"value":11050,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7124,"limit":5000000},"entityaccesscount":{"value":6,"limit":500},"timingprofile":["100.00%  375.980      1 -total"," 58.88%  221.383      1 Шаблон:Сезон_спортивного_соревнования"," 51.84%  194.912      1 Шаблон:Карточка"," 26.68%  100.293      5 Шаблон:Wikidata"," 16.20%   60.916      1 Шаблон:Карточка/оригинал_названия"," 15.56%   58.508     33 Шаблон:Replace"," 12.87%   48.385      1 Шаблон:Soccer-stub"," 11.91%   44.771      1 Шаблон:Stub-meta"," 11.40%   42.878     11 Шаблон:Comment"," 11.29%   42.464      1 Шаблон:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.161","limit":"10.000"},"limitreport-memusage":{"value":5047529,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P1132 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1346 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-qn6qc","timestamp":"20260212102023","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0412\u044b\u0441\u0448\u0430\u044f \u043b\u0438\u0433\u0430 \u041b\u0430\u0442\u0432\u0438\u0438 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443 1930","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1930","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4014571","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4014571","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-03-09T12:30:33Z"}</script>
+</body>
+</html>

@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Чемпионат Польши по баскетболу — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"b3634eb2-46c6-4bf9-9649-3b83040105ca","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Чемпионат_Польши_по_баскетболу","wgTitle":"Чемпионат Польши по баскетболу","wgCurRevisionId":151036101,"wgRevisionId":151036101,"wgArticleId":4084700,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Соревнования по баскетболу в Польше","Национальные баскетбольные чемпионаты Европы"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Чемпионат_Польши_по_баскетболу","wgRelevantArticleId":4084700,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":151036101,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2120378","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.tablesorter.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Чемпионат Польши по баскетболу — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Чемпионат_Польши_по_баскетболу rootpage-Чемпионат_Польши_по_баскетболу skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Чемпионат Польши по баскетболу</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-e0cc2330c144e104" style="" data-name="Карточка баскетбольной лиги"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:#eaecf0;">Energa Basket Liga</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Current_basketball.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Current_basketball.svg/40px-Current_basketball.svg.png" decoding="async" width="40" height="26" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Current_basketball.svg/60px-Current_basketball.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Current_basketball.svg/120px-Current_basketball.svg.png 2x" data-file-width="625" data-file-height="400" /></a></span> <b>Текущий сезон:</b><br /><i><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2023/2024&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Польши по баскетболу 2023/2024 (страница отсутствует)">Чемпионат Польши по баскетболу 2023/2024</a></i></td></tr>
+<tr>
+<th scope="row" class="plainlist">Вид спорта</th>
+<td class="plainlist">
+Баскетбол</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Основана</th>
+<td class="plainlist">
+<a href="/wiki/1995_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B5" title="1995 год в спорте">1995</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Количество команд</th>
+<td class="plainlist">
+16</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<span class="nowrap" data-sort-value="Польша"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/40px-Flag_of_Poland.svg.png" decoding="async" width="22" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/60px-Flag_of_Poland.svg.png 2x" data-file-width="640" data-file-height="400" /></span></span></span>&#160;<a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0" title="Польша"><span class="wrap">Польша</span></a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Последний чемпион</th>
+<td class="plainlist">
+<a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B8%D1%8F_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Легия (баскетбольный клуб) (страница отсутствует)">Легия</a> (8)</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Больше всего титулов</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a> (18)</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">ТВ партнер(ы)</th>
+<td class="plainlist">
+<a href="/wiki/Polsat_Sport" title="Polsat Sport">Polsat Sport</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Родственные соревнования</th>
+<td class="plainlist">
+<a href="/w/index.php?title=%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Кубок Польши по баскетболу (страница отсутствует)">Кубок Польши</a><br /><a href="/w/index.php?title=%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Суперкубок Польши по баскетболу (страница отсутствует)">Суперкубок Польши</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Официальный сайт</th>
+<td class="plainlist">
+plk.pl</td>
+</tr>
+</tbody></table>
+<p><b>Чемпионат Польши по баскетболу</b> (<a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Польский язык">пол.</a> <span lang="pl" style="font-style:italic;">Polska Liga Koszykówki</span>)&#160;— профессиональная мужская клубная баскетбольная лига в Польше. Является высшим дивизионом системы баскетбольных лиг Польши.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Чемпионы"><span id=".D0.A7.D0.B5.D0.BC.D0.BF.D0.B8.D0.BE.D0.BD.D1.8B"></span>Чемпионы</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Чемпионы»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;section=1" title="Редактировать код раздела «Чемпионы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Год</th>
+<th>Чемпион</th>
+<th>Серия</th>
+<th>Финалист
+</th></tr>
+<tr>
+<td>2025</td>
+<td><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B8%D1%8F_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Легия (баскетбольный клуб) (страница отсутствует)">Легия</a></td>
+<td>4-3</td>
+<td><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%80%D1%82_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Старт (баскетбольный клуб) (страница отсутствует)">Старт</a>
+</td></tr>
+<tr>
+<td>2024</td>
+<td><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%84%D0%BB_%D0%A1%D0%BE%D0%BF%D0%BE%D1%82" title="Трефл Сопот">Трефл Сопот</a></td>
+<td>4-3</td>
+<td><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BA%D0%B8_%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%A9%D0%B5%D1%86%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Вилки Морские Щецин (страница отсутствует)">Вилки Морские Щецин</a>
+</td></tr>
+<tr>
+<td>2023</td>
+<td><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BA%D0%B8_%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%A9%D0%B5%D1%86%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Вилки Морские Щецин (страница отсутствует)">Вилки Морские Щецин</a></td>
+<td>4-2</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a>
+</td></tr>
+<tr>
+<td>2022</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a></td>
+<td>4-1</td>
+<td><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B8%D1%8F_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Легия (баскетбольный клуб) (страница отсутствует)">Легия</a>
+</td></tr>
+<tr>
+<td>2021</td>
+<td><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D0%BB%D1%8C_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Сталь Остров (баскетбольный клуб) (страница отсутствует)">Сталь Остров</a></td>
+<td>4-2</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a>
+</td></tr>
+<tr>
+<td>2020</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a></td>
+<td>—</td>
+<td><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%80%D1%82_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Старт (баскетбольный клуб) (страница отсутствует)">Старт</a>
+</td></tr>
+<tr>
+<td>2019</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a></td>
+<td>4-3</td>
+<td><a href="/w/index.php?title=%D0%A2%D0%BE%D1%80%D1%83%D0%BD%D1%8C_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Торунь (баскетбольный клуб) (страница отсутствует)">Торунь</a>
+</td></tr>
+<tr>
+<td>2018</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a></td>
+<td>4-2</td>
+<td><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D0%BB%D1%8C_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Сталь Остров (баскетбольный клуб) (страница отсутствует)">Сталь Остров</a>
+</td></tr>
+<tr>
+<td>2017</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a></td>
+<td>4-1</td>
+<td><a href="/w/index.php?title=%D0%A2%D0%BE%D1%80%D1%83%D0%BD%D1%8C_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Торунь (баскетбольный клуб) (страница отсутствует)">Торунь</a>
+</td></tr>
+<tr>
+<td>2016</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a></td>
+<td>4-0</td>
+<td><a href="/w/index.php?title=%D0%A0%D0%B0%D0%B4%D0%BE%D0%BC_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Радом (баскетбольный клуб) (страница отсутствует)">Роза Радом</a>
+</td></tr>
+<tr>
+<td>2015</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a></td>
+<td>4-2</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a>
+</td></tr>
+<tr>
+<td>2014</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a></td>
+<td>4-2</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a>
+</td></tr>
+<tr>
+<td>2013</td>
+<td><a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0-%D0%93%D1%83%D1%80%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Зелёна-Гура (баскетбольный клуб)">Зелёна-Гура</a></td>
+<td>4-0</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a>
+</td></tr>
+<tr>
+<td>2012</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-3</td>
+<td><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%84%D0%BB_%D0%A1%D0%BE%D0%BF%D0%BE%D1%82" title="Трефл Сопот">Трефл Сопот</a>
+</td></tr>
+<tr>
+<td>2011</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-3</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a>
+</td></tr>
+<tr>
+<td>2010</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-0</td>
+<td>Анвил
+</td></tr>
+<tr>
+<td>2009</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a>
+</td></tr>
+<tr>
+<td>2008</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-3</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a>
+</td></tr>
+<tr>
+<td>2007</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Турув (баскетбольный клуб)">Турув</a>
+</td></tr>
+<tr>
+<td>2006</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a>
+</td></tr>
+<tr>
+<td>2005</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-2</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a>
+</td></tr>
+<tr>
+<td>2004</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a>
+</td></tr>
+<tr>
+<td>2003</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a></td>
+<td>4-2</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a>
+</td></tr>
+<tr>
+<td>2002</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Арка (баскетбольный клуб)">Проком</a>
+</td></tr>
+<tr>
+<td>2001</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a>
+</td></tr>
+<tr>
+<td>2000</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a></td>
+<td>4-1</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a>
+</td></tr>
+<tr>
+<td>1999</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a></td>
+<td>4-3</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B8%D0%BB_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Анвил (баскетбольный клуб)">Анвил</a>
+</td></tr>
+<tr>
+<td>1998</td>
+<td><a href="/wiki/%D0%A8%D0%BB%D1%91%D0%BD%D1%81%D0%BA_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Шлёнск (баскетбольный клуб)">Шлёнск</a></td>
+<td>4-3</td>
+<td><a href="/w/index.php?title=%D0%9F%D1%80%D1%83%D1%88%D0%BA%D0%BE%D0%B2_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)&amp;action=edit&amp;redlink=1" class="new" title="Прушков (баскетбольный клуб) (страница отсутствует)">Прушков</a>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;section=2" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.plk.pl/">Официальный сайт лиги</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Лучший&#95;тренер&#95;чемпионата&#95;Польши&#95;по&#95;баскетболу" data-name="Лучший тренер чемпионата Польши по баскетболу"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="background:#E21E13; color:white; border:#E21E13;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%82%D1%80%D0%B5%D0%BD%D0%B5%D1%80_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Перейти к шаблону «Лучший тренер чемпионата Польши по баскетболу»"><img alt="Перейти к шаблону «Лучший тренер чемпионата Польши по баскетболу»" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/20px-Wikipedia_interwiki_section_gear_icon_white.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/40px-Wikipedia_interwiki_section_gear_icon_white.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Лучший&#95;тренер&#95;чемпионата&#95;Польши&#95;по&#95;баскетболу" style="font-size:114%;margin:0 5em">Лучший тренер <style data-mw-deduplicate="TemplateStyles:r148124727">.mw-parser-output .ts-colored-link[style] a{color:inherit;text-decoration:underline}</style><span class="ts-colored-link" style="color:white"><a class="mw-selflink selflink">чемпионата Польши по баскетболу</a></span></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><small>2006</small> <a href="/w/index.php?title=%D0%9A%D0%B8%D0%B4%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8,_%D0%AD%D1%83%D0%B3%D0%B5%D0%BD%D0%B8%D1%83%D1%88&amp;action=edit&amp;redlink=1" class="new" title="Киджевски, Эугениуш (страница отсутствует)">Киджевски</a></li>
+<li><small>2007</small> <a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BE%D0%B2%D1%81%D0%BA%D0%B8,_%D0%A1%D0%B0%D1%88%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Филиповски, Сашо (страница отсутствует)">Филиповски</a></li>
+<li><small>2008</small> <a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BE%D0%B2%D1%81%D0%BA%D0%B8,_%D0%A1%D0%B0%D1%88%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Филиповски, Сашо (страница отсутствует)">Филиповски</a></li>
+<li><small>2010</small> <a href="/w/index.php?title=%D0%91%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D0%B2%D0%B8%D1%87,_%D0%9C%D0%B8%D0%BB%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Богичевич, Милия (страница отсутствует)">Богичевич</a></li>
+<li><small>2011</small> <a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9,_%D0%AF%D1%86%D0%B5%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Винницкий, Яцек (страница отсутствует)">Винницкий</a></li>
+<li><small>2012</small> <a href="/w/index.php?title=%D0%A3%D0%B2%D0%B0%D0%BB%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Увалин, Михайло (страница отсутствует)">Увалин</a></li>
+<li><small>2013</small> <a href="/w/index.php?title=%D0%A3%D0%B2%D0%B0%D0%BB%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Увалин, Михайло (страница отсутствует)">Увалин</a></li>
+<li><small>2014</small> <a href="/w/index.php?title=%D0%A0%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D0%B8%D1%87,_%D0%9C%D0%B8%D0%BE%D0%B4%D1%80%D0%B0%D0%B3&amp;action=edit&amp;redlink=1" class="new" title="Райкович, Миодраг (страница отсутствует)">Райкович</a></li>
+<li><small>2015</small> <a href="/w/index.php?title=%D0%9A%D0%B0%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BE%D0%B9%D1%86%D0%B5%D1%85&amp;action=edit&amp;redlink=1" class="new" title="Каминский, Войцех (страница отсутствует)">Каминский</a></li>
+<li><small>2016</small> <a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BE%D0%B2%D1%81%D0%BA%D0%B8,_%D0%A1%D0%B0%D1%88%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Филиповски, Сашо (страница отсутствует)">Филиповски</a></li>
+<li><small>2017</small> <a href="/w/index.php?title=%D0%9C%D0%B8%D0%BB%D0%B8%D1%87%D0%B8%D1%87,_%D0%98%D0%B3%D0%BE%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Миличич, Игор (страница отсутствует)">Миличич</a></li>
+<li><small>2018</small> <a href="/w/index.php?title=%D0%9C%D0%B8%D1%85%D0%B5%D0%B2%D1%86,_%D0%94%D0%B5%D1%8F%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Михевц, Деян (страница отсутствует)">Михевц</a></li>
+<li><small>2019</small> <a href="/w/index.php?title=%D0%A4%D1%80%D0%B0%D1%81%D1%83%D0%BD%D0%BA%D0%B5%D0%B2%D0%B8%D1%87,_%D0%9F%D1%88%D0%B5%D0%BC%D1%8B%D1%81%D0%BB%D0%B0%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Фрасункевич, Пшемыслав (страница отсутствует)">Фрасункевич</a></li>
+<li><small>2021</small> <a href="/wiki/%D0%A2%D0%B0%D0%B1%D0%B0%D0%BA,_%D0%96%D0%B0%D0%BD" title="Табак, Жан">Табак</a></li>
+<li><small>2022</small> <a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BD%D0%B0%D1%83%D1%81%D0%BA%D0%B8%D1%81,_%D0%9C%D0%B0%D0%BD%D1%82%D0%B0%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Чеснаускис, Мантас (страница отсутствует)">Чеснаускис</a></li>
+<li><small>2023</small> <a href="/w/index.php?title=%D0%9C%D0%B8%D0%BB%D0%BE%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D1%83%D1%88&amp;action=edit&amp;redlink=1" class="new" title="Милошевский, Аркадиуш (страница отсутствует)">Милошевский</a></li>
+<li><small>2024</small> <a href="/w/index.php?title=%D0%A4%D1%80%D0%B0%D1%81%D1%83%D0%BD%D0%BA%D0%B5%D0%B2%D0%B8%D1%87,_%D0%9F%D1%88%D0%B5%D0%BC%D1%8B%D1%81%D0%BB%D0%B0%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Фрасункевич, Пшемыслав (страница отсутствует)">Фрасункевич</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Мужские&#95;профессиональные&#95;баскетбольные&#95;лиги" data-name="Мужские профессиональные баскетбольные лиги"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="background:#ffcb6b;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BB%D0%B8%D0%B3%D0%B8" title="Перейти к шаблону «Мужские профессиональные баскетбольные лиги»"><img alt="Перейти к шаблону «Мужские профессиональные баскетбольные лиги»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Мужские&#95;профессиональные&#95;баскетбольные&#95;лиги" style="font-size:114%;margin:0 5em">Мужские профессиональные баскетбольные лиги</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#ffcb6b;">Мировые</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;border: none;"><tbody><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%A4%D0%98%D0%91%D0%90" title="Межконтинентальный кубок ФИБА">Межконтинентальный кубок ФИБА</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#ffcb6b;">Азия</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;border: none;"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Индонезии по баскетболу (страница отсутствует)">Индонезия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D1%80%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Ирана по баскетболу (страница отсутствует)">Иран</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Чемпионат Казахстана по баскетболу среди мужчин">Казахстан</a></li>
+<li>Китай (<a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Китайская баскетбольная ассоциация">КБА</a></li>
+<li><i><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_(%D0%9A%D0%B8%D1%82%D0%B0%D0%B9)" title="Национальная баскетбольная лига (Китай)">НБЛ</a></i>)</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Ливана по баскетболу">Ливан</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Малайзии по баскетболу (страница отсутствует)">Малайзия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Сирии по баскетболу">Сирия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8F_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Тайваня по баскетболу">Тайвань</a></li>
+<li>Филиппины (<a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Филиппинская баскетбольная ассоциация">ФБА</a></li>
+<li><i><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Филиппинская баскетбольная лига (страница отсутствует)">ФБЛ</a></i>)</li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%BE%D1%80%D0%B5%D1%8F_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Республики Корея по баскетболу (страница отсутствует)">Республика Корея</a></li>
+<li>Япония (<a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Японии по баскетболу">B.лига</a></li>
+<li><i><a href="/w/index.php?title=Bj_%D0%BB%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Bj лига (страница отсутствует)">bj лига</a></i></li>
+<li><i><a href="/w/index.php?title=%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Японская баскетбольная бига (страница отсутствует)">ЯБЛ</a></i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Континентальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A4%D0%98%D0%91%D0%90_%D0%90%D0%B7%D0%B8%D1%8F" title="Кубок чемпионов ФИБА Азия">Кубок чемпионов ФИБА Азия</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Региональные</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%90%D0%A1%D0%95%D0%90%D0%9D" title="Баскетбольная лига АСЕАН">Баскетбольная лига АСЕАН</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%97%D0%90%D0%91%D0%90" title="Кубок чемпионов ЗАБА">Кубок чемпионов ЗАБА</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#ffcb6b;">Америка</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;border: none;"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>США (<b><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Национальная баскетбольная ассоциация">НБА</a></b></li>
+<li><i><a href="/wiki/%D0%94%D0%B6%D0%B8-%D0%9B%D0%B8%D0%B3%D0%B0_%D0%9D%D0%91%D0%90" title="Джи-Лига НБА">Джи-Лига НБА</a></i></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0" title="Первая баскетбольная лига">ПБЛ</a>)</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Аргентины по баскетболу">Аргентина</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Бразилии по баскетболу">Бразилия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Венесуэлы по баскетболу (страница отсутствует)">Венесуэла</a></li>
+<li><a href="/w/index.php?title=%D0%9D%D0%91%D0%9B_(%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="НБЛ (Канада) (страница отсутствует)">Канада</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Колумбии по баскетболу (страница отсутствует)">Колумбия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Мексики по баскетболу (страница отсутствует)">Мексика</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Парагвая по баскетболу (страница отсутствует)">Парагвай</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D1%83%D1%8D%D1%80%D1%82%D0%BE-%D0%A0%D0%B8%D0%BA%D0%BE_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Пуэрто-Рико по баскетболу">Пуэрто-Рико</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A3%D1%80%D1%83%D0%B3%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Уругвая по баскетболу">Уругвай</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A7%D0%B8%D0%BB%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Чили по баскетболу (страница отсутствует)">Чили</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Континентальные</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%A4%D0%98%D0%91%D0%90_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Лига ФИБА Америка">Лига ФИБА Америка</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D0%B8%D0%B3%D0%B0_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Лига чемпионов Америка (баскетбол) (страница отсутствует)">Лига чемпионов Америка</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Региональные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%AE%D0%B6%D0%BD%D0%BE%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Южноамериканская баскетбольная лига (страница отсутствует)">Южноамериканская лига</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Клубный баскетбольный чемпионат Южной Америки (страница отсутствует)">Чемпионат Южной Америки</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#ffcb6b;">Африка</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;border: none;"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%BB%D0%B6%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Алжира по баскетболу (страница отсутствует)">Алжир</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%93%D0%B0%D0%B1%D0%BE%D0%BD%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Габона по баскетболу">Габон</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B8%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Ливии по баскетболу">Ливия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Марокко по баскетболу">Марокко</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%BE%D0%B7%D0%B0%D0%BC%D0%B1%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Мозамбика по баскетболу">Мозамбик</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Нигерии по баскетболу">Нигерия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%AE%D0%90%D0%A0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат ЮАР по баскетболу (страница отсутствует)">ЮАР</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Континентальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A4%D0%98%D0%91%D0%90_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Кубок чемпионов ФИБА Африка">Кубок чемпионов ФИБА Африка</a></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#ffcb6b;">Европа</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;border: none;"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Австрии по баскетболу">Австрия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Азербайджана по баскетболу (страница отсутствует)">Азербайджан</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Чемпионат Албании по баскетболу среди мужчин">Албания</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Андорры по баскетболу (страница отсутствует)">Андорра</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Армении по баскетболу">Армения</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Беларуси по баскетболу">Беларусь</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Бельгии по баскетболу">Бельгия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Болгарии по баскетболу">Болгария</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D0%B8_%D0%B8_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Боснии и Герцеговины по баскетболу (страница отсутствует)">Босния и Герцеговина</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Венгрии по баскетболу (страница отсутствует)">Венгрия</a></li>
+<li><a href="/w/index.php?title=%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Британская баскетбольная лига (страница отсутствует)">Великобритания</a>
+<ul><li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Англии по баскетболу (страница отсутствует)">Англия</a>, <a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A3%D1%8D%D0%BB%D1%8C%D1%81%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Уэльса по баскетболу (страница отсутствует)">Уэльс</a>, <a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Шотландии по баскетболу (страница отсутствует)">Шотландия</a></li></ul></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Германии по баскетболу">Германия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Греции по баскетболу">Греция</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Грузии по баскетболу">Грузия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Дании по баскетболу (страница отсутствует)">Дания</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Израиля по баскетболу">Израиль</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Ирландии по баскетболу (страница отсутствует)">Ирландия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Исландии по баскетболу (страница отсутствует)">Исландия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Испании по баскетболу">Испания</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Италии по баскетболу">Италия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Чемпионат Казахстана по баскетболу среди мужчин">Казахстан</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Кипра по баскетболу (страница отсутствует)">Кипр</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BB%D0%B8%D0%B3%D0%B0" title="Косоварская Баскетбольная Суперлига">Косово</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Латвии по баскетболу">Латвия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D0%B8%D1%82%D0%B2%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Литвы по баскетболу">Литва</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Люксембурга по баскетболу (страница отсутствует)">Люксембург</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Мальты по баскетболу (страница отсутствует)">Мальта</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Молдовы по баскетболу (страница отсутствует)">Молдова</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Нидерландов по баскетболу (страница отсутствует)">Нидерланды</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Норвегии по баскетболу (страница отсутствует)">Норвегия</a></li>
+<li><a class="mw-selflink selflink">Польша</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Португалии по баскетболу (страница отсутствует)">Португалия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Румынии по баскетболу">Румыния</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0" title="Профессиональная баскетбольная лига">Россия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Сан-Марино по баскетболу (страница отсутствует)">Сан-Марино</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Северной Македонии по баскетболу">Северная Македония</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Сербии по баскетболу">Сербия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Словакии по баскетболу (страница отсутствует)">Словакия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Словении по баскетболу">Словения</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Турции по баскетболу">Турция</a></li>
+<li><a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BB%D0%B8%D0%B3%D0%B0" title="Украинская баскетбольная Суперлига">Украина</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A4%D0%B0%D1%80%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Фарерских островов по баскетболу (страница отсутствует)">Фарерские острова</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Финляндии по баскетболу">Финляндия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Франции по баскетболу">Франция</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Хорватии по баскетболу">Хорватия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Чемпионат Черногории по баскетболу среди мужчин">Черногория</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A7%D0%B5%D1%85%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Чехии по баскетболу">Чехия</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Швейцарии по баскетболу (страница отсутствует)">Швейцария</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Швеции по баскетболу">Швеция</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Эстонии по баскетболу">Эстония</a></li></ul>
+<ul><li><i>бывшие:</i> <a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%93%D0%94%D0%A0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат ГДР по баскетболу (страница отсутствует)">ГДР</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%A1%D0%A1%D0%A0_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Чемпионат СССР по баскетболу среди мужчин">СССР</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Германии по баскетболу">ФРГ</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A7%D0%B5%D1%85%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83#Чемпионы_Чехословакии" title="Чемпионат Чехии по баскетболу">Чехословакия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Югославии по баскетболу">Югославия</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D0%B8_%D0%B8_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Сербии и Черногории по баскетболу">Сербия и Черногория</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Континентальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BB%D0%B8%D0%B3%D0%B0_(%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB)" title="Евролига (баскетбол)">Евролига</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Кубок Европы по баскетболу">Еврокубок</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A4%D0%98%D0%91%D0%90" title="Лига чемпионов ФИБА">Лига чемпионов ФИБА</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A4%D0%98%D0%91%D0%90_(%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D1%8B)" title="Кубок Европы ФИБА (мужчины)">Кубка Европы ФИБА</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#e0e0e0; width:38px; border-bottom: 1px solid #f9f9f9;">Региональные</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_ABA" title="Лига ABA">Адриатическая лига</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0" title="Балканская лига">Балканская лига</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0" title="Балтийская баскетбольная лига">Балтийская лига</a></li>
+<li><a href="/wiki/NBA_Europe_Live_Tour" class="mw-redirect" title="NBA Europe Live Tour">NBA Europe Live Tour</a></li>
+<li><a href="/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%92%D0%A2%D0%91" title="Единая лига ВТБ">Единая лига ВТБ</a></li>
+<li><a href="/w/index.php?title=%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Центральная Европейская баскетбольная лига (страница отсутствует)">Центральная Европейская баскетбольная лига</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background:#ffcb6b;">Океания</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_(%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Национальная баскетбольная лига (Австралия) (страница отсутствует)">Австралия</a></li>
+<li><a href="/w/index.php?title=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_(%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Национальная баскетбольная лига (Новая Зеландия) (страница отсутствует)">Новая Зеландия</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐pc8sf
+Cached time: 20260212102124
+Cache expiry: 1802
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.171 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 894/1000000
+Revision size: 6098/2097152 bytes
+Post‐expand include size: 91673/2097152 bytes
+Template argument size: 2625/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 196/5000000 bytes
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 3263624/52428800 bytes
+Number of Wikibase entities loaded: 2/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  186.588      1 -total
+ 67.31%  125.596      1 Шаблон:Карточка_баскетбольной_лиги
+ 65.63%  122.458      1 Шаблон:Карточка
+ 41.37%   77.193      1 Шаблон:Wikidata
+ 32.51%   60.660      7 Шаблон:Навигационная_таблица
+ 17.32%   32.316      1 Шаблон:Лучший_тренер_чемпионата_Польши_по_баскетболу
+ 13.53%   25.239      1 Шаблон:Мужские_профессиональные_баскетбольные_лиги
+  6.30%   11.758      1 Шаблон:Colored_link
+  5.06%    9.434      2 Шаблон:Цвет
+  4.52%    8.432      1 Шаблон:POL
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:4084700:|#|:idhash:canonical and timestamp 20260212102124 and revision id 151036101. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Чемпионат_Польши_по_баскетболу&amp;oldid=151036101">https://ru.wikipedia.org/w/index.php?title=Чемпионат_Польши_по_баскетболу&amp;oldid=151036101</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83_%D0%B2_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B5" title="Категория:Соревнования по баскетболу в Польше">Соревнования по баскетболу в Польше</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B" title="Категория:Национальные баскетбольные чемпионаты Европы">Национальные баскетбольные чемпионаты Европы</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8+%D0%BF%D0%BE+%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8+%D0%BF%D0%BE+%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;oldid=151036101" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;id=151036101&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A7%25D0%25B5%25D0%25BC%25D0%25BF%25D0%25B8%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2582_%25D0%259F%25D0%25BE%25D0%25BB%25D1%258C%25D1%2588%25D0%25B8_%25D0%25BF%25D0%25BE_%25D0%25B1%25D0%25B0%25D1%2581%25D0%25BA%25D0%25B5%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%25D1%2583"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A7%25D0%25B5%25D0%25BC%25D0%25BF%25D0%25B8%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2582_%25D0%259F%25D0%25BE%25D0%25BB%25D1%258C%25D1%2588%25D0%25B8_%25D0%25BF%25D0%25BE_%25D0%25B1%25D0%25B0%25D1%2581%25D0%25BA%25D0%25B5%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%25D1%2583"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Polska_Liga_Koszyk%C3%B3wki" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2120378" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%8A_%D9%84%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%A9" title="الدوري البولندي لكرة السلة — арабский" lang="ar" hreflang="ar" data-title="الدوري البولندي لكرة السلة" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A7%D1%8D%D0%BC%D0%BF%D1%96%D1%8F%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D1%87%D1%8B_%D0%BF%D0%B0_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D0%B5" title="Чэмпіянат Польшчы па баскетболе — белорусский" lang="be" hreflang="be" data-title="Чэмпіянат Польшчы па баскетболе" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Lliga_polonesa_de_b%C3%A0squet" title="Lliga polonesa de bàsquet — каталанский" lang="ca" hreflang="ca" data-title="Lliga polonesa de bàsquet" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Polska_Liga_Koszyk%C3%B3wki" title="Polska Liga Koszykówki — немецкий" lang="de" hreflang="de" data-title="Polska Liga Koszykówki" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CF%89%CF%84%CE%AC%CE%B8%CE%BB%CE%B7%CE%BC%CE%B1_%CE%BA%CE%B1%CE%BB%CE%B1%CE%B8%CE%BF%CF%83%CF%86%CE%B1%CE%AF%CF%81%CE%B9%CF%83%CE%B7%CF%82_%CE%A0%CE%BF%CE%BB%CF%89%CE%BD%CE%AF%CE%B1%CF%82" title="Πρωτάθλημα καλαθοσφαίρισης Πολωνίας — греческий" lang="el" hreflang="el" data-title="Πρωτάθλημα καλαθοσφαίρισης Πολωνίας" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Polish_Basketball_League" title="Polish Basketball League — английский" lang="en" hreflang="en" data-title="Polish Basketball League" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Polska_Liga_Koszyk%C3%B3wki" title="Polska Liga Koszykówki — испанский" lang="es" hreflang="es" data-title="Polska Liga Koszykówki" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Polska_Liga_Koszyk%C3%B3wki" title="Polska Liga Koszykówki — финский" lang="fi" hreflang="fi" data-title="Polska Liga Koszykówki" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Championnat_de_Pologne_masculin_de_basket-ball" title="Championnat de Pologne masculin de basket-ball — французский" lang="fr" hreflang="fr" data-title="Championnat de Pologne masculin de basket-ball" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Polska_Liga_Koszyk%C3%B3wki" title="Polska Liga Koszykówki — галисийский" lang="gl" hreflang="gl" data-title="Polska Liga Koszykówki" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%92%D7%AA_%D7%94%D7%A2%D7%9C_%D7%94%D7%A4%D7%95%D7%9C%D7%A0%D7%99%D7%AA_%D7%91%D7%9B%D7%93%D7%95%D7%A8%D7%A1%D7%9C" title="ליגת העל הפולנית בכדורסל — иврит" lang="he" hreflang="he" data-title="ליגת העל הפולנית בכדורסל" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Polska_Liga_Koszyk%C3%B3wki" title="Polska Liga Koszykówki — итальянский" lang="it" hreflang="it" data-title="Polska Liga Koszykówki" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Lenkijos_krep%C5%A1inio_lyga" title="Lenkijos krepšinio lyga — литовский" lang="lt" hreflang="lt" data-title="Lenkijos krepšinio lyga" data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Polska_Liga_Koszyk%C3%B3wki" title="Polska Liga Koszykówki — польский" lang="pl" hreflang="pl" data-title="Polska Liga Koszykówki" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Liga_Polonesa_de_Basquetebol" title="Liga Polonesa de Basquetebol — португальский" lang="pt" hreflang="pt" data-title="Liga Polonesa de Basquetebol" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B2%D0%B0_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9F%D0%BE%D1%99%D1%81%D0%BA%D0%B5_%D1%83_%D0%BA%D0%BE%D1%88%D0%B0%D1%80%D1%86%D0%B8" title="Прва лига Пољске у кошарци — сербский" lang="sr" hreflang="sr" data-title="Прва лига Пољске у кошарци" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Polonya_Basketbol_Ligi" title="Polonya Basketbol Ligi — турецкий" lang="tr" hreflang="tr" data-title="Polonya Basketbol Ligi" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2120378#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 января 2026 года в 23:29.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-pc8sf","wgBackendResponseTime":400,"wgPageParseReport":{"limitreport":{"cputime":"0.171","walltime":"0.244","ppvisitednodes":{"value":894,"limit":1000000},"revisionsize":{"value":6098,"limit":2097152},"postexpandincludesize":{"value":91673,"limit":2097152},"templateargumentsize":{"value":2625,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":196,"limit":5000000},"entityaccesscount":{"value":2,"limit":500},"timingprofile":["100.00%  186.588      1 -total"," 67.31%  125.596      1 Шаблон:Карточка_баскетбольной_лиги"," 65.63%  122.458      1 Шаблон:Карточка"," 41.37%   77.193      1 Шаблон:Wikidata"," 32.51%   60.660      7 Шаблон:Навигационная_таблица"," 17.32%   32.316      1 Шаблон:Лучший_тренер_чемпионата_Польши_по_баскетболу"," 13.53%   25.239      1 Шаблон:Мужские_профессиональные_баскетбольные_лиги","  6.30%   11.758      1 Шаблон:Colored_link","  5.06%    9.434      2 Шаблон:Цвет","  4.52%    8.432      1 Шаблон:POL"]},"scribunto":{"limitreport-timeusage":{"value":"0.073","limit":"10.000"},"limitreport-memusage":{"value":3263624,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-pc8sf","timestamp":"20260212102124","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u041f\u043e\u043b\u044c\u0448\u0438 \u043f\u043e \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u0443","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D1%83","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2120378","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2120378","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-08-30T06:28:03Z"}</script>
+</body>
+</html>

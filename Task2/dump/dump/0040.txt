@@ -1,0 +1,1284 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Мосты через Яузу — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"ba22e9fc-544e-47af-af96-d37b5efe6afa","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Мосты_через_Яузу","wgTitle":"Мосты через Яузу","wgCurRevisionId":150195512,"wgRevisionId":150195512,"wgArticleId":1249266,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Информационные списки по алфавиту","Википедия:Статьи, требующие конкретизации","Википедия:Статьи с шаблонами недостатков по алфавиту","Страницы, использующие волшебные ссылки ISBN","Списки мостов по рекам","Мосты через Яузу"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Мосты_через_Яузу","wgRelevantArticleId":1249266,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":150195512,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4304745","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.14">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Мосты через Яузу — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Мосты_через_Яузу rootpage-Мосты_через_Яузу skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-list-info" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Информационные списки"><img alt="Информационные списки" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/QSicon_Formatierung_Blue.svg/20px-QSicon_Formatierung_Blue.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/QSicon_Formatierung_Blue.svg/40px-QSicon_Formatierung_Blue.svg.png 1.5x" data-file-width="24" data-file-height="24" /></a></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Мосты через Яузу</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r136318497">@media(min-width:720px){body:not(.skin-minerva) .mw-parser-output .ts-TOC_right{margin-left:1em;margin-bottom:0.5em;float:right;clear:right}}@media(max-width:719px){.mw-parser-output .ts-TOC_right{width:auto!important;max-width:none!important;clear:none!important}}body.skin-vector-2022 .mw-parser-output .ts-TOC_right{display:none}</style><div class="ts-TOC&#95;right" style=""><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Московская_область"><span class="tocnumber">1</span> <span class="toctext">Московская область</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Москва"><span class="tocnumber">2</span> <span class="toctext">Москва</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#См._также"><span class="tocnumber">3</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+</div>
+<p>В статье представлен список <a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82" title="Мост">мостов</a> через реку <a href="/wiki/%D0%AF%D1%83%D0%B7%D0%B0" title="Яуза">Яузу</a>, по их расположению от истока реки к устью.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Московская_область"><span id=".D0.9C.D0.BE.D1.81.D0.BA.D0.BE.D0.B2.D1.81.D0.BA.D0.B0.D1.8F_.D0.BE.D0.B1.D0.BB.D0.B0.D1.81.D1.82.D1.8C"></span>Московская область</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Московская область»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;section=1" title="Редактировать код раздела «Московская область»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="standard">
+<tbody><tr>
+<th>Название
+</th>
+<th>Тип
+</th>
+<th>Что пересекает
+</th>
+<th>Дата сооружения
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td>Коллектор под Акуловским водоканалом
+</td>
+<td>водопровод
+</td>
+<td><a href="/wiki/%D0%90%D0%BA%D1%83%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB" class="mw-redirect" title="Акуловский водоканал">Акуловский водоканал</a>
+</td>
+<td>1933-1937
+</td></tr>
+<tr>
+<td>Мост Фуражного проезда
+</td>
+<td>пешеходный
+</td>
+<td><a href="/w/index.php?title=%D0%A4%D1%83%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4&amp;action=edit&amp;redlink=1" class="new" title="Фуражный проезд (страница отсутствует)">Фуражный проезд</a>
+</td>
+<td>1892(?)
+</td>
+<td>дамба моста относится к линии <a href="/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4#Третий_водопровод" class="mw-redirect" title="Мытищинский-Московский водопровод">мытищинского водопровода</a> 1892&#160;года
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82_%D0%9C%D0%BE%D1%81%D1%82_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%88%D0%BE%D1%81%D1%81%D0%B5_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Мост Мост Ярославского шоссе через Яузу (страница отсутствует)">Мост Ярославского шоссе</a> (<a href="/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8" title="Мытищи">Мытищи</a>)
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D1%88%D0%BE%D1%81%D1%81%D0%B5" title="Ярославское шоссе">Ярославское шоссе</a>
+</td>
+<td>
+</td>
+<td>Реконструирован в 2006—2008&#160;гг. На месте более старых мостов.
+</td></tr>
+<tr>
+<td>Мост у Ярославского шоссе
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2008
+</td></tr>
+<tr>
+<td>Мост на заводе «Метровагонмаш»
+</td>
+<td>автомобильный
+</td>
+<td>внутренний проезд завода «<a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BC%D0%B0%D1%88" title="Метровагонмаш">Метровагонмаш</a>»
+</td>
+<td>
+</td>
+<td>на территории завода речка частично в коллекторе
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9C%D0%96%D0%94_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83_%D0%B2_%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B0%D1%85&amp;action=edit&amp;redlink=1" class="new" title="Мосты Ярославского направления МЖД через Яузу в Мытищах (страница отсутствует)">Мосты Ярославского направления МЖД</a>
+</td>
+<td>железнодорожные
+</td>
+<td><a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%96%D0%94" class="mw-redirect" title="Ярославское направление МЖД">Ярославское направление МЖД</a>
+</td>
+<td>1862 (?)
+</td></tr>
+<tr>
+<td>Мост Станционной улицы
+</td>
+<td>пешеходный
+</td>
+<td><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Станционная улица (Мытищи) (страница отсутствует)">Станционная улица</a>/<a href="/w/index.php?title=%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2%D0%B0_(%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Улица Селезнёва (Мытищи) (страница отсутствует)">улица Селезнёва</a>
+</td>
+<td>
+</td>
+<td>планируется строительство автомобильного
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82_%D1%83%D0%BB%D0%B8%D1%86%D1%8B_%D0%9C%D0%B8%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Мост улицы Мира (страница отсутствует)">Мост улицы Мира</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/w/index.php?title=%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9C%D0%B8%D1%80%D0%B0_(%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Улица Мира (Мытищи) (страница отсутствует)">улица Мира</a>
+</td>
+<td>до 1967
+</td></tr>
+<tr>
+<td>Мост улицы Щербакова
+</td>
+<td>пешеходный, бывший автомобильный
+</td>
+<td><a href="/w/index.php?title=%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_(%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Улица Щербакова (Мытищи) (страница отсутствует)">улица Щербакова</a>/<a href="/w/index.php?title=%D0%9F%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Пионерская улица (Мытищи) (страница отсутствует)">Пионерская улица</a>
+</td>
+<td>до 1967
+</td></tr>
+<tr>
+<td>Мост Пролетарской улицы
+</td>
+<td>пешеходный
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Пролетарская улица (Мытищи) (страница отсутствует)">Пролетарская улица</a>
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td>Мост 1-й Крестьянской улицы
+</td>
+<td>автомобильный
+</td>
+<td>1-я Крестьянская улица
+</td>
+<td>до 1967
+</td></tr>
+<tr>
+<td>Мосты у Новомытищинского проспекта
+</td>
+<td>один пешеходный и один недостроенный
+</td>
+<td><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82" title="Новомытищинский проспект">Новомытищинский проспект</a>/3-я Крестьянская улица
+</td>
+<td>2014, (?)
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Пешеходный мост
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2000-е
+</td>
+<td>рядом находятся Перловские бани
+</td></tr>
+<tr>
+<td>Мост Центральной улицы Тайнинского
+</td>
+<td>автомобильный
+</td>
+<td>Центральная улица (<a href="/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5" title="Тайнинское">Тайнинское</a>)
+</td>
+<td>
+</td>
+<td>на месте старинного моста <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0" class="mw-redirect" title="Троицкая дорога">Троицкой дороги</a>
+</td></tr>
+<tr>
+<td>мост в Тайнинском
+</td>
+<td>автомобильно-пешеходный
+</td>
+<td>Дорога <a href="/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5" title="Тайнинское">Тайнинское</a>&#160;— <a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B1%D0%B8%D1%82%D1%8C%D0%B5%D0%B2%D0%BE" title="Челобитьево">Челобитьево</a>
+</td>
+<td>1997 (?)
+</td>
+<td>поновленный<style data-mw-deduplicate="TemplateStyles:r141254988">.mw-parser-output .ts-fix-template{font-style:normal;font-weight:normal;white-space:nowrap}.mw-parser-output .ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}html.skin-theme-clientpref-night .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented>a:not(:hover){border-bottom:1px dotted;text-decoration:none}}</style><sup class="ts-fix-template">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D0%B5%D0%B3%D0%B0%D0%B9%D1%82%D0%B5_%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Избегайте неопределённых выражений">что?</a></i>&#93;</sup> более старый<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141254988" /><sup class="ts-fix-template">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D0%B5%D0%B3%D0%B0%D0%B9%D1%82%D0%B5_%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Избегайте неопределённых выражений">что?</a></i>&#93;</sup>
+</td></tr>
+</tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Москва"><span id=".D0.9C.D0.BE.D1.81.D0.BA.D0.B2.D0.B0"></span>Москва</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Москва»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;section=2" title="Редактировать код раздела «Москва»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="standard">
+<tbody><tr>
+<th>Название
+</th>
+<th>Тип
+</th>
+<th>Что пересекает
+</th>
+<th>Дата сооружения
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82_%D0%9C%D0%9A%D0%90%D0%94_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Мост МКАД через Яузу (страница отсутствует)">Мост МКАД</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0" title="Московская кольцевая автомобильная дорога">МКАД</a>
+</td>
+<td>1961 (?)
+</td>
+<td>реконструирован в 1997—1998&#160;гг.
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Широковский мост">Широковский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Широкая улица (Москва)">Широкая улица</a>
+</td>
+<td>1986
+</td></tr>
+<tr>
+<td>Деревянный пешеходный мост
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2012
+</td>
+<td>декоративный, построен при реконструкции поймы р. Яузы
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Осташковский мост">Осташковский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9E%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0" title="Осташковская улица">Осташковская улица</a>
+</td>
+<td>1958
+</td>
+<td>на месте старинной дороги и моста через Яузу у деревни Ватутино<sup id="cite&#95;ref-oldostash&#95;1-0" class="reference"><a href="#cite_note-oldostash-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>Два деревянных пешеходных моста
+</td>
+<td>пешеходные
+</td>
+<td>
+</td>
+<td>2012
+</td>
+<td>декоративные, построены при реконструкции поймы р. Яузы
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BE%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Новоосташковский мост">Новоосташковский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Енисейская улица (Москва)">Енисейская улица</a>
+</td>
+<td>1997
+</td></tr>
+<tr>
+<td>Деревянный пешеходный мост
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2012
+</td>
+<td>декоративный, построен при реконструкции поймы р. Яузы
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D1%81%D1%82" title="Медведковский метромост">Медведковский метромост</a>
+</td>
+<td>метромост, пешеходный
+</td>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%BE-%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" title="Калужско-Рижская линия">Калужско-Рижская линия</a>
+</td>
+<td>1978
+</td></tr>
+<tr>
+<td>Пешеходный мост
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2007
+</td>
+<td>деревянный с бетонными основаниями, построен при реконструкции поймы р. Яузы
+</td></tr>
+<tr>
+<td>Мост у <a href="/wiki/%D0%9E%D0%BB%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4" title="Олонецкий проезд">Олонецкого проезда</a>
+</td>
+<td>пешеходный, строился как автомобильный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%86%D0%BE%D0%B2%D0%B0" title="Улица Молодцова">улица Молодцова</a>/<a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4" title="Староватутинский проезд">Староватутинский проезд</a>
+</td>
+<td>вторая половина 1970-х
+</td>
+<td>Построен как автомобильный
+</td></tr>
+<tr>
+<td>Два деревянных пешеходных моста
+</td>
+<td>пешеходные
+</td>
+<td>
+</td>
+<td>2012 (?)
+</td>
+<td>декоративные, построены при реконструкции поймы р. Яузы
+</td></tr>
+<tr>
+<td><a href="/wiki/1-%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="1-й Медведковский мост">1-й Медведковский мост</a>
+</td>
+<td>автомобильный, трамвайный
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%B7%D0%B4_%D0%94%D0%B5%D0%B6%D0%BD%D1%91%D0%B2%D0%B0" title="Проезд Дежнёва">проезд Дежнёва</a>/<a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9C%D0%B5%D0%BD%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Улица Менжинского (Москва)">улица Менжинского</a>
+</td>
+<td>1964
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Мост у комплекса «Певческое поле»
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2005—2010, 2012
+</td>
+<td>реконструирован в 2012, деревянный
+</td></tr>
+<tr>
+<td><a href="/wiki/2-%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="2-й Медведковский мост">2-й Медведковский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Полярная улица (Москва)">Полярная улица</a>/<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Кольская улица (Москва)">Кольская улица</a>
+</td>
+<td>1964
+</td>
+<td>построен на месте старинной дороги и моста, ведших в село Медведково и другие населенные пункты в междуречье Яузы и Чермянки
+</td></tr>
+<tr>
+<td>Мост «Яузская плотина»
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1960-е либо 1970-е<sup id="cite&#95;ref-mostplatina&#95;2-0" class="reference"><a href="#cite_note-mostplatina-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td>для поддержания уровня воды, возможно связан с Лабораторией гидротехнических сооружений ЦНИИС, стоявшей на берегу реки в этом месте. Название официально присвоено 25 июня 2013&#160;года<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82_%D0%91%D0%B5%D1%81%D0%BA%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%B5%D1%82%D0%BA%D0%B8" title="Мост Бескудниковской ветки">Мост Бескудниковской ветки</a>
+</td>
+<td>пешеходный, бывший железнодорожный
+</td>
+<td><a href="/wiki/%D0%91%D0%B5%D1%81%D0%BA%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%BA%D0%B0" title="Бескудниковская ветка">Бескудниковская ветка</a>
+</td>
+<td>1902
+</td>
+<td>железнодорожный до 1986, реконструирован несколько раз, последний раз в 2003&#160;году
+</td></tr>
+<tr>
+<td>Два пешеходных моста у <a href="/wiki/%D0%A1%D0%B2%D0%B8%D0%B1%D0%BB%D0%BE%D0%B2%D0%BE_(%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0)" title="Свиблово (усадьба)">усадьбы Свиблово</a>
+</td>
+<td>пешеходные
+</td>
+<td>
+</td>
+<td>2007(?), 2007
+</td>
+<td>построены при реконструкции поймы в середине 2000-х
+</td></tr>
+<tr>
+<td>Мост «Подворье»
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1980
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Пешеходный мост
+</td>
+<td>пешеходный, ранее автомобильный
+</td>
+<td>Старая трасса <a href="/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Берёзовая аллея (Москва)">Берёзовой аллеи</a>/<a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4" title="Лазоревый проезд">Лазоревый проезд</a>
+</td>
+<td>не позднее 1938, 2004(?)
+</td>
+<td>изначально деревянный автомобильный мост по старой трассе Березовой аллеи, позже при постройке моста у проезда Серебрякова закрыт и сужен до железобетонного пешеходного
+</td></tr>
+<tr>
+<td>Пешеходный мост
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2021
+</td>
+<td>соединяет две очереди жилого комплекса «LIFE Ботанический сад»
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B2%D0%B8%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Новосвибловский мост (страница отсутствует)">Новосвибловский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%B7%D0%B4_%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0" title="Проезд Серебрякова">Проезд Серебрякова</a>
+</td>
+<td>2021
+</td>
+<td>построен на месте снесённого в феврале 2020&#160;года старого Новосвибловского моста (1951) при реконструкции проезда Серебрякова и строительстве <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D1%85%D0%BE%D1%80%D0%B4%D0%B0" title="Северо-Восточная хорда">Северо-Восточной хорды</a>
+</td></tr>
+<tr>
+<td>Два моста МК МЖД
+</td>
+<td>железнодорожные
+</td>
+<td><a href="/wiki/%D0%9C%D0%9A_%D0%9C%D0%96%D0%94" class="mw-redirect" title="МК МЖД">МК МЖД</a>
+</td>
+<td>2014
+</td>
+<td>построены на месте старого моста 1903—1908&#160;годов постройки при реконструкции МК МЖД перед запуском <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE" title="Московское центральное кольцо">Московского центрального кольца</a>
+</td></tr>
+<tr>
+<td>Пешеходный мост у <a href="/wiki/%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%BE%D1%89%D0%B0" class="mw-redirect" title="Леоновская роща">Леоновской рощи</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1978 (?)
+</td>
+<td>построен как автомобильный, остался от неизвестного нереализованного проекта
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82_%D1%83%D0%BB%D0%B8%D1%86%D1%8B_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0_%D0%9F%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Мост улицы Вильгельма Пика (страница отсутствует)">Мост улицы Вильгельма Пика</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0_%D0%9F%D0%B8%D0%BA%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Улица Вильгельма Пика (Москва)">улица Вильгельма Пика</a>
+</td>
+<td>1970
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Мост у <a href="/wiki/%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%BE_(%D0%BF%D0%B0%D1%80%D0%BA)" class="mw-redirect" title="Леоново (парк)">Леоновского пруда</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>до 1939
+</td>
+<td>реконструирован в 2000-е годы и в 2020&#160;году
+</td></tr>
+<tr>
+<td>Два моста у Ростокинской камвольно-отделочной фабрики
+</td>
+<td>автомобильные
+</td>
+<td>
+</td>
+<td>(?)
+</td>
+<td>ведомственные мосты, один (выше по течению) соединяет территории фабрики и войсковой части, другой (ниже по течению) ведёт к складам и гаражам фабрики
+</td></tr>
+<tr>
+<td>Нижне-Леоновский мост
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>(?)
+</td>
+<td>название неофициальное, реконструирован в 2000-е
+</td></tr>
+<tr>
+<td>Мост со шлюзом
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2000-е годы
+</td>
+<td>декоративный мост, ведущий на остров посреди реки
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D1%81%D1%82%D1%8B" title="Ростокинские мосты">3-й Ростокинский (вантовый) мост</a><sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2004—2006
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1-%D0%B9_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" class="mw-redirect" title="1-й Ростокинский мост">1-й Ростокинский мост</a>
+</td>
+<td>трамвайный
+</td>
+<td>трамвайная линия вдоль проспекта Мира
+</td>
+<td>1926, 1980
+</td>
+<td>первое название Земский, реконструирован в 1980&#160;г.
+</td></tr>
+<tr>
+<td><a href="/wiki/2-%D0%B9_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" class="mw-redirect" title="2-й Ростокинский мост">2-й Ростокинский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_%D0%9C%D0%B8%D1%80%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Проспект Мира (Москва)">проспект Мира</a>
+</td>
+<td>1957
+</td>
+<td>реконструирован в 1982&#160;г.
+</td></tr>
+<tr>
+<td>Три пешеходных моста в Ростокино
+</td>
+<td>пешеходные
+</td>
+<td>
+</td>
+<td>2005—2007 (верхние), 1980 (нижний)
+</td>
+<td>нижний построен на месте более раннего деревянного
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B2%D0%B5%D0%B4%D1%83%D0%BA" title="Ростокинский акведук">Ростокинский акведук</a>
+</td>
+<td>пешеходный, первоначально&#160;— водопровод
+</td>
+<td>
+</td>
+<td>1777—1804
+</td>
+<td>Памятник архитектуры, отреставрирован в 2006—2007&#160;гг.
+</td></tr>
+<tr>
+<td>Пешеходный мост у <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%B7%D0%B4_%D0%9A%D0%B0%D0%B4%D0%BE%D0%BC%D1%86%D0%B5%D0%B2%D0%B0" title="Проезд Кадомцева">проезда Кадомцева</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2024
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Мост у устья <a href="/wiki/%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%AF%D1%83%D0%B7%D1%8B)" title="Копытовка (приток Яузы)">реки Копытовки</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1970-е (?)
+</td>
+<td>реконструирован в 2000-е, на месте более раннего деревянного
+</td></tr>
+<tr>
+<td>Мосты Ярославского направления МЖД
+</td>
+<td>железнодорожные
+</td>
+<td><a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%96%D0%94" class="mw-redirect" title="Ярославское направление МЖД">Ярославское направление МЖД</a>
+</td>
+<td>1862; 1929; 2010-е
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Богатырский мост">Богатырский мост</a>
+</td>
+<td>автомобильный, трамвайный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" class="mw-redirect" title="Улица Богатырский мост">Улица Богатырский мост</a>
+</td>
+<td>1912
+</td>
+<td>на месте более раннего деревянного
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5#Закрытые_железные_дороги" title="Железнодорожный транспорт в Москве">Мост Краснобогатырской ветки</a>
+</td>
+<td>бывший железнодорожный
+</td>
+<td>подъездной путь завода «<a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8C_(%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4)" title="Красный богатырь (завод)">Красный богатырь</a>»
+</td>
+<td>1912 (?)
+</td>
+<td>разрушен
+</td></tr>
+<tr>
+<td>Два автомобильных моста бывшего <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8C_(%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4)" title="Красный богатырь (завод)">завода «Красный богатырь»</a>
+</td>
+<td>автомобильные
+</td>
+<td>
+</td>
+<td>1912 (?)
+</td>
+<td>ведомственные
+</td></tr>
+<tr>
+<td>Мост Проектируемого проезда №&#160;422
+</td>
+<td>автомобильный
+</td>
+<td>Проектируемый проезд №&#160;422
+</td>
+<td>2022<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Пешеходный мост у Черкизовской КНС
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>?
+</td>
+<td>несколько раз подновлялся, обрушился в июле 2025&#160;года<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Олений мост (Москва)">Олений мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Проспект Ветеранов (Москва)">Проспект Ветеранов</a>/<a href="/wiki/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%93%D0%B0%D0%BD%D0%BD%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0" title="Набережная Ганнушкина">набережная Ганнушкина</a>
+</td>
+<td>2001
+</td>
+<td>«Новый Олений мост» на месте железнодорожного, «старого», существовавшего до 1960-х годов.
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Глебовский мост">Глебовский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB" class="mw-redirect" title="Улица Олений Вал">улица Олений Вал</a>/<a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB" class="mw-redirect" title="Улица Богородский Вал">улица Богородский Вал</a>
+</td>
+<td>1982
+</td>
+<td>На месте старого моста, в 2003—2004&#160;гг. реконструирован
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D1%81%D1%82" title="Преображенский метромост">Преображенский метромост</a>
+</td>
+<td>метромост
+</td>
+<td><a href="/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" title="Сокольническая линия">Сокольническая линия</a>
+</td>
+<td>1965
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Матросский мост">Матросский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%A1%D1%82%D1%80%D0%BE%D0%BC%D1%8B%D0%BD%D0%BA%D0%B0" class="mw-redirect" title="Улица Стромынка">улица Стромынка</a>/<a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Преображенская улица (Москва)">Преображенская улица</a>
+</td>
+<td>1956
+</td>
+<td>На месте старого моста 1906&#160;г.
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D1%83%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Русаковский пешеходный мост">Русаковский мост</a>
+</td>
+<td>пешеходный
+</td>
+<td><a href="/wiki/%D0%A0%D1%83%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F" title="Русаковская набережная">Русаковская набережная</a>/<a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F" title="Преображенская набережная">Преображенская набережная</a>
+</td>
+<td>не позднее 1970
+</td></tr>
+<tr>
+<td>Электрозаводский пешеходный мост
+</td>
+<td>пешеходный
+</td>
+<td><a href="/wiki/%D0%A0%D1%83%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F" title="Русаковская набережная">Русаковская набережная</a>/<a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F" title="Преображенская набережная">Преображенская набережная</a>
+</td>
+<td>1974
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Электрозаводский мост">Электрозаводский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0" title="Большая Семёновская улица">Большая Семёновская улица</a>
+</td>
+<td>1954
+</td></tr>
+<tr>
+<td>Мост Казанского направления МЖД
+</td>
+<td>железнодорожный
+</td>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%96%D0%94" class="mw-redirect" title="Казанское направление МЖД">Казанское направление МЖД</a>
+</td>
+<td>1862; 1926
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B5_%D0%A2%D0%9F%D0%A3_%C2%AB%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%C2%BB" title="Пешеходный мост через Яузу в составе ТПУ «Электрозаводская»">Пешеходный мост через Яузу в составе ТПУ «Электрозаводская»</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>2022
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D1%83%D0%B1%D1%86%D0%BE%D0%B2_%D0%BC%D0%BE%D1%81%D1%82" title="Рубцов мост">Рубцов мост</a>
+</td>
+<td>пешеходный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0" title="Улица Новая Дорога">улица Новая Дорога</a>
+</td>
+<td>1966
+</td>
+<td>Назван после реконструкции 2002&#160;г., расположен на месте более раннего проезжего
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC._%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Велопешеходный мост МГТУ им. Н. Э. Баумана (страница отсутствует)">Велопешеходный МГТУ им. Н.&#160;Э.&#160;Баумана</a>
+</td>
+<td>велопешеходный
+</td>
+<td>
+</td>
+<td>2024
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Госпитальный мост">Госпитальный мост</a>
+</td>
+<td>автомобильный, ранее автомобильно-трамвайный
+</td>
+<td><a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Госпитальный переулок (Москва)">Госпитальный переулок</a>/<a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Госпитальная улица (Москва)">Госпитальная улица</a>
+</td>
+<td>1941
+</td>
+<td>На месте старого Лефортовского моста
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9B%D0%B5%D1%84%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Лефортовский мост">Лефортовский мост</a>
+</td>
+<td>автомобильный, трамвайный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Улица Радио (Москва)">улица Радио</a>/<a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0" title="Красноказарменная улица">Красноказарменная улица</a>
+</td>
+<td>1799
+</td>
+<td>До 1940&#160;г. Дворцовый, в 1940&#160;г. реконструирован
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BB%D0%B5%D1%84%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Новолефортовский мост">Новолефортовский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D0%B5_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE" title="Третье транспортное кольцо">Третье транспортное кольцо</a>
+</td>
+<td>2003
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Салтыковский мост">Салтыковский мост</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1958
+</td>
+<td>На месте старого моста
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D0%B0%D0%BC%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Таможенный мост">Таможенный мост</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1939
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B2%D0%B8%D0%B0%D0%B4%D1%83%D0%BA" title="Андроников виадук">Андроников виадук</a>
+</td>
+<td>железнодорожные
+</td>
+<td><a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%96%D0%94" class="mw-redirect" title="Курское направление МЖД">Курское направление МЖД</a>, <a href="/wiki/%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%96%D0%94" class="mw-redirect" title="Горьковское направление МЖД">Горьковское направление МЖД</a>
+</td>
+<td>1865; 2008; 2023
+</td>
+<td>Реконструирован в 1950—1951&#160;годах
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Костомаровский мост">Костомаровский мост</a>
+</td>
+<td>автомобильный, трамвайный
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA" title="Костомаровский переулок">Костомаровский переулок</a>/<a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BD%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C" title="Андроньевская площадь">Андроньевская площадь</a>
+</td>
+<td>1941
+</td>
+<td>На месте старого Костомаровского моста
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D1%8F%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Высокояузский мост">Высокояузский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%BE%D0%B9_%D0%92%D0%B0%D0%BB" title="Улица Земляной Вал">Улица Земляной Вал</a> (<a href="/wiki/%D0%A1%D0%B0%D0%B4%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE" title="Садовое кольцо">Садовое кольцо</a>)
+</td>
+<td>1890
+</td>
+<td>Реконструирован в 1963&#160;г.
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Тессинский мост">Тессинский мост</a>
+</td>
+<td>пешеходный
+</td>
+<td>
+</td>
+<td>1992
+</td>
+<td>На месте старого Тессинского моста 1887&#160;г.
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%90%D1%81%D1%82%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Астаховский мост">Астаховский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%AF%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0" title="Яузская улица">Яузская улица</a>
+</td>
+<td>1940
+</td>
+<td>На месте старого Яузского моста
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%A3%D1%81%D1%82%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82" title="Малый Устьинский мост">Малый Устьинский мост</a>
+</td>
+<td>автомобильный
+</td>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%BE%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F" title="Москворецкая набережная">Москворецкая набережная</a>/<a href="/wiki/%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F" title="Котельническая набережная">Котельническая набережная</a>
+</td>
+<td>1938
+</td>
+<td>На месте старого моста.<br />Реконструирован в 2011&#160;г.
+</td></tr></tbody></table>
+<table class="infobox infobox-8985c7838cf99f96 noprint" style=""><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="text-align:left; font-style:normal; font-size:100%; background:#eaecf0;"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/c0/Images.png" decoding="async" width="16" height="16" class="mw-file-element" data-file-width="16" data-file-height="16" /></span></span> Внешние изображения</th></tr>
+<tr>
+<th scope="row" class="plainlist" style="text-align:left; flex:0;"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/65/Image-silk.png" decoding="async" width="16" height="16" class="mw-file-element" data-file-width="16" data-file-height="16" /></span></span></th>
+<td class="plainlist">
+<a rel="nofollow" class="external text" href="https://stroi.mos.ru/uploads/cache/gallery_media_full/gallery_media/0002/24/a5758de767ea206c4447ed1e78bd50baa32db976.jpeg">Реконструкция Краснобогатырской улицы. Проект Москомархитектуры.</a></td>
+</tr>
+</tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;veaction=edit&amp;section=3" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;section=3" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83" title="Мосты через Москву">Мосты через Москву</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;section=4" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-oldostash-1"><span class="mw-cite-backlink"><a href="#cite_ref-oldostash_1-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://pastvu.com/p/295715">Яуза. У моста на Осташковской дороге. Около 1907—1915&#160;гг.</a></span><span class="hidden-ref" style="display:none;">&#160;</span>&#32;Дата обращения: 18 марта 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402223428/https://pastvu.com/p/295715">Архивировано</a> 2 апреля 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-mostplatina-2"><span class="mw-cite-backlink"><a href="#cite_ref-mostplatina_2-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150207220753/http://www.zbulvar.ru/news/detail.php?ID=83732">Прокуратура обнаружила плотину-призрак на Северо-Востоке Москвы</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 18 марта 2015.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.zbulvar.ru/news/detail.php?ID=83732">оригинала</a> 7 февраля 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.izmaylovo.ru/regional_news/detail.php?ELEMENT_ID=923">О присвоении названия пешеходному мосту-плотине</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 11 января 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170113144331/http://www.izmaylovo.ru/regional_news/detail.php?ELEMENT_ID=923">Архивировано</a> 13 января 2017 года.</span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://data.mos.ru/opendata/2069?objectId=41094533&amp;isDynamic=false&amp;filter=global_id+%3D+41094533">Мост пешеходный «Ростокинский-3»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Портал открытых данных Правительства Москвы</i>.&#32;Дата обращения: 9 ноября 2025.</span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://newsvostok.ru/dorozhnyj-proezd-i-most-cherez-yauzu-na-vostoke-moskvy-sdany-v-ekspluatatsiyu/">Источник</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 13 июля 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20221121150707/https://newsvostok.ru/dorozhnyj-proezd-i-most-cherez-yauzu-na-vostoke-moskvy-sdany-v-ekspluatatsiyu/">Архивировано</a> 21 ноября 2022 года.</span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Богородское Москва М125.</i>&#32;<span lang="ru"><a rel="nofollow" class="external text" href="https://vk.com/wall-75664668_176234">В Яузу упал пешеходный мост</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i><a href="/wiki/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5" title="ВКонтакте">ВКонтакте</a></i>&#32;(7 июля 2025).&#32;Дата обращения: 10 ноября 2025.</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit&amp;section=5" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Энциклопедия «Москва». М.: БРЭ, 1997</li>
+<li><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFИмена&#95;московских&#95;улиц2007"><a href="/wiki/%D0%98%D0%BC%D0%B5%D0%BD%D0%B0_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86" title="Имена московских улиц">Имена московских улиц</a>. Топонимический словарь&#32;&#47;&#32;Р. А. Агеева, Г. П. Бондарук, Е. М. Поспелов и др.; авт. предисл. Е. М. Поспелов.&#160;— <abbr title="Москва">М.</abbr>: ОГИ, 2007.&#160;— 608&#160;с.&#160;— (Московская библиотека).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5942824320" class="internal mw-magiclink-isbn">ISBN 5-94282-432-0</a>.</span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐86585465cc‐lgs72
+Cached time: 20260212074434
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.181 seconds
+Real time usage: 0.234 seconds
+Preprocessor visited node count: 1719/1000000
+Revision size: 21376/2097152 bytes
+Post‐expand include size: 13265/2097152 bytes
+Template argument size: 1728/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10262/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 2682352/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.512      1 -total
+ 31.87%   56.893      1 Шаблон:Примечания
+ 27.62%   49.313      6 Шаблон:Cite_web
+ 20.09%   35.861      1 Шаблон:Имена_московских_улиц
+ 19.27%   34.392      2 Шаблон:Что
+ 18.93%   33.792      1 Шаблон:Книга
+ 18.06%   32.236      1 Шаблон:Неопределённость
+ 15.88%   28.352      1 Шаблон:External_media
+ 12.88%   22.998      1 Шаблон:Карточка
+  6.88%   12.275      1 Шаблон:TOCr
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:1249266:|#|:idhash:canonical and timestamp 20260212074434 and revision id 150195512. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Мосты_через_Яузу&amp;oldid=150195512">https://ru.wikipedia.org/w/index.php?title=Мосты_через_Яузу&amp;oldid=150195512</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D0%B5%D0%BA%D0%B0%D0%BC" title="Категория:Списки мостов по рекам">Списки мостов по рекам</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83" title="Категория:Мосты через Яузу">Мосты через Яузу</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Информационные списки по алфавиту">Информационные списки по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8" title="Категория:Википедия:Статьи, требующие конкретизации">Википедия:Статьи, требующие конкретизации</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%BE%D1%81%D1%82%D1%8B+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%AF%D1%83%D0%B7%D1%83" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%BE%D1%81%D1%82%D1%8B+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%AF%D1%83%D0%B7%D1%83" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;oldid=150195512" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;id=150195512&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259C%25D0%25BE%25D1%2581%25D1%2582%25D1%258B_%25D1%2587%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B7_%25D0%25AF%25D1%2583%25D0%25B7%25D1%2583"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259C%25D0%25BE%25D1%2581%25D1%2582%25D1%258B_%25D1%2587%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B7_%25D0%25AF%25D1%2583%25D0%25B7%25D1%2583"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Yauza_River_Bridges" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4304745" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4304745#sitelinks-wikipedia" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 21 ноября 2025 года в 13:09.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-86585465cc-lgs72","wgBackendResponseTime":429,"wgPageParseReport":{"limitreport":{"cputime":"0.181","walltime":"0.234","ppvisitednodes":{"value":1719,"limit":1000000},"revisionsize":{"value":21376,"limit":2097152},"postexpandincludesize":{"value":13265,"limit":2097152},"templateargumentsize":{"value":1728,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10262,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  178.512      1 -total"," 31.87%   56.893      1 Шаблон:Примечания"," 27.62%   49.313      6 Шаблон:Cite_web"," 20.09%   35.861      1 Шаблон:Имена_московских_улиц"," 19.27%   34.392      2 Шаблон:Что"," 18.93%   33.792      1 Шаблон:Книга"," 18.06%   32.236      1 Шаблон:Неопределённость"," 15.88%   28.352      1 Шаблон:External_media"," 12.88%   22.998      1 Шаблон:Карточка","  6.88%   12.275      1 Шаблон:TOCr"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":2682352,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-86585465cc-lgs72","timestamp":"20260212074434","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041c\u043e\u0441\u0442\u044b \u0447\u0435\u0440\u0435\u0437 \u042f\u0443\u0437\u0443","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9C%D0%BE%D1%81%D1%82%D1%8B_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%AF%D1%83%D0%B7%D1%83","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4304745","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4304745","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-06-06T21:53:42Z"}</script>
+</body>
+</html>

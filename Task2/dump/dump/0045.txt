@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Астраханский государственный музыкальный театр — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"438c3a02-321c-4130-a033-85d6614f757b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Астраханский_государственный_музыкальный_театр","wgTitle":"Астраханский государственный музыкальный театр","wgCurRevisionId":149315339,"wgRevisionId":149315339,"wgArticleId":2409488,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с нерабочими ссылками","Антропогенные географические объекты по алфавиту","ПРО:АГЕО:Последняя правка: в прошлом году","Википедия:Страницы с картами","Театры по алфавиту","Театры, основанные в 1995 году","Театры Астрахани","Достопримечательности Астрахани"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Астраханский_государственный_музыкальный_театр","wgRelevantArticleId":2409488,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149315339,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgCoordinates":{"lat":46.3572,"lon":48.0509},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4071713","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg/1280px-%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Астраханский государственный музыкальный театр — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Астраханский_государственный_музыкальный_театр rootpage-Астраханский_государственный_музыкальный_театр skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="46.3572&#95;&#95;&#95;N&#95;48.0509&#95;&#95;&#95;E&#95;type:landmark&#95;scale:2000"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/17/46.3572/48.0509/ru" data-zoom="17" data-lat="46.3572" data-lon="48.0509" data-lang="ru" data-overlays="[&quot;_4b6e61b9f6be77d13c1afe035e427b4fc5c051e1&quot;]">46°21′26″&#160;с.&#160;ш. 48°03′03″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;params=46.3572___N_48.0509___E_type:landmark_scale:2000"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=46.3572,48.0509&amp;q=46.3572,48.0509&amp;spn=0.002,0.002&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=48.0509,46.3572&amp;pt=48.0509,46.3572&amp;spn=0.002,0.002&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=46.3572&amp;mlon=48.0509&amp;zoom=17"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Астраханский государственный музыкальный театр</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-d173fc0d7ca07a26" style="" data-name="Театр"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Астраханский государственный музыкальный театр</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q4071713$44f6f048-4bb5-fb42-ea79-79fa68c356c9" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_(3).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg/330px-%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg" decoding="async" width="274" height="206" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg/500px-%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg/960px-%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Основан</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P571" class="no-wikidata">1995</span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Здание театра</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Местоположение</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P276" class="no-wikidata"><span data-wikidata-property-id="P131" class="no-wikidata">г. <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C" title="Астрахань">Астрахань</a>, <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0_(%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C)" title="Улица Калинина (Астрахань)">ул. Калинина</a>, 51; т. (8512), 54-05-34</span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Руководство</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Художественный руководитель</th>
+<td class="plainlist">
+Валерий Воронин</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Главный режиссёр</th>
+<td class="plainlist">
+Константин Балакин</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Главный дирижёр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P3300" class="no-wikidata">Валерий Воронин</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Главный балетмейстер</th>
+<td class="plainlist">
+Константин Уральский</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><span class="nowrap">Главный хормейстер</span></th>
+<td class="plainlist">
+Галина Дунчева</td>
+</tr>
+</tbody></table>
+<p><b>Астраханский государственный музыкальный театр</b> — один из старейших театров <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C" title="Астрахань">Астрахани</a>. Принято считать, что его история идёт от  основанного в апреле 1899 года летнего театра.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_театра"><span class="tocnumber">1</span> <span class="toctext">История театра</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Репертуар"><span class="tocnumber">2</span> <span class="toctext">Репертуар</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#См._также"><span class="tocnumber">3</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="История_театра"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.82.D0.B5.D0.B0.D1.82.D1.80.D0.B0"></span>История театра</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История театра»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit&amp;section=1" title="Редактировать код раздела «История театра»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Первое здание театра было построено из дерева по проекту архитектора А.&#160;С.&#160;Малаховского в 1899 году. На сцене театра в разное время выступали: <a href="/wiki/%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Шаляпин, Фёдор Иванович">Шаляпин</a>, <a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Собинов, Леонид Витальевич">Собинов</a>, <a href="/wiki/%D0%9D%D0%B5%D0%B6%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BD%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Нежданова, Антонина Васильевна">Нежданова</a>, Савина.
+</p>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C_%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_1917.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C_%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_1917.jpg/250px-%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C_%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_1917.jpg" decoding="async" width="240" height="381" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C_%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_1917.jpg/500px-%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C_%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_1917.jpg 1.5x" data-file-width="2160" data-file-height="3427" /></a><figcaption>Летний театр</figcaption></figure>
+<p>13 ноября 1976 года деревянное здание театра сгорело. 4 мая 1996 года театр открылся в новом здании<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 2010 году на должность художественного руководителя музыкального театра был приглашён <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Воронин, Валерий Владимирович">Валерий Воронин</a>. Вместе с ним в команду пришли главный режиссёр Константин Балакин и главный художник Елена Вершинина, также была сформирована профессиональная труппа классического балета; художественным руководителем балета стал Заслуженный артист РФ Константин Уральский. Они провели реорганизацию театра, получившего в 2011 году статус <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BE%D0%BF%D0%B5%D1%80%D1%8B_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0" title="Астраханский театр оперы и балета">Астраханского театра оперы и балета</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Репертуар"><span id=".D0.A0.D0.B5.D0.BF.D0.B5.D1.80.D1.82.D1.83.D0.B0.D1.80"></span>Репертуар</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Репертуар»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit&amp;section=2" title="Редактировать код раздела «Репертуар»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В театре поставлены следующие спектакли: «Риголетто» и «Травиата» Дж. Верди, «Борис Годунов» Мусоргского, «Тоска» Пуччини, «Цыган» Клиничева. В репертуаре балетной труппы&#160;— «Египетские ночи», «Шопениана», «Жизель», «Щелкунчик».<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;veaction=edit&amp;section=3" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit&amp;section=3" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F_%D0%9A%D0%B8%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0" title="Тарасова, Наталья Кимовна">Тарасова, Наталья Кимовна</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit&amp;section=4" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nasledie.astrobl.ru/index.php?option=com_content&amp;task=blogcategory&amp;id=186&amp;Itemid=235">Культурное наследие Астраханской Области</a>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.benefis-tour.ru/904/">Театры и кинотеатры Астрахани</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 20 апреля 2010.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180208172752/http://www.benefis-tour.ru/904/">Архивировано</a> 8 февраля 2018 года.</span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐lrbvd
+Cached time: 20260212102101
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.208 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 1247/1000000
+Revision size: 4537/2097152 bytes
+Post‐expand include size: 12005/2097152 bytes
+Template argument size: 2104/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2542/5000000 bytes
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 7263780/52428800 bytes
+Number of Wikibase entities loaded: 9/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  279.168      1 -total
+ 91.09%  254.288      1 Шаблон:Карточка_театра
+ 74.82%  208.866      1 Шаблон:Карточка
+ 23.82%   66.493      7 Шаблон:Wikidata
+ 14.27%   39.830      1 Шаблон:Карточка/официальное_название
+  8.50%   23.723      1 Шаблон:Примечания
+  8.21%   22.906      1 Шаблон:Coord
+  4.39%   12.254      1 Шаблон:Cite_web
+  4.08%   11.385      3 Шаблон:Категория_по_дате
+  2.73%    7.623      1 Шаблон:Карточка/Викисклад
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:2409488:|#|:idhash:canonical and timestamp 20260212102101 and revision id 149315339. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Астраханский_государственный_музыкальный_театр&amp;oldid=149315339">https://ru.wikipedia.org/w/index.php?title=Астраханский_государственный_музыкальный_театр&amp;oldid=149315339</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Театры по алфавиту">Театры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%8B,_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1995_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Театры, основанные в 1995 году">Театры, основанные в 1995 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%8B_%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D0%B8" title="Категория:Театры Астрахани">Театры Астрахани</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D0%B8" title="Категория:Достопримечательности Астрахани">Достопримечательности Астрахани</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Антропогенные географические объекты по алфавиту">Антропогенные географические объекты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%93%D0%95%D0%9E:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:АГЕО:Последняя правка: в прошлом году">ПРО:АГЕО:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;oldid=149315339" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;id=149315339&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2585%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25B3%25D0%25BE%25D1%2581%25D1%2583%25D0%25B4%25D0%25B0%25D1%2580%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25BC%25D1%2583%25D0%25B7%25D1%258B%25D0%25BA%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B9_%25D1%2582%25D0%25B5%25D0%25B0%25D1%2582%25D1%2580"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2585%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25B3%25D0%25BE%25D1%2581%25D1%2583%25D0%25B4%25D0%25B0%25D1%2580%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25BC%25D1%2583%25D0%25B7%25D1%258B%25D0%25BA%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B9_%25D1%2582%25D0%25B5%25D0%25B0%25D1%2582%25D1%2580"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4071713" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BD%D5%BF%D6%80%D5%A1%D5%AD%D5%A1%D5%B6%D5%AB_%D5%BA%D5%A5%D5%BF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A5%D6%80%D5%A1%D5%AA%D5%B7%D5%BF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A9%D5%A1%D5%BF%D6%80%D5%B8%D5%B6" title="Աստրախանի պետական երաժշտական թատրոն — армянский" lang="hy" hreflang="hy" data-title="Աստրախանի պետական երաժշտական թատրոն" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Астраханський державний музичний театр — украинский" lang="uk" hreflang="uk" data-title="Астраханський державний музичний театр" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4071713#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 23 октября 2025 года в 08:17.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-lrbvd","wgBackendResponseTime":433,"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.301","ppvisitednodes":{"value":1247,"limit":1000000},"revisionsize":{"value":4537,"limit":2097152},"postexpandincludesize":{"value":12005,"limit":2097152},"templateargumentsize":{"value":2104,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2542,"limit":5000000},"entityaccesscount":{"value":9,"limit":500},"timingprofile":["100.00%  279.168      1 -total"," 91.09%  254.288      1 Шаблон:Карточка_театра"," 74.82%  208.866      1 Шаблон:Карточка"," 23.82%   66.493      7 Шаблон:Wikidata"," 14.27%   39.830      1 Шаблон:Карточка/официальное_название","  8.50%   23.723      1 Шаблон:Примечания","  8.21%   22.906      1 Шаблон:Coord","  4.39%   12.254      1 Шаблон:Cite_web","  4.08%   11.385      3 Шаблон:Категория_по_дате","  2.73%    7.623      1 Шаблон:Карточка/Викисклад"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":7263780,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype monolingualtext of P6375 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P149 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P84 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P1083 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1037 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P3300 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-lrbvd","timestamp":"20260212102101","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4071713","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4071713","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-04-20T15:20:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5f\/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-_panoramio_%283%29.jpg"}</script>
+</body>
+</html>

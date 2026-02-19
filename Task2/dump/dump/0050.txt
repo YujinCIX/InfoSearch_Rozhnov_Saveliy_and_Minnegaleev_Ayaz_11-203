@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Изернор (кантон) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"33fa5155-c15f-4ba0-8d78-90ba55679341","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Изернор_(кантон)","wgTitle":"Изернор (кантон)","wgCurRevisionId":147551214,"wgRevisionId":147551214,"wgArticleId":2755332,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ПРО:АТД:Последняя правка: в прошлом году","Википедия:Статьи с автопростановкой языка в карточке","Википедия:Статьи с нерабочими ссылками","Незавершённые статьи об административных единицах","Википедия:Страницы с картами","Административные единицы по алфавиту","Кантоны департамента Эн"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Изернор_(кантон)","wgRelevantArticleId":2755332,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":147551214,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgCoordinates":{"lat":46.21667,"lon":5.55},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1524443","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Map_canton_code_01_16.svg/1280px-Map_canton_code_01_16.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1154">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Изернор (кантон) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Изернор_кантон rootpage-Изернор_кантон skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="46&#95;13&#95;0&#95;N&#95;5&#95;33&#95;0&#95;E&#95;region:FR&#95;type:adm3rd"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/46.21667/5.55/ru" data-zoom="12" data-lat="46.21667" data-lon="5.55" data-lang="ru" data-overlays="[&quot;_d3e26dc452937ca6b2a7e7cd284cb01e25a43171&quot;]">46°13′&#160;с.&#160;ш. 5°33′&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;params=46_13_0_N_5_33_0_E_region:FR_type:adm3rd"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=46.21667,5.55000&amp;q=46.21667,5.55000&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=5.55000,46.21667&amp;pt=5.55000,46.21667&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=46.21667&amp;mlon=5.55000&amp;zoom=12"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Изернор (кантон)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-3268ad043786393b" style="" data-name="Кантон Франции"><tbody><tr><td colspan="2" class="" style="text-align:center;"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" class="mw-redirect" title="Кантон Франции">Кантон Франции</a>&#32;<span class="nowrap">(АЕ 3-го уровня)</span></td></tr><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Изернор</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Izernore</span></span></td></tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;text-align: center; padding-bottom:0.25em;">
+<span class="no-wikidata" data-wikidata-property-id="P625"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="46&#95;13&#95;0&#95;N&#95;5&#95;33&#95;0&#95;E&#95;region:FR&#95;type:adm3rd"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/46.21667/5.55/ru" data-zoom="12" data-lat="46.21667" data-lon="5.55" data-lang="ru" data-overlays="[&quot;_d3e26dc452937ca6b2a7e7cd284cb01e25a43171&quot;]">46°13′&#160;с.&#160;ш. 5°33′&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;params=46_13_0_N_5_33_0_E_region:FR_type:adm3rd"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=46.21667,5.55000&amp;q=46.21667,5.55000&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=5.55000,46.21667&amp;pt=5.55000,46.21667&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=46.21667&amp;mlon=5.55000&amp;zoom=12"><span>O</span></a></span></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Страна</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P17" class="no-wikidata"><span class="nowrap" data-sort-value="Франция"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция"><span class="wrap">Франция</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Регионы Франции">Регион</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%A0%D0%BE%D0%BD%D0%B0_%E2%80%94_%D0%90%D0%BB%D1%8C%D0%BF%D1%8B" title="Рона — Альпы">Рона — Альпы</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%94%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Департаменты Франции">Департамент</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%AD%D0%BD_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)" title="Эн (департамент)">Эн</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9E%D0%BA%D1%80%D1%83%D0%B3%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Округа Франции">Округ</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9D%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Нантюа (округ)">Нантюа</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Включает <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Коммуны Франции">коммун</a></th>
+<td class="plainlist" style="width:60%;">
+10</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Центр</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P36" class="no-wikidata"><a href="/wiki/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80" title="Изернор">Изернор</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Советник</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P6" class="no-wikidata">Mario Borroni</span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">История и география</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Дата упразднения</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q1524443$ec9ade66-4de6-6610-b58d-08d0068915cd" class="wikidata-claim" data-wikidata-property-id="P576"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/21_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="21 марта">21 марта</a> <a href="/wiki/2015_%D0%B3%D0%BE%D0%B4" title="2015 год">2015</a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Площадь</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P2046" class="no-wikidata">128,09&#160;км²</span></td>
+</tr><tr>
+<td colspan="2" class="plainlist" style="text-align:center;padding-bottom:0; border-bottom:0; text-align:left; font-weight:bold;">
+Высота</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="font-weight:normal; padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;">&#160;•&#160;Максимальная</th>
+<td class="plainlist" style="padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;">
+862 м</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="font-weight:normal; padding-top:0; border-top:0;">&#160;•&#160;Минимальная</th>
+<td class="plainlist" style="padding-top:0; border-top:0;">
+260 м</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Часовой пояс</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P421" class="no-wikidata"><a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a>, летом <a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Население</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Население</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P1082" class="no-wikidata">5588&#160;чел.&#160;(<span data-wikidata-qualifier-id="P585">2006</span>)</span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Цифровые идентификаторы</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Код <a href="/wiki/%D0%9A%D0%BE%D0%B4_INSEE" title="Код INSEE">INSEE</a></th>
+<td class="plainlist" style="width:60%;">
+0116</td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;">
+<span data-wikidata-property-id="P242" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Map_canton_code_01_16.svg" class="mw-file-description" title="Кантон на карте департамента Эн"><img alt="Кантон на карте департамента Эн" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Map_canton_code_01_16.svg/250px-Map_canton_code_01_16.svg.png" decoding="async" width="250" height="240" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Map_canton_code_01_16.svg/500px-Map_canton_code_01_16.svg.png 1.5x" data-file-width="494" data-file-height="475" /></a></span><br /><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block">Кантон на карте департамента <a href="/wiki/%D0%AD%D0%BD_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)" title="Эн (департамент)">Эн</a></span></span></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;background:#cfe3ff; font-size: 85%;">
+<i>Примечания:</i>&#160;Площадь указана на основании данных Французского <a href="/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80" title="Земельный кадастр">Земельного кадастра</a>, которые не включают <a href="/wiki/%D0%AD%D1%81%D1%82%D1%83%D0%B0%D1%80%D0%B8%D0%B9" title="Эстуарий">эстуарии</a>, озёра, пруды и ледники площадью больше 1 км².</td>
+</tr>
+</tbody></table>
+<p><b>Изерно́р</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Izernore</span>) — <a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" class="mw-redirect" title="Кантон (Франция)">кантон</a> во <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франции</a>, находится в регионе <a href="/wiki/%D0%A0%D0%BE%D0%BD%D0%B0_%E2%80%94_%D0%90%D0%BB%D1%8C%D0%BF%D1%8B" title="Рона — Альпы">Рона — Альпы</a>, департамент <a href="/wiki/%D0%AD%D0%BD_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)" title="Эн (департамент)">Эн</a>. Входит в состав округа <a href="/wiki/%D0%9D%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Нантюа (округ)">Нантюа</a>.
+</p><p><a href="/wiki/%D0%9A%D0%BE%D0%B4_INSEE" title="Код INSEE">Код INSEE</a> кантона — 0116. Всего в кантон Изернор входят 10 коммун, из них главной коммуной является <a href="/wiki/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80" title="Изернор">Изернор</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Коммуны_кантона"><span class="tocnumber">1</span> <span class="toctext">Коммуны кантона</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Население"><span class="tocnumber">2</span> <span class="toctext">Население</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#См._также"><span class="tocnumber">3</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ссылки"><span class="tocnumber">4</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Коммуны_кантона"><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D1.83.D0.BD.D1.8B_.D0.BA.D0.B0.D0.BD.D1.82.D0.BE.D0.BD.D0.B0"></span>Коммуны кантона</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Коммуны кантона»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Коммуны кантона»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Коммуна</th>
+<th>Население,<br />чел</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Почтовый индекс">Почтовый<br />индекс</a></th>
+<th><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальный институт статистики и экономических исследований Франции">Код<br />INSEE</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D0%B7%D0%BE%D0%BD" title="Болозон">Болозон</a>
+</td>
+<td style="text-align:right;">99
+</td>
+<td style="text-align:center;">01450
+</td>
+<td>01051
+</td></tr>
+<tr>
+<td><b><a href="/wiki/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80" title="Изернор">Изернор</a></b>
+</td>
+<td style="text-align:right;">2 140
+</td>
+<td style="text-align:center;">01580
+</td>
+<td>01192
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9B%D0%B5%D0%B9%D1%81%D0%B0%D1%80" class="mw-redirect" title="Лейсар">Лейсар</a>
+</td>
+<td style="text-align:right;">163
+</td>
+<td style="text-align:center;">01450
+</td>
+<td>01214
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B0%D1%84%D0%BB%D0%BE%D0%BD-%D0%93%D1%80%D0%B0%D0%BD%D0%B6" title="Матафлон-Гранж">Матафлон-Гранж</a>
+</td>
+<td style="text-align:right;">641
+</td>
+<td style="text-align:center;">01580
+</td>
+<td>01240
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D1%8E%D1%80%D1%8C%D1%91-%D0%92%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C%D1%8F" title="Нюрьё-Волонья">Нюрьё-Волонья</a>
+</td>
+<td style="text-align:right;">1 045
+</td>
+<td style="text-align:center;">01460
+</td>
+<td>01267
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B5%D0%B9%D1%80%D1%8C%D1%8F" class="mw-redirect" title="Пейрья">Пейрья</a>
+</td>
+<td style="text-align:right;">165
+</td>
+<td style="text-align:center;">01430
+</td>
+<td>01293
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BD%D1%8C%D1%8F" title="Самонья">Самонья</a>
+</td>
+<td style="text-align:right;">627
+</td>
+<td style="text-align:center;">01580
+</td>
+<td>01392
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B5%D1%80%D1%8C%D0%B5%D1%80-%D1%81%D1%8E%D1%80-%D0%AD%D0%BD" title="Серьер-сюр-Эн">Серьер-сюр-Эн</a>
+</td>
+<td style="text-align:right;">111
+</td>
+<td style="text-align:center;">01450
+</td>
+<td>01404
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0-%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8C" title="Сонтонна-ла-Монтань">Сонтонна-ла-Монтань</a>
+</td>
+<td style="text-align:right;">315
+</td>
+<td style="text-align:center;">01580
+</td>
+<td>01410
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%8C_(%D0%AD%D0%BD)" title="Сень (Эн)">Сень</a>
+</td>
+<td style="text-align:right;">282
+</td>
+<td style="text-align:center;">01430
+</td>
+<td>01067
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Население"><span id=".D0.9D.D0.B0.D1.81.D0.B5.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span>Население</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Население»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Население»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Население кантона на <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 год</a> составляло 5 588 человек.
+</p>
+<table class="wikitable" style="margin-left:auto; margin-right:auto">
+<caption style="margin-bottom:0.5em; font-size:1.1em">Численность населения по годам</caption>
+<tbody><tr>
+<th scope="col">1962</th><th scope="col">1968</th><th scope="col">1975</th><th scope="col">1982</th><th scope="col">1990</th><th scope="col">1999</th><th scope="col">2006</th><th scope="col">2007</th>
+</tr><tr style="text-align:center">
+<td>1 898</td><td>2 126</td><td>2 284</td><td>2 908</td><td>3 550</td><td>4 519</td><td>5 588</td><td>-</td>
+</tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Список округов Франции">Список округов Франции</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.lion1906.com/Pages/ResultatLocalisation.php?InseeVille=010192">Кантон Изернор на карте Франции</a>&#160;<small class="ref-info">(недоступная ссылка)</small></li>
+<li><a rel="nofollow" class="external text" href="http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/pages2009/pdf/dep01.pdf">Население коммун департамента Эн на сайте INSEE</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100816014102/http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/pages2009/pdf/dep01.pdf">Архивная копия</a> от 16 августа 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Stub-meta plainlinks metadata ambox ambox-style" style="border:0; background:none; color:inherit; margin:0; font-style:italic;"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ambox_globe.svg" class="mw-file-description"><img alt="Административная единица" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ambox_globe.svg/40px-Ambox_globe.svg.png" decoding="async" width="30" height="30" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ambox_globe.svg/60px-Ambox_globe.svg.png 1.5x" data-file-width="512" data-file-height="512" /></a></span></div></div><div class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a>&#32;о единице административно-территориального деления. Помогите Википедии, дополнив её.</div><div class="mbox-textsmall-div hide-when-compact"></div></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Кантоны&#95;департамента&#95;Эн" data-name="Кантоны департамента Эн"><table class="nowraplinks collapsible collapsable navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D1%8B_%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0_%D0%AD%D0%BD" title="Перейти к шаблону «Кантоны департамента Эн»"><img alt="Перейти к шаблону «Кантоны департамента Эн»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Кантоны&#95;департамента&#95;Эн" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D1%8B_%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0_%D0%AD%D0%BD" title="Кантоны департамента Эн">Кантоны департамента Эн</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D1%8C%D1%91-%D0%B0%D0%BD-%D0%91%D1%8E%D0%B6%D0%B5_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Амберьё-ан-Бюже (кантон)">Амберьё-ан-Бюже</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%B6%D0%B5-%D0%BB%D0%B5-%D0%A8%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Баже-ле-Шатель (кантон)">Баже-ле-Шатель</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BB%D0%B5_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Белле (кантон)">Белле</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B0%D1%80%D0%B4-%D1%81%D1%8E%D1%80-%D0%92%D0%B0%D0%BB%D1%8C%D1%81%D0%B5%D1%80%D0%B8%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Бельгард-сюр-Вальсерин (кантон)">Бельгард-сюр-Вальсерин</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D0%BD%D0%BE_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Брено (кантон)">Брено</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0%D1%80-%D0%BB%D0%B5-%D0%94%D0%BE%D0%BC%D0%B1_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Виллар-ле-Домб (кантон)">Виллар-ле-Домб</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D1%80%D1%8C%D1%8F_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Вирья (кантон)">Вирья</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D1%80%D1%8C%D1%91-%D0%BB%D0%B5-%D0%93%D1%80%D0%B0%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Вирьё-ле-Гран (кантон)">Вирьё-ле-Гран</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%91%D1%83%D1%80%D0%BA-%D0%B0%D0%BD-%D0%91%D1%80%D0%B5%D1%81" title="Восточный Бурк-ан-Брес">Восточный Бурк-ан-Брес</a></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BA%D1%81_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Жекс (кантон)">Жекс</a></li>
+<li><a class="mw-selflink selflink">Изернор</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Колиньи (кантон)">Колиньи</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%BD%D0%B6_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Коллонж (кантон)">Коллонж</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D0%BD%D1%8C%D1%91_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Ланьё (кантон)">Ланьё</a></li>
+<li><a href="/wiki/%D0%9B%D1%8E%D0%B8_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Люи (кантон)">Люи</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BC%D1%8C%D1%91_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Мексимьё (кантон)">Мексимьё</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D1%80%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Мирибель (кантон)">Мирибель</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BB%D1%8E%D1%8D%D0%BB%D1%8C_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Монлюэль (кантон)">Монлюэль</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%80%D0%B5%D0%B2%D0%B5%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%91%D1%80%D0%B5%D1%81_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Монревель-ан-Брес (кантон)">Монревель-ан-Брес</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Нантюа (кантон)">Нантюа</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D0%9B%D0%BE%D0%BD%D0%B5%D1%81_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Отвиль-Лонес (кантон)">Отвиль-Лонес</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%BE%D0%BD%D0%BD%D0%B0_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Перонна (кантон)">Перонна</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%B4%E2%80%99%D0%AD%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Пон-д’Эн (кантон)">Пон-д’Эн</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%B4%D0%B5-%D0%92%D0%B5%D0%BB%D1%8C_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Пон-де-Вель (кантон)">Пон-де-Вель</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%B4%D0%B5-%D0%92%D0%BE_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Пон-де-Во (кантон)">Пон-де-Во</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%81%D0%B5%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Понсен (кантон)">Понсен</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D1%80%D1%8C%D1%91_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Рерьё (кантон)">Рерьё</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9E%D0%B9%D0%BE%D0%BD%D0%BD%D0%B0" title="Северная Ойонна">Северная Ойонна</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D1%83%D1%80%D0%BA-%D0%B0%D0%BD-%D0%91%D1%80%D0%B5%D1%81" title="Северо-центральный Бурк-ан-Брес">Северо-центральный Бурк-ан-Брес</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B7%D0%B5%D1%80%D1%8C%D1%8F_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Сезерья (кантон)">Сезерья</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%81%D0%B5%D0%BB%D1%8C_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD,_%D0%AD%D0%BD)" title="Сесель (кантон, Эн)">Сесель</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A0%D0%B0%D0%BC%D0%B1%D0%B5%D1%80-%D0%B0%D0%BD-%D0%91%D1%8E%D0%B6%D0%B5_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Сен-Рамбер-ан-Бюже (кантон)">Сен-Рамбер-ан-Бюже</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A2%D1%80%D0%B8%D0%B2%D1%8C%D0%B5-%D0%B4%D0%B5-%D0%9A%D1%83%D1%80%D1%82_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Сен-Тривье-де-Курт (кантон)">Сен-Тривье-де-Курт</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A2%D1%80%D0%B8%D0%B2%D1%8C%D0%B5-%D1%81%D1%8E%D1%80-%D0%9C%D1%83%D0%B0%D0%BD%D1%8C%D1%8F%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Сен-Тривье-сюр-Муаньян (кантон)">Сен-Тривье-сюр-Муаньян</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D0%B2%D1%83_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Треву (кантон)">Треву</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%84%D1%84%D0%BE%D1%80-%D0%9A%D1%8E%D0%B8%D0%B7%D1%8C%D1%8F_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Треффор-Кюизья (кантон)">Треффор-Кюизья</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%B0%D1%81%D1%81%D0%B5_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Туассе (кантон)">Туассе</a></li>
+<li><a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B5-%D0%92%D0%BE%D0%BB%D1%8C%D1%82%D0%B5%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Ферне-Вольтер (кантон)">Ферней-Вольтер</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%BB%D0%B0%D0%BC%D0%BE%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Шаламон (кантон)">Шаламон</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C-%D0%B0%D0%BD-%D0%92%D0%B0%D0%BB%D1%8C%D1%80%D0%BE%D0%BC%D0%B5_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Шампань-ан-Вальроме (кантон)">Шампань-ан-Вальроме</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%82%D0%B8%D0%B9%D0%BE%D0%BD-%D1%81%D1%8E%D1%80-%D0%A8%D0%B0%D0%BB%D0%B0%D1%80%D0%BE%D0%BD_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Шатийон-сюр-Шаларон (кантон)">Шатийон-сюр-Шаларон</a></li>
+<li><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9E%D0%B9%D0%BE%D0%BD%D0%BD%D0%B0" title="Южная Ойонна">Южная Ойонна</a></li>
+<li><a href="/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%91%D1%83%D1%80%D0%BA-%D0%B0%D0%BD-%D0%91%D1%80%D0%B5%D1%81" title="Южный Бурк-ан-Брес">Южный Бурк-ан-Брес</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐wf6mq
+Cached time: 20260212102109
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.332 seconds
+Real time usage: 0.462 seconds
+Preprocessor visited node count: 4853/1000000
+Revision size: 4469/2097152 bytes
+Post‐expand include size: 59072/2097152 bytes
+Template argument size: 5357/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4448/5000000 bytes
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 6149368/52428800 bytes
+Number of Wikibase entities loaded: 6/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  401.209      1 -total
+ 72.69%  291.642      1 Шаблон:Кантон_Франции
+ 71.89%  288.430      1 Шаблон:Административная_единица
+ 67.93%  272.541      1 Шаблон:Карточка
+ 24.00%   96.303     18 Шаблон:Wikidata
+ 12.62%   50.651      1 Шаблон:Карточка/оригинал_названия
+ 11.69%   46.913      1 Шаблон:Ate-stub
+ 10.09%   40.482      1 Шаблон:Stub-meta
+  9.87%   39.602      1 Шаблон:Wikidata-coords
+  9.56%   38.340      1 Шаблон:Ambox
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:2755332:|#|:idhash:canonical and timestamp 20260212102109 and revision id 147551214. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Изернор_(кантон)&amp;oldid=147551214">https://ru.wikipedia.org/w/index.php?title=Изернор_(кантон)&amp;oldid=147551214</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Административные единицы по алфавиту">Административные единицы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D1%8B_%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0_%D0%AD%D0%BD" title="Категория:Кантоны департамента Эн">Кантоны департамента Эн</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%A2%D0%94:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:АТД:Последняя правка: в прошлом году">ПРО:АТД:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_%D0%B2_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B5" title="Категория:Википедия:Статьи с автопростановкой языка в карточке">Википедия:Статьи с автопростановкой языка в карточке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE%D0%B1_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%D1%85" title="Категория:Незавершённые статьи об административных единицах">Незавершённые статьи об административных единицах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80+%28%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80+%28%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;oldid=147551214" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_%28%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%29&amp;id=147551214&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2598%25D0%25B7%25D0%25B5%25D1%2580%25D0%25BD%25D0%25BE%25D1%2580_%28%25D0%25BA%25D0%25B0%25D0%25BD%25D1%2582%25D0%25BE%25D0%25BD%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2598%25D0%25B7%25D0%25B5%25D1%2580%25D0%25BD%25D0%25BE%25D1%2580_%28%25D0%25BA%25D0%25B0%25D0%25BD%25D1%2582%25D0%25BE%25D0%25BD%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_%28%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1524443" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C4%B0zernor_(kanton)" title="İzernor (kanton) — азербайджанский" lang="az" hreflang="az" data-title="İzernor (kanton)" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Cant%C3%B3_d%27Izernore" title="Cantó d&#039;Izernore — каталанский" lang="ca" hreflang="ca" data-title="Cantó d&#039;Izernore" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Kanton_Izernore" title="Kanton Izernore — чешский" lang="cs" hreflang="cs" data-title="Kanton Izernore" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Kanton_Izernore" title="Kanton Izernore — немецкий" lang="de" hreflang="de" data-title="Kanton Izernore" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Canton_of_Izernore" title="Canton of Izernore — английский" lang="en" hreflang="en" data-title="Canton of Izernore" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kantono_Izernore" title="Kantono Izernore — эсперанто" lang="eo" hreflang="eo" data-title="Kantono Izernore" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Cant%C3%B3n_de_Izernore" title="Cantón de Izernore — испанский" lang="es" hreflang="es" data-title="Cantón de Izernore" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Canton_d%27Izernore" title="Canton d&#039;Izernore — французский" lang="fr" hreflang="fr" data-title="Canton d&#039;Izernore" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%BB%D5%A6%D5%A5%D6%80%D5%B6%D5%B8%D6%80_(%D5%AF%D5%A1%D5%B6%D5%BF%D5%B8%D5%B6)" title="Իզերնոր (կանտոն) — армянский" lang="hy" hreflang="hy" data-title="Իզերնոր (կանտոն)" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Cantone_di_Izernore" title="Cantone di Izernore — итальянский" lang="it" hreflang="it" data-title="Cantone di Izernore" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Canton_d%27Izernore" title="Canton d&#039;Izernore — люксембургский" lang="lb" hreflang="lb" data-title="Canton d&#039;Izernore" data-language-autonym="Lëtzebuergesch" data-language-local-name="люксембургский" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Kanton_Izernore" title="Kanton Izernore — нидерландский" lang="nl" hreflang="nl" data-title="Kanton Izernore" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Cantonul_Izernore" title="Cantonul Izernore — румынский" lang="ro" hreflang="ro" data-title="Cantonul Izernore" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Izernore_(kant%C3%B3n)" title="Izernore (kantón) — словацкий" lang="sk" hreflang="sk" data-title="Izernore (kantón)" data-language-autonym="Slovenčina" data-language-local-name="словацкий" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Kantoni_Izernore" title="Kantoni Izernore — албанский" lang="sq" hreflang="sq" data-title="Kantoni Izernore" data-language-autonym="Shqip" data-language-local-name="албанский" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Izernore_(t%E1%BB%95ng)" title="Izernore (tổng) — вьетнамский" lang="vi" hreflang="vi" data-title="Izernore (tổng)" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1524443#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 августа 2025 года в 01:41.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-wf6mq","wgBackendResponseTime":648,"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.462","ppvisitednodes":{"value":4853,"limit":1000000},"revisionsize":{"value":4469,"limit":2097152},"postexpandincludesize":{"value":59072,"limit":2097152},"templateargumentsize":{"value":5357,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4448,"limit":5000000},"entityaccesscount":{"value":6,"limit":500},"timingprofile":["100.00%  401.209      1 -total"," 72.69%  291.642      1 Шаблон:Кантон_Франции"," 71.89%  288.430      1 Шаблон:Административная_единица"," 67.93%  272.541      1 Шаблон:Карточка"," 24.00%   96.303     18 Шаблон:Wikidata"," 12.62%   50.651      1 Шаблон:Карточка/оригинал_названия"," 11.69%   46.913      1 Шаблон:Ate-stub"," 10.09%   40.482      1 Шаблон:Stub-meta","  9.87%   39.602      1 Шаблон:Wikidata-coords","  9.56%   38.340      1 Шаблон:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":6149368,"limit":52428800},"limitreport-logs":"Loaded datatype quantity of P2132 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype commonsMedia of P1621 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P36 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P300 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P78 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-wf6mq","timestamp":"20260212102109","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0418\u0437\u0435\u0440\u043d\u043e\u0440 (\u043a\u0430\u043d\u0442\u043e\u043d)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%98%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1524443","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1524443","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-10-08T13:22:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/Map_canton_code_01_16.svg"}</script>
+</body>
+</html>
