@@ -45,7 +45,6 @@ def remove_stopwords(tokens):
 
 
 def save_tokens(tokens, filename):
-    # Изменяем расширение файла на .txt
     output_file = TOKENS_DIR / f"{Path(filename).stem}_tokens.txt"
     with open(output_file, "w", encoding="utf-8") as f:
         for token in sorted(tokens):
