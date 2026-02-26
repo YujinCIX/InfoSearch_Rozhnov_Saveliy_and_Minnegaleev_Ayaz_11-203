@@ -43,19 +43,6 @@ python build_index.py --pages_dir pages --index_txt index.txt --output inverted_
 python search.py --index inverted_index.json --index_txt index.txt
 ```
 
-## Пример работы
-```bash
-Булев поиск (поддерживаются AND, OR, NOT, скобки).
-Пример: (Клеопатра AND Цезарь) OR (Антоний AND NOT Цицерон) OR Помпей
-Для выхода введите 'exit'
-
-Запрос > Лермонтов AND NOT поэт
-Найдено документов: 3
-0007    https://ru.wikipedia.org/wiki/Сражение_при_Кальдьеро
-0012    https://ru.wikipedia.org/wiki/Вьеторис,_Леопольд
-0099    https://ru.wikipedia.org/wiki/Медведковское_шоссе
-```
-
 ## Что на выходе
 ```bash
     inverted_index.json — готовый инвертированный индекс.
