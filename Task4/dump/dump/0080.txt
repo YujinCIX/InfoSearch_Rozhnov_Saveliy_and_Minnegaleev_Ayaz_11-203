@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Секретарь-референт — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"008d19d1-92f4-46f1-9814-e75183fd5e1a","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Секретарь-референт","wgTitle":"Секретарь-референт","wgCurRevisionId":150975657,"wgRevisionId":150975657,"wgArticleId":273201,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Википедия:Неавторитетный источник с декабря 2016","Википедия:Статьи с утверждениями, основанными на неавторитетном источнике","Википедия:Статьи, требующие конкретизации","Википедия:Статьи с шаблонами недостатков по алфавиту","Статьи со ссылками на Викисловарь","Профессии"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Секретарь-референт","wgRelevantArticleId":273201,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":131126615,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q80687","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/92/Rose_Mary_Woods.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="799">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Секретарь-референт — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Секретарь-референт rootpage-Секретарь-референт skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Секретарь-референт</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;stable=1">версии, проверенной 5 августа 2024 года</a>; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;oldid=131126615&amp;diff=cur&amp;diffonly=0">10 правок</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><figure typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Rose_Mary_Woods.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rose_Mary_Woods.jpg/330px-Rose_Mary_Woods.jpg" decoding="async" width="300" height="200" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rose_Mary_Woods.jpg/500px-Rose_Mary_Woods.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rose_Mary_Woods.jpg/650px-Rose_Mary_Woods.jpg 2x" data-file-width="650" data-file-height="433" /></a><figcaption>Роуз Мэри Вудс, секретарь <a href="/wiki/%D0%9D%D0%B8%D0%BA%D1%81%D0%BE%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4" title="Никсон, Ричард">Ричарда Никсона</a>.</figcaption></figure>
+<p><b>Секрета́рь-рефере́нт</b><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>&#160;— профессиональный административный <a href="/wiki/%D0%9E%D1%84%D0%B8%D1%81" title="Офис">офисный</a> (<a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%BE%D1%80%D0%B0_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F)" title="Контора (Российская империя)">конторский</a>) <a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA" title="Работник">работник</a>, с широким кругом обязанностей от приёма <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" class="mw-redirect" title="Телефонный аппарат">телефонных звонков</a> (ресепшионист) до помощника руководителя (<a href="/w/index.php?title=%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Личный секретарь (страница отсутствует)">личный секретарь</a>). 
+</p><p>От современного секретаря-референта обычно требуется навык работы с <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Персональный компьютер">персональным компьютером</a>, знание иностранных языков, <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Коммуникабельность">коммуникабельность</a>, <a href="/w/index.php?title=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Культура общения (страница отсутствует)">культура общения</a>, <a href="/wiki/%D0%9F%D1%83%D0%BD%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Пунктуальность">пунктуальность</a>, <a href="/w/index.php?title=%D0%90%D0%BA%D0%BA%D1%83%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Аккуратность (страница отсутствует)">аккуратность</a> и так далее.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Обязанности"><span class="tocnumber">1</span> <span class="toctext">Обязанности</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#История"><span class="tocnumber">2</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Образ_секретаря_в_коллективном_сознании"><span class="tocnumber">3</span> <span class="toctext">Образ секретаря в коллективном сознании</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#См._также"><span class="tocnumber">4</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Обязанности"><span id=".D0.9E.D0.B1.D1.8F.D0.B7.D0.B0.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span>Обязанности</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Обязанности»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=1" title="Редактировать код раздела «Обязанности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Приём телефонных звонков, поступающих руководителю;</li>
+<li>Работа с <a href="/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82" title="Документ">документами</a>: определение важности, подготовка, оформление, рассылка, получение, хранение, систематизация;</li>
+<li>Планирование и подготовка приёма посетителей;</li>
+<li>Помощь в заказе гостиниц и авиабилетов;</li>
+<li>Участие в подготовке деловых переговоров;</li>
+<li>Заказ канцтоваров и прочих вещей, необходимых для жизнедеятельности офиса (конторы), иногда&#160;— обеспечение руководителя продуктами.</li></ul>
+<p>По данным <a href="/wiki/%D0%A0%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Рекрутинговое агентство">рекрутинговой компании</a> <i>MarksMan</i>, секретарь&#160;— это одна из тех должностей, которые связаны с большим количеством переработок и работы вне рабочего времени. Секретари-референты, а также водители и работники некоторых других специальностей вынуждены приспосабливаться к рабочему графику своего начальства и большую часть своего времени находятся в состоянии готовности<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="История"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span>История</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=2" title="Редактировать раздел «История»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=2" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Слово секретарь происходит от <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;"><a href="https://ru.wiktionary.org/wiki/secretus#Семантические_свойства" class="extiw" title="wikt:secretus">secretus</a></span>: в <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%A0%D0%B8%D0%BC" title="Древний Рим">Древнем Риме</a> секретарями назывались <a href="/wiki/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE" class="mw-disambig" title="Доверенное лицо">доверенные лица</a>; первоначально ими были мужчины. Секретари могли сосредотачивать в своих руках значительную власть, подменяя собой <a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8%D0%BD" class="mw-disambig" title="Господин">господина</a>, при котором состояли<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>, что выразилось в появлении таких должностей как <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C" class="mw-disambig" title="Генеральный секретарь">генеральный секретарь</a> и <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C" class="mw-disambig" title="Государственный секретарь">государственный секретарь</a> (<a href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%81-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C" title="Статс-секретарь">статс-секретарь</a>).
+</p><p>Начиная с 1880-х годов (с изобретением <a href="/wiki/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BA%D0%B0" class="mw-redirect" title="Печатная машинка">печатной машинки</a>) профессия секретаря начала приобретать и женское лицо, и к концу <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая мировая война">Первой мировой войны</a> в этой профессии стали появляться женщины секретари-референты.
+</p><p>С развитием интернет-технологий появилась новая разновидность секретарей&#160;— <span data-interwiki-lang="en" data-interwiki-article="Virtual&#95;assistant"><a href="/w/index.php?title=%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Виртуальный секретарь (страница отсутствует)">виртуальный секретарь</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Virtual_assistant" class="extiw" title="en:Virtual assistant"><span title="Virtual&#95;assistant — версия статьи «Виртуальный секретарь» на английском языке">[англ.]</span></a></sup>, или виртуальный ассистент. Это частное лицо или фирма, предоставляющая нанимателю услуги, традиционно составляющие обязанности секретаря, без физического присутствия в офисе. Эта разновидность онлайн-услуг востребована как начинающими предпринимателями, которым просто выгодно купить услугу написания писем или приёма переведённых телефонных звонков, нежели снимать офис, нанимать работника и платить за него социальные налоги, так и крупным компаниям, стремящимся подчеркнуть свою креативность и созвучность новым технологиям. Также этот вид секретаря позволяет получить наиболее качественные услуги от разных специалистов в своём деле по цене одного работника.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Образ_секретаря_в_коллективном_сознании"><span id=".D0.9E.D0.B1.D1.80.D0.B0.D0.B7_.D1.81.D0.B5.D0.BA.D1.80.D0.B5.D1.82.D0.B0.D1.80.D1.8F_.D0.B2_.D0.BA.D0.BE.D0.BB.D0.BB.D0.B5.D0.BA.D1.82.D0.B8.D0.B2.D0.BD.D0.BE.D0.BC_.D1.81.D0.BE.D0.B7.D0.BD.D0.B0.D0.BD.D0.B8.D0.B8"></span>Образ секретаря в коллективном сознании</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Образ секретаря в коллективном сознании»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=3" title="Редактировать код раздела «Образ секретаря в коллективном сознании»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Должностные обязанности секретаря часто ассоциируются с умением варить кофе и печатать на печатной машинке (персональном компьютере)<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> <style data-mw-deduplicate="TemplateStyles:r141254988">.mw-parser-output .ts-fix-template{font-style:normal;font-weight:normal;white-space:nowrap}.mw-parser-output .ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}html.skin-theme-clientpref-night .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented>a:not(:hover){border-bottom:1px dotted;text-decoration:none}}</style><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники"><span title="утверждение основано на потенциально неавторитетном источнике (25 декабря 2016)">неавторитетный источник</span></a></i>&#93;</sup> или отвечать на телефонные звонки.
+Согласно официально проведённым <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141254988" /><sup class="ts-fix-template">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D0%B5%D0%B3%D0%B0%D0%B9%D1%82%D0%B5_%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Избегайте неопределённых выражений">кем?</a></i>&#93;</sup> исследованиям, главным рабочим качеством секретаря считается исполнительность<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141254988" /><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники"><span title="утверждение основано на потенциально неавторитетном источнике (25 декабря 2016)">неавторитетный источник</span></a></i>&#93;</sup>, организованность, дипломатичность, ответственность и пунктуальность.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=4" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=4" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="День профессиональных административных работников">День профессиональных административных работников</a> (День секретаря).</li>
+<li><a href="/wiki/%D0%9E%D1%84%D0%B8%D1%81-%D0%BB%D0%B5%D0%B4%D0%B8" title="Офис-леди">Офис-леди</a></li>
+<li><a href="/wiki/%D0%9E%D1%84%D0%B8%D1%81-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80" title="Офис-менеджер">Офис-менеджер</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=5" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Толковый словарь русского языка начала XXI века. Актуальная лексика / под ред. <i>Г. Н. Скляревской</i>. — <abbr title="Москва">М.</abbr>&#160;: Эксмо, 2006. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5699159134" class="internal mw-magiclink-isbn">ISBN 5-699-15913-4</a>.</span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://mnl.ru/vacansy/competitors/news2179.php">Больше всех от ненормированного рабочего дня страдают секретари, водители и бухгалтеры</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 17 ноября 2010.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20101128111409/http://mnl.ru/vacansy/competitors/news2179.php">Архивировано</a> 28 ноября 2010 года.</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kommersant.ru/doc.aspx?DocsID=19559">Товарищ идеальный секретарь</a></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.managerkurs.ru/sekdel/">Секретарь делопроизводитель (комплекс)</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 2 марта 2010.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20101228113405/http://www.managerkurs.ru/sekdel/">Архивировано</a> 28 декабря 2010 года.</span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://chelny-week.ru/2014/09/kakim-dolzhen-byt-idealnyj-sekretar/">Каким должен быть идеальный секретарь?</a>&#160;: Исследовательский центр рекрутингового портала «<i>Superjob</i>.<i>ru</i>» выяснил, какими, по мнению руководителей, должны быть идеальные секретари, и что для последних значит их профессия&#160;: [<span title="архивировано из первоисточника"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150128141203/http://chelny-week.ru/2014/09/kakim-dolzhen-byt-idealnyj-sekretar/">арх.</a> 28 января 2015</span>]&#32;// «Новая неделя»&#160;: газета.&#160;— 2014.&#160;—&#32;25 сентября.</span></span>
+</li>
+</ol></div></div><style data-mw-deduplicate="TemplateStyles:r141520016">.mw-parser-output .ts-Родственный_проект{background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%;margin:0 0 1em;padding:.4em;max-width:19em;width:19em;line-height:1.5}.mw-parser-output .ts-Родственный_проект th,.mw-parser-output .ts-Родственный_проект td{padding:.2em 0;vertical-align:middle}.mw-parser-output .ts-Родственный_проект th+td{padding-left:.4em}@media(min-width:720px){.mw-parser-output .ts-Родственный_проект{clear:right;float:right;width:19em;margin-left:1em}}</style>
+<table role="presentation" class="metadata plainlinks ts-Родственный&#95;проект noprint ruwikiWikimediaNavigation">
+
+<tbody><tr>
+<th style="width:10%;"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/40px-Notification-icon-Wiktionary-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/60px-Notification-icon-Wiktionary-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span>
+</th>
+<td>В <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Викисловарь">Викисловаре</a> есть статья «<span class="wikidict-ref"><b><a href="https://ru.wiktionary.org/wiki/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" class="extiw" title="wikt:секретарь-референт">секретарь-референт</a></b></span>»
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=6" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Толковый словарь русского языка начала XXI века. Актуальная лексика / под ред. <i>Г. Н. Скляревской</i>. — <abbr title="Москва">М.</abbr>&#160;: Эксмо, 2006. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5699159134" class="internal mw-magiclink-isbn">ISBN 5-699-15913-4</a>.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q80687#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0141451.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://snl.no/sekretær">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="http://encykorea.aks.ac.kr/Contents/Item/E0025170">Корейской культуры</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">В&#160;библиографических каталогах</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4116469-6">4116469-6</a>, <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4054353-5">4054353-5</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007529422005171">987007529422005171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85119444">sh85119444</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F)" title="Национальная парламентская библиотека (Япония)">NDL</a>: <a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00563279">00563279</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph191870&amp;CON_LNG=ENG">ph191870</a>, <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph1124179&amp;CON_LNG=ENG">ph1124179</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐4rqvz
+Cached time: 20260212102152
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.166 seconds
+Real time usage: 0.239 seconds
+Preprocessor visited node count: 1175/1000000
+Revision size: 8795/2097152 bytes
+Post‐expand include size: 17022/2097152 bytes
+Template argument size: 1494/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7558/5000000 bytes
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 3135770/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  201.603      1 -total
+ 39.45%   79.527      1 Шаблон:BC
+ 19.06%   38.420      1 Шаблон:Примечания
+ 16.77%   33.810      1 Шаблон:Нп5
+ 15.42%   31.090      2 Шаблон:Не_АИ
+  7.93%   15.988      1 Шаблон:Публикация
+  6.65%   13.400      2 Шаблон:Cite_web
+  4.70%    9.479      1 Шаблон:Викисловарь
+  3.93%    7.933      1 Шаблон:Родственный_проект
+  2.49%    5.030      2 Шаблон:Replace
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:273201:|#|:idhash:canonical and timestamp 20260212102152 and revision id 150975657. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Секретарь-референт&amp;oldid=150975657">https://ru.wikipedia.org/w/index.php?title=Секретарь-референт&amp;oldid=150975657</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Профессии">Профессии</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%81_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2016" title="Категория:Википедия:Неавторитетный источник с декабря 2016">Википедия:Неавторитетный источник с декабря 2016</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8,_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D0%BE%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Статьи с утверждениями, основанными на неавторитетном источнике">Википедия:Статьи с утверждениями, основанными на неавторитетном источнике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8" title="Категория:Википедия:Статьи, требующие конкретизации">Википедия:Статьи, требующие конкретизации</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Категория:Статьи со ссылками на Викисловарь">Статьи со ссылками на Викисловарь</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;oldid=150975657" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;id=150975657&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B5%25D1%2582%25D0%25B0%25D1%2580%25D1%258C-%25D1%2580%25D0%25B5%25D1%2584%25D0%25B5%25D1%2580%25D0%25B5%25D0%25BD%25D1%2582"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B5%25D1%2582%25D0%25B0%25D1%2580%25D1%258C-%25D1%2580%25D0%25B5%25D1%2584%25D0%25B5%25D1%2580%25D0%25B5%25D0%25BD%25D1%2582"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Secretaries" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q80687" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Secretario" title="Secretario — арагонский" lang="an" hreflang="an" data-title="Secretario" data-language-autonym="Aragonés" data-language-local-name="арагонский" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D8%A7%D9%84%D8%B3%D8%B1" title="أمانة السر — арабский" lang="ar" hreflang="ar" data-title="أمانة السر" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%83%D8%B1%D8%AA%D9%8A%D8%B1" title="سكرتير — Egyptian Arabic" lang="arz" hreflang="arz" data-title="سكرتير" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Secretari" title="Secretari — каталанский" lang="ca" hreflang="ca" data-title="Secretari" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Sekret%C3%A1%C5%99_(administrativa)" title="Sekretář (administrativa) — чешский" lang="cs" hreflang="cs" data-title="Sekretář (administrativa)" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Sekret%C3%A6r_(arbejde)" title="Sekretær (arbejde) — датский" lang="da" hreflang="da" data-title="Sekretær (arbejde)" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Sekret%C3%A4r" title="Sekretär — немецкий" lang="de" hreflang="de" data-title="Sekretär" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%AD%CE%B1%CF%82" title="Γραμματέας — греческий" lang="el" hreflang="el" data-title="Γραμματέας" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Secretary" title="Secretary — английский" lang="en" hreflang="en" data-title="Secretary" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Sekretario" title="Sekretario — эсперанто" lang="eo" hreflang="eo" data-title="Sekretario" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Secretario_(administraci%C3%B3n)" title="Secretario (administración) — испанский" lang="es" hreflang="es" data-title="Secretario (administración)" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Sekret%C3%A4r" title="Sekretär — эстонский" lang="et" hreflang="et" data-title="Sekretär" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Idazkari_(lanbidea)" title="Idazkari (lanbidea) — баскский" lang="eu" hreflang="eu" data-title="Idazkari (lanbidea)" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B4%DB%8C" title="منشی — персидский" lang="fa" hreflang="fa" data-title="منشی" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Sihteeri" title="Sihteeri — финский" lang="fi" hreflang="fi" data-title="Sihteeri" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Secr%C3%A9tariat" title="Secrétariat — французский" lang="fr" hreflang="fr" data-title="Secrétariat" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Sekretaresse" title="Sekretaresse — западнофризский" lang="fy" hreflang="fy" data-title="Sekretaresse" data-language-autonym="Frysk" data-language-local-name="западнофризский" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/R%C3%B9naire" title="Rùnaire — гэльский" lang="gd" hreflang="gd" data-title="Rùnaire" data-language-autonym="Gàidhlig" data-language-local-name="гэльский" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%96%D7%9B%D7%99%D7%A8" title="מזכיר — иврит" lang="he" hreflang="he" data-title="מזכיר" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%B5" title="सचिव — хинди" lang="hi" hreflang="hi" data-title="सचिव" data-language-autonym="हिन्दी" data-language-local-name="хинди" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Tajnik" title="Tajnik — хорватский" lang="hr" hreflang="hr" data-title="Tajnik" data-language-autonym="Hrvatski" data-language-local-name="хорватский" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Sekretaris" title="Sekretaris — индонезийский" lang="id" hreflang="id" data-title="Sekretaris" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Sekretario" title="Sekretario — идо" lang="io" hreflang="io" data-title="Sekretario" data-language-autonym="Ido" data-language-local-name="идо" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Segretario_(ufficio)" title="Segretario (ufficio) — итальянский" lang="it" hreflang="it" data-title="Segretario (ufficio)" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%A7%98%E6%9B%B8" title="秘書 — японский" lang="ja" hreflang="ja" data-title="秘書" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Sekretaris" title="Sekretaris — яванский" lang="jv" hreflang="jv" data-title="Sekretaris" data-language-autonym="Jawa" data-language-local-name="яванский" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%93%E1%83%98%E1%83%95%E1%83%90%E1%83%9C%E1%83%98" title="მდივანი — грузинский" lang="ka" hreflang="ka" data-title="მდივანი" data-language-autonym="ქართული" data-language-local-name="грузинский" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%AF%E0%B2%A6%E0%B2%B0%E0%B3%8D%E0%B2%B6%E0%B2%BF" title="ಕಾರ್ಯದರ್ಶಿ — каннада" lang="kn" hreflang="kn" data-title="ಕಾರ್ಯದರ್ಶಿ" data-language-autonym="ಕನ್ನಡ" data-language-local-name="каннада" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%B9%84%EC%84%9C" title="비서 — корейский" lang="ko" hreflang="ko" data-title="비서" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80" title="Секретар — македонский" lang="mk" hreflang="mk" data-title="Секретар" data-language-autonym="Македонски" data-language-local-name="македонский" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Setiausaha" title="Setiausaha — малайский" lang="ms" hreflang="ms" data-title="Setiausaha" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a href="https://new.wikipedia.org/wiki/%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%B5" title="सचिव — неварский" lang="new" hreflang="new" data-title="सचिव" data-language-autonym="नेपाल भाषा" data-language-local-name="неварский" class="interlanguage-link-target"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Secretaresse" title="Secretaresse — нидерландский" lang="nl" hreflang="nl" data-title="Secretaresse" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Sekret%C3%A6r_som_yrke" title="Sekretær som yrke — нюнорск" lang="nn" hreflang="nn" data-title="Sekretær som yrke" data-language-autonym="Norsk nynorsk" data-language-local-name="нюнорск" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Sekret%C3%A6r" title="Sekretær — норвежский букмол" lang="nb" hreflang="nb" data-title="Sekretær" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Sekretarka_(zaw%C3%B3d)" title="Sekretarka (zawód) — польский" lang="pl" hreflang="pl" data-title="Sekretarka (zawód)" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Secret%C3%A1rio_executivo" title="Secretário executivo — португальский" lang="pt" hreflang="pt" data-title="Secretário executivo" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Sekretar" title="Sekretar — сербскохорватский" lang="sh" hreflang="sh" data-title="Sekretar" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Secretary" title="Secretary — Simple English" lang="en-simple" hreflang="en-simple" data-title="Secretary" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Xoghaye" title="Xoghaye — сомали" lang="so" hreflang="so" data-title="Xoghaye" data-language-autonym="Soomaaliga" data-language-local-name="сомали" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_(%D0%B4%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82)" title="Секретар (дужност) — сербский" lang="sr" hreflang="sr" data-title="Секретар (дужност)" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Sekreterare_(assistent)" title="Sekreterare (assistent) — шведский" lang="sv" hreflang="sv" data-title="Sekreterare (assistent)" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%A9%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AE%BE%E0%AE%B3%E0%AE%B0%E0%AF%8D" title="நிறுவனத்தின் செயலாளர் — тамильский" lang="ta" hreflang="ta" data-title="நிறுவனத்தின் செயலாளர்" data-language-autonym="தமிழ்" data-language-local-name="тамильский" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sekreter" title="Sekreter — турецкий" lang="tr" hreflang="tr" data-title="Sekreter" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tw mw-list-item"><a href="https://tw.wikipedia.org/wiki/%C6%86twer%C9%9Btwer%C9%9Bfo%C9%94_/_%C6%86twer%C9%9Btwer%C9%9Bni" title="Ɔtwerɛtwerɛfoɔ / Ɔtwerɛtwerɛni — тви" lang="tw" hreflang="tw" data-title="Ɔtwerɛtwerɛfoɔ / Ɔtwerɛtwerɛni" data-language-autonym="Twi" data-language-local-name="тви" class="interlanguage-link-target"><span>Twi</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Th%C6%B0_k%C3%BD" title="Thư ký — вьетнамский" lang="vi" hreflang="vi" data-title="Thư ký" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%A7%98%E6%9B%B8" title="秘書 — китайский" lang="zh" hreflang="zh" data-title="秘書" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%A7%98%E6%9B%B8" title="秘書 — кантонский" lang="yue" hreflang="yue" data-title="秘書" data-language-autonym="粵語" data-language-local-name="кантонский" class="interlanguage-link-target"><span>粵語</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q80687#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 3 января 2026 года в 10:20.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-4rqvz","wgBackendResponseTime":409,"wgPageParseReport":{"limitreport":{"cputime":"0.166","walltime":"0.239","ppvisitednodes":{"value":1175,"limit":1000000},"revisionsize":{"value":8795,"limit":2097152},"postexpandincludesize":{"value":17022,"limit":2097152},"templateargumentsize":{"value":1494,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7558,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  201.603      1 -total"," 39.45%   79.527      1 Шаблон:BC"," 19.06%   38.420      1 Шаблон:Примечания"," 16.77%   33.810      1 Шаблон:Нп5"," 15.42%   31.090      2 Шаблон:Не_АИ","  7.93%   15.988      1 Шаблон:Публикация","  6.65%   13.400      2 Шаблон:Cite_web","  4.70%    9.479      1 Шаблон:Викисловарь","  3.93%    7.933      1 Шаблон:Родственный_проект","  2.49%    5.030      2 Шаблон:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":3135770,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-4rqvz","timestamp":"20260212102152","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0435\u043a\u0440\u0435\u0442\u0430\u0440\u044c-\u0440\u0435\u0444\u0435\u0440\u0435\u043d\u0442","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82","sameAs":"http:\/\/www.wikidata.org\/entity\/Q80687","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q80687","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-11T07:20:50Z","dateModified":"2026-01-03T10:20:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/92\/Rose_Mary_Woods.jpg","headline":"\u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c"}</script>
+</body>
+</html>

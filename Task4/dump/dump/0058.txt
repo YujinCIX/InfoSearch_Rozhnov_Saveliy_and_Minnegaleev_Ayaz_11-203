@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Полетика, Григорий Андреевич — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"672a1799-a9f5-4210-a625-383dcce87d9f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Полетика,_Григорий_Андреевич","wgTitle":"Полетика, Григорий Андреевич","wgCurRevisionId":151349784,"wgRevisionId":151349784,"wgArticleId":2130648,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи с источниками из Викиданных","Википедия:Карточки без параметров","Родившиеся в 1723 году","Родившиеся в 1725 году","Родившиеся в Ромнах","Умершие 8 декабря","Умершие в 1784 году","Умершие в Санкт-Петербурге","Персоналии по алфавиту","Писатели России XVIII века","Русские писатели XVIII века","Писатели Украины","Полетики","Выпускники Киевской духовной академии","Лексикографы Украины"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Полетика,_Григорий_Андреевич","wgRelevantArticleId":2130648,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":137476677,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4369824","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png/960px-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png">
+<meta property="og:image:width" content="959">
+<meta property="og:image:height" content="1200">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Полетика, Григорий Андреевич — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Полетика_Григорий_Андреевич rootpage-Полетика_Григорий_Андреевич skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Полетика, Григорий Андреевич</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=1">версии, проверенной 27 апреля 2024 года</a>; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;oldid=137476677&amp;diff=cur&amp;diffonly=0">8 правок</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" class="mw-disambig" title="Полетика">Полетика</a>.</div>
+<table class="infobox infobox-bccfe862b4e8a3fe" style="" data-name="Персона"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Григорий Андреевич Полетика</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q4369824$7DA14ABD-34AA-4CFE-9252-1461592C7D18" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png/330px-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png" decoding="async" width="274" height="343" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png/500px-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png/960px-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png 2x" data-file-width="2490" data-file-height="3115" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4369824$F0345EA6-B333-432F-9CD7-41E71D82CB08" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1723_%D0%B3%D0%BE%D0%B4" title="1723 год">1723</a></span></span><sup id="cite&#95;ref-&#95;6ae7e41f5b82dbe5&#95;1-0" class="reference"><a href="#cite_note-_6ae7e41f5b82dbe5-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span>&#32;или&#32;<span data-wikidata-claim-id="Q4369824$179D93C3-03FF-4ABC-AEC7-ADBB837C0A40" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1725_%D0%B3%D0%BE%D0%B4" title="1725 год">1725</a></span></span><sup id="cite&#95;ref-&#95;6ae7e41f5b82dbe5&#95;1-1" class="reference"><a href="#cite_note-_6ae7e41f5b82dbe5-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-&#95;cd6c05d418c5b029&#95;2-0" class="reference"><a href="#cite_note-_cd6c05d418c5b029-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4369824$ae41f05d-32a0-41e8-bae2-12d84ad67b44" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%BD%D1%8B" title="Ромны">Ромны</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;смерти</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4369824$A430FF35-6ECB-4922-8C12-52EC0299F987" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><span title="по юлианскому календарю" style="text-decoration:dotted underline;cursor:help">27 ноября</span> (<a href="/wiki/8_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="8 декабря">8 декабря</a>) <a href="/wiki/1784_%D0%B3%D0%BE%D0%B4" title="1784 год">1784</a></span></span><sup id="cite&#95;ref-&#95;8c56eefff018ee5b&#95;3-0" class="reference"><a href="#cite_note-_8c56eefff018ee5b-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></span>&#32;или&#32;<span data-wikidata-claim-id="Q4369824$A788FAA2-10A2-4B9A-86B5-F2CA9A973312" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/8_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="8 декабря">8 декабря</a> <a href="/wiki/1784_%D0%B3%D0%BE%D0%B4" title="1784 год">1784</a></span><span style="display:none">(<span class="dday">1784-12-08</span>)</span></span><sup id="cite&#95;ref-&#95;6ae7e41f5b82dbe5&#95;1-2" class="reference"><a href="#cite_note-_6ae7e41f5b82dbe5-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место смерти</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4369824$26429B93-9BC1-422A-BA96-317ABE9D3DB4" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4369824$5a48e020-4776-5453-bd9b-415b57816640" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4369824$c8d221db-a031-4586-9550-7d7c17fa6445" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA" title="Переводчик">переводчик</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Отец</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4369824$9d3655af-4a72-54b1-d1e6-4b7c060ababf" class="wikidata-claim" data-wikidata-property-id="P22"><span class="wikidata-snak wikidata-main-snak"><style data-mw-deduplicate="TemplateStyles:r138326222">.mw-parser-output .ts-Wikidata-redLink a{background:none;padding:0}.mw-parser-output .ts-Wikidata-redLink a.external{color:#ba0000;color:var(--color-link-red,#ba0000)}.mw-parser-output .ts-Wikidata-redLink a.external:visited{color:#a55858;color:var(--color-link-red--visited,#a55858)}</style><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q116678734&amp;preloadparams%5B%5D=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9+%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87+%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&amp;preloadparams%5B%5D=%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0">Андрей Павлович Полетика</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q116678734#sitelinks-wikipedia" class="extiw" title="d:Q116678734"><span>[вд]</span></a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Супруга</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4369824$251597d4-4de4-7838-cce6-4478ef27abde" class="wikidata-claim" data-wikidata-property-id="P26"><span class="wikidata-snak wikidata-main-snak"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r138326222" /><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0_%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D0%B5%D1%8F&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q123052987&amp;preloadparams%5B%5D=%D0%95%D0%BB%D0%B5%D0%BD%D0%B0+%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0+%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D0%B5%D1%8F&amp;preloadparams%5B%5D=%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0">Елена Ивановна Гамалея</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q123052987#sitelinks-wikipedia" class="extiw" title="d:Q123052987"><span>[вд]</span></a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дети</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4369824$c3699f06-4818-878d-3d7c-6df7b108303c" class="wikidata-claim" data-wikidata-property-id="P40"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Полетика, Василий Григорьевич">Полетика, Василий Григорьевич</a></span></span>&#32;и&#32;<span data-wikidata-claim-id="Q4369824$038ec253-4ad1-532f-ad7c-c2b409799bc5" class="wikidata-claim" data-wikidata-property-id="P40"><span class="wikidata-snak wikidata-main-snak"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r138326222" /><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q123053586&amp;preloadparams%5B%5D=%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB+%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87+%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&amp;preloadparams%5B%5D=%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0">Павел Григорьевич Полетика</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q123053586#sitelinks-wikipedia" class="extiw" title="d:Q123053586"><span>[вд]</span></a></sup></span></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q4369824$2450160d-4689-2bf7-0aac-a28ec6ac9aea" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Grigoriy_Andreevich_Poletika" title="commons:Category:Grigoriy Andreevich Poletika"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Grigoriy_Andreevich_Poletika" class="extiw" title="commons:Category:Grigoriy Andreevich Poletika">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Григорий Андреевич Поле́тика</b> (1725, <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%BD%D1%8B" title="Ромны">Ромны</a>, <a href="/wiki/%D0%9B%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D0%BA" title="Лубенский полк">Лубенский полк</a>&#160;— 7 декабря 1784, <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a>)&#160;— малороссийский<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> общественно-политический деятель, историк, лексикограф и переводчик<sup id="cite&#95;ref-автоссылка1&#95;5-0" class="reference"><a href="#cite_note-автоссылка1-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> с немецкого и латинского языков на русский<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>К 1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-автоссылка1&#95;5-1" class="reference"><a href="#cite_note-автоссылка1-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-автоссылка2&#95;8-0" class="reference"><a href="#cite_note-автоссылка2-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>. Как автор Полетика сотрудничал с журналами «<a href="/wiki/%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D0%B2%D0%B0%D1%8F_%D0%BF%D1%87%D0%B5%D0%BB%D0%B0" title="Трудолюбивая пчела">Трудолюбивая пчела</a>» и «<a href="/wiki/%D0%95%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Ежемесячные сочинения">Ежемесячные сочинения, к пользе и увеселению служащие</a>»<sup id="cite&#95;ref-автоссылка2&#95;8-1" class="reference"><a href="#cite_note-автоссылка2-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>. 
+</p><p>Считается одним из возможным авторов «<a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D0%BE%D0%B2_%D0%B8%D0%BB%D0%B8_%D0%9C%D0%B0%D0%BB%D0%BE%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="История русов или Малой России">Истории Русов или Малой России</a>». С 1764 по 1773&#160;год служил инспектором в <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81" title="Морской кадетский корпус">Морском кадетском корпусе</a> в <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a>. Брат <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Полетика, Иван Андреевич">Ивана Полетики</a>. Отец <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Полетика, Василий Григорьевич">Василия Полетики</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Переводы_Полетики"><span class="tocnumber">2</span> <span class="toctext">Переводы Полетики</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Другие_труды"><span class="tocnumber">3</span> <span class="toctext">Другие труды</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Комментарии"><span class="tocnumber">4</span> <span class="toctext">Комментарии</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Григорий Полетика родился в <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%BD%D0%B0_%D0%BA%D0%B0%D0%B7%D0%B0%D1%86%D0%BA%D0%B0%D1%8F" title="Старшина казацкая">казацко-старшинной</a> семье, происходившей из <a href="/wiki/%D0%9B%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D0%BA" title="Лубенский полк">Лубенского полка</a>. Его отец&#160;— Андрей Павлович&#160;— дослужился до чина <a href="/wiki/%D0%91%D1%83%D0%BD%D1%87%D1%83%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D1%89" title="Бунчуковый товарищ">бунчукового товарища</a>. Окончив курс в <a href="/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F" title="Киевская духовная академия">Киевской духовной академии</a>, состоял переводчиком в <a href="/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA" class="mw-redirect" title="Петербургская Академия наук">Академии наук</a> и в <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%B4" title="Синод">Синоде</a>, позже был инспектором классов в <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81" title="Морской кадетский корпус">Морском кадетском корпусе</a>. В молодости Полетика, по словам <a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Миллер, Дмитрий Петрович">Миллера</a>, переводил статьи с греческого языка для «Ежемесячных сочинений» и написал статью «О начале, возобновлении и распространении учения и училищ в России и о нынешнем оных состоянии», которая, как ничего не говорившая о русских школах до XVII&#160;века, была признана сначала <a href="/wiki/%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Ломоносов, Михаил Васильевич">Михаилом&#160;Ломоносовым</a>, а потом и академической канцелярией «непристойной» для печатания.
+</p><p>В <a href="/wiki/1767_%D0%B3%D0%BE%D0%B4" title="1767 год">1767&#160;году</a> выбран от шляхетства <a href="/wiki/%D0%9B%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D0%BA" title="Лубенский полк">Лубенского полка</a> депутатом в комиссию для сочинения проекта нового уложения и написал в этом качестве две обширные записки: «Возражение на наставление малороссийской коллегии депутату комиссии Дмитрию Наталину» («Чтения <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B8_%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85" title="Московское общество истории и древностей Российских">Московского общества истории и древностей росс.</a>», 1858, т. III<sup id="cite&#95;ref-Чтения&#95;9-0" class="reference"><a href="#cite_note-Чтения-9"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>) и «Мнение на читанный в 1768&#160;г. в комиссии о сочинении проекта нового уложения проект правам благородных» («Сборник Имп. <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Русское историческое общество">русс. историч. общества</a>», т. XXXVI<sup id="cite&#95;ref-Сборник&#95;10-0" class="reference"><a href="#cite_note-Сборник-10"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>). В своих историко-политических произведениях и текстах публичных выступлений Григорий Андреевич Полетика на концептуальном уровне отразил процесс перехода казацкой элиты в малороссийскую шляхту (дворянство). Со второй половины 1750-х годов казацкая старшина начинает себя позиционировать как часть российского дворянства и перестает апеллировать к войсковым правам и вольностям для защиты своего привилегированного статуса в отношении местного населения<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Первым крупным историко-политическим сочинением, принадлежавшим руке Григория&#160;Полетики, стало <b>«Возражение депутата Григория Полетики на наставление <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F" title="Малороссийская коллегия">Малороссийской коллегии</a> господину же депутату Дмитрию Натальину»</b>. Автор сочинения прозрачно давал понять своим оппонентам, что права, подтвержденные российскими царями, в течение долгого времени нарушались <a href="/wiki/%D0%93%D0%B5%D1%82%D0%BC%D0%B0%D0%BD_%D0%92%D0%BE%D0%B9%D1%81%D0%BA%D0%B0_%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Гетман Войска Запорожского">гетманами Войска Запорожского</a>, претендовавшими на полномочия шире тех, что были за ними закреплены: «<i>разнообразность правлений и сие смещение дел [в судопроизводстве] не от чего другого произошли, как от насилия и присвоенной себе, в противность прав, власти Гетманов</i>»<sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>. В своем «Возражении» автор часто ссылался на те порядки, что существовали в «Малой России» в составе <a href="/wiki/%D0%A0%D0%B5%D1%87%D1%8C_%D0%9F%D0%BE%D1%81%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D1%8F" title="Речь Посполитая">Речи Посполитой</a>. Согласно историко-юридической картине Полетики русские цари, как и польские короли, являлись <a href="/wiki/%D0%A1%D1%83%D0%B2%D0%B5%D1%80%D0%B5%D0%BD" title="Суверен">суверенами</a> над регионом, обладая правом пожалования дворянского достоинства, чинов и землевладений. «Малороссийские права» представляли собой привилегии четырех «сословий» (казачества, шляхетства, духовенства и мещанства), которые подтверждались и гарантировались российскими царями. Однако из-за особой внутриполитической ситуации в регионе права не только суверена, но и «сословий» нарушались гетманской властью.
+</p><p>Практически идентичные мысли Григорий&#160;Полетика излагал в другом политическом сочинении&#160;— <b>«Историческое известие, на каком основании Малая Россия была под республикою Польскою, и на каких договорах отдалась Российским Государям, и патриотическое рассуждение, каким образом можно бы оную ныне учредить, чтоб она полезна могла быть Российскому Государству без нарушения прав ее и вольностей»</b>. В этом историко-политическом произведении Г.&#160;А.&#160;Полетика повторял в более концентрированном виде те мысли, что были изложены в тексте «Возражения» и в выступлениях на заседаниях <a href="/wiki/%D0%A3%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" title="Уложенная комиссия">Уложенной комиссии</a> Екатерины II. На основании польских «конституций» он утверждал, что после <a href="/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BD%D0%B8%D1%8F" title="Люблинская уния">Люблинской унии</a> 1569&#160;года местное шляхетство обладало такими же правами, что и польская шляхта. Кроме того, Г.&#160;А.&#160;Полетика подробно описал статус <a href="/wiki/%D0%92%D0%BE%D0%B9%D1%81%D0%BA%D0%BE_%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%BE%D0%B5" title="Войско Запорожское">Войска Запорожского</a>, который оно имело в составе Речи Посполитой (имеется в виду <a href="/wiki/%D0%A0%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BA%D0%B0%D0%B7%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Реестровое казачество">реестровое казачество</a>, а не <a href="/wiki/%D0%92%D0%BE%D0%B9%D1%81%D0%BA%D0%BE_%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%BE%D0%B5_%D0%9D%D0%B8%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5" title="Войско Запорожское Низовое">Низовое Войско Запорожское</a>). Он писал: «<i>гетманам открылось пространное поле к исполнению своих высокомерных и предприимчивых намерений и прихотей</i>», присвоив «<i>себе шляхетству принадлежащие суды, поручили они в ведомство земские и гражданские, так, как и воинские дела, войсковой старшине, то есть сотникам и полковникам</i>». Следовательно, «<i>подчинивши себе всю Малую Россию, недозволенным и беззаконным образом управляли оною по своей воле и прихотям, и не имели власти своей никакого предела</i>», и никто «<i>уже не мог защищать себя своими правами и волностями</i>». Далее Г.&#160;А.&#160;Полетика резюмировал, что «<i>с такою беспредельною и нагло похищенною властию похитили они [гетманы] и те пре имущества и пользы, которые принадлежали и принадлежат государям</i>». Под этими правами автор подразумевал «<i>общую Малороссийскую казну и раздачу недвижимых имений, то есть городов, сел, земель и всяких угодий</i>». Таким образом, российский император, будучи сувереном, постепенно лишался своих суверенных прав в отношении «Малой России» вплоть до конца гетманства <a href="/wiki/%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B0,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Мазепа, Иван Степанович">Ивана&#160;Мазепы</a>. Идеи Полетики показывают как представители привилегированного казачества, завоевавшие себе «правом сабли» на протяжении второй половины XѴII&#160;— начала XѴIII&#160;века шляхетские «права и вольности», дистанцируются от прошлого, выдавая себя за природных дворян.
+</p><p>В ходе работы над проектом нового Уложения Екатерины II Григорий&#160;Полетика также придерживался взглядов, изложенных в собственных историко-политических сочинениях. Практически все свое внимание Полетика сосредоточил на обсуждении критериев дворянского благородства, особенно в дискуссиях вокруг известной 43-й статьи проекта Уложения «О благородных». Он был заинтересован в защите сословных интересов казацкой элиты, а также отстаивал проект наиболее безболезненной интеграции казацкой элиты в состав общероссийского дворянства. Г.&#160;А.&#160;Полетика высказывал мнения, которые были типичными для представителей «великороссийского» дворянства. По его мысли, следовало указать, что от податей освобождались как «благородные», так и их дворовые; обосновать перед императрицей необходимость введения беспошлинной торговли крепостными и свободными деревнями, свободы выезда за границу; лишать имущества («лицеимство») поместных «благородных» только в случаях «оскорбления Величества»<sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>. По мнению малороссийского депутата, «<i>правление дел в Малороссии, после Высочайшей государской власти, должно зависеть от шляхетства</i>»; шляхетство должно было иметь право принятия и отмены законов в крае, но таких, которые бы вступали в силу после утверждения государем; иметь право накладывать и отменять подати; право свободы выезда и распоряжения всем имуществом; право обладать налоговым иммунитетом; свободно рубить лес, заниматься рыбной ловлей и охотой и&#160;т.&#160;д.
+</p><p>Отстаивание Полетикой сословных интересов зарождающегося малороссийского дворянства было столетиями позже перетрактовано в защиту некоей малороссийской «особости» и желанием «автономности» Малой России. Как считает современный исследователь Я.&#160;А.&#160;Лазарев, идеи и взгляды Полетики существовали в общероссийской парадигме эмансипации дворянства, в стремлении им получить больше групповых прав и привилегий. Расширение прав малороссийского дворянства за счет уменьшения (или ликвидации) власти гетмана, генерал-губернатора и закрепощения непривилегированных слоев находит смысловые параллели у аналогичных сословных групп России. Идейная конструкция, которую предлагал Полетика в отношении малороссийского дворянства, могла быть перенесена в т.&#160;н. «великороссийскую» среду. Г.&#160;А.&#160;Полетика прямо высказывал данную мысль: сделать «малороссийские» / польско-шляхетские права общероссийскими. Малороссийские права в представлениях и политической деятельности Г.&#160;А.&#160;Полетики становились предметом политического торга, а не воплощением некой автономистской программы. С принятием основополагающих законов процессе консолидации общероссийского дворянского сословия необходимость в политическом торге, касавшемся отстаивания малороссийских прав, отпала за ненадобностью. Ценой вопроса стало повышение прав российского дворянства и закрепление его исключительного положения: указ <a href="/wiki/%D0%9F%D1%91%D1%82%D1%80_III" title="Пётр III">Петра III</a> «<a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82_%D0%BE_%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B4%D0%B2%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D1%82%D0%B2%D0%B0" title="Манифест о вольности дворянства">о вольности дворян</a>» (1762&#160;г.) и «<a href="/wiki/%D0%96%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%B0_%D0%B4%D0%B2%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D1%82%D0%B2%D1%83" title="Жалованная грамота дворянству">Высочайшая грамота о дворянстве</a>» (1785&#160;г.). Заимствованный малороссийской казацкой элитой польский идейный трансфер под влиянием европейских идейных инноваций стал совпадать с развитием общероссийских представлений о роли дворянства в Российской империи<sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Переводы_Полетики"><span id=".D0.9F.D0.B5.D1.80.D0.B5.D0.B2.D0.BE.D0.B4.D1.8B_.D0.9F.D0.BE.D0.BB.D0.B5.D1.82.D0.B8.D0.BA.D0.B8"></span>Переводы Полетики</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Переводы Полетики»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Переводы Полетики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>«Епиктет, стоическая философия енхиридион и апофегмы» (1759),</li>
+<li>«Кевит Фивейский. картина или изображение жития человеческого» (1759),</li>
+<li>«Ксенофонт, о достопамятных делах и разговорах сократовых и оправдание Сократово пред судиями» (1762) («<a href="/wiki/%D0%92%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B5" title="Воспоминания о Сократе">Воспоминания о Сократе</a>» и «<a href="/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0_%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D1%81%D1%83%D0%B4%D0%B5" class="mw-redirect" title="Защита Сократа на суде">Защита Сократа на суде</a>» <a href="/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D0%BE%D1%84%D0%BE%D0%BD%D1%82" title="Ксенофонт">Ксенофонта</a>)</li>
+<li><a rel="nofollow" class="external text" href="https://books.google.ru/books?id=X89jAAAAcAAJ">«Истинные основания и должности христианской веры или наставление язычникам, обращающимся в христианскую веру»</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180826080743/https://books.google.ru/books?id=X89jAAAAcAAJ">Архивная копия</a> от 26 августа 2018 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (1762),</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Другие_труды"><span id=".D0.94.D1.80.D1.83.D0.B3.D0.B8.D0.B5_.D1.82.D1.80.D1.83.D0.B4.D1.8B"></span>Другие труды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Другие труды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Другие труды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>«Словарь на шести языках: российском, греческом, латинском, французском, немецком и английском» (1763).</li>
+<li>В «Чтениях в Историческом обществе Нестора летописца» (т. XI) напечатаны отрывки из его «Записки о начале киевской академии».</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Комментарии"><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D0.B5.D0.BD.D1.82.D0.B0.D1.80.D0.B8.D0.B8"></span>Комментарии</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Комментарии»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=4" title="Редактировать код раздела «Комментарии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references" data-mw-group="К">
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a href="/wiki/%D0%A2%D1%80%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Тредиаковский, Василий Кириллович">Василий Тредиаковский</a> отмечал, что «российский язык его есть по большей части в переводе диалект малороссийский»<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=5" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-&#95;6ae7e41f5b82dbe5-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_6ae7e41f5b82dbe5_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_6ae7e41f5b82dbe5_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_6ae7e41f5b82dbe5_1-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q1238720" data-entity-id="Q110027664"><a href="https://www.wikidata.org/wiki/Q110027664" class="extiw" title="d:Q110027664">Словарь русских писателей XVIII века. Выпуск 2: К—П</a><span class="wef&#95;low&#95;priority&#95;links"> / под ред. <a href="/wiki/%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Панченко, Александр Михайлович">А.&#160;М.&#160;Панченко</a> — <span title="Санкт-Петербург" style="border-bottom: 1px dotted; cursor: help; white-space: nowrap">СПб.</span>: <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Наука (издательство)">Наука</a>, 1999. — 2000 экз. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/502028095X" class="internal mw-magiclink-isbn">ISBN 5-02-028095-X</a></span></span></span>
+</li>
+<li id="cite&#95;note-&#95;cd6c05d418c5b029-2"><span class="mw-cite-backlink"><a href="#cite_ref-_cd6c05d418c5b029_2-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q17152639 citetype&#95;Q8513" data-entity-id="Q60909659">Hryhorij A. Poletyka // <a rel="nofollow" class="external text" href="https://data.cerl.org/thesaurus/cnp00557132">CERL Thesaurus</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span><span class="wef&#95;low&#95;priority&#95;links"> — <a href="https://en.wikipedia.org/wiki/Consortium_of_European_Research_Libraries" class="extiw" title="en:Consortium of European Research Libraries">Consortium of European Research Libraries</a>.</span></span></span>
+</li>
+<li id="cite&#95;note-&#95;8c56eefff018ee5b-3"><span class="mw-cite-backlink"><a href="#cite_ref-_8c56eefff018ee5b_3-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q13433827" data-entity-id="Q25873728"><a href="https://ru.wikisource.org/wiki/%D0%A0%D0%91%D0%A1/%D0%92%D0%A2/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" class="extiw" title="s:РБС/ВТ/Полетика, Григорий Андреевич">Полетика, Григорий Андреевич</a> // <i><a href="https://www.wikidata.org/wiki/Q21175485" class="extiw" title="d:Q21175485">Русский биографический словарь</a></i><span class="wef&#95;low&#95;priority&#95;links"> / под ред. <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B2%D1%86%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Половцов, Александр Александрович">А.&#160;А.&#160;Половцов</a> — <span title="Санкт-Петербург" style="border-bottom: 1px dotted; cursor: help; white-space: nowrap">СПб.</span>: 1905. — Т.&#160;14. — С.&#160;321—324.</span></span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343">Патроны, слуги и друзья. Русско-украинские неформальные связи и управление Гетманщиной в 1700–1760-х гг. Исследование и источники: монография<span class="hidden-ref" style="display:none">&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>&#32;&#47;&#32;М. А. Киселев, К. А. Кочегаров, Я. А. Лазарев.&#160;— Екатеринбург: Изд-во Урал. ун-та, 2022.&#160;— С.&#160;573, 659.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785799633813" class="internal mw-magiclink-isbn">ISBN 978-5-7996-3381-3</a>.</span></span>
+</li>
+<li id="cite&#95;note-автоссылка1-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-автоссылка1_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-автоссылка1_5-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://lib.pushkinskijdom.ru/Default.aspx?tabid=810">Полетика, Григорий Андреевич (Словарь русских писателей XVIII века, ИРЛИ РАН)</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 8 июля 2020.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200713040932/http://lib.pushkinskijdom.ru/Default.aspx?tabid=810">Архивировано</a> 13 июля 2020 года.</span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Лукашова&#160;С.&#160;С.</i>&#32;<a rel="nofollow" class="external text" href="https://cyberleninka.ru/article/n/yazykovaya-sreda-v-kievo-mogilyanskoy-akademii-v-xviii-v">Языковая среда в Киево-Могилянской академии в XVIII в.</a>&#160;// Славянский альманах.&#160;— Москва, 2017.&#160;— <span class="nowrap">Вып. 3-4</span>.&#160;— <span class="nowrap">С. 253</span>.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20250811225412/https://cyberleninka.ru/article/n/yazykovaya-sreda-v-kievo-mogilyanskoy-akademii-v-xviii-v">Архивировано</a> 11&#160;августа 2025&#160;года.</span></span>
+</li>
+<li id="cite&#95;note-автоссылка2-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-автоссылка2_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-автоссылка2_8-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Словарь русских писателей XVIII века. Ленинград: Наука, 1975. С. 72.</span>
+</li>
+<li id="cite&#95;note-Чтения-9"><span class="mw-cite-backlink"><a href="#cite_ref-Чтения_9-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.archive.org/download/Chtenija-1858-3/Chtenija-1858-3.pdf">«Чтения Московского общества истории и древностей росс.», 1858, т. III, стр. 491</a></span>
+</li>
+<li id="cite&#95;note-Сборник-10"><span class="mw-cite-backlink"><a href="#cite_ref-Сборник_10-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.archive.org/download/SIRIO_036/SIRIO_036.pdf">«Сборник Имп. русс. историч. общества», т. XXXVI. стр. 370</a></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://cyberleninka.ru/article/n/ideynoe-pole-natsionalnogo-intellektuala-imperskogo-perioda-vzglyady-g-a-poletiki-1725-1784-na-ukrainskuyu-gosudarstvennost/viewer">Лазарев&#160;Я.&#160;А.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210806125634/https://cyberleninka.ru/article/n/ideynoe-pole-natsionalnogo-intellektuala-imperskogo-perioda-vzglyady-g-a-poletiki-1725-1784-na-ukrainskuyu-gosudarstvennost/viewer">Архивная копия</a> от 6 августа 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Идейное поле «национального» интеллектуала имперского периода: взгляды Г.&#160;А.&#160;Полетики (1725—1784) на «украинскую государственность» // Slověne = Словѣне. International Journal of Slavic Studies. 2016. №&#160;1. С. 188.</span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">«Возражение депутата Григория Полетики на наставление Малороссийской коллегии господину же депутату Дмитрию Натальину», в: Чтения в Императорском Обществе истории и древностей российских при Московском университете, 3, 1858. С. 81-82.</span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Лазарев Я.&#160;А.&#160;Указ. соч. С. 197</span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Там же. С. 198—199.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=6" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Лазаревский, Александр Матвеевич">Лазаревский&#160;А.&#160;М.</a>, «Отрывки из семейного архива Полетики» (в «Киевской старине», 1891, №&#160;4);</li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9F%D1%91%D1%82%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Пекарский, Пётр Петрович">Пекарский&#160;П.&#160;П.</a>, «Редактор, сотрудники и цензура в русских журналах 1755—1764&#160;гг.» (СПб., 1868);</li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Миллер, Дмитрий Петрович">Миллер&#160;Д.&#160;П.</a>, <a rel="nofollow" class="external text" href="http://www.lawlibrary.ru/izdanie55603.html">«Очерки из истории и юридического быта старой Малороссии»</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160305054929/http://www.lawlibrary.ru/izdanie55603.html">Архивная копия</a> от 5 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (1897; здесь разобраны записки Полетики о дворянстве).</li>
+<li>Лазарев Я.&#160;А.&#160;Идейное поле «национального» интеллектуала имперского периода: взгляды Г.&#160;А.&#160;Полетики (1725—1784) на «украинскую государственность» // Slověne = Словѣне. International Journal of Slavic Studies. 2016. №&#160;1. С. 184—202. <a rel="nofollow" class="external text" href="https://cyberleninka.ru/article/n/ideynoe-pole-natsionalnogo-intellektuala-imperskogo-perioda-vzglyady-g-a-poletiki-1725-1784-na-ukrainskuyu-gosudarstvennost/viewer">Ссылка</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210806125634/https://cyberleninka.ru/article/n/ideynoe-pole-natsionalnogo-intellektuala-imperskogo-perioda-vzglyady-g-a-poletiki-1725-1784-na-ukrainskuyu-gosudarstvennost/viewer">Архивная копия</a> от 6 августа 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q4369824#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" class="extiw" title="s:ЭСБЕ/Полетика, Григорий Андреевич">Брокгауза и Ефрона</a></li>
+<li><a href="https://ru.wikisource.org/wiki/%D0%A0%D0%91%D0%A1/%D0%92%D0%A2/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" class="extiw" title="s:РБС/ВТ/Полетика, Григорий Андреевич">Русский биографический</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">В&#160;библиографических каталогах</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/119487381">119487381</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000043123060">0000000043123060</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no95002574">no95002574</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/22952656/">22952656</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/22952656">22952656</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐f7dqx
+Cached time: 20260212102121
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.530 seconds
+Real time usage: 0.717 seconds
+Preprocessor visited node count: 2914/1000000
+Revision size: 25113/2097152 bytes
+Post‐expand include size: 56808/2097152 bytes
+Template argument size: 5455/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15893/5000000 bytes
+Lua time usage: 0.363/10.000 seconds
+Lua memory usage: 7004523/52428800 bytes
+Number of Wikibase entities loaded: 21/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  669.919      1 -total
+ 70.32%  471.084      1 Шаблон:Персона
+ 67.69%  453.485      1 Шаблон:Карточка
+ 18.20%  121.909      7 Шаблон:Wikidata
+ 13.58%   90.985      2 Шаблон:Примечания
+ 11.59%   77.661      1 Шаблон:Wikidata/p569
+ 10.72%   71.828      1 Шаблон:Библиоинформация
+  6.95%   46.590      1 Шаблон:Карточка/оригинал_имени
+  6.06%   40.618      1 Шаблон:Статья
+  5.67%   38.009      1 Шаблон:Wikidata/p570
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:2130648:|#|:idhash:canonical and timestamp 20260212102121 and revision id 151349784. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Полетика,_Григорий_Андреевич&amp;oldid=151349784">https://ru.wikipedia.org/w/index.php?title=Полетика,_Григорий_Андреевич&amp;oldid=151349784</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1723_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1723 году">Родившиеся в 1723 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1725_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1725 году">Родившиеся в 1725 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%A0%D0%BE%D0%BC%D0%BD%D0%B0%D1%85" title="Категория:Родившиеся в Ромнах">Родившиеся в Ромнах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_8_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="Категория:Умершие 8 декабря">Умершие 8 декабря</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1784_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1784 году">Умершие в 1784 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5" title="Категория:Умершие в Санкт-Петербурге">Умершие в Санкт-Петербурге</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_XVIII_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Писатели России XVIII века">Писатели России XVIII века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_XVIII_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Русские писатели XVIII века">Русские писатели XVIII века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Категория:Писатели Украины">Писатели Украины</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B8" title="Категория:Полетики">Полетики</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8" title="Категория:Выпускники Киевской духовной академии">Выпускники Киевской духовной академии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%8B_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Категория:Лексикографы Украины">Лексикографы Украины</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2" title="Категория:Википедия:Карточки без параметров">Википедия:Карточки без параметров</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%2C+%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%2C+%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;oldid=151349784" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%2C_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;id=151349784&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D0%25BB%25D0%25B5%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0%2C_%25D0%2593%25D1%2580%25D0%25B8%25D0%25B3%25D0%25BE%25D1%2580%25D0%25B8%25D0%25B9_%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D0%25BB%25D0%25B5%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0%2C_%25D0%2593%25D1%2580%25D0%25B8%25D0%25B3%25D0%25BE%25D1%2580%25D0%25B8%25D0%25B9_%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%2C_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Grigoriy_Andreevich_Poletika" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4369824" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Hryhorij_Po%C5%82etyka" title="Hryhorij Połetyka — польский" lang="pl" hreflang="pl" data-title="Hryhorij Połetyka" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%96%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87" title="Полетика Григорій Андрійович — украинский" lang="uk" hreflang="uk" data-title="Полетика Григорій Андрійович" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4369824#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 25 января 2026 года в 04:13.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-f7dqx","wgBackendResponseTime":869,"wgPageParseReport":{"limitreport":{"cputime":"0.530","walltime":"0.717","ppvisitednodes":{"value":2914,"limit":1000000},"revisionsize":{"value":25113,"limit":2097152},"postexpandincludesize":{"value":56808,"limit":2097152},"templateargumentsize":{"value":5455,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15893,"limit":5000000},"entityaccesscount":{"value":21,"limit":500},"timingprofile":["100.00%  669.919      1 -total"," 70.32%  471.084      1 Шаблон:Персона"," 67.69%  453.485      1 Шаблон:Карточка"," 18.20%  121.909      7 Шаблон:Wikidata"," 13.58%   90.985      2 Шаблон:Примечания"," 11.59%   77.661      1 Шаблон:Wikidata/p569"," 10.72%   71.828      1 Шаблон:Библиоинформация","  6.95%   46.590      1 Шаблон:Карточка/оригинал_имени","  6.06%   40.618      1 Шаблон:Статья","  5.67%   38.009      1 Шаблон:Wikidata/p570"]},"scribunto":{"limitreport-timeusage":{"value":"0.363","limit":"10.000"},"limitreport-memusage":{"value":7004523,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-f7dqx","timestamp":"20260212102121","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u043e\u043b\u0435\u0442\u0438\u043a\u0430, \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4369824","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4369824","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-12-03T12:17:21Z","dateModified":"2026-01-25T04:13:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.png","headline":"\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044c"}</script>
+</body>
+</html>

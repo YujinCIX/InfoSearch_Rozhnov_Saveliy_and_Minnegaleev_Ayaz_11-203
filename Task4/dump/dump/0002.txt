@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Geological Society, London, Special Publications — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"b4b8b962-30b0-4b67-a4e6-7ba38c6a680f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geological_Society,_London,_Special_Publications","wgTitle":"Geological Society, London, Special Publications","wgCurRevisionId":144293675,"wgRevisionId":144293675,"wgArticleId":10641195,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Википедия:Локальная подпись у изображения из Викиданных","Статьи со ссылками на Викисклад","Книжные серии по алфавиту","История геологии","История науки","Геологическое общество Лондона"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Geological_Society,_London,_Special_Publications","wgRelevantArticleId":10641195,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":144293675,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q15817216","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4f/GSLSP.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="694">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Geological Society, London, Special Publications — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/Geological_Society,_London,_Special_Publications">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Geological_Society_London_Special_Publications rootpage-Geological_Society_London_Special_Publications skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Geological Society, London, Special Publications</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-68c03441cfecef8b" style="" data-name="Книжная серия"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Специальные публикации Геологического общества Лондона</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1476" class="no-wikidata"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Geological Society Special Publications</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q15817216$f105a3b1-42bc-2a50-71dc-24b037123d55" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:GSLSP.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/GSLSP.jpg/330px-GSLSP.jpg" decoding="async" width="274" height="158" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/GSLSP.jpg/500px-GSLSP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/GSLSP.jpg/550px-GSLSP.jpg 2x" data-file-width="550" data-file-height="318" /></a></span><br /></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="white-space: nowrap"><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B0%D0%BD%D1%80%D1%8B" title="Литературные жанры">Жанр</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Научная литература">Научная литература</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="white-space: nowrap">Страна</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P495" class="no-wikidata"><span class="nowrap" data-sort-value="Великобритания"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/40px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/60px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания"><span class="wrap">Великобритания</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="white-space: nowrap">Язык оригинала</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P407" class="no-wikidata">Английский</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="white-space: nowrap">Издательство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P123" class="no-wikidata"><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0" title="Геологическое общество Лондона">Geological Society Publishing House</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="white-space: nowrap">Даты публикации</th>
+<td class="plainlist">
+c 1964</td>
+</tr>
+</tbody></table>
+<p><b>Geological Society, London, Special Publications</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Geological Society Special Publication; Book Series GSL SPs</span>; Геологическое общество Лондона, специальные публикации)&#160;— серийное книжное тематическое издание специальных публикаций <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0" title="Геологическое общество Лондона">Геологического общества Лондона</a>.
+Ведущая серия книг Общества, она известна во всем мировом геонаучном сообществе высоким качеством научной продукции и авторитетным международным редакторским коллективом<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Сборники научных статей на английском языке показывают <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="История геологии">историю изучения</a> и современную трактовку основных актуальных тем по всем отраслям наук о Земле, кроме <a href="/wiki/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Инженерная геология">инженерной геологии</a><sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BD%D0%B0%D1%83%D0%BA" title="Международный союз геологических наук">Международный союз геологических наук</a> и его комитеты (такие как <a href="/wiki/INHIGEO" class="mw-redirect" title="INHIGEO">INHIGEO</a>) также публикуют свои сборники в этой серии<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Издания_серии"><span class="tocnumber">2</span> <span class="toctext">Издания серии</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Редакционная_коллегия"><span class="tocnumber">3</span> <span class="toctext">Редакционная коллегия</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#О_геологии_в_России"><span class="tocnumber">4</span> <span class="toctext">О геологии в России</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="История"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span>История</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Geological_Society_interior_03_-_lower_library.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geological_Society_interior_03_-_lower_library.jpg/250px-Geological_Society_interior_03_-_lower_library.jpg" decoding="async" width="250" height="188" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geological_Society_interior_03_-_lower_library.jpg/500px-Geological_Society_interior_03_-_lower_library.jpg 1.5x" data-file-width="4608" data-file-height="3456" /></a><figcaption>Geological society</figcaption></figure>
+<p><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0" title="Геологическое общество Лондона">Геологическое общество Лондона</a>&#160;— старейшая геологическая организация, основанная в 1807&#160;году в Великобритании.
+</p><p>C 1964&#160;года Общество выпускает специальные издания, сначала как приложение к Ежеквартальному журналу Геологического общества, предшественнику Журнала Геологического общества (<a href="/w/index.php?title=Quarterly_Journal_of_the_Geological_Society&amp;action=edit&amp;redlink=1" class="new" title="Quarterly Journal of the Geological Society (страница отсутствует)">Quarterly Journal of the Geological Society</a>; <a href="/w/index.php?title=Journal_of_the_Geological_Society&amp;action=edit&amp;redlink=1" class="new" title="Journal of the Geological Society (страница отсутствует)">Journal of the Geological Society</a>).
+</p><p>Серия приобрела свою нынешнюю форму и периодичность выпуска в 1981&#160;году. Частота публикаций постоянно увеличивается, и в настоящее время составляет около 20 новых томов каждый год<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Новые тома этой серии заказывает Геологическое общество, а редакторы обеспечивают сбалансированное освещение темы издания. Общество придерживается высоких стандартов контроля качества книг, проводится полное рецензирование всех статей на соответствие стандартам, ожидаемым для журналов Геологического общества Лондона.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Издания_серии"><span id=".D0.98.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F_.D1.81.D0.B5.D1.80.D0.B8.D0.B8"></span>Издания серии</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Издания серии»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=2" title="Редактировать код раздела «Издания серии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>К 2025&#160;году выпущено и подготовлено к печати более 550 томов серии<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>:
+</p>
+<ul><li>1964—1999&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/loi/sp/group/c1900.d1990.y1999">160 том</a></li>
+<li>2000—2009&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/loi/sp/group/c2000.d2000.y2009">328 том</a></li>
+<li>2010—2019&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/loi/sp/group/c2000.d2010.y2019">483 том</a></li>
+<li>2020—2025&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/loi/sp/group/c2000.d2020.y2025">551 том</a></li></ul>
+<p>Оглавления, аннотации и прочая сопроводительная информация для всех сборников открыта на сайте издательства и научных агрегаторов (<a href="/wiki/Scopus" title="Scopus">Scopus</a><sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>).
+</p><p>Специальные публикации составляют основную часть «Коллекции Лайеля» (<a href="/w/index.php?title=Lyell_Collection&amp;action=edit&amp;redlink=1" class="new" title="Lyell Collection (страница отсутствует)">Lyell Collection</a>)&#160;— онлайн-коллекции всего ключевого контента Геологического общества, опубликованного с 1845&#160;года. В Коллекции представлены специальные публикации из первого тома, причем все новые тома публикуются немного раньше даты их печатной публикации. Рефераты, PDF-файлы и ссылки были собраны до тома 277 включительно, а более поздние тома также включали полнотекстовый <a href="/wiki/HTML" title="HTML">HTML</a><sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Специальные публикации последних лет доступны через книжные интернет-магазины (<a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0" title="Геологическое общество Лондона">GSL</a>, <a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2-%D0%BD%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Американская ассоциация геологов-нефтяников">AAPG</a>, <a href="/w/index.php?title=Burlington_House&amp;action=edit&amp;redlink=1" class="new" title="Burlington House (страница отсутствует)">Burlington House</a> и другие) и крупнейших поставщиков библиотек.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Редакционная_коллегия"><span id=".D0.A0.D0.B5.D0.B4.D0.B0.D0.BA.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BA.D0.BE.D0.BB.D0.BB.D0.B5.D0.B3.D0.B8.D1.8F"></span>Редакционная коллегия</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Редакционная коллегия»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=3" title="Редактировать код раздела «Редакционная коллегия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В <a href="/wiki/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F" title="Редакционная коллегия">редколлению</a> входят учёные&#160;— специалисты по основным направлениям <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Геология">геологических наук</a> и <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B8_%D0%BE_%D0%97%D0%B5%D0%BC%D0%BB%D0%B5" title="Науки о Земле">наук о Земле</a><sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Ответственными редакторами отдельных изданий и консультантами издательства выступают учёные из разных стран.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="О_геологии_в_России"><span id=".D0.9E_.D0.B3.D0.B5.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D0.B8_.D0.B2_.D0.A0.D0.BE.D1.81.D1.81.D0.B8.D0.B8"></span>О геологии в России</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=4" title="Редактировать раздел «О геологии в России»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=4" title="Редактировать код раздела «О геологии в России»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Некоторые тома были со статьями о геологии в России, среди них:
+</p>
+<ul><li>1997 (Volume 102)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/102/1">Biotic Recovery From Mass Extinction Events</a></li>
+<li>2007 (Volume 287)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/287/1">Four Centuries of Geological Travel: The Search for Knowledge on Foot, Bicycle, Sledge and Camel</a></li>
+<li>2009 (Volume 317)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/317/1">The Making of the Geological Society of London</a></li>
+<li>2015 (Volume 414)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/414/1">Magnetic Susceptibility Application: A Window onto Ancient Environments and Climatic Variations</a></li>
+<li>2016 (Volume 411)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/411/1">Geology and Archaeology: Submerged Landscapes of the Continental Shelf</a></li>
+<li>2017 (Volume 442)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/442/1">History of Geoscience: Celebrating 50 Years of INHIGEO</a></li>
+<li>2020 (Volume 499)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/499/1">The Changing Role of Geological Surveys</a></li>
+<li>2024 (Volume 543)&#160;— <a rel="nofollow" class="external text" href="https://www.lyellcollection.org/toc/sp/543/1">Geology’s Significant Sites and their Contributions to Geoheritage</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=5" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=5" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0" title="Геологическое общество Лондона">Геологическое общество Лондона</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="История геологии">История геологии</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=6" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.geolsoc.org.uk/sp">The Geological Society</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 28 мая 2024.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20240528140303/https://www.geolsoc.org.uk/sp">Архивировано</a> 28 мая 2024 года.</span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">GSL Special Publications&#160;— <a rel="nofollow" class="external text" href="https://www.geolsoc.org.uk/sp_authorinfo">Scope of the series</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20240528125057/https://www.geolsoc.org.uk/sp_authorinfo">Архивная копия</a> от 28 мая 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, 2024.</span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.iugs.org/gslbooks">GSL SPs</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20240528125040/https://www.iugs.org/gslbooks">Архивная копия</a> от 28 мая 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> на сайте <a href="/wiki/IUGS" class="mw-redirect" title="IUGS">IUGS</a>.</span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.geolsoc.org.uk/sp">Books&#160;— Special Publications</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20240528140303/https://www.geolsoc.org.uk/sp">Архивная копия</a> от 28 мая 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, 2024.</span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://sp.lyellcollection.org/content/by/volume">Каталог томов</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20211006092351/https://sp.lyellcollection.org/content/by/volume">Архивная копия</a> от 6 октября 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;— Geological Society, London, Special Publications.</span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.scopus.com/sourceid/26547">Geological Society Special Publication</a>&#160;Book Series&#160;— <a href="/wiki/Scopus" title="Scopus">Scopus</a>.</span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.geolsoc.org.uk/lyellcollection">https://www.geolsoc.org.uk/lyellcollection</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20240528125024/https://www.geolsoc.org.uk/lyellcollection">Архивная копия</a> от 28 мая 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> - «Коллекция Лайеля» (<a href="/w/index.php?title=Lyell_Collection&amp;action=edit&amp;redlink=1" class="new" title="Lyell Collection (страница отсутствует)">Lyell Collection</a>) Геологического общества Лондона.</span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.lyellcollection.org/info/books-editorial-committee">Books Editorial Committee</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20240528125035/https://www.lyellcollection.org/info/books-editorial-committee">Архивная копия</a> от 28 мая 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;— редколлегия книг.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r137903846">.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные&#95;проекты ruwikiWikimediaNavigation metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/40px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/60px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Geological_Society_of_London,_Special_Publications" class="extiw" title="commons:Category:Geological Society of London, Special Publications">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<ul><li><a rel="nofollow" class="external text" href="https://www.geolsoc.org.uk/sp">geolsoc.org.uk/sp</a>&#160;— Официальный сайт</li>
+<li><a rel="nofollow" class="external text" href="https://sp.lyellcollection.org/content/by/volume">GSL Special Publications</a>&#160;— Каталог томов</li>
+<li><a rel="nofollow" class="external text" href="https://www.iugs.org/gslbooks">GSL SPs</a> на сайте <a href="/wiki/IUGS" class="mw-redirect" title="IUGS">IUGS</a></li>
+<li><a rel="nofollow" class="external text" href="https://istina.msu.ru/journals/64680/">64680</a> и <a rel="nofollow" class="external text" href="https://istina.msu.ru/collections/series/7073432/">7073432</a> в каталоге ИСТИНА МГУ</li>
+<li><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/ISSN/2041-4927">ISSN</a>.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q15817216#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;В&#160;библиографических каталогах</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ELibrary.Ru" title="ELibrary.Ru">eLibrary.ru</a>: <a rel="nofollow" class="external text" href="https://elibrary.ru/title_about.asp?id=16436">16436</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Серийные&#95;издания&#95;по&#95;истории&#95;геологии" data-name="Издания по истории геологии"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3" style="background:#F2E8ED"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%98%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Перейти к шаблону «Издания по истории геологии»"><img alt="Перейти к шаблону «Издания по истории геологии»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Серийные&#95;издания&#95;по&#95;истории&#95;геологии" style="font-size:114%;margin:0 5em">Серийные издания по истории геологии</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Начаты в СССР</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D0%B8" title="История геологического исследования Сибири">История геологического исследования Сибири</a> (1931—1949, 1959)</li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9" title="Очерки по истории геологических знаний">Очерки по истории геологических знаний</a> (с 1953)</li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B5%D1%80%D0%B8%D1%8F" title="Научно-биографическая серия">Научно-биографическая серия</a> (c 1959)</li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A1%D0%A1%D0%A1%D0%A0" title="Геологическая изученность СССР">Геологическая изученность СССР</a> (1961—1991)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8_%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Материалы к истории геологии в СССР">Материалы к истории геологии в СССР</a> (1965—1978)</li>
+<li>Труды Института истории естествознания и техники АН СССР, <a href="/wiki/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8" title="Вопросы истории естествознания и техники">Вопросы истории естествознания и техники</a> (c 1980)</li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 7px"><div><figure class="mw-halign-right" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Geologicheskaya-Izuchennost-SSSR.jpg" class="mw-file-description" title="Геологическая изученность"><img alt="Геологическая изученность" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geologicheskaya-Izuchennost-SSSR.jpg/120px-Geologicheskaya-Izuchennost-SSSR.jpg" decoding="async" width="100" height="161" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geologicheskaya-Izuchennost-SSSR.jpg/250px-Geologicheskaya-Izuchennost-SSSR.jpg 1.5x" data-file-width="372" data-file-height="600" /></a><figcaption>Геологическая изученность</figcaption></figure></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Россия <span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="mw-file-description" title="Флаг России"><img alt="Флаг России" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Архив истории науки и техники (страница отсутствует)">Архив истории науки и техники</a> (с 1995)</li>
+<li><a href="/wiki/VM-Novitates_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="VM-Novitates (журнал)">VM-Novitates</a> (c 1998)</li>
+<li><a href="/wiki/%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA._XVIII-XX_%D0%B2%D0%B2.:_%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B8_%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Члены Российской академии наук. XVIII-XX вв.: Геология и горные науки">Академики и члены-корреспонденты: геология и горные науки</a> (2000—2012)</li>
+<li><a href="/w/index.php?title=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA_%D0%BE_%D0%97%D0%B5%D0%BC%D0%BB%D0%B5_(%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="История наук о Земле (сборники) (страница отсутствует)">История наук о Земле</a> (с 2007)</li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%B5%D1%82%D1%82%D0%B0" title="Тиетта">Тиетта</a> (c 2007)</li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA_%D0%BE_%D0%97%D0%B5%D0%BC%D0%BB%D0%B5_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="История наук о Земле (журнал)">История наук о Земле</a> (c 2008)</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Российское минералогическое общество глазами современников">Российское минералогическое общество глазами современников</a> (с 2013)</li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8:_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8,_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B8,_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5" title="История науки: Источники, памятники, наследие">История науки: Источники, памятники, наследие</a> (с 2014)</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D1%82_%D0%BF%D0%BE_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B8_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8" title="Российский национальный комитет по истории и философии науки и техники">Журнал Российского национального комитета по истории и философии науки и техники</a> (с 2023)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Украина <span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Ukraine.svg" class="mw-file-description" title="Флаг Украины"><img alt="Флаг Украины" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/40px-Flag_of_Ukraine.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/60px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Очерки истории естествознания и техники (страница отсутствует)">Очерки истории естествознания и техники</a> (ОИЕТ)</li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Наука и науковедение">Наука и науковедение</a> (с 1993)</li>
+<li><a href="/w/index.php?title=%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B8_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Исследования по истории и философии науки и техники (страница отсутствует)">Исследования по истории и философии науки и техники</a> (с 2018)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Международные</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/INHIGEO" class="mw-redirect" title="INHIGEO">INHIGEO</a> Annual Report (c 1967)</li>
+<li><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Italy.svg" class="mw-file-description" title="Флаг Италии"><img alt="Флаг Италии" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/60px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Physis_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Physis (журнал)">Physis</a> (с 1959)</li>
+<li><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_Kingdom_(3-5).svg" class="mw-file-description" title="Флаг Великобритании"><img alt="Флаг Великобритании" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/40px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/60px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a class="mw-selflink selflink">GSL, Special Publications</a> (c 1964)</li>
+<li><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" class="mw-file-description" title="Флаг США"><img alt="Флаг США" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Earth_Sciences_History" title="Earth Sciences History">Earth Sciences History</a> (c 1982)</li>
+<li><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_People%27s_Republic_of_China.svg" class="mw-file-description" title="Флаг Китайской Народной Республики"><img alt="Флаг Китайской Народной Республики" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/40px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/60px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Chinese_Annals_of_History_of_Science_and_Technology" title="Chinese Annals of History of Science and Technology">Chinese Annals of History of Science and Technology</a> (c 2017)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><i>Электронные</i></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Научное наследие России">Научное наследие России</a> (c 2007)</li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8_%D0%B8_%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B0" title="История геологии и горного дела">История геологии и горного дела</a> (с 2015)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-size:smaller;"><div><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="История геологии">История геологии</a>&#160;; <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B8_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Категория:Историки геологии">Категория:Историки геологии</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐zrc9f
+Cached time: 20260212102000
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.246 seconds
+Real time usage: 0.364 seconds
+Preprocessor visited node count: 1076/1000000
+Revision size: 10303/2097152 bytes
+Post‐expand include size: 37797/2097152 bytes
+Template argument size: 5125/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6342/5000000 bytes
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 7674176/52428800 bytes
+Number of Wikibase entities loaded: 4/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.850      1 -total
+ 54.92%  167.438      1 Шаблон:Книжная_серия
+ 54.14%  165.042      1 Шаблон:Карточка
+ 19.27%   58.758      2 Шаблон:Wikidata
+ 17.22%   52.480      1 Шаблон:ВС
+ 14.87%   45.332      1 Шаблон:Карточка/оригинал_названия_произведения
+  9.34%   28.480      1 Шаблон:Навигация
+  8.76%   26.705      1 Шаблон:Примечания
+  8.50%   25.924      1 Шаблон:Книжные_серии_по_истории_геологии
+  7.25%   22.093      1 Шаблон:Навигационная_таблица
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:10641195:|#|:idhash:canonical and timestamp 20260212102000 and revision id 144293675. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;oldid=144293675">https://ru.wikipedia.org/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;oldid=144293675</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Книжные серии по алфавиту">Книжные серии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Категория:История геологии">История геологии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Категория:История науки">История науки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0" title="Категория:Геологическое общество Лондона">Геологическое общество Лондона</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C_%D1%83_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Локальная подпись у изображения из Викиданных">Википедия:Локальная подпись у изображения из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Geological+Society%2C+London%2C+Special+Publications" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Geological+Society%2C+London%2C+Special+Publications" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Geological_Society,_London,_Special_Publications" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Geological_Society,_London,_Special_Publications" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/Geological_Society,_London,_Special_Publications"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Geological_Society,_London,_Special_Publications" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Geological_Society,_London,_Special_Publications" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;oldid=144293675" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Geological_Society%2C_London%2C_Special_Publications&amp;id=144293675&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FGeological_Society%2C_London%2C_Special_Publications"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FGeological_Society%2C_London%2C_Special_Publications"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Geological_Society%2C_London%2C_Special_Publications&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Geological_Society_of_London,_Special_Publications" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/ISSN_0305-8719" hreflang="en"><span>Викивиды</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15817216" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-fr badge-Q70894304 mw-list-item" title=""><a href="https://fr.wikipedia.org/wiki/Geological_Society,_London,_Special_Publications." title="Geological Society, London, Special Publications. — французский" lang="fr" hreflang="fr" data-title="Geological Society, London, Special Publications." data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15817216#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 марта 2025 года в 14:40.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=Geological_Society,_London,_Special_Publications&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-zrc9f","wgBackendResponseTime":527,"wgPageParseReport":{"limitreport":{"cputime":"0.246","walltime":"0.364","ppvisitednodes":{"value":1076,"limit":1000000},"revisionsize":{"value":10303,"limit":2097152},"postexpandincludesize":{"value":37797,"limit":2097152},"templateargumentsize":{"value":5125,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6342,"limit":5000000},"entityaccesscount":{"value":4,"limit":500},"timingprofile":["100.00%  304.850      1 -total"," 54.92%  167.438      1 Шаблон:Книжная_серия"," 54.14%  165.042      1 Шаблон:Карточка"," 19.27%   58.758      2 Шаблон:Wikidata"," 17.22%   52.480      1 Шаблон:ВС"," 14.87%   45.332      1 Шаблон:Карточка/оригинал_названия_произведения","  9.34%   28.480      1 Шаблон:Навигация","  8.76%   26.705      1 Шаблон:Примечания","  8.50%   25.924      1 Шаблон:Книжные_серии_по_истории_геологии","  7.25%   22.093      1 Шаблон:Навигационная_таблица"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":7674176,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P50 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P123 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-zrc9f","timestamp":"20260212102000","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Geological Society, London, Special Publications","url":"https:\/\/ru.wikipedia.org\/wiki\/Geological_Society,_London,_Special_Publications","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15817216","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15817216","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2024-05-28T12:49:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/GSLSP.jpg","headline":"C\u0435\u0440\u0438\u0439\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 \u043a\u043d\u0438\u0433 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0439 \u0413\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u041b\u043e\u043d\u0434\u043e\u043d\u0430"}</script>
+</body>
+</html>

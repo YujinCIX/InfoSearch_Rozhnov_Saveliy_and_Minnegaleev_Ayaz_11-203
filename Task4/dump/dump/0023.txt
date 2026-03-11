@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Котка (миноносец) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"b1d19436-6051-4fd8-be1d-fb7cb32a1431","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Котка_(миноносец)","wgTitle":"Котка (миноносец)","wgCurRevisionId":147766393,"wgRevisionId":147766393,"wgArticleId":9817167,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Неавторитетный источник с июля 2022","Википедия:Статьи с утверждениями, основанными на неавторитетном источнике","Википедия:Шаблон «Внешние ссылки» пуст","Суда по алфавиту","Миноносцы XIX века","Миноносцы России","Корабли и суда Новороссийской эвакуации","Миноносцы Черноморского флота Российской империи","Миноносцы Черноморского флота ВМФ СССР"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Котка_(миноносец)","wgRelevantArticleId":9817167,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":147766393,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q113258701","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a1/%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Котка (миноносец) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Котка_миноносец rootpage-Котка_миноносец skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Котка (миноносец)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox" data-name="Судно">
+
+<tbody><tr>
+<th colspan="2" scope="colgroup" class="infobox-header infobox-above" style="background:#A1CCE7;">«Котка», миноносец № 256, "Летчик", посыльное судно № 4</th>
+</tr>
+<tr>
+<td colspan="2" class="infobox-image plainlist" style="text-align:center;">
+<span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg" class="mw-file-description" title="Миноносец №256 Черноморского флота в Южной бухте Севастополя"><img alt="Миноносец №256 Черноморского флота в Южной бухте Севастополя" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg/330px-%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg" decoding="async" width="300" height="157" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg/500px-%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg/720px-%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg 2x" data-file-width="720" data-file-height="376" /></a></span><br /><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block">Миноносец №256 Черноморского флота в Южной бухте Севастополя</span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#A1CCE7;">Служба</th>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#cae2f1;"><span class="nowrap" data-sort-value="Российская империя"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Naval_ensign_of_Russia.svg/40px-Naval_ensign_of_Russia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Naval_ensign_of_Russia.svg/60px-Naval_ensign_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя"><span class="wrap">Российская империя</span></a></span><br /> <span class="nowrap" data-sort-value="Германия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия"><span class="wrap">Германия</span></a></span><br /> <span class="nowrap" data-sort-value="Великобритания"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naval_ensign_of_the_United_Kingdom.svg/40px-Naval_ensign_of_the_United_Kingdom.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naval_ensign_of_the_United_Kingdom.svg/60px-Naval_ensign_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания"><span class="wrap">Великобритания</span></a></span><br /><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Naval_ensign_of_Russia.svg/40px-Naval_ensign_of_Russia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Naval_ensign_of_Russia.svg/60px-Naval_ensign_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span> (<a href="/wiki/%D0%92%D0%A1%D0%AE%D0%A0" class="mw-redirect" title="ВСЮР">ВСЮР</a>) <br /> <span class="nowrap" data-sort-value="СССР"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naval_Ensign_of_the_Soviet_Union_%281923%E2%80%931935%29.svg/40px-Naval_Ensign_of_the_Soviet_Union_%281923%E2%80%931935%29.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naval_Ensign_of_the_Soviet_Union_%281923%E2%80%931935%29.svg/60px-Naval_Ensign_of_the_Soviet_Union_%281923%E2%80%931935%29.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик"><span class="wrap">СССР</span></a></span> (1920—1922)</th>
+</tr>
+
+<tr>
+<th scope="row" class="plainlist">Класс и тип судна</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P289" class="no-wikidata">Миноносец</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Порт приписки</th>
+<td class="plainlist">
+Севастополь</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Организация</th>
+<td class="plainlist">
+<a href="/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%BB%D0%BE%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" class="mw-redirect" title="Военно-Морской Флот Российской империи">ВМФ Российской империи</a><br /><a href="/wiki/%D0%92%D0%9C%D0%A4_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8" class="mw-redirect" title="ВМФ Великобритании">ВМФ Великобритании</a><br /><a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D1%84%D0%BB%D0%BE%D1%82" title="Белый флот">Белый флот</a><br /><a href="/wiki/%D0%92%D0%9C%D0%A4_%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="ВМФ СССР">ВМФ СССР</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%92%D0%B5%D1%80%D1%84%D1%8C" title="Верфь">Изготовитель</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q113258701$cf23f292-4014-f3d8-0f4d-8cee966f2e30" class="wikidata-claim" data-wikidata-property-id="P176"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9E%D1%85%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%84%D0%B8" title="Охтинские верфи">Петрозавод</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%81%D0%BA_%D1%81%D1%83%D0%B4%D0%BE%D0%B2" title="Спуск судов">Спущен на воду</a></th>
+<td class="plainlist">
+1891</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Введён в эксплуатацию</th>
+<td class="plainlist">
+1892</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Выведен из состава флота</th>
+<td class="plainlist">
+1922</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Статус</th>
+<td class="plainlist">
+разобрано на металл</td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#A1CCE7;">Основные характеристики</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%B8%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Водоизмещение">Водоизмещение</a></th>
+<td class="plainlist">
+102,5</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Длина</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2043" class="no-wikidata">46,8 <a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80" title="Метр">м</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Ширина</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2049" class="no-wikidata">3,94 <a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80" title="Метр">м</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9E%D1%81%D0%B0%D0%B4%D0%BA%D0%B0" title="Осадка">Осадка</a></th>
+<td class="plainlist">
+2,34 <a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80" title="Метр">м</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D1%80%D0%BE%D0%BD%D1%8F" title="Корабельная броня">Бронирование</a></th>
+<td class="plainlist">
+до 6.3 мм</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Двигатели</th>
+<td class="plainlist">
+вертикальная паровая машина тройного расширения, локомотивный котёл с дымогарными трубками</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Мощность">Мощность</a></th>
+<td class="plainlist">
+1000 л.с <a href="/wiki/%D0%9B%D0%BE%D1%88%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0" title="Лошадиная сила">л. с.</a> (контрактная)</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Движитель">Движитель</a></th>
+<td class="plainlist">
+1 винт</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" title="Скорость судна">Скорость хода</a></th>
+<td class="plainlist">
+19,03 <a href="/wiki/%D0%A3%D0%B7%D0%B5%D0%BB_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="Узел (единица измерения)">узлов</a> (контрактная)</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Дальность плавания">Дальность плавания</a></th>
+<td class="plainlist">
+450 миль при 12 узлах</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%AD%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6" title="Экипаж">Экипаж</a></th>
+<td class="plainlist">
+3 офицера и 17 матросов</td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#A1CCE7;">Вооружение</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D1%8F" title="Корабельная артиллерия">Артиллерия</a></th>
+<td class="plainlist">
+2х1 37-мм орудия,  с 1914 года: 2х1 47-мм орудия, 2х1 37-мм орудия</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%97%D0%B5%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B4%D0%B8%D0%B5" title="Зенитное орудие">Зенитная артиллерия</a></th>
+<td class="plainlist">
+1 7.62-мм пулемет</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%A2%D0%BE%D1%80%D0%BF%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" title="Торпедный аппарат">Минно-торпедное вооружение</a></th>
+<td class="plainlist">
+1х2 палубный торпедный аппарат</td>
+</tr>
+
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#eaecf0;"><span data-wikidata-claim-id="Q113258701$4287658d-4c43-3dba-f745-3d4d0d22ed21" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Kotka_(destroyer)" title="commons:Category:Kotka (destroyer)"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Kotka_(destroyer)" class="extiw" title="commons:Category:Kotka (destroyer)">Медиафайлы на Викискладе</a></span></span></th>
+</tr>
+<tr><td></td></tr></tbody></table>
+<p><b>«Котка», миноносец №&#160;256, «Летчик», посыльное судно №&#160;4</b>&#160;— <a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86" title="Миноносец">миноносец</a> <a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BB%D0%BE%D1%82_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F)" class="mw-redirect" title="Черноморский флот (Российская империя)">Черноморского флота</a>, впоследствии посыльное судно. Участвовало в Первой мировой войне и в Гражданской войне в России.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_создания"><span class="tocnumber">1</span> <span class="toctext">История создания</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Конструкция_и_характеристики"><span class="tocnumber">2</span> <span class="toctext">Конструкция и характеристики</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#История_службы"><span class="tocnumber">3</span> <span class="toctext">История службы</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="История_создания"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F"></span>История создания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История создания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit&amp;section=1" title="Редактировать код раздела «История создания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В конце 80-х годов XIX века <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Морское министерство Российской империи">Морское ведомство</a> приняло решение о постройке серии недорогих миноносцев по образцу «Ревеля» и «Свеаборга». В развитие проекта они должны были иметь увеличенную боевую рубку, паровую машину тройного расширения, один носовой и два поворотных палубных минных аппарата. Котлы сохранялись локомотивные с дымогарными трубками<sup id="cite&#95;ref-:0&#95;1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><style data-mw-deduplicate="TemplateStyles:r141254988">.mw-parser-output .ts-fix-template{font-style:normal;font-weight:normal;white-space:nowrap}.mw-parser-output .ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}html.skin-theme-clientpref-night .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented>a:not(:hover){border-bottom:1px dotted;text-decoration:none}}</style><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники"><span title="утверждение основано на потенциально неавторитетном источнике (25 июля 2022)">неавторитетный источник</span></a></i>&#93;</sup>.
+</p><p>В сентябре 1889 года на <a href="/wiki/%D0%9E%D1%85%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%84%D0%B8#Завод_Крейтона" title="Охтинские верфи">заводе Крейтона</a> был разработан эскизный проект. Длина по ватерлинии была сохранена, для обеспечения остойчивости и удобства минных аппаратов ширина по ватерлинии увеличена. Носовые обводы сделаны более острыми, прямой форштевень заменен таранным. Осадка с винтом уменьшилась, водоизмещение осталось прежним. При рассмотрении проекта в феврале 1890 года было решено оставить только один палубный минный аппарат, так как была выявлена ненадежность стрельбы из аппаратов, установленных вблизи кормовой оконечности. Толщина наружной обшивки выше ватерлинии в районе машинного и котельного отделений, шпунтового пояса под ними и верхней палубы составляла 5, у торпедного аппарата&#160;— 6,3, в остальных местах&#160;— 3 и 4&#160;мм. Восемь водонепроницаемых переборок имели толщину 2-3&#160;мм. Проектная индикаторная мощность машины планировалась 1000 л . с. при частоте вращения 325—350 об/мин, рабочее давление котла 12,6 атм, с четырёхкратным запасом прочности. В проекте использовались эллипсовидные шпангоуты, образовывавшие характерные, заваленные внутрь покатые борта. Однако общее расположение из-за увеличенных размеров машины и поворотного аппарата на верхней палубе претерпело существенные изменения. Проект разрабатывался по существу заново<sup id="cite&#95;ref-:0&#95;1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Заказ разделили между заводами Крейтона в Або и <a href="/wiki/%D0%98%D0%B6%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%8B" title="Ижорские заводы">Ижорским</a> (по два корабля). По разработанному ижорцами проекту их корабли имели существенные отличия, как от прототипа, так и от крейтоновских кораблей. 18 мая 1891 года корабли, строившиеся в Або (ныне <a href="/wiki/%D0%A2%D1%83%D1%80%D0%BA%D1%83" title="Турку">Турку</a>), получили названия «Даго» и «Котка» в честь финских городов. Миноносец «Котка» был спущен на воду весной 1891 года<sup id="cite&#95;ref-:0&#95;1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Конструкция_и_характеристики"><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.86.D0.B8.D1.8F_.D0.B8_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span>Конструкция и характеристики</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Конструкция и характеристики»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Конструкция и характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Корабли обладали восемью водоепроницаемыми переборками. Первый отсек между форштевнем и 3 шпангоутом образовывал таранное отделение. Второй отсек&#160;— отделение носового руля, между 3 и 9 шпангоутами. Третий отсек между 9 и 31 шпангоутами&#160;— <a href="/wiki/%D0%9A%D1%83%D0%B1%D1%80%D0%B8%D0%BA_(%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD)" title="Кубрик (морской термин)">кубрик</a>, служивший одновременно и минным отделением. Полупереборкой, приклепанной к 15 шпангоуту, отсек делился на 2 части. Четвёртый отсек между 31 и 35 шпангоутами&#160;— отделение перед котельным отсеком. Пятый отсек между 35 и 55 шпангоутами&#160;— котельное отделение. Шестой отсек между 55 и 66 шпанг.&#160;— машинное отделение. Седьмой отсек между 66 и 77 шп.&#160;— в нём размещались каюты офицеров и кают-компания. Восьмой отсек между 77 и 87 шпг.&#160;— каюта командира, ахтер-люк и отделение для снарядов. Девятый отсек между 87 шп. и ахтерштевнем&#160;— был предназначен для хранения шкиперских запасов<sup id="cite&#95;ref-:0&#95;1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<ul><li>Водоизмещение: 102,5 т.</li>
+<li>Размеры: длина&#160;— 46,8&#160;м, ширина&#160;— 3,94&#160;м, осадка&#160;— 2,34&#160;м.</li>
+<li>Скорость полного хода: 19,03 узла.</li>
+<li>Дальность плавания: 450 миль при 12 узлах, 1500 миль экономичным ходом</li>
+<li>В качестве водоотливных средств на корабле имелись три эжектора по 150 тн., три эжектора по 80 тн., циркуляционная помпа на 80 тонн/час.</li>
+<li>На миноносце имелось 3 мачты, 2 якоря.</li>
+<li>Расход угля на полном ходу составлял 960 кг/час.</li>
+<li>Силовая установка: 1 огнетрубный котел, 1 вертикальная паровая машина тройного расширения, 1000 л.с, 1 винт.</li>
+<li>Вооружение: 1х2 палубный торпедный аппарат, 2х1 37-мм орудия, 1 7.62-мм пулемет, с 1914&#160;г.: 2х1 47-мм орудия, 2х1 37-мм орудия, 1 7,62-мм пулемет.</li>
+<li>Экипаж: 20 человек, 3 офицера и 17 матросов</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="История_службы"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.BB.D1.83.D0.B6.D0.B1.D1.8B"></span>История службы</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «История службы»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit&amp;section=3" title="Редактировать код раздела «История службы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Миноносец «Котка» вступил в строй в 1892 году. В августе 1894 года «Котка» в составе отряда кораблей была отправлена на Дальний Восток, но уже на третий день пути на «Котке» провалились колосники и «Гремящему» пришлось взять миноносец на буксир. Поочередно идя на буксире «Гремящего», «Котка» и «Свеаборг» достигли Суэца, но серьёзная течь котла в труднодоступной нижней его части заставила отказаться от дальнейшего похода, миноносец был вынужден остаться в составе эскадры Средиземного моря. В апреле 1895 года совершил самостоятельный переход из порта <a href="/wiki/%D0%9F%D0%B8%D1%80%D0%B5%D0%B9" title="Пирей">Пирея</a> в Севастополь и 25 марта 1895 года «Котка» вошла в состав Черноморского флота. Тогда же получила вместо названия номер №&#160;256<sup id="cite&#95;ref-:0&#95;1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-:1&#95;2-0" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 1908 году миноносец прошел капитальный ремонт, на нем установили новый локомотивный котел. В сентябре 1914 года корабль уже как посыльное судно был выведен из резервного дивизиона миноносцев и приписан к воздушному району службы связи Черноморского флота. На нем был оставлен палубный минный аппарат и установлены по два 47- и 37-мм орудия и пулемет. Установлено радиостанция. В задачу его команды входили наблюдение за полетами гидросамолетов над морем и помощь при подготовке к полетам, при авариях<sup id="cite&#95;ref-:0&#95;1-5" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-:1&#95;2-1" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Во время <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая мировая война">Первой мировой войны</a> судно сопровождало самолёты, регулярно вылетавшие в море для разведочной и охранной службы на подходе к <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D0%B7%D0%B0" title="Севастопольская военно-морская база">главной базе</a> Черноморского флота. 25 октября 1914 года миноносец подобрал в море и привел в базу гидросамолет «М-15» мичмана <a href="/wiki/%D0%A0%D0%B0%D0%B3%D0%BE%D0%B7%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Рагозин, Николай Александрович">Н.&#160;А.&#160;Рагозина</a> и унтер-офицера Починка, повреждённый огнём с крейсера «<a href="/wiki/SMS_Breslau_(1911)" title="SMS Breslau (1911)">Бреслау</a>». С 2 июля 1915 года судно носило имя «Летчик». 29 сентября 1916 года его переименовали в посыльное судно №&#160;4 и зачислили в 1-й дивизион посыльных судов<sup id="cite&#95;ref-:0&#95;1-6" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-:1&#95;2-2" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>16 декабря 1917 года оно вошло в состав Красного Черноморского флота. С марта 1918 года находилось в Севастопольском военном порту на долговременном хранении. 1 мая 1918 года было захвачено германскими войсками, а 24 ноября 1918 года&#160;— англо-французскими интервентами, было передано Белому флоту. 3 апреля 1919 года убыло из Севастополя в Новороссийск, где 3 мая 1919 года вошло в состав морских сил Юга России<sup id="cite&#95;ref-:0&#95;1-7" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-:1&#95;2-3" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Пополнив в Новороссийске запасы и дав команде отдохнуть, 27 июня 1919 года крейсер «<a href="/wiki/%D0%9A%D0%B0%D0%B3%D1%83%D0%BB_(%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80)" title="Кагул (бронепалубный крейсер)">Кагул</a>», имея на борту генерала <a href="/wiki/%D0%94%D0%B5%D0%BD%D0%B8%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Деникин, Антон Иванович">А.&#160;И.&#160;Деникина</a> и адмирала <a href="/wiki/%D0%A1%D0%B0%D0%B1%D0%BB%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Саблин, Михаил Павлович">М.&#160;П.&#160;Саблина</a>, в сопровождении посыльного судна «Буг» и отремонтированного «Лётчика»<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>, пошел к берегам Кавказа. Целью похода было как бы подтверждение принадлежности Сочинского округа правительству Юга России. Посетив Туапсе, Сочи и Адлер, 30 июня отряд вернулся в Новороссийск<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Участвовало в <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D1%8F" title="Новороссийская эвакуация">Новороссийской эвакуации</a> марта 1920 года. 14 ноября 1920 года было оставлено врангелевцами при <a href="/wiki/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D1%8F" title="Крымская эвакуация">Крымской эвакуации</a> из Севастополя<sup id="cite&#95;ref-:0&#95;1-8" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>На следующий день было захвачено частями <a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B5-%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F" title="Рабоче-крестьянская Красная армия">РККА</a> и в декабре 1920 года включено в состав <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F" class="mw-redirect" title="Морские силы Чёрного моря">Морских сил Чёрного моря</a>. Прошло капитальный ремонт с декабря 1920 года по 17 апреля 1921 года. 2 февраля 1922 года было законсервировано и сдано Главному военному порту Морских сил Чёрного моря на хранение. 1 марта 1922 года было исключен из списков судов Морских сил Чёрного моря. В 1924 году передано «Комгосфондов» для разборки на металл<sup id="cite&#95;ref-:0&#95;1-9" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-:1&#95;2-4" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-:0-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:0_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:0_1-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-:0_1-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-:0_1-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-:0_1-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-:0_1-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-:0_1-9"><sup><i><b>10</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.kchf.ru/ship/minonosets/256.htm">Миноносец "Котка" (№256)</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;<i>Черноморский флот</i>&#32;(2022).&#32;Дата обращения: 24 июля 2022.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210731035118/https://www.kchf.ru/ship/minonosets/256.htm">Архивировано</a> 31 июля 2021 года.</span></span>
+</li>
+<li id="cite&#95;note-:1-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:1_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:1_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:1_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:1_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:1_2-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://fleetphoto.ru/vessel/114695/?lang=ru">Посыльное судно № 4</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;<i>ОБД Водный транспорт</i>&#32;(2022).&#32;Дата обращения: 26 июля 2022.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20220726082124/https://fleetphoto.ru/vessel/114695/?lang=ru">Архивировано</a> 26 июля 2022 года.</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">В источниках постоянно именуется более старыми названиями</span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Варнек П. А.</i>&#32;<span data-wikidata-qualifier-id="P248">Образование флота Добровольческой армии</span>&#32;&#47;&#47;&#32;<a rel="nofollow" class="external text" href="http://militera.org/articles/all/v/t41545/">Гражданская война в России: Черноморский флот</a>.&#160;— <abbr title="Москва">М.</abbr>: ACT, 2002.&#32;— [<a rel="nofollow" class="external text" href="https://web.archive.org/web/20220724200744/http://militera.org/articles/all/v/t41545/">Архивировано</a> 24&#160;июля 2022&#160;года.]</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit&amp;section=5" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><i><a href="/wiki/%D0%91%D0%B5%D0%BA%D0%BB%D0%B5%D0%BC%D0%B8%D1%88%D0%B5%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Беклемишев, Михаил Николаевич">Беклемишев&#160;М.&#160;Н.</a></i> Специально минные суда. Спб., 1898</li>
+<li><i>Мельников&#160;Р.&#160;М.</i> История отечественного судостроения, том II. Спб, Судостроение 1996</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Мельников Рафаил Михайлович.</i>&#32;Первые русские миноносцы.&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>, 1997.&#160;— 82&#160;с.</span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐zkrhs
+Cached time: 20260212102030
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.333 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 2962/1000000
+Revision size: 18851/2097152 bytes
+Post‐expand include size: 46072/2097152 bytes
+Template argument size: 6722/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12645/5000000 bytes
+Lua time usage: 0.180/10.000 seconds
+Lua memory usage: 5851845/52428800 bytes
+Number of Wikibase entities loaded: 9/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  407.234      1 -total
+ 54.13%  220.452      6 Шаблон:Карточка/блок
+ 25.32%  103.115      1 Шаблон:Судно/Служба
+ 23.97%   97.623      1 Шаблон:Судно/Начало
+ 15.70%   63.923      6 Шаблон:Wikidata
+ 15.10%   61.501      1 Шаблон:Примечания
+ 12.39%   50.437      1 Шаблон:Карточка/оригинал_названия
+ 11.65%   47.445      2 Шаблон:Книга
+ 11.58%   47.171      1 Шаблон:ВС
+  7.81%   31.799      1 Шаблон:Судно/Характеристики
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:9817167:|#|:idhash:canonical and timestamp 20260212102030 and revision id 147766393. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Котка_(миноносец)&amp;oldid=147766393">https://ru.wikipedia.org/w/index.php?title=Котка_(миноносец)&amp;oldid=147766393</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%83%D0%B4%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Суда по алфавиту">Суда по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D1%86%D1%8B_XIX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Миноносцы XIX века">Миноносцы XIX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D1%86%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Миноносцы России">Миноносцы России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8_%D0%B8_%D1%81%D1%83%D0%B4%D0%B0_%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D1%8D%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D0%B8" title="Категория:Корабли и суда Новороссийской эвакуации">Корабли и суда Новороссийской эвакуации</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D1%86%D1%8B_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Категория:Миноносцы Черноморского флота Российской империи">Миноносцы Черноморского флота Российской империи</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D1%86%D1%8B_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0_%D0%92%D0%9C%D0%A4_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Миноносцы Черноморского флота ВМФ СССР">Миноносцы Черноморского флота ВМФ СССР</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%81_%D0%B8%D1%8E%D0%BB%D1%8F_2022" title="Категория:Википедия:Неавторитетный источник с июля 2022">Википедия:Неавторитетный источник с июля 2022</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8,_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D0%BE%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Статьи с утверждениями, основанными на неавторитетном источнике">Википедия:Статьи с утверждениями, основанными на неавторитетном источнике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%C2%AB%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8%C2%BB_%D0%BF%D1%83%D1%81%D1%82" title="Категория:Википедия:Шаблон «Внешние ссылки» пуст">Википедия:Шаблон «Внешние ссылки» пуст</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0+%28%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0+%28%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;oldid=147766393" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_%28%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86%29&amp;id=147766393&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25BE%25D1%2582%25D0%25BA%25D0%25B0_%28%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25BE%25D0%25BD%25D0%25BE%25D1%2581%25D0%25B5%25D1%2586%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25BE%25D1%2582%25D0%25BA%25D0%25B0_%28%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25BE%25D0%25BD%25D0%25BE%25D1%2581%25D0%25B5%25D1%2586%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_%28%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Kotka_(destroyer)" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q113258701" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q113258701#sitelinks-wikipedia" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 августа 2025 года в 05:08.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-zkrhs","wgBackendResponseTime":667,"wgPageParseReport":{"limitreport":{"cputime":"0.333","walltime":"0.467","ppvisitednodes":{"value":2962,"limit":1000000},"revisionsize":{"value":18851,"limit":2097152},"postexpandincludesize":{"value":46072,"limit":2097152},"templateargumentsize":{"value":6722,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12645,"limit":5000000},"entityaccesscount":{"value":9,"limit":500},"timingprofile":["100.00%  407.234      1 -total"," 54.13%  220.452      6 Шаблон:Карточка/блок"," 25.32%  103.115      1 Шаблон:Судно/Служба"," 23.97%   97.623      1 Шаблон:Судно/Начало"," 15.70%   63.923      6 Шаблон:Wikidata"," 15.10%   61.501      1 Шаблон:Примечания"," 12.39%   50.437      1 Шаблон:Карточка/оригинал_названия"," 11.65%   47.445      2 Шаблон:Книга"," 11.58%   47.171      1 Шаблон:ВС","  7.81%   31.799      1 Шаблон:Судно/Характеристики"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"10.000"},"limitreport-memusage":{"value":5851845,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P138 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P289 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P458 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P127 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P176 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2049 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2048 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-zkrhs","timestamp":"20260212102030","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041a\u043e\u0442\u043a\u0430 (\u043c\u0438\u043d\u043e\u043d\u043e\u0441\u0435\u0446)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q113258701","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q113258701","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2022-07-24T18:51:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a1\/%D0%9C%D0%B8%D0%BD%D0%BE%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%E2%84%96256_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0.jpg","headline":"\u043c\u0438\u043d\u043e\u043d\u043e\u0441\u0435\u0446 \u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u043e\u0442\u0430, \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u043f\u043e\u0441\u044b\u043b\u044c\u043d\u043e\u0435 \u0441\u0443\u0434\u043d\u043e, \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u0432 \u041f\u0435\u0440\u0432\u043e\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u0435 \u0438 \u0432 \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u0435 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438."}</script>
+</body>
+</html>

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Rhaphidophora tetrasperma — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"bb7e0ee6-3bb4-4358-ba54-7df8279aae1f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rhaphidophora_tetrasperma","wgTitle":"Rhaphidophora tetrasperma","wgCurRevisionId":150052542,"wgRevisionId":150052542,"wgArticleId":10397044,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Биологические статьи без ITIS","Статьи о растениях без GRIN","Растения по алфавиту","Ароидные"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Rhaphidophora_tetrasperma","wgRelevantArticleId":10397044,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":150052542,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q11834848","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/db/Rhaphidophora_tetrasperma.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1200">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Rhaphidophora tetrasperma — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/Rhaphidophora_tetrasperma">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rhaphidophora_tetrasperma rootpage-Rhaphidophora_tetrasperma skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Rhaphidophora tetrasperma</i></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r143790059">.mw-parser-output .ts-Таксон-ids{width:100%;border-collapse:collapse;background:transparent}.mw-parser-output .ts-Таксон-ids th{font-weight:normal;text-align:right;vertical-align:middle;width:40%}.mw-parser-output .ts-Таксон-ids td{text-align:left;vertical-align:middle}body.skin--responsive.skin-minerva .mw-parser-output .infobox .ts-Таксон-ids th,body.skin--responsive.skin-minerva .mw-parser-output .infobox .ts-Таксон-ids td{padding:4px 1px;vertical-align:middle}</style><style data-mw-deduplicate="TemplateStyles:r145942173">.mw-parser-output .ts-Taxonomy-rang-row{text-align:left;width:100%;border-spacing:0}.mw-parser-output .ts-Taxonomy-rang-row:not([hidden]){display:table}.mw-parser-output .ts-Taxonomy-rang-label{display:table-cell;text-align:right;vertical-align:top;padding-right:0.3em!important;white-space:nowrap}.mw-parser-output .ts-Taxonomy-rang-name{display:table-cell;text-align:left;vertical-align:bottom}.mw-parser-output .ts-Taxonomy-error{color:var(--color-subtle,#54595d);background:var(--background-color-disabled,#c8ccd1);font-size:85%}body.skin-minerva .mw-parser-output .ts-Taxonomy-rang-label{width:40%}@media(min-width:720px){.mw-parser-output .ts-Taxonomy-rang-label{width:40%!important}}</style>
+<table class="infobox infobox-ef62da48e19885bf" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; width:275px;" data-name="Таксон"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:#90ee90;font-size:130%;"><i>Rhaphidophora tetrasperma</i></th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q11834848$244a1c20-311b-47f2-acae-8883108de2e0" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Rhaphidophora_tetrasperma.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rhaphidophora_tetrasperma.jpg/330px-Rhaphidophora_tetrasperma.jpg" decoding="async" width="267" height="400" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rhaphidophora_tetrasperma.jpg/500px-Rhaphidophora_tetrasperma.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rhaphidophora_tetrasperma.jpg/683px-Rhaphidophora_tetrasperma.jpg 2x" data-file-width="683" data-file-height="1024" /></a></span></span></span> </td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">Научная классификация</a></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<div data-expandtext="подробно" data-collapsetext="кратко" class="mw-collapsible mw-collapsed" style="font-size:95%; background-color: transparent; color: inherit; border:0;"><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Домен:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eukaryota" class="mw-redirect" title="Eukaryota">Эукариоты</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Царство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Plantae" class="mw-redirect" title="Plantae">Растения</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Angiosperms" class="mw-redirect" title="Angiosperms">Цветковые растения</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Monocots" class="mw-redirect" title="Monocots">Монокоты</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Порядок:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Alismatales" class="mw-redirect" title="Alismatales">Частухоцветные</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Семейство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Araceae" class="mw-redirect" title="Araceae">Ароидные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подсемейство:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Monsteroideae&amp;action=edit&amp;redlink=1" class="new" title="Monsteroideae (страница отсутствует)">Монстеровые</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Триба:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Monstereae&amp;action=edit&amp;redlink=1" class="new" title="Monstereae (страница отсутствует)"><i>Monstereae</i></a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Род:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Rhaphidophora" class="mw-disambig" title="Rhaphidophora">Рафидофора</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Вид:</div><div class="ts-Taxonomy-rang-name"><i><b>Rhaphidophora tetrasperma</b></i></div></div></div></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;">Международное научное название</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<i>Rhaphidophora tetrasperma</i> <span style="font-variant:small-caps;"><a href="/wiki/Joseph_Dalton_Hooker" class="mw-redirect" title="Joseph Dalton Hooker">Hook.f.</a></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style="background:#c6f6c6; font-size:90%; line-height:140%;;"><table role="presentation" width="100%" class="plainlinks" cellspacing="0" cellpadding="4"><tbody><tr><td style="vertical-align:middle"><span typeof="mw:File"><a href="https://species.wikimedia.org/wiki/Rhaphidophora_tetrasperma?uselang=ru"><img alt="Логотип Викивидов" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png" decoding="async" width="17" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png 1.5x" data-file-width="941" data-file-height="1103" /></a></span><br /><a class="external text" href="https://species.wikimedia.org/wiki/Rhaphidophora_tetrasperma?uselang=ru">Систематика<br />в&#160;Викивидах</a></td><td style="vertical-align:middle"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Rhaphidophora_tetrasperma"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span><br /><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Rhaphidophora_tetrasperma">Изображения<br />на&#160;Викискладе</a></td><td><table class="ts-Таксон-ids">
+<tbody><tr><th scope="row"><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B1%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Национальный центр биотехнологической информации">NCBI</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q11834848$43AB0E9E-E39A-41DE-A2F4-53EFFE31EEBC" class="wikidata-claim" data-wikidata-property-id="P685"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=258311">258311</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Энциклопедия жизни">EOL</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q11834848$b3f97992-aead-4b56-8f27-354551a40d53" class="wikidata-claim" data-wikidata-property-id="P830"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://eol.org/pages/1131806">1131806</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/International_Plant_Names_Index" title="International Plant Names Index">IPNI</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q11834848$4DBA9E39-53BB-4888-8E19-2CFD3BB35DE9" class="wikidata-claim" data-wikidata-property-id="P961"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ipni.org/n/88594-1">88594-1</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/Plants_of_the_World_Online" title="Plants of the World Online">POWO</a>&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q11834848$44E3912E-D4D3-42CF-9429-D5263A28E14C" class="wikidata-claim" data-wikidata-property-id="P5037"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:88594-1">88594-1</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/World_Flora_Online" title="World Flora Online">WFO</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q11834848$1A4E75CC-17EC-4095-8D9A-8497E4E8459C" class="wikidata-claim" data-wikidata-property-id="P7715"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://www.worldfloraonline.org/taxon/wfo-0000296095">0000296095</a></span></span></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table>
+<p><b><i>Rhaphidophora tetrasperma</i>&#160;&#160;<span class="ref-info" title="на латинском языке" style="cursor:help;">(лат.)</span></b> — вид <a href="/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Цветковые растения">цветковых растений</a> семейства <a href="/wiki/%D0%90%D1%80%D0%BE%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5" title="Ароидные">Ароидные</a>, рода <i><a href="/wiki/%D0%A0%D0%B0%D1%84%D0%B8%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%B0" title="Рафидофора">Рафидофора</a></i>. В основном произрастает в Южном <a href="/wiki/%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4" title="Таиланд">Таиланде</a> и <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D1%8F" title="Малайзия">Малайзии</a><sup id="cite&#95;ref-The&#95;Araceae&#95;of&#95;Peninsular&#95;Malaysia&#95;(Penerbit&#95;USM)&#95;By&#95;Mashhor&#95;Mansor,&#95;Peter&#95;C.&#95;Boyce,&#95;Ahmad&#95;Sofiman&#95;Othman,&#95;Baharuddin&#95;Sulaiman&#95;1-0" class="reference"><a href="#cite_note-The_Araceae_of_Peninsular_Malaysia_(Penerbit_USM)_By_Mashhor_Mansor,_Peter_C._Boyce,_Ahmad_Sofiman_Othman,_Baharuddin_Sulaiman-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Этого представителя <a href="/wiki/%D0%90%D1%80%D0%BE%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5" title="Ароидные">ароидных</a> часто ошибочно принимают за другие виды и семейства, о чём свидетельствуют некоторые из приведенных выше названий, используемых в питомниках растений и розничными торговцами. Некоторые из этих ошибочных названий включают: <i><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D0%B5%D1%80%D0%B0_%D0%B4%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B5%D1%81%D0%BD%D0%B0%D1%8F" title="Монстера деликатесная">Monstera deliciosa</a></i> (принято за миниатюрную версию), <i><a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D0%B4%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D0%BD" title="Филодендрон">Philodendron</a></i> sp. и <i><a href="/wiki/%D0%AD%D0%BF%D0%B8%D0%BF%D1%80%D0%B5%D0%BC%D0%BD%D1%83%D0%BC_%D0%BF%D0%B5%D1%80%D0%B8%D1%81%D1%82%D1%8B%D0%B9" title="Эпипремнум перистый">Epipremnum pinnatum</a></i>, которые могут иметь одинаковую перистую листву, в зависимости от стадии жизни конкретного растения<sup id="cite&#95;ref-Exotic&#95;Rainforest&#95;2-0" class="reference"><a href="#cite_note-Exotic_Rainforest-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Продажи"><span id=".D0.9F.D1.80.D0.BE.D0.B4.D0.B0.D0.B6.D0.B8"></span>Продажи</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Продажи»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;action=edit&amp;section=1" title="Редактировать код раздела «Продажи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>13 июня 2021&#160;года экземпляр <i>Rhaphidophora Tetrasperma</i> редкого белого цвета был продан на интернет-аукционе «Trade me» в Новой Зеландии за рекордные 27&#160;100 новозеландских долларов (приблизительно 19&#160;300 долларов США)<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Источники"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span>Источники</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Источники»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;action=edit&amp;section=2" title="Редактировать код раздела «Источники»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-The&#95;Araceae&#95;of&#95;Peninsular&#95;Malaysia&#95;(Penerbit&#95;USM)&#95;By&#95;Mashhor&#95;Mansor,&#95;Peter&#95;C.&#95;Boyce,&#95;Ahmad&#95;Sofiman&#95;Othman,&#95;Baharuddin&#95;Sulaiman-1"><span class="mw-cite-backlink"><a href="#cite_ref-The_Araceae_of_Peninsular_Malaysia_(Penerbit_USM)_By_Mashhor_Mansor,_Peter_C._Boyce,_Ahmad_Sofiman_Othman,_Baharuddin_Sulaiman_1-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=Zn6xCQAAQBAJ&amp;dq=%22rhaphidophora+tetrasperma%22&amp;pg=PT160">The Araceae of Peninsular Malaysia (Penerbit USM) By Mashhor Mansor, Peter C. Boyce, Ahmad Sofiman Othman, Baharuddin Sulaiman</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 2 ноября 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20231102083924/https://books.google.com/books?id=Zn6xCQAAQBAJ&amp;dq=%22rhaphidophora+tetrasperma%22&amp;pg=PT160">Архивировано</a> 2 ноября 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-Exotic&#95;Rainforest-2"><span class="mw-cite-backlink"><a href="#cite_ref-Exotic_Rainforest_2-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.exoticrainforest.com/Epipremnum%20pinnatum%20pc.html">Exotic Rainforest by Steve Lucas</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 2 ноября 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230622141308/http://www.exoticrainforest.com/Epipremnum%20pinnatum%20pc.html">Архивировано</a> 22 июня 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en-NZ"><a rel="nofollow" class="external text" href="https://www.nzherald.co.nz/lifestyle/houseplant-sells-on-trade-me-for-record-27100/GSXGSZL64SWLPEXP47JJG3MBY4/">Houseplant sells on Trade Me for record $27,100</a></span>&#160;<span class="ref-info" title="на новозеландском английском языке" style="cursor:help;">(новозел. англ.)</span>.&#32;<i>NZ Herald</i>.&#32;Дата обращения: 14 июня 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210614090228/https://www.nzherald.co.nz/lifestyle/houseplant-sells-on-trade-me-for-record-27100/GSXGSZL64SWLPEXP47JJG3MBY4/">Архивировано</a> 14 июня 2021 года.</span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px;background: #90ee90;"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q11834848#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Таксономия</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://eol.org/pages/1131806">EOL</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.gbif.org/species/5329745">GBIF</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/912388">iNaturalist</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=258311">NCBI</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=88594-1">IPNI</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=11129549">IRMNG</a></li>
+<li><a rel="nofollow" class="external text" href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:88594-1">POWO</a></li>
+<li><a rel="nofollow" class="external text" href="http://legacy.tropicos.org/Name/2103965">Tropicos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.worldfloraonline.org/taxon/wfo-0000296095">WFO</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐swzzb
+Cached time: 20260212102058
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.345 seconds
+Real time usage: 0.474 seconds
+Preprocessor visited node count: 4071/1000000
+Revision size: 3449/2097152 bytes
+Post‐expand include size: 49950/2097152 bytes
+Template argument size: 13858/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5068/5000000 bytes
+Lua time usage: 0.224/10.000 seconds
+Lua memory usage: 5730851/52428800 bytes
+Number of Wikibase entities loaded: 7/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  433.089      1 -total
+ 78.64%  340.566      1 Шаблон:Таксон
+ 63.79%  276.258      1 Шаблон:Карточка
+ 46.66%  202.065     40 Шаблон:Wikidata
+ 21.67%   93.835     16 Шаблон:If-wikidata
+ 14.67%   63.525      1 Шаблон:ВС
+  5.55%   24.047      1 Шаблон:Примечания
+  4.21%   18.218      3 Шаблон:Cite_web
+  3.04%   13.162      3 Шаблон:Таксон/Цвет
+  2.68%   11.596     72 Шаблон:TaxInfo
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:10397044:|#|:idhash:canonical and timestamp 20260212102058 and revision id 150052542. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Rhaphidophora_tetrasperma&amp;oldid=150052542">https://ru.wikipedia.org/w/index.php?title=Rhaphidophora_tetrasperma&amp;oldid=150052542</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Растения по алфавиту">Растения по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%BE%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5" title="Категория:Ароидные">Ароидные</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_ITIS" title="Категория:Биологические статьи без ITIS">Биологические статьи без ITIS</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%B1%D0%B5%D0%B7_GRIN" title="Категория:Статьи о растениях без GRIN">Статьи о растениях без GRIN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Rhaphidophora+tetrasperma" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Rhaphidophora+tetrasperma" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Rhaphidophora_tetrasperma" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Rhaphidophora_tetrasperma" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/Rhaphidophora_tetrasperma"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Rhaphidophora_tetrasperma" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Rhaphidophora_tetrasperma" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;oldid=150052542" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Rhaphidophora_tetrasperma&amp;id=150052542&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FRhaphidophora_tetrasperma"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FRhaphidophora_tetrasperma"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Rhaphidophora_tetrasperma&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Rhaphidophora_tetrasperma&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Rhaphidophora_tetrasperma" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Rhaphidophora_tetrasperma" hreflang="en"><span>Викивиды</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11834848" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — себуано" lang="ceb" hreflang="ceb" data-title="Rhaphidophora tetrasperma" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — немецкий" lang="de" hreflang="de" data-title="Rhaphidophora tetrasperma" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — английский" lang="en" hreflang="en" data-title="Rhaphidophora tetrasperma" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — французский" lang="fr" hreflang="fr" data-title="Rhaphidophora tetrasperma" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — польский" lang="pl" hreflang="pl" data-title="Rhaphidophora tetrasperma" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — шведский" lang="sv" hreflang="sv" data-title="Rhaphidophora tetrasperma" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — украинский" lang="uk" hreflang="uk" data-title="Rhaphidophora tetrasperma" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — вьетнамский" lang="vi" hreflang="vi" data-title="Rhaphidophora tetrasperma" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Rhaphidophora_tetrasperma" title="Rhaphidophora tetrasperma — варай" lang="war" hreflang="war" data-title="Rhaphidophora tetrasperma" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11834848#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 ноября 2025 года в 15:26.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=Rhaphidophora_tetrasperma&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-swzzb","wgBackendResponseTime":640,"wgPageParseReport":{"limitreport":{"cputime":"0.345","walltime":"0.474","ppvisitednodes":{"value":4071,"limit":1000000},"revisionsize":{"value":3449,"limit":2097152},"postexpandincludesize":{"value":49950,"limit":2097152},"templateargumentsize":{"value":13858,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5068,"limit":5000000},"entityaccesscount":{"value":7,"limit":500},"timingprofile":["100.00%  433.089      1 -total"," 78.64%  340.566      1 Шаблон:Таксон"," 63.79%  276.258      1 Шаблон:Карточка"," 46.66%  202.065     40 Шаблон:Wikidata"," 21.67%   93.835     16 Шаблон:If-wikidata"," 14.67%   63.525      1 Шаблон:ВС","  5.55%   24.047      1 Шаблон:Примечания","  4.21%   18.218      3 Шаблон:Cite_web","  3.04%   13.162      3 Шаблон:Таксон/Цвет","  2.68%   11.596     72 Шаблон:TaxInfo"]},"scribunto":{"limitreport-timeusage":{"value":"0.224","limit":"10.000"},"limitreport-memusage":{"value":5730851,"limit":52428800},"limitreport-logs":"Loaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P961 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P5037 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7715 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-swzzb","timestamp":"20260212102058","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Rhaphidophora tetrasperma","url":"https:\/\/ru.wikipedia.org\/wiki\/Rhaphidophora_tetrasperma","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11834848","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11834848","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2023-11-02T09:09:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/db\/Rhaphidophora_tetrasperma.jpg","headline":"\u0432\u0438\u0434 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439"}</script>
+</body>
+</html>

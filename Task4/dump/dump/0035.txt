@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Репантиньи (Кальвадос) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"6e5eaaad-c61a-4a3b-9993-3762fee8a4ec","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Репантиньи_(Кальвадос)","wgTitle":"Репантиньи (Кальвадос)","wgCurRevisionId":149865418,"wgRevisionId":149865418,"wgArticleId":1798408,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с источниками из Викиданных","НП:Статус:Коммуна","ПРО:Города:Последняя правка: в прошлом году","Википедия:Страницы с картами","Населённые пункты по алфавиту","Коммуны департамента Кальвадос"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Репантиньи_(Кальвадос)","wgRelevantArticleId":1798408,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149865418,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgCoordinates":{"lat":49.2,"lon":0.05},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q938026","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg/1280px-%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="801">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Репантиньи (Кальвадос) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Репантиньи_Кальвадос rootpage-Репантиньи_Кальвадос skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="49.2&#95;0&#95;0&#95;N&#95;0.05&#95;0&#95;0&#95;E&#95;scale:100000&#95;region:FR&#95;type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/49.2/0.05/ru" data-zoom="12" data-lat="49.2" data-lon="0.05" data-lang="ru" data-overlays="[&quot;_c8a20710b914205cbd50763b0ee4e25d56bf1564&quot;]">49°12′&#160;с.&#160;ш. 0°03′&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;params=49.2_0_0_N_0.05_0_0_E_scale:100000_region:FR_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=49.2,0.05&amp;q=49.2,0.05&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=0.05,49.2&amp;pt=0.05,49.2&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=49.2&amp;mlon=0.05&amp;zoom=12"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Репантиньи (Кальвадос)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a href="/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8" class="mw-disambig" title="Репантиньи">Репантиньи</a>.</div>
+<table class="infobox infobox-e5eec76e7dce59d4" style="" data-name="НП-Франция"><tbody><tr><td colspan="2" class="" style="text-align:center;">Коммуна</td></tr><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Репантиньи</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata"><span data-wikidata-property-id="P1448" class="no-wikidata">Repentigny</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q938026$90cd39b5-1cb4-4381-bf1c-abec4cdfa48e" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%C3%89glise_Saint-Martin_de_Repentigny_(1).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg/330px-%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg" decoding="async" width="290" height="194" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg/500px-%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg/960px-%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg 2x" data-file-width="3008" data-file-height="2008" /></a></span></span></span> </td></tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;text-align: center; padding-bottom:0.25em;">
+<span class="no-wikidata" data-wikidata-property-id="P625"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="49.2&#95;0&#95;0&#95;N&#95;0.05&#95;0&#95;0&#95;E&#95;scale:100000&#95;region:FR&#95;type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/49.2/0.05/ru" data-zoom="12" data-lat="49.2" data-lon="0.05" data-lang="ru" data-overlays="[&quot;_c8a20710b914205cbd50763b0ee4e25d56bf1564&quot;]">49°12′&#160;с.&#160;ш. 0°03′&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;params=49.2_0_0_N_0.05_0_0_E_scale:100000_region:FR_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=49.2,0.05&amp;q=49.2,0.05&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=0.05,49.2&amp;pt=0.05,49.2&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=49.2&amp;mlon=0.05&amp;zoom=12"><span>O</span></a></span></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Страна</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P17" class="no-wikidata"><span class="nowrap" data-sort-value="Франция"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция"><span class="wrap">Франция</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Регионы Франции">Регион</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Нижняя Нормандия">Нижняя Нормандия</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%94%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Департаменты Франции">Департамент</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)" title="Кальвадос (департамент)">Кальвадос</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" class="mw-redirect" title="Кантон (Франция)">Кантон</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D1%80%D0%B5%D0%BC%D0%B5%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Камбремер (кантон)">Камбремер</a></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">История и география</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Площадь</th>
+<td class="plainlist" style="width:60%;">
+<ul><li><span data-wikidata-claim-id="Q938026$26f89b66-ddb1-4287-b2b6-2e8c01a97b86" class="wikidata-claim" data-wikidata-property-id="P2046"><span class="wikidata-snak wikidata-main-snak">2,13&#160;км²</span><sup id="cite&#95;ref-&#95;6cfdb9ca96be082a&#95;1-0" class="reference"><a href="#cite_note-_6cfdb9ca96be082a-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0%D0%B4_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%BC_%D0%BC%D0%BE%D1%80%D1%8F" title="Высота над уровнем моря">Высота центра</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q938026$EB7888BA-90AC-46E6-8D57-FD5921F7355A" class="wikidata-claim" data-wikidata-property-id="P2044"><span class="wikidata-snak wikidata-main-snak">37&#160;м</span><sup id="cite&#95;ref-&#95;3552749ed7196696&#95;2-0" class="reference"><a href="#cite_note-_3552749ed7196696-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></span>,&#32;<span data-wikidata-claim-id="Q938026$1473AD23-57BB-4248-896A-0CF5A81F09CE" class="wikidata-claim" data-wikidata-property-id="P2044"><span class="wikidata-snak wikidata-main-snak">135&#160;м</span><sup id="cite&#95;ref-&#95;3552749ed7196696&#95;2-1" class="reference"><a href="#cite_note-_3552749ed7196696-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></span>&#32;и&#32;<span data-wikidata-claim-id="Q938026$EA4AD024-898A-469A-A351-4FCDBAE092AF" class="wikidata-claim" data-wikidata-property-id="P2044"><span class="wikidata-snak wikidata-main-snak">106&#160;м</span><sup id="cite&#95;ref-&#95;f5c690684b2298db&#95;3-0" class="reference"><a href="#cite_note-_f5c690684b2298db-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" title="Часовой пояс">Часовой пояс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P421" class="no-wikidata"><a href="/wiki/UTC%2B1:00" title="UTC+1:00">UTC+1:00</a>, <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Летнее время">летом</a> <a href="/wiki/UTC%2B2:00" title="UTC+2:00">UTC+2:00</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Население</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Население</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P1082" class="no-wikidata"><span class="nowrap">89&#160;человек (<span data-wikidata-qualifier-id="P585">2010</span>)</span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Цифровые идентификаторы</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Почтовый индекс">Почтовый индекс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P281" class="no-wikidata">14340</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9A%D0%BE%D0%B4_INSEE" title="Код INSEE">Код INSEE</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-external-id="14533" class="no-wikidata" data-wikidata-property-id="P374"><a rel="nofollow" class="external text" href="https://www.insee.fr/fr/statistiques/2011101?geo=COM-14533">14533</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header mw-customtoggle-maps1 nomobile noprint" style="min-width: 297px; font-weight:normal;"><span style="border-bottom:1px dotted;">Показать/скрыть карты</span></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding: 0 1px 1px 0;">
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-maps1">
+<div class="mw-collapsible-content" style="margin-top: 2px;"><span class="no-wikidata" data-wikidata-property-id="P625"><style data-mw-deduplicate="TemplateStyles:r140508045">.mw-parser-output .ts-ПозКарта-карта .thumbimage{background:#fff;max-width:100%;overflow:hidden;position:relative}.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map ts-ПозКарта-карта" style="width:290px; ;margin:0 auto"><div class=""><div class="thumbimage notheme" style="width:290px;"><span class="notpageimage" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:France_location_map-Regions_and_departements-2016.svg" class="mw-file-description" title="Репантиньи на карте"><img alt="Репантиньи на карте" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/330px-France_location_map-Regions_and_departements-2016.svg.png" decoding="async" width="290" height="279" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/500px-France_location_map-Regions_and_departements-2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/960px-France_location_map-Regions_and_departements-2016.svg.png 2x" data-file-width="2000" data-file-height="1922" /></a></span><div class="ts-ПозКарта-метка" style="left:37.03%; top:21.9%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Репантиньи"><img alt="Репантиньи" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">Репантиньи</div></div></div></div></div><div style="margin-top:2px"></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r140508045" /><div class="location-map ts-ПозКарта-карта" style="width:290px; ;margin:0 auto"><div class=""><div class="thumbimage notheme" style="width:290px;"><span class="notpageimage" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Basse-Normandie_region_location_map.svg" class="mw-file-description" title="Репантиньи на карте"><img alt="Репантиньи на карте" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Basse-Normandie_region_location_map.svg/330px-Basse-Normandie_region_location_map.svg.png" decoding="async" width="290" height="235" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Basse-Normandie_region_location_map.svg/500px-Basse-Normandie_region_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Basse-Normandie_region_location_map.svg/960px-Basse-Normandie_region_location_map.svg.png 2x" data-file-width="1414" data-file-height="1146" /></a></span><div class="ts-ПозКарта-метка" style="left:66.94%; top:34.85%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Репантиньи"><img alt="Репантиньи" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px">Репантиньи</div></div></div></div></div></span></div></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q938026$A70B1946-F368-4C07-BF8E-B76394EA3298" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Repentigny_(Calvados)" title="commons:Category:Repentigny (Calvados)"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Repentigny_(Calvados)" class="extiw" title="commons:Category:Repentigny (Calvados)">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Репантиньи́</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Repentigny</span>)&#160;— <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" class="mw-redirect" title="Коммуна (Франция)">коммуна</a> во <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франции</a>, находится в регионе <a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Нижняя Нормандия">Нижняя Нормандия</a>. Департамент коммуны&#160;— <a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)" title="Кальвадос (департамент)">Кальвадос</a>. Входит в состав кантона <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D1%80%D0%B5%D0%BC%D0%B5%D1%80_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)" title="Камбремер (кантон)">Камбремер</a>. Округ коммуны&#160;— <a href="/wiki/%D0%9B%D0%B8%D0%B7%D1%8C%D1%91_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Лизьё (округ)">Лизьё</a>.
+</p><p><a href="/wiki/%D0%9A%D0%BE%D0%B4_INSEE" title="Код INSEE">Код INSEE</a> коммуны — 14533.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Население"><span class="tocnumber">1</span> <span class="toctext">Население</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Экономика"><span class="tocnumber">2</span> <span class="toctext">Экономика</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#См._также"><span class="tocnumber">3</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ссылки"><span class="tocnumber">5</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Население"><span id=".D0.9D.D0.B0.D1.81.D0.B5.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span>Население</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Население»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Население»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Население коммуны на 2010 год составляло 89 человек.
+</p>
+<table class="wikitable" style="margin-left:auto; margin-right:auto">
+<caption style="margin-bottom:0.5em; font-size:1.1em">Численность населения по годам<br /><small>(Источник: <a rel="nofollow" class="external text" href="http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&amp;millesime=2010&amp;nivgeo=COM&amp;codgeo=14533">INSEE</a>)</small></caption>
+<tbody><tr>
+<th scope="col">1962</th><th scope="col">1968</th><th scope="col">1975</th><th scope="col">1982</th><th scope="col">1990</th><th scope="col">1999</th><th scope="col">2010</th>
+</tr><tr style="text-align:center">
+<td>57</td><td>56</td><td>51</td><td>52</td><td>69</td><td>91</td><td>89</td>
+</tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Экономика"><span id=".D0.AD.D0.BA.D0.BE.D0.BD.D0.BE.D0.BC.D0.B8.D0.BA.D0.B0"></span>Экономика</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Экономика»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Экономика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 2010 году среди 55 человек трудоспособного возраста (15—64 лет) 39 были <a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Экономически активное население">экономически активными</a>, 16&#160;— неактивными (показатель активности&#160;— 70,9&#160;%, в 1999 году было 66,7&#160;%). Из 39 активных жителей работали 36 человек (22 мужчины и 14 женщин), безработных было 3 (1 мужчина и 2 женщины). Среди 16 неактивных 9 человек были учениками или студентами, 3&#160;— пенсионерами, 4 были неактивными по другим причинам<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit&amp;section=3" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Список округов Франции">Список округов Франции</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-&#95;6cfdb9ca96be082a-1"><span class="mw-cite-backlink"><a href="#cite_ref-_6cfdb9ca96be082a_1-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q1172284" data-entity-id="Q20894925">база данных о французских коммунах<span class="wef&#95;low&#95;priority&#95;links"> — <a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальный географический институт Франции">Национальный географический институт Франции</a>.</span></span></span>
+</li>
+<li id="cite&#95;note-&#95;3552749ed7196696-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_3552749ed7196696_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_3552749ed7196696_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q1172284" data-entity-id="Q20894925"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20160804005551if_/https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z">база данных о французских коммунах</a><span class="wef&#95;low&#95;priority&#95;links"> — <a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальный географический институт Франции">Национальный географический институт Франции</a>, 2015.</span></span></span>
+</li>
+<li id="cite&#95;note-&#95;f5c690684b2298db-3"><span class="mw-cite-backlink"><a href="#cite_ref-_f5c690684b2298db_3-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q8513" data-entity-id="Q133878296"><a rel="nofollow" class="external text" href="https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z">https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z</a><span class="wef&#95;low&#95;priority&#95;links"> — 2016.</span></span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="fr"><a rel="nofollow" class="external text" href="http://www.insee.fr/fr/ppp/bases-de-donnees/donnees-detaillees/rp2010/chiffres-cles/base-cc-emploi-pop-active-2010/base-cc-emploi-pop-active-2010.zip">Base chiffres clés: emploi&#160;— population active 2010</a></span>&#160;<span class="ref-info" title="на французском языке" style="cursor:help;">(фр.)</span>.&#32;<a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальный институт статистики и экономических исследований Франции">INSEE</a>.&#32;Дата обращения: 3 октября 2014.&#32;<a rel="nofollow" class="external text" href="https://archive.today/20131115200901/http://www.insee.fr/fr/themes/detail.asp?reg_id=99&amp;ref_id=base-cc-emploi-pop-active-2010">Архивировано</a> 15 ноября 2013 года.</span> (приближённые данные, в 1999 году временная занятость учтена частично)</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit&amp;section=5" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.insee.fr/fr/methodes/nomenclatures/cog/fichecommunale.asp?codedep=14&amp;codecom=533">Национальный институт статистики&#160;— Репантиньи</a> &#160;<span class="ref-info" title="на французском языке" style="cursor:help;">(фр.)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Коммуны&#95;департамента&#95;Кальвадос" data-name="Коммуны департамента Кальвадос"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D1%8B_%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0_%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81" title="Перейти к шаблону «Коммуны департамента Кальвадос»"><img alt="Перейти к шаблону «Коммуны департамента Кальвадос»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Коммуны&#95;департамента&#95;Кальвадос" style="font-size:114%;margin:0 5em">Коммуны департамента <a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)" title="Кальвадос (департамент)">Кальвадос</a></div></th></tr><tr><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 7px 0px 0px"><div><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Arrondissement_de_Bayeux.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arrondissement_de_Bayeux.PNG/120px-Arrondissement_de_Bayeux.PNG" decoding="async" width="70" height="58" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arrondissement_de_Bayeux.PNG/250px-Arrondissement_de_Bayeux.PNG 2x" data-file-width="579" data-file-height="478" /></a></span></div></td><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3" style=""><div id="Округ&#95;Кан" style="font-size:114%;margin:0 5em">Округ <a href="/wiki/%D0%9A%D0%B0%D0%BD_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Кан (округ)">Кан</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B2%D0%BD%D0%B5" title="Авне">Авне</a></li>
+<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Аквиль (Кальвадос)">Аквиль</a></li>
+<li><a href="/wiki/%D0%90%D0%BC%D0%B0%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Амар (Кальвадос)">Амар</a></li>
+<li><a href="/wiki/%D0%90%D0%BC%D0%B1%D0%BB%D0%B8" title="Амбли">Амбли</a></li>
+<li><a href="/wiki/%D0%90%D0%BC%D0%B5%D0%B9%D0%B5-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Амейе-сюр-Орн">Амейе-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%90%D0%BC%D0%B5%D0%B9%D0%B5-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Амейе-сюр-Сёль">Амейе-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%90%D0%BC%D1%84%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8)" title="Амфревиль (Нижняя Нормандии)">Амфревиль</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D1%80%D0%BD%D0%B8" title="Ангерни">Ангерни</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Анговиль">Анговиль</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B8%D0%B7%D0%B8" title="Анизи">Анизи</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B6%D0%B0%D0%BD%D1%81_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Аржанс (коммуна)">Аржанс</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%B2%D0%B0%D0%BD" title="Баван">Баван</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бали (Кальвадос)">Бали</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C" title="Банвиль-ла-Кампань">Банвиль-ла-Кампань</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%90%D0%B6%D0%BE%D0%BD" title="Банвиль-сюр-Ажон">Банвиль-сюр-Ажон</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Барбери (Кальвадос)">Барбери</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BD-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Барон-сюр-Одон">Барон-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D1%83-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Бару-ан-Ож">Бару-ан-Ож</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD%D0%B3%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Беллангревиль">Беллангревиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Бени-сюр-Мер">Бени-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BD%D1%83%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бенувиль (Кальвадос)">Бенувиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%8C%D0%B5%D1%80-%D0%B4%E2%80%99%D0%90%D0%B9%D0%B8" title="Берньер-д’Айи">Берньер-д’Айи</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%8C%D0%B5%D1%80-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Берньер-сюр-Мер">Берньер-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%B9%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бийи (Кальвадос)">Бийи</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Бленвиль-сюр-Орн">Бленвиль-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BC%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Боме (Кальвадос)">Боме</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BD-%D0%A2%D0%B0%D1%81%D1%81%D0%B8%D0%B9%D0%B8" title="Бон-Тассийи">Бон-Тассийи</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BD%D0%BC%D0%B5%D0%B7%D0%BE%D0%BD" title="Бонмезон">Бонмезон</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BD%D0%BD%D1%91%D0%B9_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Боннёй (Кальвадос)">Боннёй</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B5-%D0%9C%D0%BE%D0%BD" title="Бревиль-ле-Мон">Бревиль-ле-Мон</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%E2%80%99%D0%9E%D1%80%D0%B3%D0%B5%D0%B9%D1%91%D0%B7" title="Бретвиль-л’Оргейёз">Бретвиль-л’Оргейёз</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B5-%D0%A0%D0%B0%D0%B1%D0%B5" title="Бретвиль-ле-Рабе">Бретвиль-ле-Рабе</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9B%D0%B5%D0%B7" title="Бретвиль-сюр-Лез">Бретвиль-сюр-Лез</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Бретвиль-сюр-Одон">Бретвиль-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D1%83%D1%8D" title="Бруэ">Бруэ</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D0%B6%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бужи (Кальвадос)">Бужи</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D0%BB%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Булон (Кальвадос)">Булон</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%B3%D0%B5%D0%B1%D1%8E%D1%81" title="Бургебюс">Бургебюс</a></li>
+<li><a href="/wiki/%D0%91%D1%8C%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%91%D1%91%D0%B2%D0%B8%D0%BB%D1%8C" title="Бьевиль-Бёвиль">Бьевиль-Бёвиль</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BA%D0%BE%D0%BD%D1%8C-%D0%9D%D1%91%D0%B9%D0%B8" title="Ваконь-Нёйи">Ваконь-Нёйи</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BD%D0%B4_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ванд (Кальвадос)">Ванд</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BD%D0%B4%D1%91%D0%B2%D1%80" title="Вандёвр">Вандёвр</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C" title="Варавиль">Варавиль</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%80%D1%81%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Версенвиль">Версенвиль</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%80%D1%81%D0%BE%D0%BD" title="Версон">Версон</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Вик (Кальвадос)">Вик</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B5%D1%80-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Виллер-Бокаж (Кальвадос)">Виллер-Бокаж</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B5%D1%80-%D0%9A%D0%B0%D0%BD%D0%B8%D0%B2%D0%B5" title="Виллер-Каниве">Виллер-Каниве</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B8-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Вилли-Бокаж">Вилли-Бокаж</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B8-%D0%BB%D0%B5-%D0%A4%D0%B0%D0%BB%D0%B5%D0%B7" title="Вилли-ле-Фалез">Вилли-ле-Фалез</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%BE%D0%BD-%D0%BB%D0%B5-%D0%91%D1%8E%D0%B8%D1%81%D1%81%D0%BE%D0%BD" title="Виллон-ле-Бюиссон">Виллон-ле-Бюиссон</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BC%D0%BE%D0%BD" title="Вимон">Вимон</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BD%D1%8C%D1%8F" title="Винья">Винья</a></li>
+<li><a href="/wiki/%D0%92%D0%BE-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Во-сюр-Сёль">Во-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D1%91_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Вьё (Кальвадос)">Вьё</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D1%91-%D0%A4%D1%8E%D0%BC%D0%B5" title="Вьё-Фюме">Вьё-Фюме</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%B2%D1%80%D1%8E%D1%81" title="Гаврюс">Гаврюс</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C-%D0%A1%D0%B5%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C" title="Гарсель-Секвиль">Гарсель-Секвиль</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Гонвиль-ан-Ож">Гонвиль-ан-Ож</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D1%82%D0%B2%D0%B8%D0%BB%D1%8C" title="Грантвиль">Грантвиль</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%BC%D0%B1%D0%BE%D1%81%D0%BA" title="Грембоск">Грембоск</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D0%9B%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD%D1%80%D0%B8" title="Гренвиль-Ланганри">Гренвиль-Ланганри</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Гренвиль-сюр-Одон">Гренвиль-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D0%B2%D0%B8%D0%BA%D1%81" title="Гувикс">Гувикс</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D0%BF%D0%B8%D0%B9%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Гупийер (Кальвадос)">Гупийер</a></li>
+<li><a href="/wiki/%D0%94%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Дамбленвиль">Дамбленвиль</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BC%D1%83%D0%B2%D0%B8%D0%BB%D1%8C" title="Демувиль">Демувиль</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%BD%D0%BD%D0%B5" title="Донне">Донне</a></li>
+<li><a href="/wiki/%D0%94%D1%83%D0%B2%D1%80-%D0%BB%D0%B0-%D0%94%D0%B5%D0%BB%D0%B8%D0%B2%D1%80%D0%B0%D0%BD%D0%B4" title="Дувр-ла-Деливранд">Дувр-ла-Деливранд</a></li>
+<li><a href="/wiki/%D0%94%D1%8E%D1%81%D0%B8-%D0%A1%D0%B5%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D0%B3%D0%B5%D1%80%D0%B8%D1%82" title="Дюси-Сент-Маргерит">Дюси-Сент-Маргерит</a></li>
+<li><a href="/wiki/%D0%96%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Жанвиль (Кальвадос)">Жанвиль</a></li>
+<li><a href="/wiki/%D0%96%D0%B8%D0%B1%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C" title="Жибервиль">Жибервиль</a></li>
+<li><a href="/wiki/%D0%96%D0%BE%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Жор (Кальвадос)">Жор</a></li>
+<li><a href="/wiki/%D0%96%D1%8E%D0%B2%D0%B8%D0%BD%D1%8C%D0%B8-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Жювиньи-сюр-Сёль">Жювиньи-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%98%D1%84_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" class="mw-redirect" title="Иф (Кальвадос)">Иф</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B1%D1%83%D1%80" title="Кабур">Кабур</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1-%D0%B0%D0%BD-%D0%9F%D0%BB%D0%B5%D0%BD" title="Камб-ан-Плен">Камб-ан-Плен</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B4%D1%80%D0%B5-%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D0%BD" title="Кампандре-Вальконгрен">Кампандре-Вальконгрен</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BB%D1%83" title="Кантлу">Кантлу</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Каньи (Кальвадос)">Каньи</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8" title="Карканьи">Карканьи</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BF%D0%B8%D0%BA%D0%B5" title="Карпике">Карпике</a></li>
+<li><a href="/wiki/%D0%9A%D0%B5%D1%80%D0%BE%D0%BD" title="Керон">Керон</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Клевиль (Кальвадос)">Клевиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B5%D0%BD%D1%88%D0%B0%D0%BD-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Кленшан-сюр-Орн">Кленшан-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%81%D0%B8" title="Клеси">Клеси</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%B2%D0%B8%D0%BA%D1%83%D1%80" title="Ковикур">Ковикур</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Ковиль">Ковиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D0%B5%D0%BB%D1%8C_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Коломбель (коммуна)">Коломбель</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D0%B8-%D1%81%D1%8E%D1%80-%D0%A2%D0%B0%D0%BD" title="Коломби-сюр-Тан">Коломби-сюр-Тан</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D0%B2%D0%B8%D0%BB%D1%8C-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%B8" title="Кольвиль-Монгомери">Кольвиль-Монгомери</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D1%80%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Комбре (Кальвадос)">Комбре</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BE%D0%BD-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Комон-сюр-Орн">Комон-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5-%D1%81%D1%8E%D1%80-%D0%98%D1%84" title="Конде-сюр-Иф">Конде-сюр-Иф</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Контвиль (Кальвадос)">Контвиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B4%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Корде (Кальвадос)">Корде</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BC%D0%B5%D0%BB%D1%8C-%D0%BB%D0%B5-%D0%A0%D1%83%D0%B0%D0%B9%D1%8F%D0%BB%D1%8C" title="Кормель-ле-Руайяль">Кормель-ле-Руайяль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D1%81%D0%B5%D1%81%D0%B2%D0%B8%D0%BB%D1%8C" title="Коссесвиль">Коссесвиль</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%80%D0%BE%D0%BD" title="Кресрон">Кресрон</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D1%91%D0%BB%D0%BB%D0%B8" title="Крёлли">Крёлли</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE" title="Кристо">Кристо</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%BE%D1%81%D0%B8" title="Кроси">Кроси</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D1%83%D0%B0%D0%B7%D0%B8%D0%B9" title="Круазий">Круазий</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Кулон (Кальвадос)">Кулон</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D0%B2%D0%BE%D0%B4%D0%BE%D0%BD" title="Курводон">Курводон</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D1%91%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Курсёль-сюр-Мер">Курсёль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Курси (Кальвадос)">Курси</a></li>
+<li><a href="/wiki/%D0%9A%D1%8E%D0%B2%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Кювервиль (Кальвадос)">Кювервиль</a></li>
+<li><a href="/wiki/%D0%9A%D1%8E%D0%BB%D0%B5-%D0%BB%D0%B5-%D0%9F%D0%B0%D1%82%D1%80%D0%B8" title="Кюле-ле-Патри">Кюле-ле-Патри</a></li>
+<li><a href="/wiki/%D0%9A%D1%8E%D0%BB%D0%BB%D0%B8_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Кюлли (Франция)">Кюлли</a></li>
+<li><a href="/wiki/%D0%9A%D1%8E%D1%80%D1%81%D0%B8-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Кюрси-сюр-Орн">Кюрси-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%92%D0%B8%D0%BB%D0%BB%D0%B5%D1%82_(%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F)" title="Ла-Виллет (Нормандия)">Ла-Виллет</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%9A%D0%B5%D0%BD" title="Ла-Кен">Ла-Кен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%9E%D0%B3%D0%B5%D1%82" title="Ла-Огет">Ла-Огет</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%9F%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D0%B5%D0%B9" title="Ла-Поммерей">Ла-Поммерей</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D0%BD%D0%B3%D1%80%D1%8E%D0%BD-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Лангрюн-сюр-Мер">Лангрюн-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D0%BD%D0%B4-%D1%81%D1%8E%D1%80-%D0%90%D0%B6%D0%BE%D0%BD" title="Ланд-сюр-Ажон">Ланд-сюр-Ажон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D0%BD%D1%82%D1%91%D0%B9_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Лантёй (Кальвадос)">Лантёй</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D1%81%D1%81%D0%BE%D0%BD" title="Лассон">Лассон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%91%D0%BE" title="Ле-Бо">Ле-Бо</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%91%D1%8E-%D1%81%D1%8E%D1%80-%D0%A0%D1%83%D0%B2%D1%80" title="Ле-Бю-сюр-Рувр">Ле-Бю-сюр-Рувр</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%92%D0%B5" title="Ле-Ве">Ле-Ве</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%94%D0%B5%D1%82%D1%80%D1%83%D0%B0" title="Ле-Детруа">Ле-Детруа</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9B%D0%BE%D0%B6-%D0%A1%D0%BE%D0%BB%D1%8C%D1%81" title="Ле-Лож-Сольс">Ле-Лож-Сольс</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9B%D0%BE%D1%88%D1%91%D1%80" title="Ле-Лошёр">Ле-Лошёр</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B0%D1%80%D0%B5-%D0%BB%D0%B0-%D0%A8%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C" title="Ле-Маре-ла-Шапель">Ле-Маре-ла-Шапель</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%92%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD" title="Ле-Мениль-Вильман">Ле-Мениль-Вильман</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%BE-%D0%93%D1%80%D0%B5%D0%BD" title="Ле-Мениль-о-Грен">Ле-Мениль-о-Грен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%9F%D0%B0%D1%82%D1%80%D0%B8" title="Ле-Мениль-Патри">Ле-Мениль-Патри</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D1%83%D1%82%D1%8C%D0%B5-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Ле-Мутье-ан-Ож">Ле-Мутье-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D1%83%D1%82%D1%8C%D0%B5-%D0%B0%D0%BD-%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5" title="Ле-Мутье-ан-Сингле">Ле-Мутье-ан-Сингле</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A4%D1%80%D0%B5%D0%BD-%D0%9A%D0%B0%D0%BC%D0%B8%D0%B9%D0%B8" title="Ле-Френ-Камийи">Ле-Френ-Камийи</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B7-%D0%98%D0%BB%D1%8C-%D0%91%D0%B0%D1%80%D0%B4%D0%B5%D0%BB%D1%8C" title="Лез-Иль-Бардель">Лез-Иль-Бардель</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B7-%D0%BB%D0%B0-%D0%92%D0%B8%D0%BB%D1%8C" title="Лез-ла-Виль">Лез-ла-Виль</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D1%84%D1%84%D0%B0%D1%80" title="Леффар">Леффар</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D0%BB%D0%B5%D1%80" title="Лонвиллер">Лонвиллер</a></li>
+<li><a href="/wiki/%D0%9B%D1%83%D0%B2%D0%B0%D0%BD%D1%8C%D0%B8" title="Луваньи">Луваньи</a></li>
+<li><a href="/wiki/%D0%9B%D1%83%D0%B2%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Лувиньи (Кальвадос)">Лувиньи</a></li>
+<li><a href="/wiki/%D0%9B%D1%83%D1%81%D0%B5%D0%BB%D1%8C" title="Лусель">Лусель</a></li>
+<li><a href="/wiki/%D0%9B%D1%8C%D0%BE%D0%BD-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Льон-сюр-Мер">Льон-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9B%D1%8E%D0%BA-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Люк-сюр-Мер">Люк-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%BE" title="Мальто">Мальто</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%8C%D0%B8-%D0%BB%D0%B0-%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C" title="Маньи-ла-Кампань">Маньи-ла-Кампань</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Мартенвиль">Мартенвиль</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8C%D0%B8-%D1%81%D1%8E%D1%80-%D0%BB%E2%80%99%D0%90%D0%BD%D1%82" title="Мартиньи-сюр-л’Ант">Мартиньи-сюр-л’Ант</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D1%80%D0%B0%D0%BD%D1%8C%D0%B8" title="Мартраньи">Мартраньи</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%82%D1%8C%D1%91_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Матьё (Кальвадос)">Матьё</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Ме-сюр-Орн">Ме-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%B5_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Мезе (Франция)">Мезе</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD%D1%81%D0%B5%D0%BB%D1%8C-%D0%9F%D0%B5%D0%BB%D1%8C%D0%B2%D0%B5" title="Мезонсель-Пельве">Мезонсель-Пельве</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD%D1%81%D0%B5%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%90%D0%B6%D0%BE%D0%BD" title="Мезонсель-сюр-Ажон">Мезонсель-сюр-Ажон</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D1%8C%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Мезьер (Кальвадос)">Мезьер</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Меле (Кальвадос)">Меле</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B2%D0%B8%D0%BB%D1%8C-%D0%9F%D0%BB%D0%B0%D0%B6" title="Мервиль-Франсвиль-Плаж">Мервиль-Франсвиль-Плаж</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%81%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Мисси (Кальвадос)">Мисси</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B4%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Мондвиль (Кальвадос)">Мондвиль</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B4%D1%80%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Мондренвиль">Мондренвиль</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B7-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Монз-ан-Бессен">Монз-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Монтиньи (Кальвадос)">Монтиньи</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D1%80%D1%82%D0%BE-%D0%9A%D1%83%D0%BB%D0%B8%D0%B1%D1%91%D1%84" title="Морто-Кулибёф">Морто-Кулибёф</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Муан (Кальвадос)">Муан</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%BB%D0%B8%D0%BD_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Мулин (Франция)">Мулин</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Муль (Кальвадос)">Муль</a></li>
+<li><a href="/wiki/%D0%9C%D1%8E%D1%82%D1%80%D0%B5%D1%81%D0%B8" title="Мютреси">Мютреси</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%BE%D0%BD-%D0%BB%E2%80%99%D0%90%D0%B1%D0%B1%D0%B5%D0%B8" title="Норон-л’Аббеи">Норон-л’Аббеи</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%80%D1%80%D0%B5-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Норре-ан-Ож">Норре-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9D%D1%83%D0%B0%D0%B9%D0%B5-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Нуайе-Бокаж">Нуайе-Бокаж</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Обиньи (Кальвадос)">Обиньи</a></li>
+<li><a href="/wiki/%D0%9E%D0%B4%D1%80%D0%B8%D1%91" title="Одриё">Одриё</a></li>
+<li><a href="/wiki/%D0%9E%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD" title="Оландон">Оландон</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Оти (Кальвадос)">Оти</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D1%84%D1%83%D1%80%D1%8E-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Парфурю-сюр-Одон">Парфурю-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D0%9D%D0%B5%D1%80" title="Пертвиль-Нер">Пертвиль-Нер</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D1%8C%D0%B5%D1%80" title="Перьер">Перьер</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D1%8C%D0%B5%D1%80-%D1%81%D1%8E%D1%80-%D0%BB%D0%B5-%D0%94%D0%B0%D0%BD" title="Перьер-сюр-ле-Дан">Перьер-сюр-ле-Дан</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D0%B8_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Пласи (Франция)">Пласи</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D1%8E%D0%BC%D1%82%D0%BE" title="Плюмто">Плюмто</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%B4%E2%80%99%D0%A3%D0%B9%D0%B8" title="Пон-д’Уйи">Пон-д’Уйи</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%82%D0%B8%D0%BD%D1%8C%D0%B8" title="Потиньи">Потиньи</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Прео-Бокаж">Прео-Бокаж</a></li>
+<li><a href="/wiki/%D0%9F%D1%82%D0%B8%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Птивиль (Кальвадос)">Птивиль</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D1%81%D1%81%D0%B8-%D0%BB%D0%B0-%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C" title="Пусси-ла-Кампань">Пусси-ла-Кампань</a></li>
+<li><a href="/wiki/%D0%9F%D1%8C%D0%B5%D1%80%D0%BF%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Пьерпон (Кальвадос)">Пьерпон</a></li>
+<li><a href="/wiki/%D0%9F%D1%8C%D0%B5%D1%80%D1%84%D0%B8%D1%82-%D0%B0%D0%BD-%D0%A1%D0%B5%D0%BD%D0%B3%D0%BB%D0%B5" title="Пьерфит-ан-Сенгле">Пьерфит-ан-Сенгле</a></li>
+<li><a href="/wiki/%D0%9F%D1%8E%D1%82%D0%BE-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Пюто-ан-Бессен">Пюто-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Ранвиль">Ранвиль</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BF%D0%B8%D0%B9%D0%B8" title="Рапийи">Рапийи</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%B2%D1%8C%D0%B5" title="Ревье">Ревье</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ро (Кальвадос)">Ро</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BB%D1%8C" title="Розель">Розель</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BA%D0%BA%D0%B0%D0%BD%D0%BA%D1%83%D1%80" title="Рокканкур">Рокканкур</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D0%B2%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Рувр (Кальвадос)">Рувр</a></li>
+<li><a href="/wiki/%D0%A0%D1%8E%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C" title="Рюквиль">Рюквиль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%BB%D1%8C" title="Сальнель">Сальнель</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C" title="Саннервиль">Саннервиль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D1%81%D1%81%D0%B8" title="Сасси">Сасси</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Секвиль-ан-Бессен">Секвиль-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%92%D0%B0-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Сен-Ва-сюр-Сёль">Сен-Ва-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C-%D0%91%D1%80%D0%B5%D1%81%D0%B8" title="Сен-Габриэль-Бреси">Сен-Габриэль-Бреси</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%94%D0%B5%D0%BD%D0%B8-%D0%B4%D0%B5-%D0%9C%D0%B5%D1%80%D0%B5" title="Сен-Дени-де-Мере">Сен-Дени-де-Мере</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%BB%D0%B0-%D0%91%D0%BB%D0%B0%D0%BD%D1%88-%D0%AD%D1%80%D0%B1" title="Сен-Жермен-ла-Бланш-Эрб">Сен-Жермен-ла-Бланш-Эрб</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%9B%D0%B0%D0%BD%D0%B3%D0%BE" title="Сен-Жермен-Ланго">Сен-Жермен-Ланго</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%BB%D0%B5-%D0%92%D0%B0%D1%81%D1%81%D0%BE%D0%BD" title="Сен-Жермен-ле-Вассон">Сен-Жермен-ле-Вассон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D1%81%D1%82" title="Сен-Контест">Сен-Контест</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D0%B0%D0%BC%D0%B1%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сен-Ламбер (Кальвадос)">Сен-Ламбер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D0%BE%D1%80%D0%B0%D0%BD-%D0%B4%D0%B5-%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C" title="Сен-Лоран-де-Кондель">Сен-Лоран-де-Кондель</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D1%83%D1%8D-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Сен-Луэ-сюр-Сёль">Сен-Луэ-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D0%BD%D0%B2%D1%8C%D1%91-%D0%9D%D0%BE%D1%80%D1%80%D0%B5" title="Сен-Манвьё-Норре">Сен-Манвьё-Норре</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%9C%D1%8C%D1%91" title="Сен-Мартен-де-Мьё">Сен-Мартен-де-Мьё</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%A1%D0%B0%D0%BB%D0%BB%D0%B0%D0%BD" title="Сен-Мартен-де-Саллан">Сен-Мартен-де-Саллан</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B5" title="Сен-Мартен-де-Фонтене">Сен-Мартен-де-Фонтене</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D0%B5%D1%80" title="Сен-Пер">Сен-Пер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%B4%D1%8E-%D0%91%D1%8E" title="Сен-Пьер-дю-Бю">Сен-Пьер-дю-Бю</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%B4%D1%8E-%D0%96%D0%BE%D0%BD%D0%BA%D0%B5" title="Сен-Пьер-дю-Жонке">Сен-Пьер-дю-Жонке</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%9A%D0%B0%D0%BD%D0%B8%D0%B2%D0%B5" title="Сен-Пьер-Каниве">Сен-Пьер-Каниве</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A0%D0%B5%D0%BC%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сен-Реми (Кальвадос)">Сен-Реми</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B5%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сен-Сильвен (Кальвадос)">Сен-Сильвен</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D0%B8-%D0%91%D1%83%D0%B0-%D0%90%D0%BB%D1%8C%D0%B1%D1%83" title="Сени-Буа-Альбу">Сени-Буа-Альбу</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D0%B8-%D0%BE-%D0%92%D0%B8%D0%BD%D1%8C" title="Сени-о-Винь">Сени-о-Винь</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%90%D0%BD%D0%B4%D1%80%D0%B5-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Сент-Андре-сюр-Орн">Сент-Андре-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%90%D0%BD%D1%8C%D1%8F%D0%BD-%D0%BB%D0%B5-%D0%9C%D0%B0%D0%BB%D0%B5%D1%80%D0%B1" title="Сент-Аньян-ле-Малерб">Сент-Аньян-ле-Малерб</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9A%D1%80%D1%83%D0%B0-%D0%93%D1%80%D0%B0%D0%BD-%D0%A2%D0%BE%D0%BD" title="Сент-Круа-Гран-Тон">Сент-Круа-Гран-Тон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%B1%D0%B5%D0%BD-%D0%B4%E2%80%99%D0%90%D1%80%D0%BA%D0%BD%D0%B5" title="Сент-Обен-д’Аркне">Сент-Обен-д’Аркне</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%B1%D0%B5%D0%BD-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сент-Обен-сюр-Мер (Кальвадос)">Сент-Обен-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%BC%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сент-Омер (Кальвадос)">Сент-Омер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%BD%D0%BE%D1%80%D0%B8%D0%BD-%D0%B4%D1%8E-%D0%A4%D0%B5" title="Сент-Онорин-дю-Фе">Сент-Онорин-дю-Фе</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%A3%D0%B0%D0%BD-%D0%B4%D1%8E-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%9E%D0%B6%D0%B5" title="Сент-Уан-дю-Мениль-Оже">Сент-Уан-дю-Мениль-Оже</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%AD%D0%BD%D1%8C%D1%8F%D0%BD-%D0%B4%D0%B5-%D0%9A%D1%80%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C" title="Сент-Эньян-де-Крамениль">Сент-Эньян-де-Крамениль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D0%BE" title="Сенто">Сенто</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%BB%D1%8C%D0%B5" title="Солье">Солье</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%B0%D0%BD%D1%8C%D0%BE%D0%BB%D1%8C" title="Суаньоль">Суаньоль</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B0%D0%BD%D0%B6%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Суланжи (Кальвадос)">Суланжи</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BC%D0%BE%D0%BD-%D0%A1%D0%B5%D0%BD-%D0%9A%D0%B0%D0%BD%D1%82%D0%B5%D0%BD" title="Сумон-Сен-Кантен">Сумон-Сен-Кантен</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Тан (Кальвадос)">Тан</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Тессель (Кальвадос)">Тессель</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%B9%D0%B8-%D0%BB%D0%B0-%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C" title="Тийи-ла-Кампань">Тийи-ла-Кампань</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%B9%D0%B8-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Тийи-сюр-Сёль">Тийи-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B0%D1%81%D0%B8-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Траси-Бокаж">Траси-Бокаж</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="Трепрель">Трепрель</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%B0%D1%80%D0%BD" title="Троарн">Троарн</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%83%D0%B0-%D0%9C%D0%BE%D0%BD" title="Труа-Мон">Труа-Мон</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Турвиль-сюр-Одон">Турвиль-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D0%B5-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Турне-сюр-Одон">Турне-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D0%B5%D0%B1%D1%8E" title="Турнебю">Турнебю</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%84%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Туфревиль">Туфревиль</a></li>
+<li><a href="/wiki/%D0%A2%D1%8E%D1%80%D0%B8-%D0%90%D1%80%D0%BA%D1%83%D1%80" title="Тюри-Аркур">Тюри-Аркур</a></li>
+<li><a href="/wiki/%D0%A3%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%B0%D0%BC" title="Уистреам">Уистреам</a></li>
+<li><a href="/wiki/%D0%A3%D0%B9%D0%B8-%D0%BB%D0%B5-%D0%A2%D0%B5%D1%81%D1%81%D0%BE%D0%BD" title="Уйи-ле-Тессон">Уйи-ле-Тессон</a></li>
+<li><a href="/wiki/%D0%A3%D1%84%D1%8C%D0%B5%D1%80" title="Уфьер">Уфьер</a></li>
+<li><a href="/wiki/%D0%A3%D1%8D%D0%B7%D0%B8" title="Уэзи">Уэзи</a></li>
+<li><a href="/wiki/%D0%A4%D1%91%D0%B3%D0%B5%D1%80%D0%BE%D0%BB%D1%8C-%D0%91%D1%8E%D0%BB%D0%BB%D0%B8" title="Фёгероль-Бюлли">Фёгероль-Бюлли</a></li>
+<li><a href="/wiki/%D0%A4%D0%BB%D1%91%D1%80%D0%B8-%D1%81%D1%8E%D1%80-%D0%9E%D1%80%D0%BD" title="Флёри-сюр-Орн">Флёри-сюр-Орн</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD-%D0%BB%D0%B5-%D0%9F%D0%B5%D0%BD" title="Фонтен-ле-Пен">Фонтен-ле-Пен</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD-%D0%AD%D0%BD%D1%80%D0%B8" title="Фонтен-Энри">Фонтен-Энри</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD-%D0%AD%D1%82%D1%83%D0%BF%D1%84%D1%83%D1%80" title="Фонтен-Этупфур">Фонтен-Этупфур</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B5-%D0%BB%D0%B5-%D0%9C%D0%B0%D1%80%D0%BC%D1%8C%D0%BE%D0%BD" title="Фонтене-ле-Мармьон">Фонтене-ле-Мармьон</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B5-%D0%BB%D0%B5-%D0%9F%D0%B5%D0%BD%D0%B5%D0%BB%D1%8C" title="Фонтене-ле-Пенель">Фонтене-ле-Пенель</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B5%D0%BD%D0%B5-%D0%BB%D0%B0-%D0%9C%D0%B5%D1%80" title="Френе-ла-Мер">Френе-ла-Мер</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B5%D0%BD%D0%B5-%D0%BB%D0%B5-%D0%92%D1%8C%D1%91" title="Френе-ле-Вьё">Френе-ле-Вьё</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B5%D0%BD%D0%B5-%D0%BB%D0%B5-%D0%9F%D1%8E%D0%BA%D1%91" title="Френе-ле-Пюкё">Френе-ле-Пюкё</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B5%D0%BD%D1%83%D0%B2%D0%B8%D0%BB%D1%8C" title="Френувиль">Френувиль</a></li>
+<li><a href="/wiki/%D0%A4%D1%83%D1%80%D0%BD%D0%BE-%D0%BB%D0%B5-%D0%92%D0%B0%D0%BB%D1%8C" title="Фурно-ле-Валь">Фурно-ле-Валь</a></li>
+<li><a href="/wiki/%D0%A4%D1%83%D1%80%D1%88" title="Фурш">Фурш</a></li>
+<li><a href="/wiki/%D0%A4%D1%8C%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D0%91%D1%80%D0%B5" title="Фьервиль-Бре">Фьервиль-Бре</a></li>
+<li><a href="/wiki/%D0%A8%D1%91" title="Шё">Шё</a></li>
+<li><a href="/wiki/%D0%A8%D0%B8%D1%88%D0%B1%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Шишбовиль">Шишбовиль</a></li>
+<li><a href="/wiki/%D0%AD%D0%B2%D1%80%D0%B5%D1%81%D0%B8" title="Эвреси">Эвреси</a></li>
+<li><a href="/wiki/%D0%AD%D0%BC%D1%8C%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Эмьевиль">Эмьевиль</a></li>
+<li><a href="/wiki/%D0%AD%D0%BF%D0%B0%D0%BD%D0%B5" title="Эпане">Эпане</a></li>
+<li><a href="/wiki/%D0%AD%D0%BF%D0%B8%D0%BD%D0%B5-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Эпине-сюр-Одон">Эпине-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%AD%D0%BF%D1%80%D0%BE%D0%BD" title="Эпрон">Эпрон</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Эран (Кальвадос)">Эран</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D0%B5%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Эрен (Кальвадос)">Эрен</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D0%BC%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Эрманвиль-сюр-Мер">Эрманвиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Эрн (Кальвадос)">Эрн</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D1%83%D0%B2%D0%B8%D0%BB%D0%BB%D0%B5%D1%82" title="Эрувиллет">Эрувиллет</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D1%83%D0%B2%D0%B8%D0%BB%D1%8C-%D0%A1%D0%B5%D0%BD-%D0%9A%D0%BB%D0%B5%D1%80" title="Эрувиль-Сен-Клер">Эрувиль-Сен-Клер</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D0%BA%D0%B5-%D0%9D%D0%BE%D1%82%D1%80-%D0%94%D0%B0%D0%BC" title="Эске-Нотр-Дам">Эске-Нотр-Дам</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Эсковиль">Эсковиль</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D0%BF%D0%B5%D0%BD" title="Эспен">Эспен</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D1%81%D0%BE%D0%BD" title="Эссон">Эссон</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D1%82%D1%80%D0%B5-%D0%BB%D0%B0-%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C" title="Эстре-ла-Кампань">Эстре-ла-Кампань</a></li>
+<li><a href="/wiki/%D0%AD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C" title="Этервиль">Этервиль</a></li>
+<li><a href="/wiki/%D0%AE%D0%B1%D0%B5%D1%80-%D0%A4%D0%BE%D0%BB%D0%B8" title="Юбер-Фоли">Юбер-Фоли</a></li>
+<li><a href="/wiki/%D0%AE%D1%80%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Юрвиль (Кальвадос)">Юрвиль</a></li>
+<li><a href="/wiki/%D0%AE%D1%81%D1%81%D0%B8_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Юсси (коммуна)">Юсси</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Arrondissement_de_Caen.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arrondissement_de_Caen.PNG/120px-Arrondissement_de_Caen.PNG" decoding="async" width="70" height="58" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arrondissement_de_Caen.PNG/250px-Arrondissement_de_Caen.PNG 2x" data-file-width="579" data-file-height="478" /></a></span></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3" style=""><div id="Округ&#95;Байё" style="font-size:114%;margin:0 5em">Округ <a href="/wiki/%D0%91%D0%B0%D0%B9%D1%91_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Байё (округ)">Байё</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B6%D0%B8_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Ажи (коммуна)">Ажи</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B5%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%9F%D0%B5%D1%80%D1%81%D0%B5" title="Англескевиль-ла-Персе">Англескевиль-ла-Персе</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B5%D0%BB%D1%8C" title="Анель">Анель</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%BA%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Анктовиль">Анктовиль</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D1%8C%D0%B5%D1%80-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Аньер-ан-Бессен">Аньер-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B3%D0%B0%D0%BD%D1%88%D0%B8" title="Арганши">Арганши</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%88-%D0%BB%D0%B5-%D0%91%D0%B5%D0%BD" title="Арроманш-ле-Бен">Арроманш-ле-Бен</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Базанвиль">Базанвиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%B9%D1%91" title="Байё">Байё</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D1%80%D1%83%D0%B0" title="Бальруа">Бальруа</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Банвиль">Банвиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Барбевиль">Барбевиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B5%D1%81%D0%BA" title="Бернеск">Бернеск</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бле (Кальвадос)">Бле</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B8%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C" title="Бриквиль">Бриквиль</a></li>
+<li><a href="/wiki/%D0%91%D1%8E%D1%81%D0%B5%D1%8D%D0%BB%D1%8C" title="Бюсеэль">Бюсеэль</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%80-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Вер-сюр-Мер">Вер-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D0%B5-%D0%BB%D0%B5-%D0%A1%D0%B5%D0%BA" title="Вилье-ле-Сек">Вилье-ле-Сек</a></li>
+<li><a href="/wiki/%D0%92%D0%BE-%D1%81%D1%8E%D1%80-%D0%9E%D1%80" title="Во-сюр-Ор">Во-сюр-Ор</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B1%D0%B0%D0%B4%D0%BE%D0%BD" title="Вобадон">Вобадон</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%81%D0%B5%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Восель (Кальвадос)">Восель</a></li>
+<li><a href="/wiki/%D0%92%D1%83%D0%B9%D0%B8" title="Вуйи">Вуйи</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D0%B5%D0%BD-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Вьен-ан-Бессен">Вьен-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Вьервиль-сюр-Мер">Вьервиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Герон (Кальвадос)">Герон</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%BA%D0%B0%D0%BD-%D0%9C%D0%B5%D0%B7%D0%B8" title="Гранкан-Мези">Гранкан-Мези</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%B9-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Грей-сюр-Мер">Грей-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%94%D1%91-%D0%96%D1%8E%D0%BC%D0%BE" title="Дё-Жюмо">Дё-Жюмо</a></li>
+<li><a href="/wiki/%D0%96%D0%B5%D1%84%D0%BE%D1%81-%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B5" title="Жефос-Фонтене">Жефос-Фонтене</a></li>
+<li><a href="/wiki/%D0%96%D1%8E%D1%8D%D0%B9-%D0%9C%D0%BE%D0%BD%D0%B4%D0%B5%D0%B9" title="Жюэй-Мондей">Жюэй-Мондей</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B8%D0%BD%D1%8C%D0%B8-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Изиньи-сюр-Мер">Изиньи-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B0%D0%BD%D1%8C%D0%BE%D0%BB%D1%8C" title="Кааньоль">Кааньоль</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Кампиньи (коммуна)">Кампиньи</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%88%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Канши (Кальвадос)">Канши</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Кардонвиль">Кардонвиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8C%D0%B8-%D0%BB%E2%80%99%D0%AD%D0%BF%D0%B8%D0%BD%D0%B5" title="Картиньи-л’Эпине">Картиньи-л’Эпине</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B8%D0%B9%D0%B8" title="Кастийи">Кастийи</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B8%D0%B9%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Кастийон (Кальвадос)">Кастийон</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D1%8C%D0%B5-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Коломбье-сюр-Сёль">Коломбье-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D1%8C%D0%B5%D1%80" title="Коломбьер">Коломбьер</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Кольвиль-сюр-Мер">Кольвиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Ком (Франция)">Ком</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BE%D0%BD-%D0%BB%E2%80%99%D0%AD%D0%B2%D0%B0%D0%BD%D1%82%D0%B5" title="Комон-л’Эванте">Комон-л’Эванте</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Конде-сюр-Сёль">Конде-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD" title="Кормолен">Кормолен</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%82%D1%82%D1%91%D0%BD" title="Коттён">Коттён</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D0%BD" title="Крепон">Крепон</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Криквиль-ан-Бессен">Криквиль-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D1%83%D1%8D" title="Круэ">Круэ</a></li>
+<li><a href="/wiki/%D0%9A%D1%8E%D1%81%D1%81%D0%B8" title="Кюсси">Кюсси</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%91%D0%B0%D0%B7%D0%BE%D0%BA" title="Ла-Базок">Ла-Базок</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%92%D0%B0%D0%BA%D1%80%D0%B8" title="Ла-Вакри">Ла-Вакри</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%9A%D0%B0%D0%BC%D0%B1" title="Ла-Камб">Ла-Камб</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%9B%D0%B0%D0%BD%D0%B4-%D1%81%D1%8E%D1%80-%D0%94%D1%80%D0%BE%D0%BC" title="Ла-Ланд-сюр-Дром">Ла-Ланд-сюр-Дром</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A4%D0%BE%D0%BB%D0%B8" title="Ла-Фоли">Ла-Фоли</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%91%D1%80%D1%91%D0%B9-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Ле-Брёй-ан-Бессен">Ле-Брёй-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B0%D0%BD%D1%83%D0%B0%D1%80" title="Ле-Мануар">Ле-Мануар</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%BE%D0%BB%D0%B5-%D0%9B%D0%B8%D1%82%D1%80%D0%B8" title="Ле-Моле-Литри">Ле-Моле-Литри</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A2%D1%80%D0%BE%D0%BD%D0%BA%D0%B5" title="Ле-Тронке">Ле-Тронке</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B7-%D0%A3%D0%B1%D0%BE" title="Лез-Убо">Лез-Убо</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B6%D0%B5%D0%B2%D1%80" title="Ленжевр">Ленжевр</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B2%D1%80%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ливри (Кальвадос)">Ливри</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B7%D0%BE%D0%BD" title="Лизон">Лизон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%82%D1%82%D0%BE" title="Литто">Литто</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B3-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Лонг-сюр-Мер">Лонг-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Лонгвиль (Кальвадос)">Лонгвиль</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D0%B9" title="Лонгрей">Лонгрей</a></li>
+<li><a href="/wiki/%D0%9B%D1%83%D0%B2%D1%8C%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Лувьер (Кальвадос)">Лувьер</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B2%D1%8C%D1%91" title="Манвьё">Манвьё</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Мандевиль-ан-Бессен">Мандевиль-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%8C%D0%B8-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Маньи-ан-Бессен">Маньи-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Мезон (Кальвадос)">Мезон</a></li>
+<li><a href="/wiki/%D0%9C%D1%91%D0%B2%D0%B5%D0%BD" title="Мёвен">Мёвен</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Моль (Кальвадос)">Моль</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D0%BE-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Монсо-ан-Бессен">Монсо-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%84%D0%B8%D0%BA%D0%B5" title="Монфике">Монфике</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%84%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Монфревиль">Монфревиль</a></li>
+<li><a href="/wiki/%D0%9D%D1%91%D0%B9%D0%B8-%D0%BB%D0%B0-%D0%A4%D0%BE%D1%80%D0%B5" title="Нёйи-ла-Форе">Нёйи-ла-Форе</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D0%BD%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Нонан (Кальвадос)">Нонан</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%BE%D0%BD-%D0%BB%D0%B0-%D0%9F%D0%BE%D1%82%D1%80%D0%B8" title="Норон-ла-Потри">Норон-ла-Потри</a></li>
+<li><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Османвиль">Османвиль</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D1%82%D0%BE-%D0%BB%D0%B5-%D0%91%D0%B0%D0%B3" title="Отто-ле-Баг">Отто-ле-Баг</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA%D1%80%D0%B8" title="Планкри">Планкри</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%80-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD-%D0%AE%D0%BF%D0%BF%D0%B5%D0%BD" title="Пор-ан-Бессен-Юппен">Пор-ан-Бессен-Юппен</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D1%88%D0%B8" title="Ранши">Ранши</a></li>
+<li><a href="/wiki/%D0%A0%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ри (Кальвадос)">Ри</a></li>
+<li><a href="/wiki/%D0%A0%D1%8E%D0%B1%D0%B5%D1%80%D1%81%D0%B8" title="Рюберси">Рюберси</a></li>
+<li><a href="/wiki/%D0%A0%D1%8E%D1%81%D1%81%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Рюсси (Кальвадос)">Рюсси</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BB%D0%BB%D0%B0%D0%BD" title="Саллан">Саллан</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сан (Кальвадос)">Сан</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%92%D0%B8%D0%B3%D0%BE%D1%80-%D0%BB%D0%B5-%D0%93%D1%80%D0%B0%D0%BD" title="Сен-Вигор-ле-Гран">Сен-Вигор-ле-Гран</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%B4%E2%80%99%D0%AD%D0%BA%D1%82%D0%BE" title="Сен-Жермен-д’Экто">Сен-Жермен-д’Экто</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%B4%D1%8E-%D0%9F%D0%B5%D1%80" title="Сен-Жермен-дю-Пер">Сен-Жермен-дю-Пер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9A%D0%BE%D0%BC-%D0%B4%D0%B5-%D0%A4%D1%80%D0%B5%D0%BD%D0%B5" title="Сен-Ком-де-Френе">Сен-Ком-де-Френе</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D0%BE%D1%80%D0%B0%D0%BD-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Сен-Лоран-сюр-Мер">Сен-Лоран-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D1%83-%D0%9E%D1%80" title="Сен-Лу-Ор">Сен-Лу-Ор</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%84" title="Сен-Маркуф">Сен-Маркуф</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%91%D0%BB%D0%B0%D0%BD%D1%8C%D0%B8" title="Сен-Мартен-де-Бланьи">Сен-Мартен-де-Бланьи</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5%D0%B7-%D0%90%D0%BD%D1%82%D1%80%D0%B5" title="Сен-Мартен-дез-Антре">Сен-Мартен-дез-Антре</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D0%BE%D0%BB%D1%8C-%D0%B4%D1%8E-%D0%92%D0%B5%D1%80%D0%BD%D0%B5" title="Сен-Поль-дю-Верне">Сен-Поль-дю-Верне</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%B4%D1%8E-%D0%9C%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сен-Пьер-дю-Мон (Кальвадос)">Сен-Пьер-дю-Мон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BD%D0%B5_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Санне (Франция)">Санне</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9A%D1%80%D1%83%D0%B0-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Сент-Круа-сюр-Мер">Сент-Круа-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D0%B3%D0%B5%D1%80%D0%B8%D1%82-%D0%B4%E2%80%99%D0%AD%D0%BB%D1%8C" title="Сент-Маргерит-д’Эль">Сент-Маргерит-д’Эль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%BD%D0%BE%D1%80%D0%B8%D0%BD-%D0%B4%D0%B5-%D0%94%D1%8E%D1%81%D0%B8" title="Сент-Онорин-де-Дюси">Сент-Онорин-де-Дюси</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%BD%D0%BE%D1%80%D0%B8%D0%BD-%D0%B4%D0%B5-%D0%9F%D0%B5%D1%80%D1%82" title="Сент-Онорин-де-Перт">Сент-Онорин-де-Перт</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%82-%D0%92%D0%B0%D0%BD" title="Сет-Ван">Сет-Ван</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D0%B2%D1%8C%D1%91" title="Соммервьё">Соммервьё</a></li>
+<li><a href="/wiki/%D0%A1%D1%8E%D0%B1%D0%BB%D1%8C" title="Сюбль">Сюбль</a></li>
+<li><a href="/wiki/%D0%A1%D1%8E%D0%BB%D0%BB%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сюлли (Кальвадос)">Сюлли</a></li>
+<li><a href="/wiki/%D0%A1%D1%8E%D1%80%D1%80%D0%B5%D0%BD" title="Сюррен">Сюррен</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D1%80%D1%82%D0%B2%D0%B0%D0%BB%D1%8C-%D0%9A%D0%B5%D0%BD%D0%B5" title="Тортваль-Кене">Тортваль-Кене</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B0%D1%81%D0%B8-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Траси-сюр-Мер">Траси-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D0%B2%D1%8C%D0%B5%D1%80" title="Тревьер">Тревьер</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%8E%D0%BD%D0%B6%D0%B8" title="Трюнжи">Трюнжи</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80-%D0%B0%D0%BD-%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BD" title="Тур-ан-Бессен">Тур-ан-Бессен</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D1%8C%D0%B5%D1%80" title="Турньер">Турньер</a></li>
+<li><a href="/wiki/%D0%A2%D1%8C%D0%B5%D1%80%D1%81%D0%B2%D0%B8%D0%BB%D1%8C" title="Тьерсвиль">Тьерсвиль</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D0%BD%D1%8C%D0%B8" title="Форминьи">Форминьи</a></li>
+<li><a href="/wiki/%D0%A4%D1%83%D0%BB%D0%BE%D0%BD%D1%8C" title="Фулонь">Фулонь</a></li>
+<li><a href="/wiki/%D0%A8%D1%83%D1%8D%D0%BD" title="Шуэн">Шуэн</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D1%80%D0%B0%D0%BC%D0%B2%D0%B8%D0%BB%D1%8C" title="Экрамвиль">Экрамвиль</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%BE%D0%BD" title="Эллон">Эллон</a></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D1%8C%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C" title="Эньервиль">Эньервиль</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D0%BA%D0%B5-%D1%81%D1%8E%D1%80-%D0%A1%D1%91%D0%BB%D1%8C" title="Эске-сюр-Сёль">Эске-сюр-Сёль</a></li>
+<li><a href="/wiki/%D0%AD%D1%82%D1%80%D0%B5%D0%B0%D0%BC" title="Этреам">Этреам</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Arrondissement_de_Bayeux.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arrondissement_de_Bayeux.PNG/120px-Arrondissement_de_Bayeux.PNG" decoding="async" width="70" height="58" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arrondissement_de_Bayeux.PNG/250px-Arrondissement_de_Bayeux.PNG 2x" data-file-width="579" data-file-height="478" /></a></span></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3" style=""><div id="Округ&#95;Лизьё" style="font-size:114%;margin:0 5em">Округ <a href="/wiki/%D0%9B%D0%B8%D0%B7%D1%8C%D1%91_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Лизьё (округ)">Лизьё</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B1%D0%BB%D0%BE%D0%BD" title="Аблон">Аблон</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B1%D0%BE" title="Анбо">Анбо</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B5%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Англескевиль-ан-Ож">Англескевиль-ан-Ож</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B6%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8)" title="Анжервиль (Нижняя Нормандии)">Анжервиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%BD%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%91%D0%B5%D1%80%D1%82%D1%80%D0%B0%D0%BD" title="Барневиль-ла-Бертран">Барневиль-ла-Бертран</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%81%D0%BD%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Басневиль">Басневиль</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BB%D1%83" title="Беллу">Беллу</a></li>
+<li><a href="/wiki/%D0%91%D1%91%D0%B2%D0%B8%D0%BB%D0%BB%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бёвиллер (Кальвадос)">Бёвиллер</a></li>
+<li><a href="/wiki/%D0%91%D1%91%D0%B2%D1%80%D0%BE%D0%BD-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Бёврон-ан-Ож">Бёврон-ан-Ож</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Бенервиль-сюр-Мер">Бенервиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D1%81%D1%8C%D0%B5%D1%80" title="Бисьер">Бисьер</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B0%D0%BD%D0%B6%D0%B8-%D0%BB%D0%B5-%D0%A8%D0%B0%D1%82%D0%BE" title="Бланжи-ле-Шато">Бланжи-ле-Шато</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Блонвиль-сюр-Мер">Блонвиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BC%D0%BE%D0%BD-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Бомон-ан-Ож">Бомон-ан-Ож</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BD%D0%B1%D0%BE%D1%81%D0%BA" title="Бонбоск">Бонбоск</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%9B%D1%83%D0%B2%D0%B5" title="Бонвиль-ла-Луве">Бонвиль-ла-Луве</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%A2%D1%83%D0%BA" title="Бонвиль-сюр-Тук">Бонвиль-сюр-Тук</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%84%D1%83%D1%80-%D0%94%D1%80%D1%8E%D0%B2%D0%B0%D0%BB%D1%8C" title="Бофур-Дрюваль">Бофур-Дрюваль</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Бранвиль">Бранвиль</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%94%D0%B8%D0%B2" title="Бретвиль-сюр-Див">Бретвиль-сюр-Див</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D1%8E%D0%BA%D1%83%D1%80" title="Брюкур">Брюкур</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D0%B0%D1%81%D1%81%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Буассе (Кальвадос)">Буассе</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%B6%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Буржовиль">Буржовиль</a></li>
+<li><a href="/wiki/%D0%91%D1%8C%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%9A%D0%B5%D1%82%D1%8C%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Бьевиль-Кетьевиль">Бьевиль-Кетьевиль</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D1%81%D0%B5%D0%BC%D0%B5" title="Вальсеме">Вальсме</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D1%82%D0%BE-%D0%9F%D0%BE%D0%BD%D1%84%D0%BE%D0%BB%D1%8C" title="Викто-Понфоль">Викто-Понфоль</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B5%D1%80-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Виллер-сюр-Мер">Виллер-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C" title="Виллервиль">Виллервиль</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Вовиль">Вовиль</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BB%D0%BE%D0%B6" title="Водлож">Водлож</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D1%91-%D0%91%D1%83%D1%80" title="Вьё-Бур">Вьё-Бур</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D1%91-%D0%9F%D0%BE%D0%BD%D1%82-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Вьё-Понт-ан-Ож">Вьё-Понт-ан-Ож</a></li>
+<li><a href="/wiki/%D0%93%D0%BB%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Гланвиль">Гланвиль</a></li>
+<li><a href="/wiki/%D0%93%D0%BB%D0%BE" title="Гло">Гло</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Гонвиль-сюр-Мер">Гонвиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9E%D0%BD%D1%84%D0%BB%D1%91%D1%80" title="Гонвиль-сюр-Онфлёр">Гонвиль-сюр-Онфлёр</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B3" title="Гранг">Гранг</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D1%88%D0%B0%D0%BD-%D0%BB%D0%B5-%D0%A8%D0%B0%D1%82%D0%BE" title="Граншан-ле-Шато">Граншан-ле-Шато</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Густранвиль">Густранвиль</a></li>
+<li><a href="/wiki/%D0%94%D0%B0%D0%BD%D0%B5%D1%81%D1%82%D0%B0%D0%BB%D1%8C" title="Данесталь">Данесталь</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%B2-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Див-сюр-Мер">Див-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Довиль">Довиль</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%B7%D1%8E%D0%BB%D0%B5" title="Дозюле">Дозюле</a></li>
+<li><a href="/wiki/%D0%94%D1%80%D1%8E%D0%B1%D0%B5%D0%BA_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Дрюбек (Кальвадос)">Дрюбек</a></li>
+<li><a href="/wiki/%D0%94%D1%83%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Дувиль-ан-Ож">Дувиль-ан-Ож</a></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Женвиль">Женвиль</a></li>
+<li><a href="/wiki/%D0%96%D0%B5%D1%80%D1%80%D0%BE" title="Жерро">Жерро</a></li>
+<li><a href="/wiki/%D0%98%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Иевиль (Кальвадос)">Иевиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D1%80%D0%B5%D0%BC%D0%B5%D1%80" title="Камбремер">Камбремер</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BF%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Канапвиль (Кальвадос)">Канапвиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B8%D0%B9%D0%BE%D0%BD-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Кастийон-ан-Ож">Кастийон-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9A%D0%B5%D1%82%D0%B2%D0%B8%D0%BB%D1%8C" title="Кетвиль">Кетвиль</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%B1%D0%B5%D0%BA" title="Кларбек">Кларбек</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BA%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C%D0%B5" title="Кокенвилье">Кокенвилье</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B1%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Корбон (Кальвадос)">Корбон</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B4%D0%B5%D0%B1%D1%8E%D0%B3%D0%BB%D1%8C" title="Кордебюгль">Кордебюгль</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D0%B2%D0%B5%D0%BA%D1%91%D1%80-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Кревекёр-ан-Ож">Кревекёр-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%81%D0%B2%D1%91%D0%B9" title="Кресвёй">Кресвёй</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BA%D0%B1%D1%91%D1%84" title="Крикбёф">Крикбёф</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Криквиль-ан-Ож">Криквиль-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D1%83%D0%B0%D1%81%D1%81%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Круассанвиль">Круассанвиль</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B4%D1%80%D0%B5-%D0%A0%D0%B0%D0%B1%D1%8E" title="Кудре-Рабю">Кудре-Рабю</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BF%D1%81%D0%B0%D1%80%D1%82" title="Купсарт">Купсарт</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D1%82%D0%BE%D0%BD-%D0%BB%D0%B0-%D0%9C%D1%91%D1%80%D0%B4%D1%80%D0%B0%D0%BA" title="Куртон-ла-Мёрдрак">Куртон-ла-Мёрдрак</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D1%82%D0%BE%D0%BD-%D0%BB%D0%B5-%D0%94%D1%91%D0%B7-%D0%AD%D0%B3%D0%BB%D0%B8%D0%B7" title="Куртон-ле-Дёз-Эглиз">Куртон-ле-Дёз-Эглиз</a></li>
+<li><a href="/wiki/%D0%9B%E2%80%99%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%D1%80%D0%B8" title="Л’Отельри">Л’Отельри</a></li>
+<li><a href="/wiki/%D0%9B%E2%80%99%D0%A3%D0%B4%D0%BE%D0%BD" title="Л’Удон">Л’Удон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%91%D1%80%D0%B5%D0%B2%D1%8C%D0%B5%D1%80" title="Ла-Бревьер">Ла-Бревьер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%91%D1%83%D0%B0%D1%81%D1%8C%D0%B5%D1%80" title="Ла-Буасьер">Ла-Буасьер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%92%D0%B5%D1%81%D0%BF%D1%8C%D0%B5%D1%80" title="Ла-Веспьер">Ла-Веспьер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%9A%D1%80%D1%83%D0%BF%D1%82" title="Ла-Крупт">Ла-Крупт</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A0%D0%B8%D0%B2%D1%8C%D0%B5%D1%80-%D0%A1%D0%B5%D0%BD-%D0%A1%D0%BE%D0%B2%D1%91%D1%80" title="Ла-Ривьер-Сен-Совёр">Ла-Ривьер-Сен-Совёр</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A0%D0%BE%D0%BA-%D0%91%D0%B5%D0%BD%D1%8C%D1%8F%D1%80" title="Ла-Рок-Беньяр">Ла-Рок-Беньяр</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A3%D0%B1%D0%BB%D0%BE%D0%BD%D1%8C%D0%B5%D1%80" title="Ла-Ублоньер">Ла-Ублоньер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A4%D0%BE%D0%BB%D1%8C%D1%82%D1%8C%D0%B5%D1%80-%D0%90%D0%B1%D0%BD%D0%BE%D0%BD" title="Ла-Фольтьер-Абнон">Ла-Фольтьер-Абнон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A8%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C-%D0%98%D0%B2%D0%BE%D0%BD" title="Ла-Шапель-Ивон">Ла-Шапель-Ивон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A8%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C-%D0%9E%D1%82-%D0%93%D1%80%D1%8E" title="Ла-Шапель-От-Грю">Ла-Шапель-От-Грю</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%91%D1%80%D0%B5%D0%B2%D0%B4%D0%B0%D0%BD" title="Ле-Бревдан">Ле-Бревдан</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%91%D1%80%D1%91%D0%B9-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Ле-Брёй-ан-Ож">Ле-Брёй-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%91%D0%B0%D0%BA%D0%BB%D0%B5" title="Ле-Мениль-Бакле">Ле-Мениль-Бакле</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%93%D0%B8%D0%B9%D0%BE%D0%BC" title="Ле-Мениль-Гийом">Ле-Мениль-Гийом</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%94%D1%8E%D1%80%D0%B0%D0%BD" title="Ле-Мениль-Дюран">Ле-Мениль-Дюран</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD" title="Ле-Мениль-Жермен">Ле-Мениль-Жермен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%9C%D0%BE%D0%B6%D0%B5" title="Ле-Мениль-Може">Ле-Мениль-Може</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ле-Мениль-Симон (Кальвадос)">Ле-Мениль-Симон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%91%D0%BB%D0%B0%D0%BD%D0%B6%D0%B8" title="Ле-Мениль-сюр-Бланжи">Ле-Мениль-сюр-Бланжи</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%AD%D0%B4" title="Ле-Мениль-Эд">Ле-Мениль-Эд</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%BE%D0%BD%D1%81%D0%BE" title="Ле-Монсо">Ле-Монсо</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D1%83%D1%82%D1%8C%D0%B5-%D0%AE%D0%B1%D0%B5%D1%80" title="Ле-Мутье-Юбер">Ле-Мутье-Юбер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9F%D0%B5%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ле-Пен (Кальвадос)">Ле-Пен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9F%D1%80%D0%B5-%D0%B4%E2%80%99%D0%9E%D0%B6" title="Ле-Пре-д’Ож">Ле-Пре-д’Ож</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A2%D0%B5%D0%B9-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Ле-Тей-ан-Ож">Ле-Тей-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A2%D0%BE%D1%80%D0%BA%D0%B5%D0%BD" title="Ле-Торкен">Ле-Торкен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A4%D0%BE%D0%BB%D1%8C%D0%BA" title="Ле-Фольк">Ле-Фольк</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A4%D1%83%D1%80%D0%BD%D0%B5" title="Ле-Фурне">Ле-Фурне</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B7-%D0%9E%D1%82%D0%B5%D0%BB%D1%8C-%D0%A1%D0%B5%D0%BD-%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C" title="Лез-Отель-Сен-Базиль">Лез-Отель-Сен-Базиль</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B7-%D0%9E%D1%82%D1%8C%D1%91-%D0%9F%D0%B0%D0%BF%D1%8C%D0%BE%D0%BD" title="Лез-Отьё-Папьон">Лез-Отьё-Папьон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B7-%D0%9E%D1%82%D1%8C%D1%91-%D1%81%D1%8E%D1%80-%D0%9A%D0%B0%D0%BB%D0%BE%D0%BD" title="Лез-Отьё-сюр-Калон">Лез-Отьё-сюр-Калон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%BA%D0%BE%D0%B4" title="Лекод">Лекод</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D1%82%D0%B8" title="Леопарти">Леопарти</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D1%81%D1%81%D0%B0%D1%80-%D1%8D-%D0%BB%D0%B5-%D0%A8%D0%B5%D0%BD" title="Лессар-э-ле-Шен">Лессар-э-ле-Шен</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B2%D0%B0%D1%80%D0%BE_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ливаро (Кальвадос)">Ливаро</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B7%D0%BE%D1%80" title="Лизор">Лизор</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%9F%D0%B8%D0%BF%D0%B0%D1%80" title="Манвиль-ла-Пипар">Манвиль-ла-Пипар</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B5%D1%80%D0%B1" title="Манерб">Манерб</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%8C%D0%B8-%D0%BB%D0%B5-%D0%A4%D1%80%D1%91%D0%BB%D1%8C" title="Маньи-ле-Фрёль">Маньи-ле-Фрёль</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Мароль (Кальвадос)">Мароль</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%B8%D0%B4%D0%BE%D0%BD-%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD" title="Мезидон-Канон">Мезидон-Канон</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%80%D0%B8-%D0%9A%D0%BE%D1%80%D0%B1%D0%BE%D0%BD" title="Мери-Корбон">Мери-Корбон</a></li>
+<li><a href="/wiki/%D0%9C%D1%91%D0%BB%D1%8C" title="Мёль">Мёль</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D1%82%D1%82%D1%83%D0%B0" title="Миттуа">Миттуа</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B2%D1%8C%D0%B5%D1%82" title="Монвьет">Монвьет</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B5%D0%B9_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Монтей (Кальвадос)">Монтей</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D1%80%D1%91%D0%B9-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Монтрёй-ан-Ож">Монтрёй-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B0%D0%B9%D0%BE" title="Муайо">Муайо</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%BE%D0%BB%D1%8C" title="Нороль">Нороль</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%82%D1%80-%D0%94%D0%B0%D0%BC-%D0%B4%E2%80%99%D0%AD%D1%81%D1%82%D1%80%D0%B5" title="Нотр-Дам-д’Эстре">Нотр-Дам-д’Эстре</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%82%D1%80-%D0%94%D0%B0%D0%BC-%D0%B4%D0%B5-%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%BD" title="Нотр-Дам-де-Курсон">Нотр-Дам-де-Курсон</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%82%D1%80-%D0%94%D0%B0%D0%BC-%D0%B4%D0%B5-%D0%9B%D0%B8%D0%B2%D0%B5%D0%B9" title="Нотр-Дам-де-Ливей">Нотр-Дам-де-Ливей</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C" title="Обервиль">Обервиль</a></li>
+<li><a href="/wiki/%D0%9E%D0%B2%D0%B8%D0%BB%D0%BB%D0%B0%D1%80_(%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F)" title="Овиллар (Нижняя Нормандия)">Овиллар</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D0%B5%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Окенвиль">Окенвиль</a></li>
+<li><a href="/wiki/%D0%9E%D0%BD%D1%84%D0%BB%D1%91%D1%80" title="Онфлёр">Онфлёр</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B1%D0%B5%D0%BA" title="Орбек">Орбек</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D0%BE-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Ото-ан-Ож">Ото-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D0%B4%D0%B5%D0%BF%D0%B8" title="Пендепи">Пендепи</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Перси-ан-Ож">Перси-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D1%8C%D0%B5%D1%80-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Перьер-ан-Ож">Перьер-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%BB%E2%80%99%D0%AD%D0%B2%D0%B5%D0%BA_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Пон-л’Эвек (Кальвадос)">Пон-л’Эвек</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE-%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D0%B5%D0%BD" title="Прео-Сен-Себастьен">Прео-Сен-Себастьен</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B5%D1%82%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Претревиль">Претревиль</a></li>
+<li><a href="/wiki/%D0%9F%D1%8C%D0%B5%D1%80%D1%84%D0%B8%D1%82-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Пьерфит-ан-Ож">Пьерфит-ан-Ож</a></li>
+<li><a href="/wiki/%D0%9F%D1%8E%D1%82%D0%BE-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Пюто-ан-Ож">Пюто-ан-Ож</a></li>
+<li><a class="mw-selflink selflink">Репантиньи</a></li>
+<li><a href="/wiki/%D0%A0%D1%91" title="Рё">Рё</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BA_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Рок (Кальвадос)">Рок</a></li>
+<li><a href="/wiki/%D0%A0%D1%8E%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C" title="Рюмениль">Рюмениль</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%91%D0%B5%D0%BD%D1%83%D0%B0-%D0%B4%E2%80%99%D0%AD%D0%B1%D0%B5%D1%80%D1%82%D0%BE" title="Сен-Бенуа-д’Эберто">Сен-Бенуа-д’Эберто</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%92%D0%B0-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Сен-Ва-ан-Ож">Сен-Ва-ан-Ож</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%93%D0%B0%D1%82%D1%8C%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%91%D1%83%D0%B0" title="Сен-Гатьен-де-Буа">Сен-Гатьен-де-Буа</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%94%D0%B5%D0%B7%D0%B8%D1%80" title="Сен-Дезир">Сен-Дезир</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%94%D0%B5%D0%BD%D0%B8-%D0%B4%D0%B5-%D0%9C%D0%B0%D0%B9%D0%BE%D0%BA" title="Сен-Дени-де-Майок">Сен-Дени-де-Майок</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B0%D0%BD-%D0%B4%D0%B5-%D0%9B%D0%B8%D0%B2%D0%B5" title="Сен-Жан-де-Ливе">Сен-Жан-де-Ливе</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%9B%D0%B8%D0%B2%D0%B5" title="Сен-Жермен-де-Ливе">Сен-Жермен-де-Ливе</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BC%D1%80%D0%B8" title="Сен-Жермен-де-Монгомри">Сен-Жермен-де-Монгомри</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%BE%D1%80%D0%B6-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Сен-Жорж-ан-Ож">Сен-Жорж-ан-Ож</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D1%83%D1%8D%D0%BD" title="Сен-Жуэн">Сен-Жуэн</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D1%8E%D0%BB%D1%8C%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%9C%D0%B0%D0%B9%D0%BE%D0%BA" title="Сен-Жюльен-де-Майок">Сен-Жюльен-де-Майок</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D1%8E%D0%BB%D1%8C%D0%B5%D0%BD-%D0%BB%D0%B5-%D0%A4%D0%BE%D0%BA%D0%BE%D0%BD" title="Сен-Жюльен-ле-Фокон">Сен-Жюльен-ле-Фокон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D1%8E%D0%BB%D1%8C%D0%B5%D0%BD-%D1%81%D1%8E%D1%80-%D0%9A%D0%B0%D0%BB%D0%BE%D0%BD" title="Сен-Жюльен-сюр-Калон">Сен-Жюльен-сюр-Калон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D0%B5%D0%B6%D0%B5-%D0%94%D1%8E%D0%B1%D0%BE%D1%81%D0%BA" title="Сен-Леже-Дюбоск">Сен-Леже-Дюбоск</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D0%BE%D1%80%D0%B0%D0%BD-%D0%B4%D1%8E-%D0%9C%D0%BE%D0%BD" title="Сен-Лоран-дю-Мон">Сен-Лоран-дю-Мон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9B%D1%83-%D0%B4%D0%B5-%D0%A4%D1%80%D0%B8%D0%B1%D1%83%D0%B0" title="Сен-Лу-де-Фрибуа">Сен-Лу-де-Фрибуа</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%91%D1%8C%D0%B5%D0%BD%D1%84%D0%B5%D1%82-%D0%BB%D0%B0-%D0%9A%D1%80%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D1%8C%D0%B5%D1%80" title="Сен-Мартен-де-Бьенфет-ла-Крессоньер">Сен-Мартен-де-Бьенфет-ла-Крессоньер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%BB%D0%B0-%D0%9B%D1%8C%D1%91" title="Сен-Мартен-де-ла-Льё">Сен-Мартен-де-ла-Льё</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%9C%D0%B0%D0%B9%D0%BE%D0%BA" title="Сен-Мартен-де-Майок">Сен-Мартен-де-Майок</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D1%8E-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%A3%D1%80%D0%B8" title="Сен-Мартен-дю-Мениль-Ури">Сен-Мартен-дю-Мениль-Ури</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%BE-%D0%A8%D0%B0%D1%80%D1%82%D1%80%D0%B5%D0%BD" title="Сен-Мартен-о-Шартрен">Сен-Мартен-о-Шартрен</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C-%D0%B4%D0%B5-%D0%9B%D0%B8%D0%B2%D0%B5" title="Сен-Мишель-де-Ливе">Сен-Мишель-де-Ливе</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%90%D0%B7%D0%B8%D1%84" title="Сен-Пьер-Азиф">Сен-Пьер-Азиф</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%B4%D0%B5-%D0%9C%D0%B0%D0%B9%D0%BE%D0%BA" title="Сен-Пьер-де-Майок">Сен-Пьер-де-Майок</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%B4%D0%B5%D0%B7-%D0%98%D1%84" title="Сен-Пьер-дез-Иф">Сен-Пьер-дез-Иф</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D1%81%D1%8E%D1%80-%D0%94%D0%B8%D0%B2" title="Сен-Пьер-сюр-Див">Сен-Пьер-сюр-Див</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B0%D0%BC%D1%81%D0%BE%D0%BD" title="Сен-Самсон">Сен-Самсон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B8%D1%80-%D0%B4%D1%8E-%D0%A0%D0%BE%D0%BD%D1%81%D0%B5%D1%80%D0%B5" title="Сен-Сир-дю-Ронсере">Сен-Сир-дю-Ронсере</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A4%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80-%D0%B4%D0%B5-%D0%A8%D0%B0%D0%BD" title="Сен-Фильбер-де-Шан">Сен-Фильбер-де-Шан</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%90%D0%BD%D0%B4%D1%80%D0%B5-%D0%B4%E2%80%99%D0%AD%D0%B1%D0%B5%D1%80%D1%82%D0%BE" title="Сент-Андре-д’Эберто">Сент-Андре-д’Эберто</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%90%D1%80%D0%BD%D1%83_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сент-Арну (Кальвадос)">Сент-Арну</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%98%D0%BC%D0%B5%D1%80" title="Сент-Имер">Сент-Имер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D0%B3%D0%B5%D1%80%D0%B8%D1%82-%D0%B4%D0%B5-%D0%92%D1%8C%D0%B5%D1%82" title="Сент-Маргерит-де-Вьет">Сент-Маргерит-де-Вьет</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D0%B3%D0%B5%D1%80%D0%B8%D1%82-%D0%B4%D0%B5-%D0%9B%D0%BE%D0%B6" title="Сент-Маргерит-де-Лож">Сент-Маргерит-де-Лож</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%A3%D0%B0%D0%BD-%D0%BB%D0%B5-%D0%9F%D0%B5%D0%BD" title="Сент-Уан-ле-Пен">Сент-Уан-ле-Пен</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%A3%D0%B0%D0%BD-%D0%BB%D0%B5%D0%B7-%D0%A3" title="Сент-Уан-лез-У">Сент-Уан-лез-У</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%A4%D1%83%D0%B0-%D0%B4%D0%B5-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BC%D1%80%D0%B8" title="Сент-Фуа-де-Монгомри">Сент-Фуа-де-Монгомри</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%AD%D1%82%D1%8C%D0%B5%D0%BD-%D0%BB%D0%B0-%D0%A2%D0%B8%D0%B9%D0%B5%D0%B9" title="Сент-Этьен-ла-Тийей">Сент-Этьен-ла-Тийей</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%BA%D1%91_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Серкё (Кальвадос)">Серкё</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%BD%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Серне (Кальвадос)">Серне</a></li>
+<li><a href="/wiki/%D0%A1%D1%8E%D1%80%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сюрвиль (Кальвадос)">Сюрвиль</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D1%80%D0%B4%D1%83%D1%8D" title="Тордуэ">Тордуэ</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BC%D0%B1%D0%B5%D1%80" title="Тортизамбер">Тортизамбер</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%83%D0%B2%D0%B8%D0%BB%D1%8C-%D1%81%D1%8E%D1%80-%D0%9C%D0%B5%D1%80" title="Трувиль-сюр-Мер">Трувиль-сюр-Мер</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%BA_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Тук (коммуна)">Тук</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D0%B0%D0%BD-%D0%9E%D0%B6" title="Турвиль-ан-Ож">Турвиль-ан-Ож</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B6%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Туржевиль">Туржевиль</a></li>
+<li><a href="/wiki/%D0%A2%D1%8C%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C" title="Тьевиль">Тьевиль</a></li>
+<li><a href="/wiki/%D0%A3%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%91%D1%8C%D0%B5%D0%BD-%D0%A2%D1%83%D1%80%D0%BD%D0%B5" title="Увиль-ла-Бьен-Турне">Увиль-ла-Бьен-Турне</a></li>
+<li><a href="/wiki/%D0%A3%D0%B9%D0%B8-%D0%B4%D1%8E-%D0%A3%D0%BB%D0%B5" title="Уйи-дю-Уле">Уйи-дю-Уле</a></li>
+<li><a href="/wiki/%D0%A3%D0%B9%D0%B8-%D0%BB%D0%B5-%D0%92%D0%B8%D0%BA%D0%BE%D0%BD%D1%82" title="Уйи-ле-Виконт">Уйи-ле-Виконт</a></li>
+<li><a href="/wiki/%D0%A3%D0%BB%D1%8C%D0%B3%D0%B0%D1%82" title="Ульгат">Ульгат</a></li>
+<li><a href="/wiki/%D0%A4%D0%B0%D0%BC%D0%B8%D0%B9%D0%B8" title="Фамийи">Фамийи</a></li>
+<li><a href="/wiki/%D0%A4%D0%B5%D1%80%D0%B2%D0%B0%D0%BA" title="Фервак">Фервак</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D1%80%D1%84%D0%BE%D0%BB%D1%8C" title="Фирфоль">Фирфоль</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%B3%D0%B5%D1%80%D0%BD%D0%BE%D0%BD" title="Фогернон">Фогернон</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D1%82%D0%B5%D0%BD" title="Формантен">Формантен</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B8%D0%B0%D1%80%D0%B4%D0%B5%D0%BB%D1%8C" title="Фриардель">Фриардель</a></li>
+<li><a href="/wiki/%D0%A4%D1%83%D1%80%D0%BD%D0%B2%D0%B8%D0%BB%D1%8C" title="Фурнвиль">Фурнвиль</a></li>
+<li><a href="/wiki/%D0%A4%D1%8C%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D1%8C-%D0%BB%D0%B5-%D0%9F%D0%B0%D1%80%D0%BA" title="Фьервиль-ле-Парк">Фьервиль-ле-Парк</a></li>
+<li><a href="/wiki/%D0%A4%D1%8E%D0%BC%D0%B8%D1%88%D0%BE%D0%BD" title="Фюмишон">Фюмишон</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%84%D1%80%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C-%D0%A2%D0%BE%D0%BD%D0%BD%D0%B0%D0%BD%D0%BA%D1%83%D1%80" title="Шефревиль-Тоннанкур">Шефревиль-Тоннанкур</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C" title="Экемовиль">Экемовиль</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Элан (Кальвадос)">Элан</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D0%BC%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C-%D0%BB%D0%B5-%D0%92%D0%BE" title="Эрмиваль-ле-Во">Эрмиваль-ле-Во</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D1%82%D0%B2%D0%B0%D0%BD" title="Эртван">Эртван</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Arrondissement_de_Lisieux.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arrondissement_de_Lisieux.PNG/120px-Arrondissement_de_Lisieux.PNG" decoding="async" width="70" height="58" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arrondissement_de_Lisieux.PNG/250px-Arrondissement_de_Lisieux.PNG 2x" data-file-width="579" data-file-height="478" /></a></span></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3" style=""><div id="Округ&#95;Вир" style="font-size:114%;margin:0 5em">Округ <a href="/wiki/%D0%92%D0%B8%D1%80_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" title="Вир (округ)">Вир</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D0%BD%D0%B5-%D1%81%D1%8E%D1%80-%D0%9E%D0%B4%D0%BE%D0%BD" title="Оне-сюр-Одон">Оне-сюр-Одон</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BA%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Боке (Кальвадос)">Боке</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B5%D0%BC%D1%83%D0%B0" title="Бремуа">Бремуа</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B0%D0%BD%D1%8C" title="Каань">Каань</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D0%B2%D0%B5%D0%BD" title="Кульвен">Кульвен</a></li>
+<li><a href="/wiki/%D0%94%D0%B0%D0%BC%D0%BF%D1%8C%D0%B5%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Дампьер (Кальвадос)">Дампьер</a></li>
+<li><a href="/wiki/%D0%94%D0%B0%D0%BD%D0%B2%D1%83-%D0%BB%D0%B0-%D0%A4%D0%B5%D1%80%D1%8C%D0%B5%D1%80" title="Данву-ла-Ферьер">Данву-ла-Ферьер</a></li>
+<li><a href="/wiki/%D0%96%D1%8E%D1%80%D0%BA" title="Жюрк">Жюрк</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%91%D0%B8%D0%BD%D1%8C" title="Ла-Бинь">Ла-Бинь</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%9E%D0%B7%D1%83%D1%84" title="Ле-Мениль-Озуф">Ле-Мениль-Озуф</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9F%D0%BB%D0%B5%D1%81%D1%81%D0%B8-%D0%93%D1%80%D0%B8%D0%BC%D1%83%D0%BB%D1%8C" title="Ле-Плесси-Гримуль">Ле-Плесси-Гримуль</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9B%D0%BE%D0%B6_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ле-Лож (Кальвадос)">Ле-Лож</a></li>
+<li><a href="/wiki/%D0%9E%D0%BD%D0%B4%D1%84%D0%BE%D0%BD%D1%82%D0%B5%D0%BD" title="Ондфонтен">Ондфонтен</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D0%BA%D0%B0%D0%BD" title="Рукан">Рукан</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%BE%D1%80%D0%B6-%D0%B4%E2%80%99%D0%9E%D0%BD%D0%B5" title="Сен-Жорж-д’Оне">Сен-Жорж-д’Оне</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B0%D0%BD-%D0%B4%D0%B5-%D0%AD%D1%81%D1%81%D0%B0%D1%80%D1%82%D1%8C%D0%B5%D1%80" title="Сен-Жан-де-Эссартьер">Сен-Жан-де-Эссартьер</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%B4%D1%8E-%D0%A4%D1%80%D0%B5%D0%BD" title="Сен-Пьер-дю-Френ">Сен-Пьер-дю-Френ</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5-%D1%81%D1%8E%D1%80-%D0%9D%D1%83%D0%B0%D1%80%D0%BE" title="Конде-сюр-Нуаро">Конде-сюр-Нуаро</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A8%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C-%D0%AD%D0%BD%D0%B6%D0%B5%D1%80%D0%B1%D0%BE%D0%BB%D1%8C%D0%B4" title="Ла-Шапель-Энжербольд">Ла-Шапель-Энжербольд</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D1%81%D1%81%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Ласси (Кальвадос)">Ласси</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%BE_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Лено (Кальвадос)">Лено</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Периньи (Кальвадос)">Периньи</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%83%D0%BB%D0%B0%D0%BD" title="Понтекулан">Понтекулан</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D1%83%D1%81%D1%81%D0%B8_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Прусси (коммуна)">Прусси</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%B4%D1%8E-%D0%9A%D1%80%D0%B8%D1%83" title="Сен-Жермен-дю-Криу">Сен-Жермен-дю-Криу</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B0%D0%BD-%D0%BB%D0%B5-%D0%91%D0%BB%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сен-Жан-ле-Блан (Кальвадос)">Сен-Жан-ле-Блан</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%BB%D0%B0-%D0%92%D1%8C%D0%B5%D0%B9" title="Сен-Пьер-ла-Вьей">Сен-Пьер-ла-Вьей</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%92%D0%B8%D0%B3%D0%BE%D1%80-%D0%B4%D0%B5-%D0%9C%D0%B5%D0%B7%D1%80%D0%B5" title="Сен-Вигор-де-Мезре">Сен-Вигор-де-Мезре</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%91_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Больё (Кальвадос)">Больё</a></li>
+<li><a href="/wiki/%D0%91%D1%8E%D1%80-%D0%BB%D0%B5-%D0%9C%D0%BE%D0%BD" title="Бюр-ле-Мон">Бюр-ле-Мон</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Кампо (Кальвадос)">Кампо</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B2%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Карвиль (Кальвадос)">Карвиль</a></li>
+<li><a href="/wiki/%D0%AD%D1%82%D1%83%D0%B2%D0%B8" title="Этуви">Этуви</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A4%D0%B5%D1%80%D1%8C%D0%B5%D1%80-%D0%90%D1%80%D0%B0%D0%BD" title="Ла-Ферьер-Аран">Ла-Ферьер-Аран</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%93%D1%80%D0%B0%D0%B2%D1%80%D0%B8" title="Ла-Граври">Ла-Граври</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%91%D0%B5%D0%BD%D0%B8-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Ле-Бени-Бокаж">Ле-Бени-Бокаж</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A0%D0%B5%D0%BA%D1%8E%D0%BB%D0%B5" title="Ле-Рекюле">Ле-Рекюле</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A2%D1%83%D1%80%D0%BD%D1%91%D1%80" title="Ле-Турнёр">Ле-Турнёр</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%BB%D1%83%D1%8D" title="Маллуэ">Маллуэ</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BC%D0%B8" title="Монтами">Монтами</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD-%D0%91%D0%B5%D1%80%D1%82%D1%80%D0%B0%D0%BD" title="Мон-Бертран">Мон-Бертран</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%88%D0%BE%D0%B2%D0%B5_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Моншове (Кальвадос)">Моншове</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%94%D0%B5%D0%BD%D0%B8-%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD%D1%81%D0%B5%D0%BB%D1%8C" title="Сен-Дени-Мезонсель">Сен-Дени-Мезонсель</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D0%B8-%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD" title="Сент-Мари-Ломон">Сент-Мари-Ломон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%91%D0%B5%D0%B7%D0%B0%D1%81" title="Сен-Мартен-де-Безас">Сен-Мартен-де-Безас</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD-%D0%94%D0%BE%D0%BD" title="Сен-Мартен-Дон">Сен-Мартен-Дон</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%A3%D0%B0%D0%BD-%D0%B4%D0%B5-%D0%91%D0%B5%D0%B7%D0%B0%D1%81" title="Сент-Уан-де-Безас">Сент-Уан-де-Безас</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80-%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B5%D0%BD" title="Сен-Пьер-Тарантен">Сен-Пьер-Тарантен</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бомениль (Кальвадос)">Бомениль</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C%D0%BE%D0%BB%D1%8C" title="Кампаньоль">Кампаньоль</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%BD-%D0%B4%D1%8E-%D0%91%D1%83%D0%BB%D1%8C" title="Шан-дю-Буль">Шан-дю-Буль</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Курсон (Кальвадос)">Курсон</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B5%D1%80%D0%BC%D0%BE%D0%BD" title="Фонтенермон">Фонтенермон</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C-%D1%8D-%D0%9A%D1%83%D0%BF%D0%B8%D0%BD%D1%8C%D0%B8" title="Ландель-э-Купиньи">Ландель-э-Купиньи</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%93%D0%B0%D1%81%D1%82" title="Ле-Гаст">Ле-Гаст</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%91%D0%B5%D0%BD%D1%83%D0%B0" title="Ле-Мениль-Бенуа">Ле-Мениль-Бенуа</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%9A%D0%BE%D1%81%D1%81%D1%83%D0%B0" title="Ле-Мениль-Коссуа">Ле-Мениль-Коссуа</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%A0%D0%BE%D0%B1%D0%B5%D1%80" title="Ле-Мениль-Робер">Ле-Мениль-Робер</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BD%D0%B8%D0%BB%D1%8C-%D0%9A%D0%BB%D0%B5%D0%BD%D1%88%D0%B0%D0%BD" title="Мениль-Кленшан">Мениль-Кленшан</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%91%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD%D0%B6%D0%B5" title="Пон-Белланже">Пон-Белланже</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BD-%D0%A4%D0%B0%D1%80%D1%81%D0%B8" title="Пон-Фарси">Пон-Фарси</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9E%D0%B1%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%91%D1%83%D0%B0_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Сент-Обен-де-Буа (Кальвадос)">Сент-Обен-де-Буа</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D0%B8-%D0%A3%D1%82%D1%80-%D0%BB%E2%80%99%D0%9E" title="Сент-Мари-Утр-л’О">Сент-Мари-Утр-л’О</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%9C%D0%B0%D0%BD%D0%B2%D1%8C%D1%91-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Сен-Манвьё-Бокаж">Сен-Манвьё-Бокаж</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B5%D0%B2%D0%B5-%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81" title="Сен-Севе-Кальвадос">Сен-Севе-Кальвадос</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%82-%D0%A4%D1%80%D0%B5%D1%80" title="Сет-Фрер">Сет-Фрер</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%8C%D0%B5%D1%80-%D0%BB%D0%B5-%D0%9F%D0%B0%D1%82%D1%80%D0%B8" title="Берньер-ле-Патри">Берньер-ле-Патри</a></li>
+<li><a href="/wiki/%D0%91%D1%8E%D1%80%D1%81%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Бюрси (Кальвадос)">Бюрси</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D0%BD%D0%B4%D0%BE%D0%BB%D0%BB%D0%B5" title="Шендолле">Шендолле</a></li>
+<li><a href="/wiki/%D0%AD%D1%81%D1%82%D1%80%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Эстри (Кальвадос)">Эстри</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0-%D0%A0%D0%BE%D0%BA" title="Ла-Рок">Ла-Рок</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%94%D0%B5%D0%B7%D0%B5%D1%80" title="Ле-Дезер">Ле-Дезер</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5-%D0%A2%D0%B5%D0%B9-%D0%91%D0%BE%D0%BA%D0%B0%D0%B6" title="Ле-Тей-Бокаж">Ле-Тей-Бокаж</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%88%D0%B0%D0%BD_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Моншан (Кальвадос)">Моншан</a></li>
+<li><a href="/wiki/%D0%9F%D1%8C%D0%B5%D1%80_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Пьер (коммуна)">Пьер</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BB%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Прель (Кальвадос)">Прель</a></li>
+<li><a href="/wiki/%D0%A0%D1%8E%D0%BB%D0%BB%D0%B8" title="Рюлли">Рюлли</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A8%D0%B0%D1%80%D0%BB%D1%8C-%D0%B4%D0%B5-%D0%9F%D0%B5%D1%80%D1%81%D0%B8" title="Сен-Шарль-де-Перси">Сен-Шарль-де-Перси</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B8" title="Васси">Васси</a></li>
+<li><a href="/wiki/%D0%92%D1%8C%D0%B5%D1%81%D1%83%D0%B0" title="Вьесуа">Вьесуа</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%BE%D0%BD%D1%81_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Кулонс (Кальвадос)">Кулонс</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD%D1%81%D0%B5%D0%BB%D1%8C-%D0%BB%D0%B0-%D0%96%D1%83%D1%80%D0%B4%D0%B0%D0%BD" title="Мезонсель-ла-Журдан">Мезонсель-ла-Журдан</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D0%BB%D0%BB%D1%83%D1%80" title="Руллур">Руллур</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%B4%D0%B5-%D0%A2%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B4-%D0%BB%D0%B0-%D0%9B%D0%B0%D0%BD%D0%B4-%D0%92%D0%BE%D0%BC%D0%BE%D0%BD" title="Сен-Жермен-де-Тальванд-ла-Ланд-Вомон">Сен-Жермен-де-Тальванд-ла-Ланд-Вомон</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%8E%D1%82%D0%BC%D0%B5-%D0%BB%D0%B5-%D0%93%D1%80%D0%B0%D0%BD" title="Трютме-ле-Гран">Трютме-ле-Гран</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%8E%D1%82%D0%BC%D0%B5-%D0%BB%D0%B5-%D0%9F%D1%82%D0%B8" title="Трютме-ле-Пти">Трютме-ле-Пти</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B4%D1%80%D0%B8" title="Водри">Водри</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D1%80_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Вир (Кальвадос)">Вир</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Arrondissement_de_Vire.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arrondissement_de_Vire.PNG/120px-Arrondissement_de_Vire.PNG" decoding="async" width="70" height="58" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arrondissement_de_Vire.PNG/250px-Arrondissement_de_Vire.PNG 2x" data-file-width="579" data-file-height="478" /></a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐s5jmk
+Cached time: 20260212102046
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.509 seconds
+Real time usage: 0.689 seconds
+Preprocessor visited node count: 6489/1000000
+Revision size: 4236/2097152 bytes
+Post‐expand include size: 208898/2097152 bytes
+Template argument size: 10615/2097152 bytes
+Highest expansion depth: 31/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7075/5000000 bytes
+Lua time usage: 0.254/10.000 seconds
+Lua memory usage: 7352380/52428800 bytes
+Number of Wikibase entities loaded: 8/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  534.459      1 -total
+ 78.40%  419.032      1 Шаблон:НП-Франция
+ 77.99%  416.807      1 Шаблон:НП
+ 68.94%  368.472      1 Шаблон:Карточка
+ 24.41%  130.441     22 Шаблон:Wikidata
+ 15.07%   80.532      2 Шаблон:Wikidata-coords
+  7.70%   41.137      1 Шаблон:Карточка/оригинал_названия
+  6.85%   36.609      1 Шаблон:Численность_населения
+  6.14%   32.818      2 Шаблон:ПозКарта
+  5.73%   30.611      2 Шаблон:ПозКарта/карта
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:1798408:|#|:idhash:canonical and timestamp 20260212102046 and revision id 149865418. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Репантиньи_(Кальвадос)&amp;oldid=149865418">https://ru.wikipedia.org/w/index.php?title=Репантиньи_(Кальвадос)&amp;oldid=149865418</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Населённые пункты по алфавиту">Населённые пункты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D1%8B_%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0_%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81" title="Категория:Коммуны департамента Кальвадос">Коммуны департамента Кальвадос</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%9F:%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0" title="Категория:НП:Статус:Коммуна">НП:Статус:Коммуна</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:Города:Последняя правка: в прошлом году">ПРО:Города:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8+%28%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8+%28%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;oldid=149865418" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_%28%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81%29&amp;id=149865418&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A0%25D0%25B5%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2582%25D0%25B8%25D0%25BD%25D1%258C%25D0%25B8_%28%25D0%259A%25D0%25B0%25D0%25BB%25D1%258C%25D0%25B2%25D0%25B0%25D0%25B4%25D0%25BE%25D1%2581%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A0%25D0%25B5%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2582%25D0%25B8%25D0%25BD%25D1%258C%25D0%25B8_%28%25D0%259A%25D0%25B0%25D0%25BB%25D1%258C%25D0%25B2%25D0%25B0%25D0%25B4%25D0%25BE%25D1%2581%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_%28%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Repentigny_(Calvados)" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q938026" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — астурийский" lang="ast" hreflang="ast" data-title="Repentigny (Calvados)" data-language-autonym="Asturianu" data-language-local-name="астурийский" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — бретонский" lang="br" hreflang="br" data-title="Repentigny (Calvados)" data-language-autonym="Brezhoneg" data-language-local-name="бретонский" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — каталанский" lang="ca" hreflang="ca" data-title="Repentigny (Calvados)" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%93%D3%80%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="ГӀепантиньи (Кальвадос) — чеченский" lang="ce" hreflang="ce" data-title="ГӀепантиньи (Кальвадос)" data-language-autonym="Нохчийн" data-language-local-name="чеченский" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — себуано" lang="ceb" hreflang="ceb" data-title="Repentigny, Calvados" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — немецкий" lang="de" hreflang="de" data-title="Repentigny (Calvados)" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A1%CE%B5%CF%80%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%AF_(%CE%9A%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CF%84%CF%8C%CF%82)" title="Ρεπαντινί (Καλβαντός) — греческий" lang="el" hreflang="el" data-title="Ρεπαντινί (Καλβαντός)" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — английский" lang="en" hreflang="en" data-title="Repentigny, Calvados" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Repentigny_(Kalvadoso)" title="Repentigny (Kalvadoso) — эсперанто" lang="eo" hreflang="eo" data-title="Repentigny (Kalvadoso)" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — испанский" lang="es" hreflang="es" data-title="Repentigny (Calvados)" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — баскский" lang="eu" hreflang="eu" data-title="Repentigny (Calvados)" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — французский" lang="fr" hreflang="fr" data-title="Repentigny (Calvados)" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — венгерский" lang="hu" hreflang="hu" data-title="Repentigny (Calvados)" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A5%D5%BA%D5%A1%D5%B6%D5%BF%D5%AB%D5%B6%D5%AB_(%D4%BF%D5%A1%D5%AC%D5%BE%D5%A1%D5%A4%D5%B8%D5%BD%D5%AB_%D5%A3%D5%A1%D5%BE%D5%A1%D5%BC)" title="Ռեպանտինի (Կալվադոսի գավառ) — армянский" lang="hy" hreflang="hy" data-title="Ռեպանտինի (Կալվադոսի գավառ)" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id badge-Q70893996 mw-list-item" title=""><a href="https://id.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — индонезийский" lang="id" hreflang="id" data-title="Repentigny, Calvados" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Repentigny_(Francia)" title="Repentigny (Francia) — итальянский" lang="it" hreflang="it" data-title="Repentigny (Francia)" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Репантиньи (Кальвадос) — казахский" lang="kk" hreflang="kk" data-title="Репантиньи (Кальвадос)" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — курдский" lang="ku" hreflang="ku" data-title="Repentigny, Calvados" data-language-autonym="Kurdî" data-language-local-name="курдский" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Repentigny_(Calva_Dorsa)" title="Repentigny (Calva Dorsa) — латинский" lang="la" hreflang="la" data-title="Repentigny (Calva Dorsa)" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — малайский" lang="ms" hreflang="ms" data-title="Repentigny, Calvados" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Repentigny" title="Repentigny — нидерландский" lang="nl" hreflang="nl" data-title="Repentigny" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — окситанский" lang="oc" hreflang="oc" data-title="Repentigny (Calvados)" data-language-autonym="Occitan" data-language-local-name="окситанский" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Repentigny_(Francja)" title="Repentigny (Francja) — польский" lang="pl" hreflang="pl" data-title="Repentigny (Francja)" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Repentigny" title="Repentigny — Piedmontese" lang="pms" hreflang="pms" data-title="Repentigny" data-language-autonym="Piemontèis" data-language-local-name="Piedmontese" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — португальский" lang="pt" hreflang="pt" data-title="Repentigny (Calvados)" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — румынский" lang="ro" hreflang="ro" data-title="Repentigny, Calvados" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — Simple English" lang="en-simple" hreflang="en-simple" data-title="Repentigny, Calvados" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — словацкий" lang="sk" hreflang="sk" data-title="Repentigny (Calvados)" data-language-autonym="Slovenčina" data-language-local-name="словацкий" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — шведский" lang="sv" hreflang="sv" data-title="Repentigny, Calvados" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Репантиньи (Кальвадос) — татарский" lang="tt" hreflang="tt" data-title="Репантиньи (Кальвадос)" data-language-autonym="Татарча / tatarça" data-language-local-name="татарский" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D1%96%D0%BD%D1%8C%D1%97_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Репантіньї (Кальвадос) — украинский" lang="uk" hreflang="uk" data-title="Репантіньї (Кальвадос)" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Repentigny" title="Repentigny — узбекский" lang="uz" hreflang="uz" data-title="Repentigny" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Repentigny" title="Repentigny — венецианский" lang="vec" hreflang="vec" data-title="Repentigny" data-language-autonym="Vèneto" data-language-local-name="венецианский" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — вьетнамский" lang="vi" hreflang="vi" data-title="Repentigny, Calvados" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — варай" lang="war" hreflang="war" data-title="Repentigny, Calvados" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%8B%92%E5%BA%9E%E8%92%82%E5%B0%BC_(%E5%8D%A1%E5%B0%94%E7%93%A6%E5%A4%9A%E6%96%AF%E7%9C%81)" title="勒庞蒂尼 (卡尔瓦多斯省) — китайский" lang="zh" hreflang="zh" data-title="勒庞蒂尼 (卡尔瓦多斯省)" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Repentigny_(Calvados)" title="Repentigny (Calvados) — миньнань" lang="nan" hreflang="nan" data-title="Repentigny (Calvados)" data-language-autonym="閩南語 / Bân-lâm-gí" data-language-local-name="миньнань" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gí</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/Repentigny,_Calvados" title="Repentigny, Calvados — кантонский" lang="yue" hreflang="yue" data-title="Repentigny, Calvados" data-language-autonym="粵語" data-language-local-name="кантонский" class="interlanguage-link-target"><span>粵語</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q938026#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 ноября 2025 года в 12:08.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-s5jmk","wgBackendResponseTime":883,"wgPageParseReport":{"limitreport":{"cputime":"0.509","walltime":"0.689","ppvisitednodes":{"value":6489,"limit":1000000},"revisionsize":{"value":4236,"limit":2097152},"postexpandincludesize":{"value":208898,"limit":2097152},"templateargumentsize":{"value":10615,"limit":2097152},"expansiondepth":{"value":31,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7075,"limit":5000000},"entityaccesscount":{"value":8,"limit":500},"timingprofile":["100.00%  534.459      1 -total"," 78.40%  419.032      1 Шаблон:НП-Франция"," 77.99%  416.807      1 Шаблон:НП"," 68.94%  368.472      1 Шаблон:Карточка"," 24.41%  130.441     22 Шаблон:Wikidata"," 15.07%   80.532      2 Шаблон:Wikidata-coords","  7.70%   41.137      1 Шаблон:Карточка/оригинал_названия","  6.85%   36.609      1 Шаблон:Численность_населения","  6.14%   32.818      2 Шаблон:ПозКарта","  5.73%   30.611      2 Шаблон:ПозКарта/карта"]},"scribunto":{"limitreport-timeusage":{"value":"0.254","limit":"10.000"},"limitreport-memusage":{"value":7352380,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P2564 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-s5jmk","timestamp":"20260212102046","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0420\u0435\u043f\u0430\u043d\u0442\u0438\u043d\u044c\u0438 (\u041a\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0441)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A0%D0%B5%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D1%8C%D0%B8_(%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q938026","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q938026","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-05-26T13:05:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/%C3%89glise_Saint-Martin_de_Repentigny_%281%29.jpg","headline":"\u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438"}</script>
+</body>
+</html>

@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Дель Валль, Александр — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"b349bbfe-7df5-48bd-945b-9f3967b90377","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Дель_Валль,_Александр","wgTitle":"Дель Валль, Александр","wgCurRevisionId":149444181,"wgRevisionId":149444181,"wgArticleId":6208011,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Википедия:Cite web (некорректный url)","Википедия:Статьи с нерабочими ссылками","Википедия:Биографии современников","Википедия:Страницы с геоцепочками в квалификаторах","Википедия:Страницы с неоднозначными геоцепочками (Франция)","Википедия:Статьи с источниками из Викиданных","Википедия:Статьи без изображений (тип: человек; род занятий: историк)","Википедия:Статьи без изображений (тип: человек; род занятий: писатель)","Википедия:Статьи без изображений (тип: человек; род занятий: учитель)","Страницы, использующие волшебные ссылки ISBN","Родившиеся 6 сентября","Родившиеся в 1969 году","Родившиеся в Марселе","Выпускники Института политических исследований (Экс-ан-Прованс)","Выпускники Миланского университета","Персоналии по алфавиту","Учёные по алфавиту","Политологи по алфавиту","Политологи Франции","Политологи XX века","Политологи XXI века","Писатели по алфавиту","Журналисты Франции","Писатели Франции"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Дель_Валль,_Александр","wgRelevantArticleId":6208011,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149444181,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2834220","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Дель Валль, Александр — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Дель_Валль_Александр rootpage-Дель_Валль_Александр skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Дель Валль, Александр</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-d2b3f78392bef2ad" style="" data-name="Писатель"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Александр дель Валь</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1559" class="no-wikidata"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Alexandre del Valle</span></span></td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Имя при рождении</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q2834220$1e807908-4a39-cdd8-1f92-66d1297c2863" class="wikidata-claim" data-wikidata-property-id="P1477"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Marc d'Anna</span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Дата рождения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><span class="nowrap"><a href="/wiki/6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="6 сентября">6 сентября</a> <a href="/wiki/1969_%D0%B3%D0%BE%D0%B4" title="1969 год">1969</a></span><span style="display:none">(<span class="bday">1969-09-06</span>)</span></span> <span class="nowrap">(56 лет)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q2834220$83F41A44-9AD4-4A92-981B-B2FF6521BA07" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C" title="Марсель">Марсель</a></span>, <span data-wikidata-hash="c05db5d169c2560b9799d567a803d20a392f53e4" class="wikidata-snak"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франция</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Гражданство (подданство)</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q2834220$EE4DD588-4D5F-4C9D-80AA-8B9EC9578CED" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png 1.5x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франция</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Образование</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q2834220$9EADEBB7-EF04-42B7-ADD5-BE261011CC12" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_(%D0%AD%D0%BA%D1%81-%D0%B0%D0%BD-%D0%9F%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%81)" title="Институт политических исследований (Экс-ан-Прованс)">Институт политических исследований</a></span> (<span data-wikidata-hash="f294fe6f57dc4483e9ec87952f3f7a3e925c9d7a" class="wikidata-snak"><span class="nowrap">1992</span></span>)</span></li><li><span data-wikidata-claim-id="Q2834220$e8cc156b-4b60-e078-75a3-5bcb1397ce23" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Миланский университет">Миланский университет</a></span> (<span data-wikidata-hash="6f4cd978fcd9a6b8d3abc927003eb785a3030bf9" class="wikidata-snak"><span class="nowrap">1993</span></span>)</span></li><li><span data-wikidata-claim-id="Q2834220$1A46E2CB-CAD0-407B-9A8E-22FEE6144472" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><style data-mw-deduplicate="TemplateStyles:r138326222">.mw-parser-output .ts-Wikidata-redLink a{background:none;padding:0}.mw-parser-output .ts-Wikidata-redLink a.external{color:#ba0000;color:var(--color-link-red,#ba0000)}.mw-parser-output .ts-Wikidata-redLink a.external:visited{color:#a55858;color:var(--color-link-red--visited,#a55858)}</style><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9F%D0%BE%D0%BB%D1%8F_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8_%D0%B2_%D0%9C%D0%BE%D0%BD%D0%BF%D0%B5%D0%BB%D1%8C%D0%B5&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q2912244&amp;preloadparams%5B%5D=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8+%D0%9F%D0%BE%D0%BB%D1%8F+%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8+%D0%B2+%D0%9C%D0%BE%D0%BD%D0%BF%D0%B5%D0%BB%D1%8C%D0%B5&amp;preloadparams%5B%5D=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0">Университет имени Поля Валери в Монпелье</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q2912244#sitelinks-wikipedia" class="extiw" title="d:Q2912244"><span>[вд]</span></a></sup></span> (<span data-wikidata-hash="85ebf02f8b80826a7e6dc78230ef266087006d1f" class="wikidata-snak"><span class="nowrap">2015</span></span>)<sup id="cite&#95;ref-&#95;5dc3eabe1c52dd63&#95;1-0" class="reference"><a href="#cite_note-_5dc3eabe1c52dd63-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></li><li><span data-wikidata-claim-id="Q2834220$DB7C3897-3164-4E5F-9384-24D431CE376B" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%9F%D0%BE%D0%BB%D1%8F_%D0%A1%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD%D0%B0" title="Университет Поля Сезанна">Университет Поля Сезанна</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Род деятельности</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P106" class="no-wikidata"><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3" class="mw-redirect" title="Политолог">политолог</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Язык произведений</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P6886" class="no-wikidata"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">французский</a></span></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;">
+<span data-wikidata-claim-id="Q2834220$94113a42-498b-7e05-023a-595b568e1e2f" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://www.alexandredelvalle.com/">alexandredelvalle.com</a></span></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";">© Произведения этого автора <a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82" title="Свободный контент">несвободны</a></td></tr>
+</tbody></table>
+<p><b>Александр дель Валь</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Alexandre del Valle</span>; род. 6 сентября 1969, <a href="/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C" title="Марсель">Марсель</a>)&#160;— французский геополитолог, публицист, автор многочисленных книг, статей и научных работ в области международных отношений и <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Геополитика">геополитики</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Краткая_биография"><span class="tocnumber">1</span> <span class="toctext">Краткая биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Профессиональная_карьера"><span class="tocnumber">2</span> <span class="toctext">Профессиональная карьера</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Публицист"><span class="tocnumber">3</span> <span class="toctext">Публицист</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Взгляды"><span class="tocnumber">4</span> <span class="toctext">Взгляды</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Публикации"><span class="tocnumber">5</span> <span class="toctext">Публикации</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Краткая_биография"><span id=".D0.9A.D1.80.D0.B0.D1.82.D0.BA.D0.B0.D1.8F_.D0.B1.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Краткая биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Краткая биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit&amp;section=1" title="Редактировать код раздела «Краткая биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Родился в Марселе в семье с франко-итальянскими корнями<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Высшее образование получил в Институте политических исследований (l’Institut d'études politiques) в <a href="/wiki/%D0%AD%D0%BA%D1%81-%D0%B0%D0%BD-%D0%9F%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%81" title="Экс-ан-Прованс">Экс-ан-Провансе</a>, где он получил диплом по Военной истории, безопасности и национальной обороне и в Университете <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BF%D0%B5%D0%BB%D1%8C%D0%B5" title="Монпелье">Монпелье</a> 3 Пол-Валери (Université Montpellier 3 Paul-Valéry), где он получил диплом по Истории политических доктрин и политических институтов.<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Он продолжил своё образование в Университете политических наук (Università di scienze politiche) <a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD" title="Милан">Милана</a> в 1992 году.
+</p><p>Защитил докторскую диссертацию в Университете <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BF%D0%B5%D0%BB%D1%8C%D0%B5" title="Монпелье">Монпелье</a> 3 по теме «Запад и Вторая деколонизация: <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%85%D0%B5%D0%BD%D0%B8%D0%B7%D0%BC" title="Индихенизм">индихенизм</a> и <a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D0%B7%D0%BC" title="Исламизм">исламизм</a> от холодной войны до сегодняшнего дня»<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Профессиональная_карьера"><span id=".D0.9F.D1.80.D0.BE.D1.84.D0.B5.D1.81.D1.81.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D0.BA.D0.B0.D1.80.D1.8C.D0.B5.D1.80.D0.B0"></span>Профессиональная карьера</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Профессиональная карьера»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit&amp;section=2" title="Редактировать код раздела «Профессиональная карьера»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 2000-х гг работал в <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82" title="Европейский парламент">Европейском Парламенте</a> в <a href="/wiki/%D0%91%D1%80%D1%8E%D1%81%D1%81%D0%B5%D0%BB%D1%8C" title="Брюссель">Брюсселе</a>, где впоследствии создал консалтинговую фирму.
+</p><p>Александр Дель Вал преподаёт в Школе Коммерции <a href="/wiki/%D0%9B%D0%B0-%D0%A0%D0%BE%D1%88%D0%B5%D0%BB%D1%8C" title="Ла-Рошель">Ла-Рошель</a> <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Геополитика">геополитику</a> и <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" title="Международные отношения">международные отношения</a><sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Публицист"><span id=".D0.9F.D1.83.D0.B1.D0.BB.D0.B8.D1.86.D0.B8.D1.81.D1.82"></span>Публицист</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Публицист»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit&amp;section=3" title="Редактировать код раздела «Публицист»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В своей первой книге «<a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D0%B7%D0%BC" title="Исламизм">Исламизм</a> и <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">Соединенные Штаты</a>: альянс против Европы» (1997), он анализирует поддержку американскими спецслужбами моджахедов во время войны в <a href="/wiki/%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD" title="Афганистан">Афганистане</a> (1979—1989)<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Дель Вал анализирует роль <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a> в использовании исламистов для борьбы с <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">Советским Союзом</a>.
+</p><p>Всего Дель Вал опубликовал семь публицистических книг, в которых он проанализировал подъём <a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D0%B7%D0%BC" title="Исламизм">исламизма</a>, который он назвал новым видом <a href="/wiki/%D0%A2%D0%BE%D1%82%D0%B0%D0%BB%D0%B8%D1%82%D0%B0%D1%80%D0%B8%D0%B7%D0%BC" title="Тоталитаризм">тоталитаризма</a>; западную цивилизацию и кризис западной идентичности; геополитику <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" title="Турция">Турции</a> и её кандидатуру в <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7" class="mw-redirect" title="Европейский Союз">Европейский Союз</a>; а также конфликт в Сирии<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Взгляды"><span id=".D0.92.D0.B7.D0.B3.D0.BB.D1.8F.D0.B4.D1.8B"></span>Взгляды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Взгляды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit&amp;section=4" title="Редактировать код раздела «Взгляды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В своих книгах Дель Вал выступает за сближение <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> с Европой, для создания нового геополитического блока, который он называет Пан-Западом. По его мнению, российско-европейский союз необходим для успешной совместной борьбы с радикальным исламизмом.<sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> По его мнению, «примирение <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> с Европой и Западом» может произойти «в рамках своеобразной „панзападной“ системы: для этого Западу нужно отказаться от высокомерного универсалистского мировоззрения и сосредоточиться на собственных цивилизационных идеалах, христианско-иудейском самосознании и стратегическом пространстве на фоне новых вызовов <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Многополярность">многополярного мира</a>.»<sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>В своей книге «<i><a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D0%B7%D0%BC" title="Исламизм">Исламизм</a> и <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a>: союз против Европы</i>» (1997), Дель Вал отмечает, что <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">Соединенные Штаты</a>&#160;— это «тоталитарная демократия», «единственная сверхдержава, не потерпящая возникновения малейшей конкуренции [своей власти] и полная решимости управлять Европой». Он считает что «<a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D0%B7%D0%BC" title="Исламизм">исламизм</a>&#160;— лишь один из кнутов для этого». В то же время, «<a href="/wiki/%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" title="Вашингтон">Вашингтон</a> использует <a href="/wiki/%D0%9D%D0%90%D0%A2%D0%9E" title="НАТО">НАТО</a> для контроля Европы вопреки её собственным интересам». По его словам, «после падения Берлинской стены общность геополитических и идеологических интересов, которые объединяли Западную Европу и <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a> против советского лагеря, уже выглядит частично устаревшей». Он делает вывод, что «<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a> ведут войну против Старого Света».<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>В книге «<i>Турецкая дилемма</i>» Дель Вал рассматривает все pro и contra вхождения <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" title="Турция">Турции</a> в <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Европейский союз">ЕС</a>.<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> По его мнению, «существуют сугубо геополитические соображения выгоды „азиатской“ экспансии <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Европейский союз">Евросоюза</a>: мост между христианским и исламским мирами, укрепление восточных границ Европы, её контроль над нефтепроводами Каспийского моря; кроме того, <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" title="Турция">Турция</a> в составе <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Европейский союз">ЕС</a> улучшит имидж Европы в глазах исламских государств, перестав быть замкнутым христианским клубом». Дель Вал также считает, что «готовность Европы принять <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" title="Турция">Турцию</a> объясняется её страхом прослыть закрытой кастой, диктующей свою волю остальному миру. Но такой аргумент&#160;— сам по себе абсурд: с тем же „успехом“ арабские страны могли бы присоединить к себе <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F" title="Индия">Индию</a>, исходя из соображений территориальной близости и страха прослыть „исламским клубом“. Геополитические принципы в данной ситуации ошибочны&#160;— это вопрос взаимодействия цивилизаций, менталитетов и культур. Исторические, генетические связи <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" title="Турция">Турции</a> с восточным, нехристианским миром слишком прочны, чтобы она могла за несколько десятилетий перестроиться и подняться до уровня развитого Запада&#160;— политически, экономически, культурно»<sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Анализируя геополитические вызовы, связанные с радикальным исламизмом, Дель Вал отмечает, что «источник проблем&#160;— не&#160;ислам как&#160;вера, а&#160;те, кто придерживается его несовместимого с&#160;нашей моделью бедуинского и&#160;теократического прочтения»<sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Дель Вал критически относится к экспансии Запада, который, по его словам «ведёт себя как&#160;империя-завоеватель, стремится к&#160;бесконечному расширению». Он настаивает на том, что «<a href="/wiki/%D0%9D%D0%90%D0%A2%D0%9E" title="НАТО">НАТО</a> пора перестать видеть в&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> врага и&#160;начать рассматривать её как&#160;достойного уважения партнёра». В то же время Дель Вал выступает против расширения <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Европейский союз">Евросоюза</a> «на&#160;территории, которые в&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> рассматривают как&#160;нейтральные или&#160;же считают своим долгом защитить». Он считает это расширение сильнейшии источником трений: чем дальше Евросоюз продвигается к&#160;Балканам, тем больше он настраивает россиян против себя и&#160;питает их антизападный настрой.<sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Анализируя тенденции мировой геополитики, Дель Вал отмечает, что «мир ожидает создание и укрепление сил, стремящихся, подобно <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a>, противостоять господству западных государств и выйти из их влияния»<sup id="cite&#95;ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>. Он также пишет, что в ближайшем будущем мировая геополитика будет отмечена «постепенным и неумолимым упадком Запада» и вступлением в <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Многополярность">многополярный мир</a>. В этой новой системе международных отношений <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a> не позволит «американцам дестабилизировать дружеские режимы и создать угрозу для её непосредственных интересов во имя так называемых прав человека», добавляя, что «период, когда <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">Америка</a> могла делать, что хотела и где хотела, остался в прошлом».
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Публикации"><span id=".D0.9F.D1.83.D0.B1.D0.BB.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8"></span>Публикации</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Публикации»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit&amp;section=5" title="Редактировать код раздела «Публикации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><i>La Maronité politique, Le système confessionnel libanais et la guerre civile</i> <i>(Маронитская община, ливанская кофессиональная система и гражданская война)</i>, IEP d’Aix-en-Provence, 1992 (mémoire).</li>
+<li><i>Statut légal des minorités religieuses en terres d’Islam (Юридический статус религиозных меньшинств в исламских странах)</i>, Faculté de droit d’Aix-en-Provence, 1993 (mémoire).</li>
+<li><i>La Théorie des élites (Теория элит)</i>, Faculté de Sciences politiques de Milan, 1993 (mémoire de DEA en histoire des doctrines politiques et des institutions politiques).</li>
+<li><i>Islamisme et États-Unis, une alliance contre l’Europe (Исламизм и США: союз против Европы), L'Âge d’Homme, 1997 <small>(<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/2825110604" class="internal mw-magiclink-isbn">ISBN 2-8251-1060-4</a>)</small>. (переведена на итальянский и сербско-хорватский).</i></li>
+<li><i>Une idée certaine de la France</i> <i>(Определенная идея о Франции)</i> (ouvr coll), Sous la direction d’Alain Griotteray, 1999, France-Empire, 1998.</li>
+<li><i>Guerres contre l’Europe&#160;: Bosnie, Kosovo, Tchétchénie (Войны против Европы: Босния, Косово, Чечня)</i>, Les Syrtes, 2001 <small>(<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/2845450451" class="internal mw-magiclink-isbn">ISBN 2-84545-045-1</a>)</small>. (переведена на испанский, португальский, итальянский и сербо-хорватский).</li>
+<li><i>Quel avenir pour les Balkans après la guerre du Kosovo</i> <i>(Будущее Балкан после войны в Косово)</i>, Paneuropa/L’Age d’Homme, 2000.</li>
+<li><i>Le Totalitarisme islamiste à l’assaut des démocraties</i> <i>(Исламистский тоталитаризм против демократии)</i>, Les Syrtes, 2002.</li>
+<li><i>La Turquie dans l’Europe&#160;: un cheval de Troie islamiste&#160;?</i> <i>(Турция в Европе: троянский конь исламизма?)</i>, Les Syrtes, 2004 <small>(<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/2845450931" class="internal mw-magiclink-isbn">ISBN 2-84545-093-1</a>)</small>.</li>
+<li><i>Le Dilemme turc, ou les vrais enjeux de la candidature d’Ankara</i> <i>(Турецкая дилемма, или подоплеки турецкой кандидатуры в ЕС)</i> avec Emmanuel Razavi, Les Syrtes <small>(<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/2845451164" class="internal mw-magiclink-isbn">ISBN 2-84545-116-4</a>)</small>.</li>
+<li><i>Frères musulmans. Dans l’ombre d’Al Qaeda</i>, Jean-Cyrille Godefroy, 2005 <small>(<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/2865531791" class="internal mw-magiclink-isbn">ISBN 2-86553-179-1</a>)</small>, préface d’Emmanuel Razavi.</li>
+<li><i>Perché la Turchia non può entrare nell’Unione europea (Почему Турция не может вступить в ЕС)</i>, Guerini ed Associati, Milan, 2009 (préface de Roberto de Mattei).</li>
+<li><i>I Rossi, Neri, Verdi: la convergenza degli Estremi opposti (Коммунисты-Нацисты-Исламисты: ковергенция противостоящих экстремизмов)</i>, Lindau, 2009, Turin (préface Magdi Allam).</li>
+<li><i>Pourquoi on tue des chrétiens dans le monde aujourd’hui&#160;?&#160;: La nouvelle christianophobie (Почему убивают христиан сегодня в мире? Новая христианофобия)</i>, Maxima Laurent du Mesnil 2011 (préface Denis Tillinac)</li>
+<li><i>Le complexe occidental&#160;: Petit traité de déculpabilisation (Западный комплекс: краткий справочник для избавления от вины)</i>, L’artilleur, Toucan Essais, 2014.</li>
+<li><i>Le Chaos syrien, printemps arabes et minorités face à l’islamisme (Сирийский хаос, Арабская весна и меньшинства под угрозой исламизма),</i> Dhow, 2014.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit&amp;section=6" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-&#95;5dc3eabe1c52dd63-1"><span class="mw-cite-backlink"><a href="#cite_ref-_5dc3eabe1c52dd63_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://theses.fr/s81906">http://theses.fr/s81906</a><span class="wef&#95;low&#95;priority&#95;links"></span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://alexandredelvalle.com/biographie.php?lire=bio">Alexandre Del Valle - Biographie</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;alexandredelvalle.com.&#32;Дата обращения: 17 февраля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160131082626/http://alexandredelvalle.com/biographie.php?lire=bio">Архивировано</a> 31 января 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://alexandredelvalle.com/biographie.php?lire=bio">Alexandre del Valle, Biographie</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 28 января 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160131082626/http://alexandredelvalle.com/biographie.php?lire=bio">Архивировано</a> 31 января 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und">[Laboratoire CRISES, Université Monpellier 3 <a rel="nofollow" class="external free" href="http://crises.upv.univ-montp3.fr/manifestations-2014/soutenances-de-these/theses-soutenues-en-2015/">http://crises.upv.univ-montp3.fr/manifestations-2014/soutenances-de-these/theses-soutenues-en-2015/</a>]</span><span class="hidden-ref" style="display:none;">&#160;</span>.</span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">ESC La Rochelle <a rel="nofollow" class="external text" href="http://www.esc-larochelle.fr/landingPage-Carrousel/ALEXANDRE-DEL-VALLE%20Alexandre%20del%20Valle%20-%20ESC%20La%20Rochelle">http://www.esc-larochelle.fr/landingPage-Carrousel/ALEXANDRE-DEL-VALLE</a>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Maison d’Edition l’Age d’Homme <a rel="nofollow" class="external free" href="http://www.lagedhomme.com/ouvrages/alexandre+del+valle/islamisme+et+etats-unis,+une+alliance+contre+l&#39;europe/2550">http://www.lagedhomme.com/ouvrages/alexandre+del+valle/islamisme+et+etats-unis,+une+alliance+contre+l&#39;europe/2550</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160131215836/http://www.lagedhomme.com/ouvrages/alexandre+del+valle/islamisme+et+etats-unis%2C+une+alliance+contre+l%27europe/2550">Архивная копия</a> от 31 января 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Atlantico.fr <a rel="nofollow" class="external free" href="http://www.atlantico.fr/fiche/alexandre-del-valle-1501260">http://www.atlantico.fr/fiche/alexandre-del-valle-1501260</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160203011309/http://www.atlantico.fr/fiche/alexandre-del-valle-1501260">Архивная копия</a> от 3 февраля 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><i>Alexandre del Valle&#160;:</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.lefigaro.fr/vox/politique/2014/05/19/31001-20140519ARTFIG00333-alexandre-del-valle-l-occident-doit-cesser-de-se-sentir-coupable.php">«L'Occident doit cesser de se sentir coupable», Le Figaro, Figarovo</a></span><span class="hidden-ref" style="display:none;">&#160;</span>&#32;(19 мая 2014).&#32;Дата обращения: 28 января 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160131215839/http://www.lefigaro.fr/vox/politique/2014/05/19/31001-20140519ARTFIG00333-alexandre-del-valle-l-occident-doit-cesser-de-se-sentir-coupable.php">Архивировано</a> 31 января 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://inosmi.ru/world/20140325/218936042.html#ixzz2wws9Onwu">Геополитические корни украинского кризиса и конфликта России и Запада</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Иносми.ру.&#32;Дата обращения: 6 февраля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303022046/http://inosmi.ru/world/20140325/218936042.html#ixzz2wws9Onwu">Архивировано</a> 3 марта 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160308210618/http://zvezda.ru/prn_71.htm">ПОЛЯРНАЯ ЗВЕЗДА::ГЕОПОЛИТИКА</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;zvezda.ru.&#32;Дата обращения: 6 февраля 2016.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://zvezda.ru/prn_71.htm">оригинала</a> 8 марта 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160811081533/http://blog.alexandredelvalle.com/archives/153-,.html">Название&#160;: «&#160;Турецкая дилемма», или к - Blog d'Alexandre del Valle</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;blog.alexandredelvalle.com.&#32;Дата обращения: 17 февраля 2016.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://blog.alexandredelvalle.com/archives/153-,.html">оригинала</a> 11 августа 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.perspektivy.info/print.php?ID=66246">Восток—Запад - Перспективы</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;www.perspektivy.info.&#32;Дата обращения: 6 февраля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160222023425/http://www.perspektivy.info/print.php?ID=66246">Архивировано</a> 22 февраля 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><i>Александр дель Валль (Alexandre Del Valle).</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://inosmi.ru/social/20151124/234562134.html">Десять ответов на поднятые исламом вопросы</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Иносми.ру.&#32;Дата обращения: 6 февраля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160202162846/http://inosmi.ru/social/20151124/234562134.html">Архивировано</a> 2 февраля 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><i>Александр дель Валль (Alexandre Del Valle).</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://inosmi.ru/military/20151223/234890618.html">Европе и России не избежать войны?</a></span><span class="hidden-ref" style="display:none;">&#160;</span>&#32;Иносми.ру.&#32;Дата обращения: 6 февраля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160203010854/http://inosmi.ru/military/20151223/234890618.html">Архивировано</a> 3 февраля 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><i>Александр Дел Валль.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160309062841/http://geo-politica.info/frantsuzskiy-politolog-zapad-teryaet-status-mirovogo-gegemona.html">Французский политолог: Запад теряет статус мирового гегемона</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;geo-politica.info.&#32;Дата обращения: 6 февраля 2016.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://geo-politica.info/frantsuzskiy-politolog-zapad-teryaet-status-mirovogo-gegemona.html">оригинала</a> 9 марта 2016 года.</span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q2834220#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://x.com/alexdelvalle3">X</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/alexandredelvalleofficiel">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.linkedin.com/in/alexandre-del-valle-1/">LinkedIn</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Тематические сайты</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm3327843">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.kinopoisk.ru/name/3104481/">Кинопоиск</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В&#95;библиографических&#95;каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb133215422">133215422</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/130425524">130425524</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000078365393">0000000078365393</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007313159205171">987007313159205171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/nr00025537">nr00025537</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p244269424">244269424</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202015170697">n2015170697</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/035512520">035512520</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/98345111/">98345111</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/98345111">98345111</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐kc88m
+Cached time: 20260212102025
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.715 seconds
+Real time usage: 0.904 seconds
+Preprocessor visited node count: 2299/1000000
+Revision size: 21451/2097152 bytes
+Post‐expand include size: 56145/2097152 bytes
+Template argument size: 3534/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 18/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13319/5000000 bytes
+Lua time usage: 0.599/10.000 seconds
+Lua memory usage: 9334374/52428800 bytes
+Number of Wikibase entities loaded: 11/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  858.983      1 -total
+ 80.87%  694.638      1 Шаблон:Писатель
+ 75.84%  651.423      1 Шаблон:Карточка
+ 11.39%   97.857      1 Шаблон:Внешние_ссылки
+  9.43%   81.036      6 Шаблон:Wikidata
+  7.07%   60.707      1 Шаблон:Примечания
+  5.98%   51.351      1 Шаблон:Карточка/оригинал_имени
+  4.28%   36.776     11 Шаблон:Cite_web
+  2.98%   25.564      1 Шаблон:Сортировка:_по_изображениям
+  1.79%   15.391      1 Шаблон:Wikidata/p569
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:6208011:|#|:idhash:canonical and timestamp 20260212102025 and revision id 149444181. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Дель_Валль,_Александр&amp;oldid=149444181">https://ru.wikipedia.org/w/index.php?title=Дель_Валль,_Александр&amp;oldid=149444181</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="Категория:Родившиеся 6 сентября">Родившиеся 6 сентября</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1969_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1969 году">Родившиеся в 1969 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%B5" title="Категория:Родившиеся в Марселе">Родившиеся в Марселе</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_(%D0%AD%D0%BA%D1%81-%D0%B0%D0%BD-%D0%9F%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%81)" title="Категория:Выпускники Института политических исследований (Экс-ан-Прованс)">Выпускники Института политических исследований (Экс-ан-Прованс)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Категория:Выпускники Миланского университета">Выпускники Миланского университета</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D1%91%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Учёные по алфавиту">Учёные по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Политологи по алфавиту">Политологи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Категория:Политологи Франции">Политологи Франции</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Политологи XX века">Политологи XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Политологи XXI века">Политологи XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Писатели по алфавиту">Писатели по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Категория:Журналисты Франции">Журналисты Франции</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Категория:Писатели Франции">Писатели Франции</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BD%D1%8B%D0%B9_url)" title="Категория:Википедия:Cite web (некорректный url)">Википедия:Cite web (некорректный url)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B3%D0%B5%D0%BE%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D1%85" title="Категория:Википедия:Страницы с геоцепочками в квалификаторах">Википедия:Страницы с геоцепочками в квалификаторах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%B5%D0%BE%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8_(%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)" title="Категория:Википедия:Страницы с неоднозначными геоцепочками (Франция)">Википедия:Страницы с неоднозначными геоцепочками (Франция)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: историк)">Википедия:Статьи без изображений (тип: человек; род занятий: историк)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: писатель)">Википедия:Статьи без изображений (тип: человек; род занятий: писатель)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: учитель)">Википедия:Статьи без изображений (тип: человек; род занятий: учитель)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B5%D0%BB%D1%8C+%D0%92%D0%B0%D0%BB%D0%BB%D1%8C%2C+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B5%D0%BB%D1%8C+%D0%92%D0%B0%D0%BB%D0%BB%D1%8C%2C+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;oldid=149444181" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;id=149444181&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2594%25D0%25B5%25D0%25BB%25D1%258C_%25D0%2592%25D0%25B0%25D0%25BB%25D0%25BB%25D1%258C%2C_%25D0%2590%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2594%25D0%25B5%25D0%25BB%25D1%258C_%25D0%2592%25D0%25B0%25D0%25BB%25D0%25BB%25D1%258C%2C_%25D0%2590%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2834220" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1_%D8%AF%D9%8A%D9%84_%D9%81%D8%A7%D9%84%D9%8A" title="ألكسندر ديل فالي — арабский" lang="ar" hreflang="ar" data-title="ألكسندر ديل فالي" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1_%D8%AF%D9%8A%D9%84_%D9%81%D8%A7%D9%84%D9%89" title="الكسندر ديل فالى — Egyptian Arabic" lang="arz" hreflang="arz" data-title="الكسندر ديل فالى" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%B4%D1%8D%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D1%8C" title="Аляксандр дэль Валь — белорусский" lang="be" hreflang="be" data-title="Аляксандр дэль Валь" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%8A%D1%80_%D0%B4%D0%B5%D0%BB_%D0%92%D0%B0%D0%BB" title="Александър дел Вал — болгарский" lang="bg" hreflang="bg" data-title="Александър дел Вал" data-language-autonym="Български" data-language-local-name="болгарский" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — каталанский" lang="ca" hreflang="ca" data-title="Alexandre del Valle" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — чешский" lang="cs" hreflang="cs" data-title="Alexandre del Valle" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — датский" lang="da" hreflang="da" data-title="Alexandre del Valle" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — немецкий" lang="de" hreflang="de" data-title="Alexandre del Valle" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%AC%CE%BD%CF%84%CF%81_%CE%9D%CF%84%CE%B5%CE%BB_%CE%92%CE%B1%CE%BB" title="Αλεξάντρ Ντελ Βαλ — греческий" lang="el" hreflang="el" data-title="Αλεξάντρ Ντελ Βαλ" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — английский" lang="en" hreflang="en" data-title="Alexandre del Valle" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — испанский" lang="es" hreflang="es" data-title="Alexandre del Valle" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — эстонский" lang="et" hreflang="et" data-title="Alexandre del Valle" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%B3%D8%A7%D9%86%D8%AF%D8%B1_%D8%AF%D9%84_%D9%88%D8%A7%D9%84%D9%87" title="الکساندر دل واله — персидский" lang="fa" hreflang="fa" data-title="الکساندر دل واله" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — финский" lang="fi" hreflang="fi" data-title="Alexandre del Valle" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — французский" lang="fr" hreflang="fr" data-title="Alexandre del Valle" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — галисийский" lang="gl" hreflang="gl" data-title="Alexandre del Valle" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Aleksandar_del_Val" title="Aleksandar del Val — хорватский" lang="hr" hreflang="hr" data-title="Aleksandar del Val" data-language-autonym="Hrvatski" data-language-local-name="хорватский" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — венгерский" lang="hu" hreflang="hu" data-title="Alexandre del Valle" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Alexandre_Del_Valle" title="Alexandre Del Valle — итальянский" lang="it" hreflang="it" data-title="Alexandre Del Valle" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%B4%D0%B5%D0%BB_%D0%92%D0%B0%D0%BB" title="Александар дел Вал — македонский" lang="mk" hreflang="mk" data-title="Александар дел Вал" data-language-autonym="Македонски" data-language-local-name="македонский" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — норвежский букмол" lang="nb" hreflang="nb" data-title="Alexandre del Valle" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — польский" lang="pl" hreflang="pl" data-title="Alexandre del Valle" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — португальский" lang="pt" hreflang="pt" data-title="Alexandre del Valle" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — румынский" lang="ro" hreflang="ro" data-title="Alexandre del Valle" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — словацкий" lang="sk" hreflang="sk" data-title="Alexandre del Valle" data-language-autonym="Slovenčina" data-language-local-name="словацкий" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — словенский" lang="sl" hreflang="sl" data-title="Alexandre del Valle" data-language-autonym="Slovenščina" data-language-local-name="словенский" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%B4%D0%B5%D0%BB_%D0%92%D0%B0%D0%BB" title="Александар дел Вал — сербский" lang="sr" hreflang="sr" data-title="Александар дел Вал" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — шведский" lang="sv" hreflang="sv" data-title="Alexandre del Valle" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — турецкий" lang="tr" hreflang="tr" data-title="Alexandre del Valle" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D1%8C" title="Олександр Дель Валь — украинский" lang="uk" hreflang="uk" data-title="Олександр Дель Валь" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Alexandre_del_Valle" title="Alexandre del Valle — вьетнамский" lang="vi" hreflang="vi" data-title="Alexandre del Valle" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2834220#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 октября 2025 года в 10:34.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-kc88m","wgBackendResponseTime":1089,"wgPageParseReport":{"limitreport":{"cputime":"0.715","walltime":"0.904","ppvisitednodes":{"value":2299,"limit":1000000},"revisionsize":{"value":21451,"limit":2097152},"postexpandincludesize":{"value":56145,"limit":2097152},"templateargumentsize":{"value":3534,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13319,"limit":5000000},"entityaccesscount":{"value":11,"limit":500},"timingprofile":["100.00%  858.983      1 -total"," 80.87%  694.638      1 Шаблон:Писатель"," 75.84%  651.423      1 Шаблон:Карточка"," 11.39%   97.857      1 Шаблон:Внешние_ссылки","  9.43%   81.036      6 Шаблон:Wikidata","  7.07%   60.707      1 Шаблон:Примечания","  5.98%   51.351      1 Шаблон:Карточка/оригинал_имени","  4.28%   36.776     11 Шаблон:Cite_web","  2.98%   25.564      1 Шаблон:Сортировка:_по_изображениям","  1.79%   15.391      1 Шаблон:Wikidata/p569"]},"scribunto":{"limitreport-timeusage":{"value":"0.599","limit":"10.000"},"limitreport-memusage":{"value":9334374,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P582 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P6886 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-kc88m","timestamp":"20260212102025","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0414\u0435\u043b\u044c \u0412\u0430\u043b\u043b\u044c, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%94%D0%B5%D0%BB%D1%8C_%D0%92%D0%B0%D0%BB%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2834220","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2834220","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-01-27T19:51:50Z"}</script>
+</body>
+</html>

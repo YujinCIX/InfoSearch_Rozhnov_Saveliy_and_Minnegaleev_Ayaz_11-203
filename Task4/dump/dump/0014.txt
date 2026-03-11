@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Коньки (приток Нечкинки) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"e5315f35-60c3-466a-9377-003d3e2bc871","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Коньки_(приток_Нечкинки)","wgTitle":"Коньки (приток Нечкинки)","wgCurRevisionId":144260529,"wgRevisionId":144260529,"wgArticleId":3085738,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Водные объекты по алфавиту","Карточка водного объекта: Викиданные: указано свойство: код ГВР","Карточка водного объекта: Викиданные: указано свойство: код ГКГН","ПРО:ВО:Последняя правка: в прошлом году","Карточка реки: заполнить: Площадь бассейна","Википедия:Статьи без изображений (страна: Россия)","Википедия:Статьи без изображений (тип: река)","Википедия:Страницы с картами","Водные объекты Камского бассейнового округа","Реки по алфавиту","Бассейн Камы","Реки Завьяловского района Удмуртии","Реки Сарапульского района"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Коньки_(приток_Нечкинки)","wgRelevantArticleId":3085738,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":144260529,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgCoordinates":{"lat":56.6272,"lon":53.5692},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1096672","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.imagemap.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.imagemap","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.imagemap.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Коньки (приток Нечкинки) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Коньки_приток_Нечкинки rootpage-Коньки_приток_Нечкинки skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="56.6272&#95;N&#95;53.5692&#95;E&#95;scale:100000&#95;region:RU&#95;type:river"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/56.6272/53.5692/ru" data-zoom="12" data-lat="56.6272" data-lon="53.5692" data-lang="ru" data-overlays="[&quot;_c8f3cadc6aa153f5e5ca90bfddffa8a706f0b628&quot;]">56°37′38″&#160;с.&#160;ш. 53°34′09″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;params=56.6272_N_53.5692_E_scale:100000_region:RU_type:river&amp;title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8%2C+%D1%83%D1%81%D1%82%D1%8C%D0%B5"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=56.6272,53.5692&amp;q=56.6272,53.5692&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=53.5692,56.6272&amp;pt=53.5692,56.6272&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=56.6272&amp;mlon=53.5692&amp;zoom=12"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Коньки (приток Нечкинки)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Коньки (значения)">Коньки (значения)</a>.</div><style data-mw-deduplicate="TemplateStyles:r143790064/mw-parser-output/.infobox-0c89932059f4f1c6">.mw-parser-output .infobox-0c89932059f4f1c6 .infobox-above,.mw-parser-output .infobox-0c89932059f4f1c6 .infobox-header,.mw-parser-output .infobox-0c89932059f4f1c6 .infobox-below{background:#c0daff}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-0c89932059f4f1c6 .infobox-above{background:var(--ruwiki-background-color-blue200,#cfe3ff)}html.skin-theme-clientpref-night .mw-parser-output .infobox-0c89932059f4f1c6 .infobox-header,html.skin-theme-clientpref-night .mw-parser-output .infobox-0c89932059f4f1c6 .infobox-below{background:var(--ruwiki-background-color-blue150,#dcebff)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-0c89932059f4f1c6 .infobox-above{background:var(--ruwiki-background-color-blue200,#cfe3ff)}html.skin-theme-clientpref-os .mw-parser-output .infobox-0c89932059f4f1c6 .infobox-header,html.skin-theme-clientpref-os .mw-parser-output .infobox-0c89932059f4f1c6 .infobox-below{background:var(--ruwiki-background-color-blue150,#dcebff)}}</style><table class="infobox infobox-0c89932059f4f1c6" style="" data-name="Река"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Коньки</th></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Характеристика</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Длина</th>
+<td class="plainlist">
+14 км</td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header plainlinks" style=""><span style="color:var(--color-emphasized, black);"><a class="external text" href="https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=ru&amp;article=Коньки+(приток+Нечкинки)">Водоток</a></span></th>
+</tr><tr>
+<th scope="row" class="plainlist" style="padding-bottom:0; border-bottom:0;"><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D0%BA" title="Исток">Исток</a><span class="woservice" style="display:none">&#160;&#160;&#160;<style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="O-39-131"><b>(Т)</b></span>&#160;<a rel="nofollow" class="external text" href="https://www.bing.com/maps/default.aspx?v=2&amp;cp=56.6267~53.3547&amp;style=h&amp;lvl=11&amp;sp=Point.56.6267_53.3547_1_">(B)</a></span></th>
+<td class="plainlist" style="padding-bottom:0; border-bottom:0;">
+&#160;</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="font-weight:normal; padding-top:0; border-top:0;">&#160;•&#160;<a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B" title="Географические координаты">Координаты</a></th>
+<td class="plainlist" style="padding-top:0; border-top:0;">
+<style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="56.6267&#95;N&#95;53.3547&#95;E&#95;scale:10000&#95;region:RU&#95;type:river"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/15/56.6267/53.3547/ru" data-zoom="15" data-lat="56.6267" data-lon="53.3547" data-lang="ru" data-overlays="[&quot;_8d8e35953ce2f736b876caf7568c7f413e6f1b70&quot;]">56°37′36″&#160;с.&#160;ш. 53°21′17″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;params=56.6267_N_53.3547_E_scale:10000_region:RU_type:river&amp;title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8%2C+%D0%B8%D1%81%D1%82%D0%BE%D0%BA"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=56.6267,53.3547&amp;q=56.6267,53.3547&amp;spn=0.01,0.01&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=53.3547,56.6267&amp;pt=53.3547,56.6267&amp;spn=0.01,0.01&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=56.6267&amp;mlon=53.3547&amp;zoom=15"><span>O</span></a></span></sup></span></td>
+</tr><tr>
+<th scope="row" class="plainlist" style="padding-bottom:0; border-bottom:0;"><a href="/wiki/%D0%A3%D1%81%D1%82%D1%8C%D0%B5" title="Устье">Устье</a><span class="woservice" style="display:none">
+ &#160;&#160;&#160;<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="O-39-132"><b>(Т)</b></span>&#160;<a rel="nofollow" class="external text" href="https://www.bing.com/maps/default.aspx?v=2&amp;cp=56.6272~53.5692&amp;style=h&amp;lvl=11&amp;sp=Point.56.6272_53.5692_1_">(B)</a></span></th>
+<td class="plainlist" style="padding-bottom:0; border-bottom:0;">
+<a href="/wiki/%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0" title="Нечкинка">Нечкинка</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="font-weight:normal; padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;">&#160;•&#160;Местоположение</th>
+<td class="plainlist" style="padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;">
+18 км по правому берегу</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="font-weight:normal; padding-top:0; border-top:0;">&#160;•&#160;<a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B" title="Географические координаты">Координаты</a></th>
+<td class="plainlist" style="padding-top:0; border-top:0;">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r136820016" /><span class="coordinates plainlinks nourlexpansion" data-param="56.6272&#95;N&#95;53.5692&#95;E&#95;scale:100000&#95;region:RU&#95;type:river"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/56.6272/53.5692/ru" data-zoom="12" data-lat="56.6272" data-lon="53.5692" data-lang="ru" data-overlays="[&quot;_c8f3cadc6aa153f5e5ca90bfddffa8a706f0b628&quot;]">56°37′38″&#160;с.&#160;ш. 53°34′09″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;params=56.6272_N_53.5692_E_scale:100000_region:RU_type:river&amp;title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8%2C+%D1%83%D1%81%D1%82%D1%8C%D0%B5"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=56.6272,53.5692&amp;q=56.6272,53.5692&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=53.5692,56.6272&amp;pt=53.5692,56.6272&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=56.6272&amp;mlon=53.5692&amp;zoom=12"><span>O</span></a></span></sup></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header plainlinks" style="">Расположение</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD" title="Водосборный бассейн">Водная система</a></th>
+<td class="plainlist">
+<a href="/wiki/%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0" title="Нечкинка">Нечкинка</a>&#160;→&#32;<a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B0" title="Кама">Кама</a>&#160;→&#32;<a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0" title="Волга">Волга</a>&#160;→&#32;<a href="/wiki/%D0%9A%D0%B0%D1%81%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Каспийское море">Каспийское море</a></td>
+</tr>
+<tr>
+<td colspan="2" class="nomobile plainlist" style="text-align:center;">
+<hr /></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P17" class="no-wikidata"><ul><li><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></li></ul></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Регион</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F" title="Удмуртия">Удмуртия</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><abbr title="код водного объекта">Код</abbr> в <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80" title="Государственный водный реестр">ГВР</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1096672$5B6A0AF2-8DB5-40FC-B43C-F8A6EDE0F7FC" class="wikidata-claim" data-wikidata-property-id="P884"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://verum.icu/index.php?claster=gvr&amp;q=10010101412111100015755">10010101412111100015755</a><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><abbr title="регистрационный номер названия географического объекта">Номер</abbr> в <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Государственный каталог географических названий">ГКГН</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1096672$42489131-FFA0-41FF-B614-ED5AC1DDEFB1" class="wikidata-claim" data-wikidata-property-id="P1397"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://dimastbkbot.toolforge.org/gkgn/?gkgn_id=0718275">0718275</a></span></span></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;">
+<style data-mw-deduplicate="TemplateStyles:r140508045">.mw-parser-output .ts-ПозКарта-карта .thumbimage{background:#fff;max-width:100%;overflow:hidden;position:relative}.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map ts-ПозКарта-карта" style="width:250px; border:0;margin:0 auto"><div class=""><div class="thumbimage notheme" style="width:250px;border:0"><figure class="notpageimage noresize mw-ext-imagemap-desc-bottom-right" typeof="mw:File"><span title="Коньки (приток Нечкинки) (Удмуртия)"><img alt="Коньки (приток Нечкинки) (Удмуртия)" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Relief_Map_of_Udmurtia.png/250px-Relief_Map_of_Udmurtia.png" decoding="async" width="250" height="364" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Relief_Map_of_Udmurtia.png/500px-Relief_Map_of_Udmurtia.png 1.5x" data-file-width="512" data-file-height="745" usemap="#ImageMap_bdc3f2dfab45d24d" resource="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Relief_Map_of_Udmurtia.png" /></span><map name="ImageMap_bdc3f2dfab45d24d"><area href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%C2%BB" shape="poly" coords="157,250,160,244,159,242,162,240,163,240,166,243,168,241,166,237,165,238,164,235,166,233,166,233,165,228,166,227,169,228,172,226,171,223,165,225,164,221,164,221,158,218,156,219,155,216,152,217,151,219,148,219,148,215,151,212,149,212,147,214,147,218,143,220,143,221,147,220,147,224,147,228,148,229,149,231,145,232,145,239,150,242,152,240,155,240,156,242,155,245,155,245,157,246,156,249" alt="Ижевск" title="Ижевск" /><area href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%C2%BB" shape="poly" coords="216,218,216,218,219,212,219,212,219,209,222,208,224,205,222,202,223,201,218,202,217,200,212,200,212,196,212,200,212,203,210,203,209,201,206,201,203,199,205,202,208,202,208,204,204,208,207,210,207,209,211,210,211,210,213,211,213,211,212,212,213,215,213,215" alt="Воткинск" title="Воткинск" /><area href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%93%D0%BB%D0%B0%D0%B7%D0%BE%D0%B2%C2%BB" shape="poly" coords="113,60,115,59,116,61,118,60,120,59,119,58,121,56,121,56,121,56,119,55,119,55,118,52,115,52,111,53,110,54,110,55,109,57,109,58,109,58,111,58,113,60,115,59" alt="Глазов" title="Глазов" /><area href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%9C%D0%BE%D0%B6%D0%B3%D0%B0%C2%BB" shape="poly" coords="80,290,85,290,87,289,86,286,89,283,88,281,85,284,84,283,82,283,82,286,82,286,80,286" alt="Можга" title="Можга" /><area href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%C2%BB" shape="poly" coords="206,290,203,289,200,290,192,290,192,290,193,285,194,285,193,281,197,280,198,281,198,281,199,280,202,277,203,276,204,276,205,278,206,279,206,279,206,279,207,281,207,281,207,283,205,284,205,284,206,287" alt="Сарапул" title="Сарапул" /><area href="/wiki/%D0%90%D0%BB%D0%BD%D0%B0%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="85,337,86,339,89,338,91,340,94,345,96,343,101,346,102,343,100,341,101,339,104,341,105,339,108,344,112,343,112,345,117,347,122,347,123,340,123,340,123,337,123,337,123,335,121,334,120,331,120,331,123,330,123,333,123,333,127,336,127,336,130,337,133,332,133,332,129,331,129,331,133,326,130,325,130,325,131,322,131,322,131,322,127,321,127,321,123,320,122,318,118,318,116,316,114,318,114,318,108,317,108,317,111,311,111,309,111,309,114,310,114,310,117,309,115,308,115,308,117,306,117,306,116,304,109,302,109,302,107,299,103,300,105,305,104,308,99,309,94,311,91,311,89,314,91,317,88,319,85,319,81,323,85,327" alt="Алнашский район" title="Алнашский район" /><area href="/wiki/%D0%91%D0%B0%D0%BB%D0%B5%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="154,8,146,28,141,31,141,35,144,37,147,36,147,40,153,44,148,46,149,48,154,49,157,52,155,57,148,59,149,63,147,62,141,58,137,62,137,65,139,66,136,70,133,70,130,73,130,76,128,79,127,79,128,83,126,83,123,91,122,97,122,101,127,104,127,104,130,103,129,106,129,106,131,106,129,110,131,111,131,115,138,118,138,118,141,115,141,115,141,115,152,117,154,114,160,115,160,109,167,110,169,103,168,99,171,97,167,87,168,83,171,80,176,74,175,69,172,71,172,63,175,62,176,59,173,57,174,53,180,54,181,45,177,45,175,41,180,34,184,34,184,29,192,24,199,23,201,18,203,15,190,12,188,16,183,17,181,16,176,18,176,18,175,22,175,22,171,25,159,22,160,17,155,16,155,9" alt="Балезинский район" title="Балезинский район" /><area href="/wiki/%D0%92%D0%B0%D0%B2%D0%BE%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="21,257,22,250,20,247,20,243,26,239,27,234,32,229,42,221,43,215,49,213,50,215,52,215,53,211,62,212,61,219,61,221,64,223,63,228,66,228,73,228,72,231,75,231,76,235,79,236,82,233,86,234,84,238,82,254,80,253,78,254,74,250,71,253,71,256,68,258,60,260,57,265,59,269,58,274,58,274,54,274,49,279,45,279,40,271,40,262,38,260,35,260,35,264,32,263,32,260" alt="Вавожский район" title="Вавожский район" /><area href="/wiki/%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="249,208,248,208,248,208,248,206,242,202,240,196,240,196,242,196,242,196,243,190,242,188,244,184,240,178,243,176,240,172,235,169,233,170,232,169,229,169,229,169,228,177,225,178,225,178,222,185,216,186,220,192,220,192,217,191,214,194,212,192,208,195,207,194,208,190,208,190,195,188,195,188,195,189,180,187,180,191,173,202,173,202,180,216,184,212,185,212,184,216,188,217,190,218,178,222,178,228,178,228,186,227,188,231,192,233,192,233,197,233,199,231,202,232,203,235,206,235,210,240,214,245,218,245,224,233,224,223,230,213,239,214,246,212,249,211" alt="Воткинский район" title="Воткинский район" /><area href="/wiki/%D0%93%D0%BB%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="101,18,101,18,99,35,96,39,98,41,96,43,98,45,93,52,94,54,91,57,92,60,89,63,89,65,91,66,95,68,91,71,91,74,94,74,94,76,98,77,97,81,99,85,106,87,104,89,107,91,110,97,121,97,123,91,126,83,127,83,127,81,127,80,127,78,128,79,130,77,130,73,132,70,136,70,139,66,136,64,136,61,136,61,140,58,146,63,149,62,148,59,154,58,158,52,155,49,149,48,148,46,152,44,148,40,147,36,144,37,141,35,141,31,146,29,146,29,154,9,154,9,154,3,154,3,150,0,150,6,139,4,134,4,130,23" alt="Глазовский район" title="Глазовский район" /><area href="/wiki/%D0%93%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="40,350,36,353,34,350,33,347,38,341,39,339,41,339,44,337,48,337,47,335,49,332,55,333,57,325,65,317,70,314,73,313,75,315,75,315,79,316,80,320,82,321,82,321,81,323,86,327,86,327,84,330,85,336,81,339,82,341,82,341,85,339,86,344,84,343,84,343,83,346,83,351,84,351,84,351,85,355,80,355,82,357,79,358,78,360,72,360,72,357,69,354,70,352,66,349,63,349,63,353,58,356,57,355,52,359,51,363,49,360,51,357,47,356,46,353,48,351,46,350,45,352,46,356" alt="Граховский район" title="Граховский район" /><area href="/wiki/%D0%94%D0%B5%D0%B1%D1%91%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="220,141,215,141,208,146,207,150,205,150,205,152,192,151,182,144,182,143,188,141,191,135,190,133,187,134,186,136,182,134,182,131,182,131,179,131,178,127,178,127,178,127,180,127,180,127,183,126,178,121,180,113,182,111,189,113,190,112,188,111,190,108,202,109,204,110,205,109,209,109,213,104,216,104,217,106,220,106,221,104,227,104,230,106,230,106,226,111,229,116,229,116,222,119,222,119,222,124,227,128,226,129,224,129,221,130,221,131,220,132,218,131,218,131,216,132,216,135,219,137,221,135,223,138" alt="Дебёсский район" title="Дебёсский район" /><area href="/wiki/%D0%97%D0%B0%D0%B2%D1%8C%D1%8F%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_(%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F)" shape="poly" coords="204,242,202,252,197,252,192,253,193,256,189,258,185,257,182,265,183,272,181,274,180,271,175,271,174,265,165,261,163,264,161,262,154,261,154,258,148,260,146,264,142,261,146,257,136,256,131,254,127,248,124,251,122,250,118,253,117,249,119,247,119,244,119,244,116,238,116,238,114,238,118,231,119,227,116,216,122,209,120,208,122,206,123,207,124,205,127,205,127,205,130,209,165,213,165,213,167,204,174,205,174,205,180,217,183,212,185,213,184,215,188,216,190,219,177,222,178,228,185,227,188,228,188,232,193,233,194,232,197,233,199,231,200,232,203,231" alt="Завьяловский район" title="Завьяловский район" /><area href="/wiki/%D0%98%D0%B3%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="131,116,126,138,120,140,114,137,113,140,106,138,102,142,103,145,102,146,96,147,95,151,96,153,93,162,95,164,107,159,107,162,107,162,109,163,114,157,118,160,127,158,127,162,130,164,130,164,131,162,135,162,135,162,137,164,137,164,137,168,140,170,143,169,147,171,161,172,169,165,169,165,169,165,179,163,179,158,179,158,183,156,183,156,183,146,182,143,188,141,188,141,191,136,190,133,185,136,182,131,179,132,178,127,183,125,179,121,179,113,175,111,174,109,174,109,174,109,168,108,168,108,168,108,167,110,160,109,160,115,155,114,155,114,152,117,152,117,143,117,141,115,141,115,138,117" alt="Игринский район" title="Игринский район" /><area href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="231,321,228,319,229,316,229,316,219,300,209,296,206,293,207,287,216,280,216,280,217,281,217,281,221,278,223,277,225,278,226,277,230,278,230,278,230,283,231,285,231,285,230,286,230,288,230,288,233,286,234,287,233,289,233,290,237,288,237,285,242,281,243,293,245,296,245,300,244,301,244,304,248,305,246,312,242,313,242,316" alt="Камбарский район" title="Камбарский район" /><area href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="184,317,190,319,194,318,200,321,200,324,200,324,202,325,205,321,204,320,210,318,214,322,216,321,216,321,218,321,221,319,227,319,231,320,229,325,224,332,220,340,216,345,212,344,206,341,206,344,203,348,205,350,197,351,194,355,188,357,186,359,180,362,173,363,165,363,162,364,160,362,161,360,158,360,157,357,157,356,162,354,165,351,171,347,170,345,173,345,176,344,177,342,175,340,180,330,182,332,185,332,185,332,186,324,184,323,184,323" alt="Каракулинский район" title="Каракулинский район" /><area href="/wiki/%D0%9A%D0%B5%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="227,104,222,104,220,106,218,106,216,104,213,105,213,105,210,109,205,109,203,111,202,109,190,108,188,109,188,111,190,112,189,113,187,112,181,111,179,113,175,111,175,111,174,109,174,109,167,107,169,103,168,100,171,97,171,97,167,87,169,82,172,80,176,74,175,70,174,69,171,70,172,63,176,63,177,58,177,58,173,56,173,53,173,53,176,53,178,55,178,55,178,54,180,54,180,54,181,48,181,48,182,46,177,45,175,41,178,36,178,36,180,34,184,35,185,29,192,24,198,23,198,23,200,18,200,18,202,18,204,22,204,29,208,30,210,33,207,39,202,42,202,44,205,47,211,51,209,53,212,55,213,64,216,66,224,75,224,78,228,81,228,81,224,88,224,90,227,93" alt="Кезский район" title="Кезский район" /><area href="/wiki/%D0%9A%D0%B8%D0%B7%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="21,257,32,260,32,264,34,264,35,261,38,260,39,261,41,268,40,270,42,273,42,275,46,279,50,279,54,274,56,274,59,278,64,278,66,276,67,278,66,279,66,284,65,285,61,299,55,303,56,308,55,311,58,312,58,311,60,313,57,314,59,317,56,319,59,322,56,327,55,333,50,332,47,334,48,336,44,336,41,339,38,339,38,341,32,346,33,347,34,351,29,354,24,354,22,351,21,346,21,345,22,343,23,341,24,341,28,337,34,336,39,335,40,331,40,329,37,330,35,328,33,328,32,330,25,329,24,321,29,320,25,317,20,320,18,319,20,317,22,309,21,308,20,305,17,305,18,304,14,304,13,305,13,305,14,300,13,300,14,297,14,297,14,297,12,296,14,290,7,289,7,289,6,290,5,289,5,288,3,283,2,283,2,278,1,278,1,276,4,275,4,275,4,274,2,274,2,274,5,254,5,254,5,254" alt="Кизнерский район" title="Кизнерский район" /><area href="/wiki/%D0%9A%D0%B8%D1%8F%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="175,310,175,310,173,306,173,301,168,295,171,293,171,291,173,291,173,291,172,289,166,286,164,287,159,294,155,291,156,285,157,285,157,285,157,282,157,282,155,281,155,281,154,283,149,282,149,282,148,287,145,287,142,296,142,296,140,296,140,296,139,301,141,305,139,309,141,309,142,313,142,313,140,311,140,311,139,314,141,317,143,318,144,318,144,318,144,321,144,321,143,323,143,323,146,324,144,321,145,320,147,324,150,322,151,324,148,324,146,328,149,331,150,331,148,328,148,328,150,327,152,325,152,325,155,329,155,332,159,335,162,333,162,336,162,336,164,338,166,337,167,338,170,335,169,333,169,330,165,318,160,315,160,315,161,313,161,313,165,314,166,313,168,314,175,311,173,307" alt="Киясовский район" title="Киясовский район" /><area href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_(%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F)" shape="poly" coords="63,107,64,106,74,105,75,105,78,105,81,107,84,108,98,106,97,101,102,97,107,99,110,96,113,97,121,97,122,101,127,104,130,103,128,105,131,107,129,110,130,111,131,116,127,137,125,139,121,140,114,138,112,140,106,138,105,140,102,141,103,144,103,146,96,147,94,146,94,144,78,142,75,145,63,144,60,142,59,139,57,138,57,135,52,134,51,131,56,127,57,120,56,118,59,118,57,115,57,115,57,114,57,114,56,113,56,113,59,112,59,112,61,113,61,111,64,109,64,109,64,109" alt="Красногорский район" title="Красногорский район" /><area href="/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D0%BF%D1%83%D1%80%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="149,283,153,283,155,281,157,283,157,285,156,285,156,291,159,294,164,287,166,286,168,287,170,285,170,281,169,280,169,276,176,274,175,270,174,266,165,261,164,263,163,264,161,262,153,261,153,258,148,260,148,262,145,264,142,261,142,261,146,257,138,256,136,257,136,257,132,255,127,249,125,251,121,250,118,253,117,251,117,251,114,254,114,254,114,256,115,257,114,258,114,258,115,262,115,267,108,275,113,275,113,275,112,291,118,295,119,297,125,296,126,294,127,294,129,297,136,294,138,285,133,282,132,278,133,278,133,278,134,281,137,281,138,274,138,274,149,276,153,277" alt="Малопургинский район" title="Малопургинский район" /><area href="/wiki/%D0%9C%D0%BE%D0%B6%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="116,304,108,303,106,299,103,300,103,300,105,305,104,307,99,308,95,311,91,311,89,313,90,317,90,317,87,320,85,319,83,321,80,320,79,316,76,316,76,316,73,313,67,315,59,323,56,319,59,317,58,314,60,313,58,311,54,310,56,309,55,303,61,298,66,284,65,279,66,277,60,278,57,275,59,269,57,266,59,259,68,258,71,257,71,253,74,250,77,254,80,253,83,254,89,257,89,260,95,262,103,256,112,255,115,256,114,259,116,262,114,269,108,275,113,275,113,291,118,296,118,296,119,298,119,298,123,297,124,299,122,299,121,304" alt="Можгинский район" title="Можгинский район" /><area href="/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="204,242,202,247,202,252,196,252,193,253,194,256,189,259,185,257,182,265,183,272,180,274,180,271,176,270,175,273,169,276,169,280,171,281,171,285,169,287,171,288,173,291,171,291,171,293,169,294,173,300,173,305,175,311,178,316,182,316,190,320,194,318,196,320,202,325,205,321,204,320,205,318,209,318,214,322,221,319,227,319,228,316,224,309,219,300,212,297,207,294,206,290,202,288,202,288,200,290,200,290,191,290,193,285,193,285,195,285,193,283,193,280,193,280,198,281,198,281,199,279,203,275,207,280,207,280,206,283,206,283,206,283,207,286,215,280,215,280,216,281,222,278,226,278,226,278,229,278,229,278,229,283,229,283,230,284,231,285,231,285,230,285,230,285,230,288,232,286,233,287,233,287,233,288,234,289,236,287,236,287,236,285,233,285,233,280,232,275,227,275,225,269,222,268,220,268,224,258,220,258,220,258,219,256,216,258,216,258,216,261,211,258,210,259,210,261,208,262,209,264,206,262,206,262,207,260,208,260,208,260,207,258,208,257,210,255,209,250,206,249,207,245" alt="Сарапульский район" title="Сарапульский район" /><area href="/wiki/%D0%A1%D0%B5%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="31,150,29,166,26,171,27,172,30,171,33,171,33,173,36,173,34,175,37,178,45,180,45,183,50,184,55,187,54,190,59,191,65,189,65,193,68,192,68,192,71,195,76,193,77,191,80,192,80,192,81,191,86,191,89,186,88,184,95,176,97,171,102,171,103,172,106,168,110,167,109,163,109,163,107,162,107,161,106,159,95,164,93,163,96,153,95,151,97,148,94,146,94,144,78,142,75,145,59,143,59,143,59,139,59,139,57,139,57,136,50,133,49,139,44,143,38,140,36,150" alt="Селтинский район" title="Селтинский район" /><area href="/wiki/%D0%A1%D1%8E%D0%BC%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="31,150,29,164,30,166,26,171,26,173,30,171,32,171,32,173,37,173,34,176,36,178,45,180,45,184,50,184,55,186,53,190,59,191,59,197,61,198,58,200,60,204,56,212,52,210,53,215,50,215,49,212,47,215,44,215,42,221,32,228,22,224,24,220,21,220,18,221,16,217,17,215,13,207,8,206,11,203,8,201,10,193,6,192,7,184,3,186,4,179,0,179,4,153,4,153,8,150,8,150,20,148,20,148" alt="Сюмсинский район" title="Сюмсинский район" /><area href="/wiki/%D0%A3%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="83,254,83,247,84,235,87,233,83,233,75,236,76,231,72,231,72,231,73,228,63,228,64,223,61,221,61,219,62,212,62,212,55,212,57,205,60,203,60,204,58,201,60,199,60,191,64,190,64,190,65,192,67,192,70,194,70,194,70,194,70,194,76,192,77,190,80,192,80,192,82,190,85,191,85,191,89,186,89,186,89,186,88,185,88,185,96,171,96,171,102,171,103,171,103,174,106,174,106,180,109,186,109,186,109,186,123,186,123,194,124,205,124,205,123,207,123,207,123,207,122,206,122,206,120,208,122,209,117,216,119,226,119,226,119,226,118,229,119,231,119,231,119,231,115,237,115,237,116,239,116,239,119,244,119,244,119,247,119,247,117,248,117,251,114,255,102,255,102,255,102,255,95,262,89,260,89,258" alt="Увинский район" title="Увинский район" /><area href="/wiki/%D0%A8%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="220,141,214,141,207,146,208,149,204,150,204,150,205,152,192,151,183,146,183,156,180,157,179,163,175,163,175,165,178,170,178,170,175,180,181,182,180,186,180,186,195,189,196,188,209,190,206,193,208,195,212,192,213,194,217,190,217,190,218,192,220,192,219,188,216,188,218,184,221,185,225,177,229,176,229,176,229,169,227,166,228,163,230,161,227,160,227,160,229,158,233,157,234,155,237,154,239,155,240,154,240,154,238,152,238,152,238,149,232,149,232,149,228,147,230,146,230,142,230,142,226,140,222,143,222,143" alt="Шарканский район" title="Шарканский район" /><area href="/wiki/%D0%AE%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="63,107,65,105,75,106,75,104,78,105,81,107,85,108,98,106,97,101,100,98,101,96,103,96,107,100,110,96,106,90,104,89,106,87,100,85,96,81,98,77,94,76,94,76,91,73,91,72,95,68,95,68,92,66,92,66,92,66,88,66,88,66,86,64,86,64,75,66,75,66,72,71,67,70,66,73,61,75,58,75,58,82,56,85,52,86,55,90,55,95,55,95,52,97,53,99,56,97,56,100,60,98,63,104,61,105" alt="Юкаменский район" title="Юкаменский район" /><area href="/wiki/%D0%AF%D0%BA%D1%88%D1%83%D1%80-%D0%91%D0%BE%D0%B4%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="174,205,167,204,165,214,129,209,127,205,124,205,123,195,123,192,123,186,109,186,109,184,106,181,106,173,103,173,103,173,106,168,106,168,110,167,109,163,111,159,114,157,118,160,118,160,127,158,127,158,127,162,130,163,131,162,135,162,135,162,137,164,137,168,140,170,142,169,146,170,146,170,155,172,159,171,161,171,161,171,162,170,162,170,164,170,164,170,166,167,168,167,168,165,175,163,174,166,178,169,176,177,176,180,176,180,178,180,179,182,181,182,180,186,180,191,180,191,178,191,173,202" alt="Якшур-Бодьинский район" title="Якшур-Бодьинский район" /><area href="/wiki/%D0%AF%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" shape="poly" coords="89,65,89,62,92,60,91,57,94,54,93,52,97,45,97,45,97,38,100,19,100,19,91,17,88,12,82,12,80,7,73,13,73,13,68,11,61,15,57,24,54,24,52,29,54,29,52,36,50,37,46,41,47,45,44,50,43,56,48,59,49,55,52,57,51,60,54,63,55,66,52,70,53,73,55,71,56,73,60,73,61,75,66,73,67,70,71,71,75,69,75,66,81,64,86,64,87,66" alt="Ярский район" title="Ярский район" /></map><figcaption>Коньки (приток Нечкинки) (Удмуртия)</figcaption></figure><div class="ts-ПозКарта-метка" style="left:67.27%; top:71.79%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Голубая точка"><img alt="Голубая точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Blue_0080ff_pog.svg/20px-Blue_0080ff_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px"></div></div><div class="ts-ПозКарта-метка" style="left:73.71%; top:71.77%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Синяя точка — устье"><img alt="Синяя точка — устье" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/20px-Blue_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px"></div></div></div></div></div></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;">
+<span typeof="mw:File"><span><img alt="Голубая точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Blue_0080ff_pog.svg/20px-Blue_0080ff_pog.svg.png" decoding="async" width="7" height="7" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span> — исток, <span typeof="mw:File"><span title="Синяя точка"><img alt="Синяя точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/20px-Blue_pog.svg.png" decoding="async" width="7" height="7" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span> — устье</td>
+</tr>
+</tbody></table>
+<p><b>Коньки</b>&#160;— река в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a>, протекает по территории <a href="/wiki/%D0%97%D0%B0%D0%B2%D1%8C%D1%8F%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_(%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F)" title="Завьяловский район (Удмуртия)">Завьяловского</a> и <a href="/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" title="Сарапульский район">Сарапульского</a> районов <a href="/wiki/%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F" title="Удмуртия">Удмуртии</a>. Устье реки находится в 18&#160;км по правому берегу реки <a href="/wiki/%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0" title="Нечкинка">Нечкинка</a>. Длина реки составляет 14 км<sup id="cite&#95;ref-ГВР&#95;2-0" class="reference"><a href="#cite_note-ГВР-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>На её берегах расположены деревни <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F)" title="Коньки (Удмуртия)">Коньки</a>, <a href="/w/index.php?title=%D0%97%D0%B0%D1%80%D1%8F_(%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Заря (Удмуртия) (страница отсутствует)">Заря</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Данные_водного_реестра"><span id=".D0.94.D0.B0.D0.BD.D0.BD.D1.8B.D0.B5_.D0.B2.D0.BE.D0.B4.D0.BD.D0.BE.D0.B3.D0.BE_.D1.80.D0.B5.D0.B5.D1.81.D1.82.D1.80.D0.B0"></span>Данные водного реестра</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Данные водного реестра»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Данные водного реестра»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>По данным <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80" title="Государственный водный реестр">государственного водного реестра России</a> относится к <a href="/wiki/%D0%9A%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3" title="Камский бассейновый округ">Камскому бассейновому округу</a>, водохозяйственный участок реки&#160;— <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B0" title="Кама">Кама</a> от <a href="/wiki/%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Воткинская ГЭС">Воткинского гидроузла</a> до <a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Нижнекамская ГЭС">Нижнекамского гидроузла</a>, без рек <a href="/wiki/%D0%91%D1%83%D0%B9_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Буй (приток Камы)">Буй</a> (от истока до <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5" title="Кармановское водохранилище">Кармановского гидроузла</a>), <a href="/wiki/%D0%98%D0%B6_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Иж (приток Камы)">Иж</a>, <a href="/wiki/%D0%98%D0%BA_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Ик (приток Камы)">Ик</a> и <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Белая (приток Камы)">Белая</a>, речной подбассейн реки&#160;— бассейны притоков <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B0" title="Кама">Камы</a> до впадения Белой. Речной бассейн реки&#160;— Кама<sup id="cite&#95;ref-ГВР&#95;2-1" class="reference"><a href="#cite_note-ГВР-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Код объекта в государственном водном реестре&#160;— 10010101412111100015755<sup id="cite&#95;ref-ГВР&#95;2-2" class="reference"><a href="#cite_note-ГВР-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ресурсы поверхностных вод СССР: Гидрологическая изученность. Т. 11. Средний Урал и Приуралье. Вып. 1. Кама / под ред. В. В. Николаенко. — <abbr title="Ленинград">Л.</abbr>: Гидрометеоиздат, 1966. — 324 с.</span>
+</li>
+<li id="cite&#95;note-ГВР-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ГВР_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ГВР_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ГВР_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://verum.icu/index.php?claster=gvr&amp;q=10010101412111100015755">Коньки</a>&#32;:&#32;&#91;<a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Русский язык">рус</a>.&#93;&#32;/&#32;verum.icu&#32;//&#32;<a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80" title="Государственный водный реестр">Государственный водный реестр</a>&#32;/&#32;<a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2_%D0%B8_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Министерство природных ресурсов и экологии Российской Федерации">Минприроды России</a>.&#32;Дата публикации: 2021 —&#32;&#32;&#32;&#32;.</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Реки&#95;бассейна&#95;—&#95;Кама&#95;от&#95;Воткинского&#95;до&#95;Нижнекамского&#95;гидроузла" data-name="Кама от Воткинского г/у до Нижнекамского гидроузла"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="background:#c0daff;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D0%BC%D0%B0_%D0%BE%D1%82_%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3/%D1%83_%D0%B4%D0%BE_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%83%D0%B7%D0%BB%D0%B0" title="Перейти к шаблону «Кама от Воткинского г/у до Нижнекамского гидроузла»"><img alt="Перейти к шаблону «Кама от Воткинского г/у до Нижнекамского гидроузла»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Реки&#95;бассейна&#95;—&#95;Кама&#95;от&#95;Воткинского&#95;до&#95;Нижнекамского&#95;гидроузла" style="font-size:114%;margin:0 5em">Реки бассейна — <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B0" title="Кама">Кама</a> от <a href="/wiki/%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Воткинская ГЭС">Воткинского</a> до <a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Нижнекамская ГЭС">Нижнекамского гидроузла</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%BD%D1%8F%D1%88_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Альняш (река)">Альняш</a></li>
+<li><a href="/wiki/%D0%90%D0%BC%D0%B7%D1%8F_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Амзя (река)">Амзя</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%B7%D1%8C_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Армязь (река)">Армязь</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Берёзовка (нижний приток Камы)">Берёзовка</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%9A%D0%B8%D0%B2%D0%B0%D1%80%D0%B0" title="Большая Кивара">Большая Кивара</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A3%D0%B6%D1%83%D0%B8%D1%85%D0%B0" title="Большая Ужуиха">Большая Ужуиха</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A3%D1%81%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9F%D0%B8%D0%B7%D0%B8)" title="Большая Уса (приток Пизи)">Большая Уса</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BD%D0%BA%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Буренка (река)">Буренка</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%BD%D1%8F" title="Бурня">Бурня</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%82%D0%BE%D1%80%D0%B8%D1%85%D0%B0" title="Буториха">Буториха</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%82%D1%8C" title="Буть">Буть</a></li>
+<li><a href="/wiki/%D0%91%D1%8B%D0%B3%D0%B8%D0%BD%D0%BA%D0%B0" title="Быгинка">Быгинка</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%85%D1%80%D0%B8%D0%BD%D0%BA%D0%B0" title="Вахринка">Вахринка</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%B4%D1%80%D0%B5%D1%87%D0%B8%D0%BD%D0%BA%D0%B0" title="Ведречинка">Ведречинка</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%82%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Ветлянка (приток Камы)">Ветлянка</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B7%D0%B8%D1%85%D0%B0" title="Волгозиха">Волгозиха</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%82%D0%BA%D0%B0" title="Вотка">Вотка</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B4%D1%8B%D1%80%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Гондырвайка">Гондырвайка</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%80%D1%8E%D1%85%D0%B0%D0%BB%D0%BA%D0%B0" title="Горюхалка">Горюхалка</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D1%91%D0%BD%D0%BA%D0%B0" title="Доёнка">Доёнка</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D0%BA%D0%B0" title="Заводская Камбарка">Заводская Камбарка</a></li>
+<li><a href="/wiki/%D0%98%D0%B6%D0%B1%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0" title="Ижболдинка">Ижболдинка</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B5%D0%BA%D1%82%D0%B0" title="Казекта">Казекта</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B5%D1%81%D0%BA%D0%B0" title="Казеска">Казеска</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%BC%D1%8B%D1%88" title="Калмыш">Калмыш</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D1%82%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A3%D1%81%D1%8B)" title="Кальта (приток Большой Усы)">Кальта</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D0%BA%D0%B0_2-%D1%8F" title="Камбарка 2-я">Камбарка 2-я</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%B2%D0%B0%D1%80%D0%B0" title="Кивара">Кивара</a></li>
+<li><a class="mw-selflink selflink">Коньки</a></li>
+<li><a href="/wiki/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Кызылка (приток Сивы)">Кызылка</a></li>
+<li><a href="/wiki/%D0%9B%D1%8B%D0%BF_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Лып (приток Сивы)">Лып</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%92%D0%BE%D1%82%D0%BA%D0%B0" title="Малая Вотка">Малая Вотка</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%9F%D0%B8%D0%B7%D1%8C" title="Малая Пизь">Малая Пизь</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D0%BA%D0%B0" title="Малая Сарапулка">Малая Сарапулка</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%A3%D0%B6%D1%83%D0%B8%D1%85%D0%B0" title="Малая Ужуиха">Малая Ужуиха</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%A3%D1%81%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A3%D1%81%D1%8B)" title="Малая Уса (приток Большой Усы)">Малая Уса</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8)" title="Маринка (приток Берёзовки)">Маринка</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Мартьяновка (река)">Мартьяновка</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9F%D0%BE%D1%82%D0%BA%D0%B8)" title="Мельничная (приток Потки)">Мельничная</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A8%D0%BE%D0%BB%D1%8C%D0%B8)" title="Мельничный (приток Шольи)">Мельничный</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B7%D0%B6%D0%B8%D0%BD%D0%BA%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Мозжинка (река)">Мозжинка</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Мостовая (приток Сивы)">Мостовая</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%BB%D1%91%D0%B2%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Мулёвка (приток Камы)">Мулёвка</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D0%B3%D0%BE%D0%B2%D0%BA%D0%B0" title="Небеговка">Небеговка</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0" title="Нерестовка">Нерестовка</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0" title="Нечкинка">Нечкинка</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BA%D0%B0%D1%87%D0%B8%D1%85%D0%B0" title="Паркачиха">Паркачиха</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Перевозная (приток Сивы)">Перевозная</a></li>
+<li><a href="/wiki/%D0%9F%D0%B8%D1%85%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B)" title="Пихтовка (приток Сосновы)">Пихтовка</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8)" title="Полуденка (приток Берёзовки)">Полуденка</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8B%D0%BC" title="Полым">Полым</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%82%D0%BA%D0%B0" title="Потка">Потка</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%88%D0%B0" title="Поша">Поша</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D0%BA%D0%B0" title="Большая Сарапулка">Сарапулка</a></li>
+<li><a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Светлянка (река)">Светлянка</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%B2%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Сива (приток Камы)">Сива</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Сидоровка (приток Сивы)">Сидоровка</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%B8%D1%85%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Симониха (приток Камы)">Симониха</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9F%D0%B8%D0%B7%D0%B8,_%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA%D0%B0_%D0%91%D1%83%D1%8F)" title="Соснова (приток Пизи, притока Буя)">Соснова</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A1%D1%8E%D0%BD%D1%8C" title="Старая Сюнь">Старая Сюнь</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D1%85%D0%B0%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Сухаревка (приток Камы)">Сухаревка</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%B5%D0%B1%D0%BA%D0%B0" title="Удебка">Удебка</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%B3%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0" title="Чегандинка">Чегандинка</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D1%83%D1%88%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%92%D0%BE%D1%82%D0%BA%D0%B8)" title="Чернушка (приток Вотки)">Чернушка</a></li>
+<li><a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Чёрная (приток Сивы)">Чёрная</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%B8%D0%B7" title="Шабиз">Шабиз</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%80%D0%BA%D0%B0%D0%BD_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Шаркан (река)">Шаркан</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D0%B3%D1%8A%D1%8F%D0%BD%D0%BA%D0%B0" title="Шегъянка">Шегъянка</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A1%D0%B8%D0%B2%D1%8B)" title="Шестая (приток Сивы)">Шестая</a></li>
+<li><a href="/wiki/%D0%A8%D0%BE%D0%BB%D1%8C%D1%8F_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Шолья (река)">Шолья</a></li>
+<li><a href="/wiki/%D0%AF%D1%80%D0%BE%D0%BC%D0%B0%D1%81%D0%BA%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Яромаска (река)">Яромаска</a></li>
+<li><a href="/wiki/%D0%AF%D1%81%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9F%D0%B8%D0%B7%D0%B8)" title="Ясновка (приток Пизи)">Ясновка</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:#c0daff;"><div>без рек <a href="/wiki/%D0%91%D1%83%D0%B9_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Буй (приток Камы)">Буй</a> (от истока до <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5" title="Кармановское водохранилище">Кармановского гидроузла</a>), <a href="/wiki/%D0%98%D0%B6_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Иж (приток Камы)">Иж</a>, <a href="/wiki/%D0%98%D0%BA_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Ик (приток Камы)">Ик</a> и <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BC%D1%8B)" title="Белая (приток Камы)">Белая</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐cq8vf
+Cached time: 20260212102018
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.477 seconds
+Real time usage: 0.639 seconds
+Preprocessor visited node count: 7946/1000000
+Revision size: 3436/2097152 bytes
+Post‐expand include size: 1021328/2097152 bytes
+Template argument size: 18093/2097152 bytes
+Highest expansion depth: 36/100
+Expensive parser function count: 15/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 29179/5000000 bytes
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 4989449/52428800 bytes
+Number of Wikibase entities loaded: 4/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  584.041      1 -total
+ 85.14%  497.263      1 Шаблон:Река
+ 57.87%  337.995      1 Шаблон:Карточка
+ 25.12%  146.710      1 Шаблон:Река/Позиционная_карта
+ 24.65%  143.951      1 Шаблон:ПозКарта+
+ 19.29%  112.644      7 Шаблон:ПозКарта
+ 19.23%  112.335     13 Шаблон:Wikidata
+ 18.90%  110.410      7 Шаблон:ПозКарта/карта
+ 15.43%   90.144      2 Шаблон:Карточка/блок_с_маркерами
+ 14.03%   81.949      1 Шаблон:ВО:Общие_проверки
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:3085738:|#|:idhash:canonical and timestamp 20260212102018 and revision id 144260529. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Коньки_(приток_Нечкинки)&amp;oldid=144260529">https://ru.wikipedia.org/w/index.php?title=Коньки_(приток_Нечкинки)&amp;oldid=144260529</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%9A%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0" title="Категория:Водные объекты Камского бассейнового округа">Водные объекты Камского бассейнового округа</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Реки по алфавиту">Реки по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%9A%D0%B0%D0%BC%D1%8B" title="Категория:Бассейн Камы">Бассейн Камы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%BA%D0%B8_%D0%97%D0%B0%D0%B2%D1%8C%D1%8F%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0_%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D0%B8%D0%B8" title="Категория:Реки Завьяловского района Удмуртии">Реки Завьяловского района Удмуртии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%BA%D0%B8_%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0" title="Категория:Реки Сарапульского района">Реки Сарапульского района</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Водные объекты по алфавиту">Водные объекты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0:_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5:_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BE_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE:_%D0%BA%D0%BE%D0%B4_%D0%93%D0%92%D0%A0" title="Категория:Карточка водного объекта: Викиданные: указано свойство: код ГВР">Карточка водного объекта: Викиданные: указано свойство: код ГВР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0:_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5:_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BE_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE:_%D0%BA%D0%BE%D0%B4_%D0%93%D0%9A%D0%93%D0%9D" title="Категория:Карточка водного объекта: Викиданные: указано свойство: код ГКГН">Карточка водного объекта: Викиданные: указано свойство: код ГКГН</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%92%D0%9E:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ВО:Последняя правка: в прошлом году">ПРО:ВО:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%D1%80%D0%B5%D0%BA%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C:_%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D0%B0" title="Категория:Карточка реки: заполнить: Площадь бассейна">Карточка реки: заполнить: Площадь бассейна</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0:_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)" title="Категория:Википедия:Статьи без изображений (страна: Россия)">Википедия:Статьи без изображений (страна: Россия)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%80%D0%B5%D0%BA%D0%B0)" title="Категория:Википедия:Статьи без изображений (тип: река)">Википедия:Статьи без изображений (тип: река)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8+%28%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA+%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8+%28%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA+%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;oldid=144260529" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_%28%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8%29&amp;id=144260529&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25BE%25D0%25BD%25D1%258C%25D0%25BA%25D0%25B8_%28%25D0%25BF%25D1%2580%25D0%25B8%25D1%2582%25D0%25BE%25D0%25BA_%25D0%259D%25D0%25B5%25D1%2587%25D0%25BA%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B8%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25BE%25D0%25BD%25D1%258C%25D0%25BA%25D0%25B8_%28%25D0%25BF%25D1%2580%25D0%25B8%25D1%2582%25D0%25BE%25D0%25BA_%25D0%259D%25D0%25B5%25D1%2587%25D0%25BA%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B8%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_%28%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1096672" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0_%D2%A1%D1%83%D1%88%D1%8B%D0%BB%D0%B4%D1%8B%D2%93%D1%8B)" title="Коньки (Нечкинка ҡушылдығы) — башкирский" lang="ba" hreflang="ba" data-title="Коньки (Нечкинка ҡушылдығы)" data-language-autonym="Башҡортса" data-language-local-name="башкирский" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Kon%27ki" title="Kon&#039;ki — себуано" lang="ceb" hreflang="ceb" data-title="Kon&#039;ki" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0_%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D2%93%D1%8B)" title="Коньки (Нечкинка тармағы) — казахский" lang="kk" hreflang="kk" data-title="Коньки (Нечкинка тармағы)" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D1%83%D1%88%D1%8B%D0%BB%D0%B4%D1%8B%D0%B3%D1%8B)" title="Коньки (Нечкинка кушылдыгы) — татарский" lang="tt" hreflang="tt" data-title="Коньки (Нечкинка кушылдыгы)" data-language-autonym="Татарча / tatarça" data-language-local-name="татарский" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D1%80%D1%96%D1%87%D0%BA%D0%B0)" title="Коньки (річка) — украинский" lang="uk" hreflang="uk" data-title="Коньки (річка)" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1096672#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 марта 2025 года в 21:30.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-cq8vf","wgBackendResponseTime":801,"wgPageParseReport":{"limitreport":{"cputime":"0.477","walltime":"0.639","ppvisitednodes":{"value":7946,"limit":1000000},"revisionsize":{"value":3436,"limit":2097152},"postexpandincludesize":{"value":1021328,"limit":2097152},"templateargumentsize":{"value":18093,"limit":2097152},"expansiondepth":{"value":36,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":29179,"limit":5000000},"entityaccesscount":{"value":4,"limit":500},"timingprofile":["100.00%  584.041      1 -total"," 85.14%  497.263      1 Шаблон:Река"," 57.87%  337.995      1 Шаблон:Карточка"," 25.12%  146.710      1 Шаблон:Река/Позиционная_карта"," 24.65%  143.951      1 Шаблон:ПозКарта+"," 19.29%  112.644      7 Шаблон:ПозКарта"," 19.23%  112.335     13 Шаблон:Wikidata"," 18.90%  110.410      7 Шаблон:ПозКарта/карта"," 15.43%   90.144      2 Шаблон:Карточка/блок_с_маркерами"," 14.03%   81.949      1 Шаблон:ВО:Общие_проверки"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":4989449,"limit":52428800},"limitreport-logs":"Loaded datatype external-id of P884 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1397 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-cq8vf","timestamp":"20260212102018","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041a\u043e\u043d\u044c\u043a\u0438 (\u043f\u0440\u0438\u0442\u043e\u043a \u041d\u0435\u0447\u043a\u0438\u043d\u043a\u0438)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9D%D0%B5%D1%87%D0%BA%D0%B8%D0%BD%D0%BA%D0%B8)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1096672","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1096672","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-02-23T21:38:06Z","headline":"\u043f\u0440\u0438\u0442\u043e\u043a \u041d\u0435\u0447\u043a\u0438\u043d\u043a\u0438"}</script>
+</body>
+</html>

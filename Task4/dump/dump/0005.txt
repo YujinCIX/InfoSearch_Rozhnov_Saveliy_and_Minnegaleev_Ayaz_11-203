@@ -1,0 +1,1707 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Голдуин, Тони — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"10185632-c7cd-4428-af12-e4515acdd2e8","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Голдуин,_Тони","wgTitle":"Голдуин, Тони","wgCurRevisionId":149406278,"wgRevisionId":149406278,"wgArticleId":2954126,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Википедия:Статьи без ссылок на источники с января 2018 года","Википедия:Статьи без источников (тип: человек; род занятий: кинорежиссёр)","Википедия:Статьи без источников (тип: человек; род занятий: киноактёр)","Википедия:Статьи без источников (тип: человек; род занятий: телеактёр)","Википедия:Статьи с источниками из Викиданных","Википедия:Биографии современников","Родившиеся 20 мая","Родившиеся в 1960 году","Персоналии по алфавиту","Родившиеся в Лос-Анджелесе","Актёры по алфавиту","Актёры телевидения США","Телережиссёры по алфавиту","Телережиссёры США","Выпускники Гамильтонского колледжа","Выпускники Брандейского университета","Выпускники Лондонской академии музыкального и драматического искусства","Кинорежиссёры США","Рассказчики аудиокниг"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Голдуин,_Тони","wgRelevantArticleId":2954126,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":148899113,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q224754","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.tablesorter.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.14">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/65/Tony_Goldwyn_%2848996884641%29_%281%29.jpg">
+<meta property="og:image:width" content="900">
+<meta property="og:image:height" content="1200">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Голдуин, Тони — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Голдуин_Тони rootpage-Голдуин_Тони skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Голдуин, Тони</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;stable=1">версии, проверенной 1 октября 2025 года</a>; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;oldid=148899113&amp;diff=cur&amp;diffonly=0">4 правки</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD" class="mw-disambig" title="Голдуин">Голдуин</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Нет&#95;источников plainlinks metadata ambox ambox-content"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/60px-Question_book-4.svg.png" decoding="async" width="48" height="37" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/120px-Question_book-4.svg.png 1.5x" data-file-width="262" data-file-height="204" /></span></span></div></div><div class="mbox-text"><div class="mbox-text-div">В статье <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span>  <span class="mbox-date"><i>(<span class="date">15 января 2018</span>)</i></span></div></div></div>
+<table class="infobox infobox-af3fb568d5de5ab8" style="" data-name="Кинематографист"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Тони Голдуин</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1559" class="no-wikidata"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Tony Goldwyn</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tony_Goldwyn_(48996884641)_(1).jpg" class="mw-file-description" title="Голдуин в 2019 году"><img alt="Голдуин в 2019 году" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tony_Goldwyn_%2848996884641%29_%281%29.jpg/250px-Tony_Goldwyn_%2848996884641%29_%281%29.jpg" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tony_Goldwyn_%2848996884641%29_%281%29.jpg/330px-Tony_Goldwyn_%2848996884641%29_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tony_Goldwyn_%2848996884641%29_%281%29.jpg/500px-Tony_Goldwyn_%2848996884641%29_%281%29.jpg 2x" data-file-width="570" data-file-height="760" /></a></span><br /><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block">Голдуин в 2019 году</span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Имя при рождении</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P1477" class="no-wikidata">Энтони Ховард Голдуин</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q224754$FE1EEC53-F6EA-4B19-91E6-4D542C8F08D0" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/20_%D0%BC%D0%B0%D1%8F" title="20 мая">20 мая</a> <a href="/wiki/1960_%D0%B3%D0%BE%D0%B4" title="1960 год">1960</a></span><span style="display:none">(<span class="bday">1960-05-20</span>)</span></span><sup id="cite&#95;ref-&#95;69b8d12a8ca6305a&#95;1-0" class="reference"><a href="#cite_note-_69b8d12a8ca6305a-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-&#95;6da89090dfe80ba7&#95;2-0" class="reference"><a href="#cite_note-_6da89090dfe80ba7-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> <span style="white-space:nowrap;">(65 лет)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81" title="Лос-Анджелес">Лос-Анджелес</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F" title="Калифорния">Калифорния</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="США"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки"><span class="wrap">США</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Профессия</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P106" class="no-wikidata">
+<a href="/wiki/%D0%90%D0%BA%D1%82%D1%91%D1%80" class="mw-redirect" title="Актёр">актёр</a>, <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80" class="mw-redirect" title="Телережиссёр">телережиссёр</a></div></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Карьера</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2031" class="no-wikidata"><a href="/wiki/1986_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1986 год в кино">1986</a>&#160;— настоящее время</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">IMDb</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q224754$F7872855-09B6-47AC-BD53-776263583DC7" class="wikidata-claim" data-wikidata-property-id="P345"><span class="wikidata-snak wikidata-main-snak"><a href="https://www.imdb.com/name/nm0001282/" class="extiw" title="imdbname:0001282">ID&#160;0001282</a></span></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q224754$94B0745F-EB9A-4B3B-B49C-052F42EC6651" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Tony_Goldwyn" title="commons:Category:Tony Goldwyn"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Tony_Goldwyn" class="extiw" title="commons:Category:Tony Goldwyn">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Энтони Ховард Голдуин</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Anthony Howard Goldwyn</span>, род. <a href="/wiki/20_%D0%BC%D0%B0%D1%8F" title="20 мая">20 мая</a> <a href="/wiki/1960_%D0%B3%D0%BE%D0%B4" title="1960 год">1960</a>, <a href="/wiki/%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81" title="Лос-Анджелес">Лос-Анджелес</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F" title="Калифорния">Калифорния</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>)&#160;— <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">американский</a> <a href="/wiki/%D0%90%D0%BA%D1%82%D1%91%D1%80" class="mw-redirect" title="Актёр">актёр</a> и <a href="/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80" title="Режиссёр">режиссёр</a>. Наиболее известен по роли Карла Брюнера&#160;— злодея в фильме «<a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1990)" title="Привидение (фильм, 1990)">Привидение</a>», за которую был номинирован на премию «<a href="/wiki/%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD_(%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F)" title="Сатурн (премия)">Сатурн</a>» (<a href="/wiki/%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_1991)" class="mw-redirect" title="Сатурн (кинопремия, 1991)">1991</a>) как <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD%C2%BB_%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BC%D1%83_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0%D0%BA%D1%82%D1%91%D1%80%D1%83_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0" title="Премия «Сатурн» лучшему киноактёру второго плана">лучший актёр второго плана</a>, и Фицджеральда Гранта, президента США, в сериале <a href="/wiki/%D0%A0%D0%B0%D0%B9%D0%BC%D1%81,_%D0%A8%D0%BE%D0%BD%D0%B4%D0%B0" title="Раймс, Шонда">Шонды Раймс</a> «<a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Скандал (телесериал)">Скандал</a>».
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Личная_жизнь"><span class="tocnumber">2</span> <span class="toctext">Личная жизнь</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Фильмография"><span class="tocnumber">3</span> <span class="toctext">Фильмография</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Актёр"><span class="tocnumber">3.1</span> <span class="toctext">Актёр</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Кино"><span class="tocnumber">3.1.1</span> <span class="toctext">Кино</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Телевидение"><span class="tocnumber">3.1.2</span> <span class="toctext">Телевидение</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Игры"><span class="tocnumber">3.1.3</span> <span class="toctext">Игры</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Режиссёр,_сценарист,_продюсер"><span class="tocnumber">3.2</span> <span class="toctext">Режиссёр, сценарист, продюсер</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Родился в <a href="/wiki/%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81" title="Лос-Анджелес">Лос-Анджелесе</a>, штат <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F" title="Калифорния">Калифорния</a>. Тони — сын актрисы Дженнифер Ховард и продюсера Сэмюэля Голдуина-младшего. Бабушка и дедушка актёра по отцовской линии — актриса Фрэнсис Говард и киномагнат <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D0%B2%D0%B8%D0%BD,_%D0%A1%D1%8D%D0%BC%D1%8E%D1%8D%D0%BB" title="Голдвин, Сэмюэл">Сэмюэл Голдуин</a>, соответственно. Дедушка и бабушка со стороны матери — <a href="/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D0%B8%D1%8F" title="Драматургия">драматург</a> <a href="/wiki/%D0%A5%D0%BE%D0%B2%D0%B0%D1%80%D0%B4,_%D0%A1%D0%B8%D0%B4%D0%BD%D0%B8" title="Ховард, Сидни">Сидни Ховард</a> («<a href="/wiki/%D0%A3%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%BC_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Унесённые ветром (фильм)">Унесённые ветром</a>») и актриса Клэр Имс. Актёр учился в колледже «Hamilton» в Клинтоне и <a href="/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Брандейский университет">Брандейском университете</a>, где окончил бакалавриат по изобразительным искусствам. Кроме того проходил обучение в <a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" title="Лондонская академия музыкального и драматического искусства">Лондонской академии музыкального и драматического искусства</a>.
+</p><p>Голдвин служит послом борьбы с раком и членом правления организации по оказанию гуманитарной помощи<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Личная_жизнь"><span id=".D0.9B.D0.B8.D1.87.D0.BD.D0.B0.D1.8F_.D0.B6.D0.B8.D0.B7.D0.BD.D1.8C"></span>Личная жизнь</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Личная жизнь»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=2" title="Редактировать код раздела «Личная жизнь»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Голдуин женат на художнике-постановщике Джейн Маски. Пара воспитывает двух дочерей&#160;— Анну и Тесс.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Фильмография"><span id=".D0.A4.D0.B8.D0.BB.D1.8C.D0.BC.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Фильмография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Фильмография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=3" title="Редактировать код раздела «Фильмография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Актёр"><span id=".D0.90.D0.BA.D1.82.D1.91.D1.80"></span>Актёр</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Актёр»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=4" title="Редактировать код раздела «Актёр»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading4"><h4 id="Кино"><span id=".D0.9A.D0.B8.D0.BD.D0.BE"></span>Кино</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Кино»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=5" title="Редактировать код раздела «Кино»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Год
+</th>
+<th>Название на русском
+</th>
+<th>Оригинальное название
+</th>
+<th>Роль
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td><a href="/wiki/1986_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1986 год в кино">1986</a>
+</td>
+<td><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0,_13-%D0%B5:_%D0%94%D0%B6%D0%B5%D0%B9%D1%81%D0%BE%D0%BD_%D0%B6%D0%B8%D0%B2" class="mw-redirect" title="Пятница, 13-е: Джейсон жив">Пятница, 13-е: Джейсон жив</a>
+</td>
+<td><i>Friday the 13th Part VI: Jason Lives</i>
+</td>
+<td>Даррен Робинсон
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1987_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1987 год в кино">1987</a>
+</td>
+<td><a href="/w/index.php?title=%D0%93%D0%B0%D0%B1%D0%B8,_%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Габи, правдивая история (страница отсутствует)">Габи, правдивая история</a>
+</td>
+<td><i>Gaby: A True Story</i>
+</td>
+<td>Дэвид
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1990_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1990 год в кино">1990</a>
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1990)" title="Привидение (фильм, 1990)">Привидение</a>
+</td>
+<td><i>Ghost</i>
+</td>
+<td>Карл Брюнер
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/1992_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1992 год в кино">1992</a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%B0%D1%84%D1%84%D1%81" title="Каффс">Каффс</a>
+</td>
+<td><i>Kuffs</i>
+</td>
+<td>Тед Буковски
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%8B%D0%B9_%D1%81%D0%BB%D0%B5%D0%B4" title="Кровавый след">Кровавый след</a>
+</td>
+<td><i>Traces of Red</i>
+</td>
+<td>Стив Фрейн
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1993_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1993 год в кино">1993</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BB%D0%BE_%D0%BE_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D0%B0%D1%85_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Дело о пеликанах (фильм)">Дело о пеликанах</a>
+</td>
+<td><i>The Pelican Brief</i>
+</td>
+<td>Флетчер Коул
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1994_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1994 год в кино">1994</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%82%D0%B0%D1%82%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Последняя татуировка (страница отсутствует)">Последняя татуировка</a>
+</td>
+<td><i>The Last Tattoo</i>
+</td>
+<td>капитан Майкл Старвуд
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/1995_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1995 год в кино">1995</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BA%D0%B0%D1%85%D0%BE%D0%BD%D1%82%D0%B0%D1%81:_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Покахонтас: Легенда (фильм) (страница отсутствует)">Покахонтас: Легенда</a>
+</td>
+<td><i>Pocahontas: The Legend</i>
+</td>
+<td>сэр Эдвин Уингфилд
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)" title="Последнее слово (фильм, 1995)">Последнее слово</a>
+</td>
+<td><i>The Last Word</i>
+</td>
+<td>Стэн
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%B7%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%B4%D0%BD%D1%8B%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)" title="Безрассудные (фильм, 1995)">Безрассудные</a>
+</td>
+<td><i>Reckless</i>
+</td>
+<td>Том
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%B8%D0%BA%D1%81%D0%BE%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Никсон (фильм)">Никсон</a>
+</td>
+<td><i>Nixon</i>
+</td>
+<td>Харольд Никсон
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1996_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1996 год в кино">1996</a>
+</td>
+<td><a href="/w/index.php?title=%D0%A1%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BE%D0%B3%D0%BD%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Сущность огня (страница отсутствует)">Сущность огня</a>
+</td>
+<td><i>The Substance of Fire</i>
+</td>
+<td>Аарон Гелдхарт
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/1997_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1997 год в кино">1997</a>
+</td>
+<td><a href="/wiki/%D0%A6%D0%B5%D0%BB%D1%83%D1%8F_%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%B5%D0%BA" title="Целуя девушек">Целуя девушек</a>
+</td>
+<td><i>Kiss the Girls</i>
+</td>
+<td>доктор Уильям «Уилл» Рудольф
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9D%D0%B5%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BD%D0%B0_%D1%83%D0%B3%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Неприятности на углу (страница отсутствует)">Неприятности на углу</a>
+</td>
+<td><i>Trouble on the Corner</i>
+</td>
+<td>Джефф Стюарт
+</td>
+<td>
+</td></tr>
+<tr>
+<td>—
+</td>
+<td><i>The Song of the Lark</i>
+</td>
+<td>Фред Оттенберг
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Короткометражный фильм">короткометражный фильм</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/1998_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1998 год в кино">1998</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BD%D1%8C%D1%88%D0%B5%D0%B5_%D0%B7%D0%BB%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Меньшее зло (фильм) (страница отсутствует)">Меньшее зло</a>
+</td>
+<td><i>The Lesser Evil</i>
+</td>
+<td>Фрэнк О’Брайан
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/1999_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1999 год в кино">1999</a>
+</td>
+<td><a href="/wiki/%D0%A2%D0%B0%D1%80%D0%B7%D0%B0%D0%BD_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Тарзан (мультфильм)">Тарзан</a>
+</td>
+<td><i>Tarzan</i>
+</td>
+<td>взрослый <a href="/wiki/%D0%A2%D0%B0%D1%80%D0%B7%D0%B0%D0%BD" title="Тарзан">Тарзан</a>
+</td>
+<td><a href="/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Мультфильм">мультфильм</a>; озвучка
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2000_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2000 год в кино">2000</a>
+</td>
+<td><a href="/wiki/6-%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C" title="6-й день">6-й день</a>
+</td>
+<td><i>The 6th Day</i>
+</td>
+<td>Майкл Дракер
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BB%D0%B5%D1%82" title="Чужой билет">Чужой билет</a>
+</td>
+<td><i>Bounce</i>
+</td>
+<td>Грег Джанелло
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2001 год в кино">2001</a>
+</td>
+<td><a href="/wiki/%D0%A4%D0%BB%D0%B8%D1%80%D1%82_%D1%81%D0%BE_%D0%B7%D0%B2%D0%B5%D1%80%D0%B5%D0%BC" title="Флирт со зверем">Флирт со зверем</a>
+</td>
+<td><i>Someone Like You</i>
+</td>
+<td>диктор на ТВ
+</td>
+<td>озвучка; не указан в титрах
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BF%D1%81%D0%BE%D0%B4%D0%B8%D1%8F" title="Американская рапсодия">Американская рапсодия</a>
+</td>
+<td><i>An American Rhapsody</i>
+</td>
+<td>Питер
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2002_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2002 год в кино">2002</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BA%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9&amp;action=edit&amp;redlink=1" class="new" title="Покинутый (страница отсутствует)">Покинутый</a>
+</td>
+<td><i>Abandon</i>
+</td>
+<td>доктор Дэвид Шаффер
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Joshua" class="extiw" title="en:Joshua">Джошуа</a>
+</td>
+<td><i>Joshua</i>
+</td>
+<td>Джошуа/Иисус
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2003_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2003 год в кино">2003</a>
+</td>
+<td>—
+</td>
+<td><i>Ash Tuesday</i>
+</td>
+<td>Эллиотт
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2003)" title="Последний самурай (фильм, 2003)">Последний самурай</a>
+</td>
+<td><i>The Last Samurai</i>
+</td>
+<td>полковник Бегли
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="5"><a href="/wiki/2005_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2005 год в кино">2005</a>
+</td>
+<td>—
+</td>
+<td><i>The Godfather of Green Bay</i>
+</td>
+<td>Большой Джейк Норквист
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%91%D1%81%D1%82%D1%80%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2005)" title="Сёстры (фильм, 2005)">Сёстры</a>
+</td>
+<td><i>The Sisters</i>
+</td>
+<td>Винсент Антонелли
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA%D0%B8_%D0%BD%D0%B5_%D1%81%D0%BF%D1%8F%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Призраки не спят (страница отсутствует)">Призраки не спят</a>
+</td>
+<td><i>Ghosts Never Sleep</i>
+</td>
+<td>Джаред Долан
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%D0%B8_%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82%D1%8B" title="Любовь и сигареты">Любовь и сигареты</a>
+</td>
+<td><i>Romance &amp; Cigarettes</i>
+</td>
+<td>первая любовь Китти
+</td>
+<td>не указан в титрах
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Американское оружие (страница отсутствует)">Американское оружие</a>
+</td>
+<td><i>American Gun</i>
+</td>
+<td>Фрэнк
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2008_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2008 год в кино">2008</a>
+</td>
+<td>—
+</td>
+<td><i>Save It</i>
+</td>
+<td>отец
+</td>
+<td>короткометражный фильм
+</td></tr>
+<tr>
+<td><a href="/wiki/2009_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2009 год в кино">2009</a>
+</td>
+<td><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC_%D1%81%D0%BB%D0%B5%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2009)" title="Последний дом слева (фильм, 2009)">Последний дом слева</a>
+</td>
+<td><i>The Last House on the Left</i>
+</td>
+<td>Джон Коллинвуд
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2011_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2011 год в кино">2011</a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2011)" title="Механик (фильм, 2011)">Механик</a>
+</td>
+<td><i>The Mechanic</i>
+</td>
+<td>Дин Сандерсон
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2014_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2014 год в кино">2014</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B8%D0%B2%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Дивергент (фильм)">Дивергент</a>
+</td>
+<td><i>Divergent</i>
+</td>
+<td rowspan="2">Эндрю Прайор
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2015_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2015 год в кино">2015</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B8%D0%B2%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D1%82,_%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0_2:_%D0%98%D0%BD%D1%81%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D1%82" title="Дивергент, глава 2: Инсургент">Дивергент, глава 2: Инсургент</a>
+</td>
+<td><i>The Divergent Series: Insurgent</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2016_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2016 год в кино">2016</a>
+</td>
+<td><a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%C2%AB%D0%9E%D1%84%D0%B8%D1%81%C2%BB" title="Эксперимент «Офис»">Эксперимент «Офис»</a>
+</td>
+<td><i>The Belko Experiment</i>
+</td>
+<td>Барри Норрис
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2017_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2017 год в кино">2017</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9A%D0%BE%D0%B5-%D1%87%D1%82%D0%BE_%D0%BD%D0%B0_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Кое-что на день рождения (страница отсутствует)">Кое-что на день рождения</a>
+</td>
+<td><i>A Little Something for Your Birthday</i>
+</td>
+<td>Адам
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A3%D0%BE%D1%82%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%D1%82:_%D0%9A%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BC%D0%B0" title="Уотергейт: Крушение Белого дома">Уотергейт: Крушение Белого дома</a>
+</td>
+<td><i>Mark Felt: The Man Who Brought Down the White House</i>
+</td>
+<td>Эд Миллер
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2021_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2021 год в кино">2021</a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4" title="Король Ричард">Король Ричард</a>
+</td>
+<td><i>King Richard</i>
+</td>
+<td>Пол Коэн
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/2023_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2023 год в кино">2023</a>
+</td>
+<td><a href="/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Крушение (фильм)">Крушение</a>
+</td>
+<td><i>Plane</i>
+</td>
+<td>Дэвид Скарсдейл
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A3%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D0%B5" title="Убийство в Париже">Убийство в Париже</a>
+</td>
+<td><i>Murder Mystery 2</i>
+</td>
+<td>Сильверфокс
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%BF%D0%BF%D0%B5%D0%BD%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Оппенгеймер (фильм)">Оппенгеймер</a>
+</td>
+<td><i>Oppenheimer</i>
+</td>
+<td><a href="/wiki/%D0%93%D1%80%D0%B5%D0%B9,_%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D0%BD" title="Грей, Гордон">Гордон Грей</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B0%D0%BF%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2023)" title="Папа (фильм, 2023)">Папа</a>
+</td>
+<td><i>Ezra</i>
+</td>
+<td>Брюс
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2025_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2025 год в кино">2025</a>
+</td>
+<td><a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%B7%D0%B0_%D0%B1%D0%B8%D1%82%D0%B2%D0%BE%D0%B9" title="Битва за битвой">Битва за битвой</a>
+</td>
+<td><i>One Battle After Another</i>
+</td>
+<td>Вёрджил Трокмортон
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/%D0%A8%D0%BF%D0%B8%D0%BE%D0%BD_%D0%BD%D0%B0_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D1%80%D0%B4_%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%BE%D0%B2" title="Шпион на миллиард долларов">Шпион на миллиард долларов</a>
+</td>
+<td><i>Billion Dollar Spy</i>
+</td>
+<td>Бертон Гербер
+</td>
+<td>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading4"><h4 id="Телевидение"><span id=".D0.A2.D0.B5.D0.BB.D0.B5.D0.B2.D0.B8.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5"></span>Телевидение</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Телевидение»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=6" title="Редактировать код раздела «Телевидение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Год
+</th>
+<th>Название на русском
+</th>
+<th>Оригинальное название
+</th>
+<th>Роль
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/1987_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1987 год в телевидении">1987</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%AD%D0%BB%D1%81%D0%B2%D0%B5%D1%80" title="Сент-Элсвер">Сент-Элсвер</a>
+</td>
+<td><i>St. Elsewhere</i>
+</td>
+<td>Генри Орр
+</td>
+<td>эпизод: <i>Schwarzwald</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D1%8D%D1%82%D0%BB%D0%BE%D0%BA_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Мэтлок (телесериал)">Мэтлок</a>
+</td>
+<td><i>Matloc</i>
+</td>
+<td>доктор Марк Кэмпион
+</td>
+<td>эпизод: <i>The Doctors</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9B%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D1%81%D1%86%D0%B5%D0%BD%D0%B0_CBS&amp;action=edit&amp;redlink=1" class="new" title="Летняя сцена CBS (страница отсутствует)">Летняя сцена CBS</a>
+</td>
+<td><i>CBS Summer Playhouse</i>
+</td>
+<td>Пол
+</td>
+<td>эпизод: <i>Mabel and Max</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%83_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Создавая женщину (телесериал)">Создавая женщину</a>
+</td>
+<td><i>Designing Women</i>
+</td>
+<td>Кендалл
+</td>
+<td>эпизод: <i>Killing All the Right People</i>
+</td></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/1988_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1988 год в телевидении">1988</a>
+</td>
+<td><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81%D0%B0" title="Закон Лос-Анджелеса">Закон Лос-Анджелеса</a>
+</td>
+<td><i>L.A. Law</i>
+</td>
+<td>Крис Арнетт
+</td>
+<td>эпизод: <i>Fetus Completus</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB,_1984)" title="Охотник (телесериал, 1984)">Охотник</a>
+</td>
+<td><i>Hunter</i>
+</td>
+<td>Байрон Луар
+</td>
+<td>эпизод: <i>Murder He Wrote</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Любимый сын (страница отсутствует)">Любимый сын</a>
+</td>
+<td><i>Favorite Son</i>
+</td>
+<td>Тим
+</td>
+<td><a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB" title="Мини-сериал">мини-сериал</a>; основная роль
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B5%D1%80%D1%84%D0%B8_%D0%91%D1%80%D0%B0%D1%83%D0%BD" title="Мерфи Браун">Мерфи Браун</a>
+</td>
+<td><i>Murphy Brown</i>
+</td>
+<td>Бобби Пауэлл
+</td>
+<td>эпизод: <i>Respect</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/1989_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1989 год в телевидении">1989</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9E%D1%82%D0%BF%D1%83%D1%81%D0%BA_%D0%B2_%D0%BA%D0%BE%D1%88%D0%BC%D0%B0%D1%80%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Отпуск в кошмаре (страница отсутствует)">Отпуск в кошмаре</a>
+</td>
+<td><i>Dark Holiday</i>
+</td>
+<td>Кен Хортон
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Телефильм">телефильм</a>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/1991_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1991 год в телевидении">1991</a>
+</td>
+<td><a href="/wiki/%D0%91%D0%B0%D0%B9%D0%BA%D0%B8_%D0%B8%D0%B7_%D1%81%D0%BA%D0%BB%D0%B5%D0%BF%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Байки из склепа (телесериал)">Байки из склепа</a>
+</td>
+<td><i>Tales from the Crypt</i>
+</td>
+<td>доктор Карл Фербенкс
+</td>
+<td>эпизод: <i>Abra Cadaver</i>
+</td></tr>
+<tr>
+<td>—
+</td>
+<td><i>L’Amérique en otage</i>
+</td>
+<td>Джоди Пауэлл
+</td>
+<td>телефильм
+</td></tr>
+<tr>
+<td><a href="/wiki/1992_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1992 год в телевидении">1992</a>
+</td>
+<td>—
+</td>
+<td><i>The Last Mile</i>
+</td>
+<td>Скотт
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Короткометражный фильм">короткометражный</a> телефильм
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/1993_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1993 год в телевидении">1993</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0" class="mw-redirect" title="Смертельная схватка">Смертельная схватка</a>
+</td>
+<td><i>Taking the Heat</i>
+</td>
+<td>Майкл
+</td>
+<td rowspan="3">телефильм
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%94%D0%B5%D0%BB%D0%B0_%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Дела любовные (страница отсутствует)">Дела любовные</a>
+</td>
+<td><i>Love Matters</i>
+</td>
+<td>Джеффри
+</td></tr>
+<tr>
+<td><a href="/wiki/1994_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1994 год в телевидении">1994</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Оружие страшного суда (страница отсутствует)">Оружие страшного суда</a>
+</td>
+<td><i>Doomsday Gun</i>
+</td>
+<td>Дюваль
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/1995_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1995 год в телевидении">1995</a>
+</td>
+<td><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82_%D1%83%D1%81%D0%BF%D0%B5%D1%85%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Секрет успеха (страница отсутствует)">Секрет успеха</a>
+</td>
+<td><i>A Woman of Independent Means</i>
+</td>
+<td>Роберт Стид
+</td>
+<td>мини-сериал; основная роль
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D1%80%D1%83%D0%BC%D1%8D%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)" title="Трумэн (фильм, 1995)">Трумэн</a>
+</td>
+<td><i>Truman</i>
+</td>
+<td><a href="/wiki/%D0%9A%D0%BB%D0%B8%D1%84%D1%84%D0%BE%D1%80%D0%B4,_%D0%9A%D0%BB%D0%B0%D1%80%D0%BA" title="Клиффорд, Кларк">Кларк Клиффорд</a>
+</td>
+<td>телефильм
+</td></tr>
+<tr>
+<td>—
+</td>
+<td><i>Under Fire</i>
+</td>
+<td>Джеймс Уоррен
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB" title="Телесериал">телесериал</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/1996_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1996 год в телевидении">1996</a>
+</td>
+<td><a href="/w/index.php?title=%D0%A0%D0%B5%D0%B1%D1%8F%D1%82%D0%B0_%D0%BF%D0%BE_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D1%83_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1996)&amp;action=edit&amp;redlink=1" class="new" title="Ребята по соседству (фильм, 1996) (страница отсутствует)">Ребята по соседству</a>
+</td>
+<td><i>The Boys Next Door</i>
+</td>
+<td>Джек Палмер
+</td>
+<td>телефильм
+</td></tr>
+<tr>
+<td><a href="/wiki/1998_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1998 год в телевидении">1998</a>
+</td>
+<td><a href="/wiki/%D0%A1_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_%D0%BD%D0%B0_%D0%9B%D1%83%D0%BD%D1%83_(%D0%BC%D0%B8%D0%BD%D0%B8-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="С Земли на Луну (мини-сериал)">С Земли на Луну</a>
+</td>
+<td><i>From the Earth to the Moon</i>
+</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3,_%D0%9D%D0%B8%D0%BB" title="Армстронг, Нил">Нил Армстронг</a>
+</td>
+<td>мини-сериал; основная роль
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2001 год в телевидении">2001</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%B5%D1%81%D0%BD%D1%8F_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Песня жаворонка (фильм) (страница отсутствует)">Песня жаворонка</a>
+</td>
+<td><i>The Song of the Lark</i>
+</td>
+<td>Фред Оттенберг
+</td>
+<td>телефильм
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%B7%D0%B5%D1%80_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Фрейзер (телесериал)">Фрейзер</a>
+</td>
+<td><i>Frasier</i>
+</td>
+<td>Роджер
+</td>
+<td>эпизод: <i>Love Stinks</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2004_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2004 год в телевидении">2004</a>
+</td>
+<td><a href="/wiki/%D0%91%D0%B5%D0%B7_%D1%81%D0%BB%D0%B5%D0%B4%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Без следа (телесериал)">Без следа</a>
+</td>
+<td><i>Without a Trace</i>
+</td>
+<td>Грег Ноулз / Рик Ноулз
+</td>
+<td rowspan="2">телесериал; 2 эпизода
+</td></tr>
+<tr>
+<td><a href="/wiki/2005_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2005 год в телевидении">2005</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%81_%D0%B2_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%BC_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5" title="Секс в другом городе">Секс в другом городе</a>
+</td>
+<td><i>The L Word</i>
+</td>
+<td>Берр Коннор
+</td></tr>
+<tr>
+<td><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2006 год в телевидении">2006</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BA%D1%81%D1%82%D0%B5%D1%80" title="Декстер">Декстер</a>
+</td>
+<td><i>Dexter</i>
+</td>
+<td>доктор Эмметт Меридиан
+</td>
+<td>эпизод: <i>Shrink Wrap</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2007_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2007 год в телевидении">2007</a>—<a href="/wiki/2008_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2008 год в телевидении">2008</a>
+</td>
+<td><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%B8_%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA:_%D0%9F%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" title="Закон и порядок: Преступное намерение">Закон и порядок: Преступное намерение</a>
+</td>
+<td><i>Law &amp; Order: Criminal Intent</i>
+</td>
+<td>Фрэнк Горен
+</td>
+<td>телесериал; 4 эпизода
+</td></tr>
+<tr>
+<td><a href="/wiki/2009_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2009 год в телевидении">2009</a>
+</td>
+<td><a href="/wiki/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BD%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Хорошая жена (телесериал)">Хорошая жена</a>
+</td>
+<td><i>The Good Wife</i>
+</td>
+<td>судья Генри Бакстер
+</td>
+<td>эпизод: <i>Lifeguard</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2010_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2010 год в телевидении">2010</a>
+</td>
+<td><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%B5%D1%80_%D1%81_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8_%D0%A4%D1%8D%D0%BB%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Вечер с Джимми Фэллоном (страница отсутствует)">Вечер с Джимми Фэллоном</a>
+</td>
+<td><i>Late Night with Jimmy Fallon</i>
+</td>
+<td>мистер Шелдрейк
+</td>
+<td>эпизод: <i>Episode dated 14 September 2010</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2011_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2011 год в телевидении">2011</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%BE_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8_%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0" title="До смерти красива">До смерти красива</a>
+</td>
+<td><i>Drop Dead Diva</i>
+</td>
+<td>Алан Робертс
+</td>
+<td>эпизод: <i>Closure</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2012_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2012 год в телевидении">2012</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Неизвестный (телесериал) (страница отсутствует)">Неизвестный</a>
+</td>
+<td><i>The Unknown</i>
+</td>
+<td>Билл Уотсон
+</td>
+<td>эпизод: <i>Spare the Child</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2012_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2012 год в телевидении">2012</a>—<a href="/wiki/2018_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2018 год в телевидении">2018</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Скандал (телесериал)">Скандал</a>
+</td>
+<td><i>Scandal</i>
+</td>
+<td>Фицджеральд «Фиц» Грант
+</td>
+<td>телесериал; основная роль
+</td></tr>
+<tr>
+<td><a href="/wiki/2014_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2014 год в телевидении">2014</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D0%BA_%D0%B2%D0%BD%D0%B5_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0:_%D0%A3%D0%BE%D1%80%D1%80%D0%B5%D0%BD_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Пророк вне закона: Уоррен Джеффс (страница отсутствует)">Пророк вне закона: Уоррен Джеффс</a>
+</td>
+<td><i>Outlaw Prophet: Warren Jeffs</i>
+</td>
+<td><a href="/wiki/%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%81,_%D0%A3%D0%BE%D1%80%D1%80%D0%B5%D0%BD" title="Джеффс, Уоррен">Уоррен Джеффс</a>
+</td>
+<td>телефильм
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2019_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2019 год в телевидении">2019</a>
+</td>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%BA%D0%BE%D0%B8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Покои (телесериал)">Покои</a>
+</td>
+<td><i>Chambers</i>
+</td>
+<td>Бен Лефевр
+</td>
+<td>телесериал; основная роль
+</td></tr>
+<tr>
+<td>—
+</td>
+<td><i>Blue Sky Metropolis</i>
+</td>
+<td>рассказчик
+</td>
+<td>мини-сериал; основная роль
+</td></tr>
+<tr>
+<td><a href="/wiki/2020_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2020 год в телевидении">2020</a>
+</td>
+<td><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0_%D0%9B%D0%B0%D0%B2%D0%BA%D1%80%D0%B0%D1%84%D1%82%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" class="mw-redirect" title="Страна Лавкрафта (телесериал)">Страна Лавкрафта</a>
+</td>
+<td><i>Lovecraft Country</i>
+</td>
+<td>Бен Лефевр
+</td>
+<td>эпизод: <i>Whitey’s on the Moon</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/2021_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2021 год в телевидении">2021</a>
+</td>
+<td><a href="/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B0%D1%8F_%D0%B7%D0%BE%D0%BD%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Горячая зона (телесериал)">Горячая зона</a>
+</td>
+<td><i>The Hot Zone</i>
+</td>
+<td>Брюс Эдвардс Айвинс
+</td>
+<td>телесериал; основная роль, 2-й сезон
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading4"><h4 id="Игры"><span id=".D0.98.D0.B3.D1.80.D1.8B"></span>Игры</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Игры»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=7" title="Редактировать код раздела «Игры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Год
+</th>
+<th>Название
+</th>
+<th>Роль
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td><a href="/wiki/1999_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" class="mw-redirect" title="1999 год в играх">1999</a>
+</td>
+<td><i><a href="/w/index.php?title=Tarzan_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Tarzan (игра) (страница отсутствует)">Tarzan</a></i>
+</td>
+<td rowspan="3">Тарзан
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" class="mw-redirect" title="2001 год в играх">2001</a>
+</td>
+<td><i><a href="/w/index.php?title=Tarzan_Untamed&amp;action=edit&amp;redlink=1" class="new" title="Tarzan Untamed (страница отсутствует)">Tarzan Untamed</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2002_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" class="mw-redirect" title="2002 год в играх">2002</a>
+</td>
+<td><i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i>
+</td>
+<td>озвучка английской версии
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Режиссёр,_сценарист,_продюсер"><span id=".D0.A0.D0.B5.D0.B6.D0.B8.D1.81.D1.81.D1.91.D1.80.2C_.D1.81.D1.86.D0.B5.D0.BD.D0.B0.D1.80.D0.B8.D1.81.D1.82.2C_.D0.BF.D1.80.D0.BE.D0.B4.D1.8E.D1.81.D0.B5.D1.80"></span>Режиссёр, сценарист, продюсер</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Режиссёр, сценарист, продюсер»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=8" title="Редактировать код раздела «Режиссёр, сценарист, продюсер»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable sortable" style="margin-right: 0;">
+<tbody><tr>
+<th>Год
+</th>
+<th>Название
+</th>
+<th>Оригинальное название
+</th>
+<th width="55">Режиссёр
+</th>
+<th width="55">Сценарист
+</th>
+<th width="55">Продюсер
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td><a href="/wiki/1999_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="1999 год в кино">1999</a>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%9B%D1%83%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Прогулка по Луне (страница отсутствует)">Прогулка по Луне</a>
+</td>
+<td><i>A Walk on the Moon</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<style data-mw-deduplicate="TemplateStyles:r148207519">.mw-parser-output .table-yes,.mw-parser-output .table-no{color:var(--color-emphasized,#000);vertical-align:middle}.mw-parser-output .table-yes-light,.mw-parser-output .table-no-light{vertical-align:middle}.mw-parser-output .table-yes{background:#b0f0d0}.mw-parser-output .table-yes-light{background:var(--background-color-success-subtle,#d5fdf4)}.mw-parser-output .table-no{background:#fbc5be}.mw-parser-output .table-no-light{background:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .table-free{background:#99ffff}@media screen{html.skin-theme-clientpref-night .mw-parser-output .table-yes{background:#096450}html.skin-theme-clientpref-night .mw-parser-output .table-no{background:#7a1b1a}html.skin-theme-clientpref-night .mw-parser-output .table-free{background:#009999}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .table-yes{background:#096450}html.skin-theme-clientpref-os .mw-parser-output .table-no{background:#7a1b1a}html.skin-theme-clientpref-os .mw-parser-output .table-free{background:#009999}}</style>
+</td>
+<td>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2001 год в кино">2001</a>
+</td>
+<td><a href="/wiki/%D0%A4%D0%BB%D0%B8%D1%80%D1%82_%D1%81%D0%BE_%D0%B7%D0%B2%D0%B5%D1%80%D0%B5%D0%BC" title="Флирт со зверем">Флирт со зверем</a>
+</td>
+<td><i>Someone Like You</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2004_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2004 год в телевидении">2004</a>
+</td>
+<td><a href="/wiki/%D0%91%D0%B5%D0%B7_%D1%81%D0%BB%D0%B5%D0%B4%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Без следа (телесериал)">Без следа</a>
+</td>
+<td><i>Without a Trace</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td rowspan="4"><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB" title="Телесериал">телесериал</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/2004_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2004 год в телевидении">2004</a>—<a href="/wiki/2005_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2005 год в телевидении">2005</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%81_%D0%B2_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%BC_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5" title="Секс в другом городе">Секс в другом городе</a>
+</td>
+<td><i>The L Word</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(3 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2005_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2005 год в телевидении">2005</a>—<a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2006 год в телевидении">2006</a>
+</td>
+<td><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%B8" title="Анатомия страсти">Анатомия страсти</a>
+</td>
+<td><i>Grey’s Anatomy</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(2 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2006 год в телевидении">2006</a>
+</td>
+<td><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%B8_%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA" title="Закон и порядок">Закон и порядок</a>
+</td>
+<td><i>Law &amp; Order</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2006 год в кино">2006</a>
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%89%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2006)" title="Прощальный поцелуй (фильм, 2006)">Прощальный поцелуй</a>
+</td>
+<td><i>The Last Kiss</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2006 год в телевидении">2006</a>—<a href="/wiki/2007_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2007 год в телевидении">2007</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BA%D1%81%D1%82%D0%B5%D1%80" title="Декстер">Декстер</a>
+</td>
+<td><i>Dexter</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(4 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td rowspan="5">телесериал
+</td></tr>
+<tr>
+<td rowspan="5"><a href="/wiki/2007_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2007 год в телевидении">2007</a>
+</td>
+<td><a href="/wiki/%D0%9F%D0%BE%D1%85%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Похищенный (телесериал)">Похищенный</a>
+</td>
+<td><i>Kidnapped</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A8%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BE_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Шестеро (телесериал) (страница отсутствует)">Шестеро</a>
+</td>
+<td><i>Six Degrees</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Частная практика (телесериал)">Частная практика</a>
+</td>
+<td><i>Private Practice</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D1%80%D1%8F%D0%B7%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BE%D0%BA%D1%80%D1%8B%D0%B5_%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8" title="Грязные мокрые деньги">Грязные мокрые деньги</a>
+</td>
+<td><i>Dirty Sexy Money</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%90%D0%BB%D0%B8%D0%B1%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2007)&amp;action=edit&amp;redlink=1" class="new" title="Алиби (фильм, 2007) (страница отсутствует)">Алиби</a>
+</td>
+<td><i>Alibi</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Телефильм">телефильм</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/2010_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2010 год в кино">2010</a>
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2010)" title="Приговор (фильм, 2010)">Приговор</a>
+</td>
+<td><i>Conviction</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2010_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2010 год в телевидении">2010</a>
+</td>
+<td><a href="/wiki/%D0%A1%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Схватка (телесериал)">Схватка</a>
+</td>
+<td><i>Damages</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td rowspan="3">телесериал
+</td></tr>
+<tr>
+<td><a href="/wiki/2010_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2010 год в телевидении">2010</a>—<a href="/wiki/2012_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2012 год в телевидении">2012</a>
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D1%83%D0%B4%D0%B8%D0%B5_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB,_2010)" title="Правосудие (телесериал, 2010)">Правосудие</a>
+</td>
+<td><i>Justified</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(3 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2011_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2011 год в телевидении">2011</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%B0_%D0%93%D0%BE%D1%82%D0%BE%D1%80%D0%BD" title="Сестра Готорн">Сестра Готорн</a>
+</td>
+<td><i>Hawthorne</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2012_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2012 год в телевидении">2012</a>
+</td>
+<td>—
+</td>
+<td><i>Philly Lawyer</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td>
+<td>телефильм
+</td></tr>
+<tr>
+<td><a href="/wiki/2013_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2013 год в телевидении">2013</a>—<a href="/wiki/2018_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2018 год в телевидении">2018</a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Скандал (телесериал)">Скандал</a>
+</td>
+<td><i>Scandal</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(9 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td rowspan="3">телесериал
+</td></tr>
+<tr>
+<td><a href="/wiki/2014_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2014 год в телевидении">2014</a>
+</td>
+<td><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Разделение (телесериал)">Разделение</a>
+</td>
+<td><i>The Divide</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(2 эп.)</small>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(8 эп.)</small>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(3 эп.)</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/2019_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="2019 год в телевидении">2019</a>
+</td>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%BA%D0%BE%D0%B8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Покои (телесериал)">Покои</a>
+</td>
+<td><i>Chambers</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" /> <small>(1 эп.)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2023_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2023 год в кино">2023</a>
+</td>
+<td><a href="/wiki/%D0%9F%D0%B0%D0%BF%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2023)" title="Папа (фильм, 2023)">Папа</a>
+</td>
+<td><i>Ezra</i>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td>
+<td>
+</td>
+<td class="table-yes" style="text-align:center;">Да<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r148207519" />
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit&amp;section=9" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-&#95;69b8d12a8ca6305a-1"><span class="mw-cite-backlink"><a href="#cite_ref-_69b8d12a8ca6305a_1-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q7094076 citetype&#95;Q35127" data-entity-id="Q31964">Tony Goldwyn // <a rel="nofollow" class="external text" href="https://www.ibdb.com/broadway-cast-staff/42486">Internet Broadway Database</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span><span class="wef&#95;low&#95;priority&#95;links"> — 2000.</span></span></span>
+</li>
+<li id="cite&#95;note-&#95;6da89090dfe80ba7-2"><span class="mw-cite-backlink"><a href="#cite_ref-_6da89090dfe80ba7_2-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q33270324" data-entity-id="Q98769076">Tony Goldwyn // <a rel="nofollow" class="external text" href="https://www.geneastar.org/genealogie/?refcelebrite=goldwyna">GeneaStar</a><span class="wef&#95;low&#95;priority&#95;links"></span></span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0001282/bio">Tony Goldwyn</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;IMDb.&#32;Дата обращения: 22 октября 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210426090229/http://www.imdb.com/name/nm0001282/bio">Архивировано</a> 26 апреля 2021 года.</span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q224754#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://x.com/tonygoldwyn">X</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/TonyGoldwynOfficial">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.instagram.com/tonygoldwyn/">Instagram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Тематические сайты</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.allmovie.com/artist/p27518">AllMovie</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=13451.html">AlloCiné</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.csfd.cz/tvurce/3381">ČSFD</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.dfi.dk/viden-om-film/filmdatabasen/person/48246">Датская национальная фильмография</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/3636895">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.ibdb.com/broadway-cast-staff/42486">Internet Broadway Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0001282">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.kinopoisk.ru/name/3905/">Кинопоиск</a></li>
+<li><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/47e1b4e5-3fa1-43a2-b6a6-f18416cc9a2d">MusicBrainz</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/celebrity/tony_goldwyn">Rotten Tomatoes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.nndb.com/people/672/000026594/">Notable Names Database</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Генеалогия и некрополистика</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.wikitree.com/wiki/Goldwyn-1">WikiTree</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В&#95;библиографических&#95;каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>BIBSYS: <a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/98041986">98041986</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Национальная библиотека Испании">BNE</a>: <a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX1167494">XX1167494</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb141821876">141821876</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/129602353">129602353</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000114426609">0000000114426609</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007431255905171">987007431255905171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no97046964">no97046964</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0211076&amp;CON_LNG=ENG">xx0211076</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Национальная библиотека Польши">NLP</a>:&#160;:&#160;a0000001275838</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p216190606">216190606</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202010086204">n2010086204</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/160166845">160166845</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/42050462/">42050462</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/42050462">42050462</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐86585465cc‐vwjp9
+Cached time: 20260212060423
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.472 seconds
+Real time usage: 0.662 seconds
+Preprocessor visited node count: 1691/1000000
+Revision size: 21129/2097152 bytes
+Post‐expand include size: 48473/2097152 bytes
+Template argument size: 6385/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 13/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 37716/5000000 bytes
+Lua time usage: 0.313/10.000 seconds
+Lua memory usage: 10759356/52428800 bytes
+Number of Wikibase entities loaded: 13/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  568.679      1 -total
+ 52.04%  295.939      1 Шаблон:Кинематографист
+ 48.13%  273.732      1 Шаблон:Карточка
+ 20.30%  115.424      1 Шаблон:Внешние_ссылки
+ 16.80%   95.555      1 Шаблон:Нет_источников
+ 16.03%   91.175      6 Шаблон:Wikidata
+ 12.95%   73.619      1 Шаблон:Wikidata/p569
+  8.47%   48.143      1 Шаблон:Ambox
+  7.55%   42.955      1 Шаблон:Сортировка:_статьи_без_источников
+  6.36%   36.195      1 Шаблон:Карточка/оригинал_имени
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:2954126:|#|:idhash:canonical and timestamp 20260212060423 and revision id 149406278. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Голдуин,_Тони&amp;oldid=149406278">https://ru.wikipedia.org/w/index.php?title=Голдуин,_Тони&amp;oldid=149406278</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_20_%D0%BC%D0%B0%D1%8F" title="Категория:Родившиеся 20 мая">Родившиеся 20 мая</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1960_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1960 году">Родившиеся в 1960 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81%D0%B5" title="Категория:Родившиеся в Лос-Анджелесе">Родившиеся в Лос-Анджелесе</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Актёры по алфавиту">Актёры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A1%D0%A8%D0%90" title="Категория:Актёры телевидения США">Актёры телевидения США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Телережиссёры по алфавиту">Телережиссёры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Телережиссёры США">Телережиссёры США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0" title="Категория:Выпускники Гамильтонского колледжа">Выпускники Гамильтонского колледжа</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Категория:Выпускники Брандейского университета">Выпускники Брандейского университета</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Выпускники Лондонской академии музыкального и драматического искусства">Выпускники Лондонской академии музыкального и драматического искусства</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Кинорежиссёры США">Кинорежиссёры США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B8_%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%BD%D0%B8%D0%B3" title="Категория:Рассказчики аудиокниг">Рассказчики аудиокниг</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без ссылок на источники с января 2018 года">Википедия:Статьи без ссылок на источники с января 2018 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D0%BA%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80)" title="Категория:Википедия:Статьи без источников (тип: человек; род занятий: кинорежиссёр)">Википедия:Статьи без источников (тип: человек; род занятий: кинорежиссёр)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0%D0%BA%D1%82%D1%91%D1%80)" title="Категория:Википедия:Статьи без источников (тип: человек; род занятий: киноактёр)">Википедия:Статьи без источников (тип: человек; род занятий: киноактёр)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D1%82%D0%B5%D0%BB%D0%B5%D0%B0%D0%BA%D1%82%D1%91%D1%80)" title="Категория:Википедия:Статьи без источников (тип: человек; род занятий: телеактёр)">Википедия:Статьи без источников (тип: человек; род занятий: телеактёр)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD%2C+%D0%A2%D0%BE%D0%BD%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD%2C+%D0%A2%D0%BE%D0%BD%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;oldid=149406278" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD%2C_%D0%A2%D0%BE%D0%BD%D0%B8&amp;id=149406278&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D0%25BE%25D0%25BB%25D0%25B4%25D1%2583%25D0%25B8%25D0%25BD%2C_%25D0%25A2%25D0%25BE%25D0%25BD%25D0%25B8"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D0%25BE%25D0%25BB%25D0%25B4%25D1%2583%25D0%25B8%25D0%25BD%2C_%25D0%25A2%25D0%25BE%25D0%25BD%25D0%25B8"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD%2C_%D0%A2%D0%BE%D0%BD%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Tony_Goldwyn" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q224754" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — африкаанс" lang="af" hreflang="af" data-title="Tony Goldwyn" data-language-autonym="Afrikaans" data-language-local-name="африкаанс" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D9%86%D9%8A_%D8%BA%D9%88%D9%84%D8%AF%D9%88%D9%8A%D9%86" title="طوني غولدوين — арабский" lang="ar" hreflang="ar" data-title="طوني غولدوين" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D9%89_%D8%AC%D9%88%D9%84%D8%AF%D9%88%D9%8A%D9%86" title="تونى جولدوين — Egyptian Arabic" lang="arz" hreflang="arz" data-title="تونى جولدوين" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — астурийский" lang="ast" hreflang="ast" data-title="Tony Goldwyn" data-language-autonym="Asturianu" data-language-local-name="астурийский" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%DB%8C_%D9%82%D9%84%D8%AF%D9%88%DB%8C%D9%86" title="تونی قلدوین — South Azerbaijani" lang="azb" hreflang="azb" data-title="تونی قلدوین" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — каталанский" lang="ca" hreflang="ca" data-title="Tony Goldwyn" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%86%D9%86%DB%8C_%DA%AF%DB%86%DA%B5%D8%AF%D9%88%DB%8C%D9%86" title="تۆنی گۆڵدوین — центральнокурдский" lang="ckb" hreflang="ckb" data-title="تۆنی گۆڵدوین" data-language-autonym="کوردی" data-language-local-name="центральнокурдский" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — валлийский" lang="cy" hreflang="cy" data-title="Tony Goldwyn" data-language-autonym="Cymraeg" data-language-local-name="валлийский" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — датский" lang="da" hreflang="da" data-title="Tony Goldwyn" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — немецкий" lang="de" hreflang="de" data-title="Tony Goldwyn" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — английский" lang="en" hreflang="en" data-title="Tony Goldwyn" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — испанский" lang="es" hreflang="es" data-title="Tony Goldwyn" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%DB%8C_%DA%AF%D9%84%D8%AF%D9%88%DB%8C%D9%86" title="تونی گلدوین — персидский" lang="fa" hreflang="fa" data-title="تونی گلدوین" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — финский" lang="fi" hreflang="fi" data-title="Tony Goldwyn" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — французский" lang="fr" hreflang="fr" data-title="Tony Goldwyn" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%A0%D7%99_%D7%92%D7%95%D7%9C%D7%93%D7%95%D7%95%D7%99%D7%9F" title="טוני גולדווין — иврит" lang="he" hreflang="he" data-title="טוני גולדווין" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — гаитянский" lang="ht" hreflang="ht" data-title="Tony Goldwyn" data-language-autonym="Kreyòl ayisyen" data-language-local-name="гаитянский" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — венгерский" lang="hu" hreflang="hu" data-title="Tony Goldwyn" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hyw mw-list-item"><a href="https://hyw.wikipedia.org/wiki/%D4%B9%D5%B8%D5%B6%D5%AB_%D4%BF%D5%B8%D5%AC%D5%BF%D5%B8%D6%82%D5%AB%D5%B6" title="Թոնի Կոլտուին — западноармянский" lang="hyw" hreflang="hyw" data-title="Թոնի Կոլտուին" data-language-autonym="Արեւմտահայերէն" data-language-local-name="западноармянский" class="interlanguage-link-target"><span>Արեւմտահայերէն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — индонезийский" lang="id" hreflang="id" data-title="Tony Goldwyn" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — итальянский" lang="it" hreflang="it" data-title="Tony Goldwyn" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3" title="トニー・ゴールドウィン — японский" lang="ja" hreflang="ja" data-title="トニー・ゴールドウィン" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%86%A0%EB%8B%88_%EA%B3%A8%EB%93%9C%EC%9C%88" title="토니 골드윈 — корейский" lang="ko" hreflang="ko" data-title="토니 골드윈" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Antonius_Goldwyn" title="Antonius Goldwyn — латинский" lang="la" hreflang="la" data-title="Antonius Goldwyn" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Tonijs_Goldvins" title="Tonijs Goldvins — латышский" lang="lv" hreflang="lv" data-title="Tonijs Goldvins" data-language-autonym="Latviešu" data-language-local-name="латышский" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — малагасийский" lang="mg" hreflang="mg" data-title="Tony Goldwyn" data-language-autonym="Malagasy" data-language-local-name="малагасийский" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — нидерландский" lang="nl" hreflang="nl" data-title="Tony Goldwyn" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — польский" lang="pl" hreflang="pl" data-title="Tony Goldwyn" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — португальский" lang="pt" hreflang="pt" data-title="Tony Goldwyn" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — румынский" lang="ro" hreflang="ro" data-title="Tony Goldwyn" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — Simple English" lang="en-simple" hreflang="en-simple" data-title="Tony Goldwyn" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%B8_%D0%93%D0%BE%D0%BB%D0%B4%D0%B2%D0%B8%D0%BD" title="Тони Голдвин — сербский" lang="sr" hreflang="sr" data-title="Тони Голдвин" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — шведский" lang="sv" hreflang="sv" data-title="Tony Goldwyn" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — суахили" lang="sw" hreflang="sw" data-title="Tony Goldwyn" data-language-autonym="Kiswahili" data-language-local-name="суахили" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%9F%E0%B1%8B%E0%B0%A8%E0%B1%80_%E0%B0%97%E0%B1%8B%E0%B0%B2%E0%B1%8D%E0%B0%A1%E0%B1%8D%E2%80%8C%E0%B0%B5%E0%B0%BF%E0%B0%A8%E0%B1%8D" title="టోనీ గోల్డ్‌విన్ — телугу" lang="te" hreflang="te" data-title="టోనీ గోల్డ్‌విన్" data-language-autonym="తెలుగు" data-language-local-name="телугу" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — турецкий" lang="tr" hreflang="tr" data-title="Tony Goldwyn" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Tony_Goldwyn" title="Tony Goldwyn — вьетнамский" lang="vi" hreflang="vi" data-title="Tony Goldwyn" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E6%88%88%E5%BE%B7%E6%BA%AB" title="托尼·戈德溫 — китайский" lang="zh" hreflang="zh" data-title="托尼·戈德溫" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q224754#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 28 октября 2025 года в 16:58.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-86585465cc-ngx75","wgBackendResponseTime":154,"wgPageParseReport":{"limitreport":{"cputime":"0.472","walltime":"0.662","ppvisitednodes":{"value":1691,"limit":1000000},"revisionsize":{"value":21129,"limit":2097152},"postexpandincludesize":{"value":48473,"limit":2097152},"templateargumentsize":{"value":6385,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":37716,"limit":5000000},"entityaccesscount":{"value":13,"limit":500},"timingprofile":["100.00%  568.679      1 -total"," 52.04%  295.939      1 Шаблон:Кинематографист"," 48.13%  273.732      1 Шаблон:Карточка"," 20.30%  115.424      1 Шаблон:Внешние_ссылки"," 16.80%   95.555      1 Шаблон:Нет_источников"," 16.03%   91.175      6 Шаблон:Wikidata"," 12.95%   73.619      1 Шаблон:Wikidata/p569","  8.47%   48.143      1 Шаблон:Ambox","  7.55%   42.955      1 Шаблон:Сортировка:_статьи_без_источников","  6.36%   36.195      1 Шаблон:Карточка/оригинал_имени"]},"scribunto":{"limitreport-timeusage":{"value":"0.313","limit":"10.000"},"limitreport-memusage":{"value":10759356,"limit":52428800},"limitreport-logs":"Loaded datatype external-id of P345 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P5770 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-86585465cc-vwjp9","timestamp":"20260212060423","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u043e\u043b\u0434\u0443\u0438\u043d, \u0422\u043e\u043d\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%93%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A2%D0%BE%D0%BD%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q224754","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q224754","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-12-29T17:09:47Z","dateModified":"2025-10-28T16:58:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/65\/Tony_Goldwyn_%2848996884641%29_%281%29.jpg","headline":"\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0430\u043a\u0442\u0451\u0440"}</script>
+</body>
+</html>

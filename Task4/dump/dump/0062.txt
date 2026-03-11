@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Бюрглен (Ури) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"48c2e814-24e0-4920-ade1-cea161e2ebff","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Бюрглен_(Ури)","wgTitle":"Бюрглен (Ури)","wgCurRevisionId":149212491,"wgRevisionId":149212491,"wgArticleId":598505,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи со сложным входом в Модуль:URL","НП:Статус:Коммуна","ПРО:Города:Размер статьи: менее 1000 символов","ПРО:Города:Последняя правка: в прошлом году","Статьи со ссылками на Викисклад","Незавершённые статьи об административных единицах","ПРО:АТД:Размер статьи: менее 1000 символов","ПРО:АТД:Последняя правка: в прошлом году","Википедия:Страницы с картами","Населённые пункты по алфавиту","Административные единицы по алфавиту","Населённые пункты Ури","Коммуны Ури"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Бюрглен_(Ури)","wgRelevantArticleId":598505,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149212491,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgCoordinates":{"lat":46.875,"lon":8.66278},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q69321","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/B%C3%BCrglen_1081.jpg/960px-B%C3%BCrglen_1081.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1200">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Бюрглен (Ури) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Бюрглен_Ури rootpage-Бюрглен_Ури skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="46&#95;52&#95;30&#95;N&#95;8&#95;39&#95;46&#95;E&#95;scale:100000&#95;region:CH&#95;type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/46.875/8.66278/ru" data-zoom="12" data-lat="46.875" data-lon="8.66278" data-lang="ru" data-overlays="[&quot;_d7b15efabca23dd5b1bb97d1d25b32504fa8339c&quot;]">46°52′30″&#160;с.&#160;ш. 8°39′46″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;params=46_52_30_N_8_39_46_E_scale:100000_region:CH_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=46.87500,8.66278&amp;q=46.87500,8.66278&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=8.66278,46.87500&amp;pt=8.66278,46.87500&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=46.87500&amp;mlon=8.66278&amp;zoom=12"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Бюрглен (Ури)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-d42c30e3ad19dd18" style="" data-name="НП"><tbody><tr><td colspan="2" class="" style="text-align:center;">Коммуна</td></tr><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Бюрглен (Ури)</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata"><span data-wikidata-property-id="P1448" class="no-wikidata">Bürglen UR</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="q69321$AAEC90DD-E9C1-4958-B6B5-F096847CCA2C" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:B%C3%BCrglen_1081.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/B%C3%BCrglen_1081.jpg/330px-B%C3%BCrglen_1081.jpg" decoding="async" width="290" height="435" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/B%C3%BCrglen_1081.jpg/500px-B%C3%BCrglen_1081.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/B%C3%BCrglen_1081.jpg/960px-B%C3%BCrglen_1081.jpg 2x" data-file-width="2592" data-file-height="3888" /></a></span></span></span> </td></tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding:0;">
+<style data-mw-deduplicate="TemplateStyles:r140508140">.mw-parser-output .ts-infobox-flaginfo{background:none;border-collapse:collapse;display:table;text-align:center;width:100%}.mw-parser-output .ts-infobox-flaginfo td{vertical-align:middle}body.skin--responsive.skin-minerva.skin-minerva .mw-parser-output .ts-infobox-flaginfo td{border-bottom:0;vertical-align:middle}.mw-parser-output .infobox-table,.mw-parser-output .infobox-tablebox{padding:0}.mw-parser-output .infobox-inner-table,.mw-parser-output .infobox-table>table,.mw-parser-output .infobox-tablebox>table{width:100%;display:table;margin:0;background:transparent}.mw-parser-output .infobox-tablebox>table{border:1px solid var(--border-color-base,#a2a9b1);border-collapse:separate}.mw-parser-output .infobox-child{width:100%;margin:0;padding:0;border:none;font-size:100%}body.skin-minerva .mw-parser-output table.infobox-child{width:100%!important;margin:0!important;padding:0;border:none;font-size:100%}</style><table role="presentation" class="ts-infobox-flaginfo">
+<tbody><tr>
+
+<td><span data-wikidata-property-id="P94" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wappen_B%C3%BCrglen_UR.svg" class="mw-file-description"><img alt="Герб" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wappen_B%C3%BCrglen_UR.svg/120px-Wappen_B%C3%BCrglen_UR.svg.png" decoding="async" width="90" height="101" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wappen_B%C3%BCrglen_UR.svg/250px-Wappen_B%C3%BCrglen_UR.svg.png 1.5x" data-file-width="408" data-file-height="458" /></a></span></span></td>
+</tr>
+<tr>
+
+<td class="media-caption">Герб</td>
+</tr></tbody></table></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;text-align: center; padding-bottom:0.25em;">
+<span class="no-wikidata" data-wikidata-property-id="P625"><style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="46&#95;52&#95;30&#95;N&#95;8&#95;39&#95;46&#95;E&#95;scale:100000&#95;region:CH&#95;type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/46.875/8.66278/ru" data-zoom="12" data-lat="46.875" data-lon="8.66278" data-lang="ru" data-overlays="[&quot;_d7b15efabca23dd5b1bb97d1d25b32504fa8339c&quot;]">46°52′30″&#160;с.&#160;ш. 8°39′46″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;params=46_52_30_N_8_39_46_E_scale:100000_region:CH_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=46.87500,8.66278&amp;q=46.87500,8.66278&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=8.66278,46.87500&amp;pt=8.66278,46.87500&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=46.87500&amp;mlon=8.66278&amp;zoom=12"><span>O</span></a></span></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Страна</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P17" class="no-wikidata"><span class="nowrap" data-sort-value="Швейцария"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 1.5x" data-file-width="512" data-file-height="512" /></span></span></span>&#160;<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Швейцария"><span class="wrap">Швейцария</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD_(%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F)" class="mw-redirect" title="Кантон (Швейцария)">Кантон (Швейцария)</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%A3%D1%80%D0%B8" title="Ури">Ури</a></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">История и география</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Площадь</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P2046" class="no-wikidata">53.14 км²</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0%D0%B4_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%BC_%D0%BC%D0%BE%D1%80%D1%8F" title="Высота над уровнем моря">Высота центра</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P2044" class="no-wikidata">525 м</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" title="Часовой пояс">Часовой пояс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P421" class="no-wikidata"><a href="/wiki/UTC%2B1:00" title="UTC+1:00">UTC+1:00</a>, <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Летнее время">летом</a> <a href="/wiki/UTC%2B2:00" title="UTC+2:00">UTC+2:00</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Население</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Население</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P1082" class="no-wikidata"><span class="nowrap">3947&#160;человек (<span data-wikidata-qualifier-id="P585">2006</span>)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Официальный язык</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P37" class="no-wikidata"><a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">немецкий</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Цифровые идентификаторы</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BD%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Телефонный план нумерации">Телефонный код</a></th>
+<td class="plainlist" style="width:60%;">
++41&#160;41</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Почтовый индекс">Почтовый индекс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P281" class="no-wikidata">6463</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Автомобильный номер">Автомобильный код</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P395" class="no-wikidata">UR</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4_%D1%81%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0_%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Идентификационный код субъекта самоуправления">Официальный код</a></th>
+<td class="plainlist" style="width:60%;">
+1205</td>
+</tr>
+<tr>
+<td colspan="2" class="nomobile plainlist" style="text-align:center;width:60%;">
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;">
+<span data-wikidata-property-id="P856" class="no-wikidata"><span style="word-break:break-word;"><a rel="nofollow" class="external text" href="http://www.buerglen.ch">buerglen.ch</a></span>&#32;<span style="margin-left:-0.25em;">&#160;<span class="ref-info" title="на немецком языке" style="cursor:help;">(нем.)</span></span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header mw-customtoggle-maps1 nomobile noprint" style="min-width: 297px; font-weight:normal;"><span style="border-bottom:1px dotted;">Показать/скрыть карты</span></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding: 0 1px 1px 0;">
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-maps1">
+<div class="mw-collapsible-content" style="margin-top: 2px;"><span class="no-wikidata" data-wikidata-property-id="P625"><style data-mw-deduplicate="TemplateStyles:r140508045">.mw-parser-output .ts-ПозКарта-карта .thumbimage{background:#fff;max-width:100%;overflow:hidden;position:relative}.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map ts-ПозКарта-карта" style="width:290px; ;margin:0 auto"><div class=""><div class="thumbimage notheme" style="width:290px;"><span class="notpageimage" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Switzerland_location_map.svg" class="mw-file-description" title="Бюрглен (Ури) на карте"><img alt="Бюрглен (Ури) на карте" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Switzerland_location_map.svg/330px-Switzerland_location_map.svg.png" decoding="async" width="290" height="186" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Switzerland_location_map.svg/500px-Switzerland_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Switzerland_location_map.svg/960px-Switzerland_location_map.svg.png 2x" data-file-width="1349" data-file-height="865" /></a></span><div class="ts-ПозКарта-метка" style="left:58.42%; top:47.67%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Бюрглен (Ури)"><img alt="Бюрглен (Ури)" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px">Бюрглен (Ури)</div></div></div></div></div></span></div></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q69321$77BAEA05-2C26-4F8E-9482-B5F109BFF2AB" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:B%C3%BCrglen,_Uri" title="commons:Category:Bürglen, Uri"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:B%C3%BCrglen,_Uri" class="extiw" title="commons:Category:Bürglen, Uri">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Бюрглен</b> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a>&#160;<span lang="de" style="font-style:italic;">Bürglen UR</span>) — коммуна в <a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Швейцария">Швейцарии</a>, в <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8" title="Административное деление Швейцарии">кантоне</a> <a href="/wiki/%D0%A3%D1%80%D0%B8" title="Ури">Ури</a>.
+</p><p>Население составляет 3947 человек (на <a href="/wiki/31_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="31 декабря">31 декабря</a> <a href="/wiki/2006" class="mw-redirect" title="2006">2006</a> года). <a href="/wiki/%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4_%D1%81%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0_%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Идентификационный код субъекта самоуправления">Официальный код</a>  —  <i>1205</i>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.buerglen.ch">Официальная страница</a></li>
+<li><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343"><span data-wikidata-qualifier-id="P248"><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD" class="extiw" title="s:ЭСБЕ/Бюрглен">Бюрглен</a></span>&#32;&#47;&#47;&#32;<a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D0%B0_%D0%B8_%D0%95%D1%84%D1%80%D0%BE%D0%BD%D0%B0" title="Энциклопедический словарь Брокгауза и Ефрона">Энциклопедический словарь Брокгауза и Ефрона</a>&#160;: в 86&#160;т. (82&#160;т. и 4&#160;доп.).&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>, 1890—1907.</span></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r137903846">.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные&#95;проекты ruwikiWikimediaNavigation metadata plainlinks plainlist noprint" role="navigation" aria-labelledby="Бюрглен:"><div class="ts-Родственные&#95;проекты-header" id="Бюрглен:"><b>Бюрглен:</b></div><ul><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/40px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/60px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:B%C3%BCrglen,_Uri" class="extiw" title="commons:Category:Bürglen, Uri">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Stub-meta plainlinks metadata ambox ambox-style" style="border:0; background:none; color:inherit; margin:0; font-style:italic;"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ambox_globe.svg" class="mw-file-description"><img alt="Административная единица" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ambox_globe.svg/40px-Ambox_globe.svg.png" decoding="async" width="30" height="30" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ambox_globe.svg/60px-Ambox_globe.svg.png 1.5x" data-file-width="512" data-file-height="512" /></a></span></div></div><div class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a>&#32;о единице административно-территориального деления. Помогите Википедии, дополнив её.</div><div class="mbox-textsmall-div hide-when-compact"></div></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Коммуны&#95;кантона&#95;Ури" data-name="Швейцарии:Кантон Ури:Города"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8:%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D0%BD_%D0%A3%D1%80%D0%B8:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0" title="Перейти к шаблону «Швейцарии:Кантон Ури:Города»"><img alt="Перейти к шаблону «Швейцарии:Кантон Ури:Города»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Коммуны&#95;кантона&#95;Ури" style="font-size:114%;margin:0 5em">Коммуны кантона <a href="/wiki/%D0%A3%D1%80%D0%B8" title="Ури">Ури</a></div></th></tr><tr><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 7px 0px 0px"><div><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wappen_Uri_matt.svg" class="mw-file-description" title="Герб Ури"><img alt="Герб Ури" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wappen_Uri_matt.svg/40px-Wappen_Uri_matt.svg.png" decoding="async" width="40" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wappen_Uri_matt.svg/60px-Wappen_Uri_matt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wappen_Uri_matt.svg/120px-Wappen_Uri_matt.svg.png 2x" data-file-width="512" data-file-height="619" /></a></span></div></td><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BB%D1%8C%D1%82%D0%B4%D0%BE%D1%80%D1%84_(%D0%A3%D1%80%D0%B8)" title="Альтдорф (Ури)">Альтдорф</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D1%82" title="Андерматт">Андерматт</a></li>
+<li><a href="/wiki/%D0%90%D1%82%D1%82%D0%B8%D0%BD%D0%B3%D1%85%D0%B0%D1%83%D0%B7%D0%B5%D0%BD" title="Аттингхаузен">Аттингхаузен</a></li>
+<li><a class="mw-selflink selflink">Бюрглен</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B5%D0%BD_(%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F)" title="Вассен (Швейцария)">Вассен</a></li>
+<li><a href="/wiki/%D0%93%D1%91%D1%88%D0%B5%D0%BD%D0%B5%D0%BD" title="Гёшенен">Гёшенен</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D1%80%D1%82%D0%BD%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD" title="Гуртнеллен">Гуртнеллен</a></li>
+<li><a href="/wiki/%D0%97%D0%B5%D0%B4%D0%BE%D1%80%D1%84_(%D0%A3%D1%80%D0%B8)" title="Зедорф (Ури)">Зедорф</a></li>
+<li><a href="/wiki/%D0%97%D0%B5%D0%BB%D0%B8%D1%81%D0%B1%D0%B5%D1%80%D0%B3" title="Зелисберг">Зелисберг</a></li>
+<li><a href="/wiki/%D0%97%D0%B8%D0%B7%D0%B8%D0%BA%D0%BE%D0%BD" title="Зизикон">Зизикон</a></li>
+<li><a href="/wiki/%D0%97%D0%B8%D0%BB%D0%B5%D0%BD%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)" title="Зиленен (Ури)">Зиленен</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C" title="Изенталь">Изенталь</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BF" title="Реальп">Реальп</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D1%82%D0%B5%D1%80%D1%88%D0%B5%D1%85%D0%B5%D0%BD" title="Унтершехен">Унтершехен</a></li>
+<li><a href="/wiki/%D0%A4%D0%BB%D1%8E%D1%8D%D0%BB%D0%B5%D0%BD" title="Флюэлен">Флюэлен</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D1%81%D0%BF%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C" title="Хоспенталь">Хоспенталь</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%82%D0%B4%D0%BE%D1%80%D1%84" title="Шатдорф">Шатдорф</a></li>
+<li><a href="/wiki/%D0%A8%D0%BF%D0%B8%D1%80%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Шпиринген">Шпиринген</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D1%81%D1%82%D1%84%D0%B5%D0%BB%D1%8C%D0%B4" title="Эрстфельд">Эрстфельд</a></li></ul>
+<dl><dt>Другие населённые пункты</dt>
+<dd><a href="/wiki/%D0%91%D0%B0%D1%83%D1%8D%D0%BD_(%D0%A3%D1%80%D0%B8)" title="Бауэн (Ури)">Бауэн</a></dd>
+<dd><a href="/wiki/%D0%A3%D1%80%D0%BD%D0%B5%D1%80%D0%B1%D0%BE%D0%B4%D0%B5%D0%BD" title="Урнербоден">Урнербоден</a></dd></dl>
+</div></td></tr></tbody></table></div> <div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q69321#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD" class="extiw" title="s:ЭСБЕ/Бюрглен">Брокгауза и Ефрона</a></li>
+<li><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/000694">Швейцарский исторический</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">В&#160;библиографических каталогах</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4535790-0">4535790-0</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐nxk25
+Cached time: 20260212102128
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.494 seconds
+Real time usage: 0.691 seconds
+Preprocessor visited node count: 4712/1000000
+Revision size: 2802/2097152 bytes
+Post‐expand include size: 68947/2097152 bytes
+Template argument size: 9373/2097152 bytes
+Highest expansion depth: 27/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9872/5000000 bytes
+Lua time usage: 0.280/10.000 seconds
+Lua memory usage: 6244607/52428800 bytes
+Number of Wikibase entities loaded: 2/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  624.349      1 -total
+ 66.44%  414.832      1 Шаблон:НП
+ 58.18%  363.223      1 Шаблон:Карточка
+ 24.61%  153.632     32 Шаблон:Wikidata
+ 12.16%   75.922      2 Шаблон:Wikidata-coords
+ 11.19%   69.835      1 Шаблон:ВС
+ 10.47%   65.398      1 Шаблон:Карточка/оригинал_названия
+  7.64%   47.690      1 Шаблон:Ate-stub
+  6.53%   40.773      1 Шаблон:ВТ-ЭСБЕ
+  6.23%   38.889      1 Шаблон:Stub-meta
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:598505:|#|:idhash:canonical and timestamp 20260212102128 and revision id 149212491. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Бюрглен_(Ури)&amp;oldid=149212491">https://ru.wikipedia.org/w/index.php?title=Бюрглен_(Ури)&amp;oldid=149212491</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Населённые пункты по алфавиту">Населённые пункты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Административные единицы по алфавиту">Административные единицы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%A3%D1%80%D0%B8" title="Категория:Населённые пункты Ури">Населённые пункты Ури</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D1%8B_%D0%A3%D1%80%D0%B8" title="Категория:Коммуны Ури">Коммуны Ури</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%BC_%D0%B2%D1%85%D0%BE%D0%B4%D0%BE%D0%BC_%D0%B2_%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C:URL" title="Категория:Википедия:Статьи со сложным входом в Модуль:URL">Википедия:Статьи со сложным входом в Модуль:URL</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%9F:%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0" title="Категория:НП:Статус:Коммуна">НП:Статус:Коммуна</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8:_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5_1000_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2" title="Категория:ПРО:Города:Размер статьи: менее 1000 символов">ПРО:Города:Размер статьи: менее 1000 символов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:Города:Последняя правка: в прошлом году">ПРО:Города:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE%D0%B1_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%D1%85" title="Категория:Незавершённые статьи об административных единицах">Незавершённые статьи об административных единицах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%A2%D0%94:%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8:_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5_1000_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2" title="Категория:ПРО:АТД:Размер статьи: менее 1000 символов">ПРО:АТД:Размер статьи: менее 1000 символов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%A2%D0%94:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:АТД:Последняя правка: в прошлом году">ПРО:АТД:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD+%28%D0%A3%D1%80%D0%B8%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD+%28%D0%A3%D1%80%D0%B8%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;oldid=149212491" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_%28%D0%A3%D1%80%D0%B8%29&amp;id=149212491&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2591%25D1%258E%25D1%2580%25D0%25B3%25D0%25BB%25D0%25B5%25D0%25BD_%28%25D0%25A3%25D1%2580%25D0%25B8%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2591%25D1%258E%25D1%2580%25D0%25B3%25D0%25BB%25D0%25B5%25D0%25BD_%28%25D0%25A3%25D1%2580%25D0%25B8%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_%28%D0%A3%D1%80%D0%B8%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/B%C3%BCrglen_UR" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q69321" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/B%C3%BCrglen_UR" title="Bürglen UR — швейцарский немецкий" lang="gsw" hreflang="gsw" data-title="Bürglen UR" data-language-autonym="Alemannisch" data-language-local-name="швейцарский немецкий" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/B%C3%BCrglen" title="Bürglen — каталанский" lang="ca" hreflang="ca" data-title="Bürglen" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/B%C3%BCrglen_(lungsod_sa_Nasod_nga_Swiss,_Kanton_Uri,_Uri,_lat_46,88,_long_8,67)" title="Bürglen (lungsod sa Nasod nga Swiss, Kanton Uri, Uri, lat 46,88, long 8,67) — себуано" lang="ceb" hreflang="ceb" data-title="Bürglen (lungsod sa Nasod nga Swiss, Kanton Uri, Uri, lat 46,88, long 8,67)" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/B%C3%BCrglen_UR" title="Bürglen UR — чешский" lang="cs" hreflang="cs" data-title="Bürglen UR" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)" title="Бюрглен (Ури) — чувашский" lang="cv" hreflang="cv" data-title="Бюрглен (Ури)" data-language-autonym="Чӑвашла" data-language-local-name="чувашский" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/B%C3%BCrglen_UR" title="Bürglen UR — немецкий" lang="de" hreflang="de" data-title="Bürglen UR" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/B%C3%BCrglen,_Uri" title="Bürglen, Uri — английский" lang="en" hreflang="en" data-title="Bürglen, Uri" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/B%C3%BCrglen_UR" title="Bürglen UR — эсперанто" lang="eo" hreflang="eo" data-title="Bürglen UR" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — испанский" lang="es" hreflang="es" data-title="Bürglen (Uri)" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — баскский" lang="eu" hreflang="eu" data-title="Bürglen (Uri)" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — французский" lang="fr" hreflang="fr" data-title="Bürglen (Uri)" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — итальянский" lang="it" hreflang="it" data-title="Bürglen (Uri)" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)" title="Бюрглен (Ури) — казахский" lang="kk" hreflang="kk" data-title="Бюрглен (Ури)" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Burgilla" title="Burgilla — латинский" lang="la" hreflang="la" data-title="Burgilla" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/B%C3%BCrglen_UR" title="Bürglen UR — люксембургский" lang="lb" hreflang="lb" data-title="Bürglen UR" data-language-autonym="Lëtzebuergesch" data-language-local-name="люксембургский" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/B%C3%BCrglen_(UR)" title="Bürglen (UR) — ломбардский" lang="lmo" hreflang="lmo" data-title="Bürglen (UR)" data-language-autonym="Lombard" data-language-local-name="ломбардский" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — нидерландский" lang="nl" hreflang="nl" data-title="Bürglen (Uri)" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/B%C3%BCrglen_i_Uri" title="Bürglen i Uri — нюнорск" lang="nn" hreflang="nn" data-title="Bürglen i Uri" data-language-autonym="Norsk nynorsk" data-language-local-name="нюнорск" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — польский" lang="pl" hreflang="pl" data-title="Bürglen (Uri)" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — Piedmontese" lang="pms" hreflang="pms" data-title="Bürglen (Uri)" data-language-autonym="Piemontèis" data-language-local-name="Piedmontese" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — португальский" lang="pt" hreflang="pt" data-title="Bürglen (Uri)" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/B%C3%BCrglen,_Uri" title="Bürglen, Uri — Simple English" lang="en-simple" hreflang="en-simple" data-title="Bürglen, Uri" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/B%C3%BCrglen" title="Bürglen — албанский" lang="sq" hreflang="sq" data-title="Bürglen" data-language-autonym="Shqip" data-language-local-name="албанский" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/B%C3%BCrglen,_Uri" title="Bürglen, Uri — шведский" lang="sv" hreflang="sv" data-title="Bürglen, Uri" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/B%C3%BCrglen" title="Bürglen — турецкий" lang="tr" hreflang="tr" data-title="Bürglen" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D1%96)" title="Бюрглен (Урі) — украинский" lang="uk" hreflang="uk" data-title="Бюрглен (Урі)" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — узбекский" lang="uz" hreflang="uz" data-title="Bürglen (Uri)" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/B%C3%BCrglen_(Uri)" title="Bürglen (Uri) — венецианский" lang="vec" hreflang="vec" data-title="Bürglen (Uri)" data-language-autonym="Vèneto" data-language-local-name="венецианский" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/B%C3%BCrglen,_Uri" title="Bürglen, Uri — варай" lang="war" hreflang="war" data-title="Bürglen, Uri" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%AF%94%E6%A0%BC%E4%BC%A6_(%E4%B9%8C%E9%87%8C%E5%B7%9E)" title="比格伦 (乌里州) — китайский" lang="zh" hreflang="zh" data-title="比格伦 (乌里州)" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q69321#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 18 октября 2025 года в 13:35.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-nxk25","wgBackendResponseTime":864,"wgPageParseReport":{"limitreport":{"cputime":"0.494","walltime":"0.691","ppvisitednodes":{"value":4712,"limit":1000000},"revisionsize":{"value":2802,"limit":2097152},"postexpandincludesize":{"value":68947,"limit":2097152},"templateargumentsize":{"value":9373,"limit":2097152},"expansiondepth":{"value":27,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9872,"limit":5000000},"entityaccesscount":{"value":2,"limit":500},"timingprofile":["100.00%  624.349      1 -total"," 66.44%  414.832      1 Шаблон:НП"," 58.18%  363.223      1 Шаблон:Карточка"," 24.61%  153.632     32 Шаблон:Wikidata"," 12.16%   75.922      2 Шаблон:Wikidata-coords"," 11.19%   69.835      1 Шаблон:ВС"," 10.47%   65.398      1 Шаблон:Карточка/оригинал_названия","  7.64%   47.690      1 Шаблон:Ate-stub","  6.53%   40.773      1 Шаблон:ВТ-ЭСБЕ","  6.23%   38.889      1 Шаблон:Stub-meta"]},"scribunto":{"limitreport-timeusage":{"value":"0.280","limit":"10.000"},"limitreport-memusage":{"value":6244607,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P2564 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-nxk25","timestamp":"20260212102128","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0411\u044e\u0440\u0433\u043b\u0435\u043d (\u0423\u0440\u0438)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%91%D1%8E%D1%80%D0%B3%D0%BB%D0%B5%D0%BD_(%D0%A3%D1%80%D0%B8)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q69321","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q69321","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-28T20:34:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/52\/B%C3%BCrglen_1081.jpg","headline":"\u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438, \u0432 \u043a\u0430\u043d\u0442\u043e\u043d\u0435 \u0423\u0440\u0438"}</script>
+</body>
+</html>

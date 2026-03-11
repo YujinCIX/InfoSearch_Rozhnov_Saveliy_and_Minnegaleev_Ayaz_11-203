@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Крайние точки Болгарии — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"60c3a2a0-8049-4bc0-b476-4b2a9600e502","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Крайние_точки_Болгарии","wgTitle":"Крайние точки Болгарии","wgCurRevisionId":94894436,"wgRevisionId":94894436,"wgArticleId":5850996,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Страницы с картами","География Болгарии","Крайние точки по странам"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Крайние_точки_Болгарии","wgRelevantArticleId":5850996,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":94894436,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3244593","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.imagemap.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.imagemap","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.imagemap.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Крайние точки Болгарии — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Крайние_точки_Болгарии rootpage-Крайние_точки_Болгарии skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Крайние точки Болгарии</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><p>Ниже приведен список <b>крайних точек Болгарии</b>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Крайние_точки"><span id=".D0.9A.D1.80.D0.B0.D0.B9.D0.BD.D0.B8.D0.B5_.D1.82.D0.BE.D1.87.D0.BA.D0.B8"></span>Крайние точки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Крайние точки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «Крайние точки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Северная точка — устье реки <a href="/wiki/%D0%A2%D0%B8%D0%BC%D0%BE%D0%BA" title="Тимок">Тимок</a>, <a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Видинская область">Видинская область</a> (<style data-mw-deduplicate="TemplateStyles:r136820016">.mw-parser-output .coordinates .geo-services{font-size:82%}.mw-parser-output .coordinates .geo-services a>span{margin:0.25em}.mw-parser-output .coordinates .geo-services>:first-child a>span{margin-left:0.4em}.mw-parser-output .coordinates .geo-geo-dec .geo-dec,.mw-parser-output .coordinates .geo-geo-dms .geo-dms{display:inline}.mw-parser-output .coordinates .geo-geo-dec .geo-dms,.mw-parser-output .coordinates .geo-geo-dms .geo-dec,.mw-parser-output .coordinates .geo-multi-punct{display:none}.mw-parser-output .coordinates .geo-lat,.mw-parser-output .coordinates .geo-lon{white-space:nowrap}</style><span class="coordinates plainlinks nourlexpansion" data-param="44&#95;12&#95;49&#95;N&#95;22&#95;39&#95;57&#95;E&#95;"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/14/44.21361/22.66583/ru" data-zoom="14" data-lat="44.21361" data-lon="22.66583" data-lang="ru" data-overlays="[&quot;_878806ec103e81a053bbd7220a7303718aef9a74&quot;]">44°12′49″&#160;с.&#160;ш. 22°39′57″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;params=44_12_49_N_22_39_57_E_"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=44.21361,22.66583&amp;q=44.21361,22.66583&amp;spn=0.03,0.03&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=22.66583,44.21361&amp;pt=22.66583,44.21361&amp;spn=0.03,0.03&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=44.21361&amp;mlon=22.66583&amp;zoom=14"><span>O</span></a></span></sup></span>)</li>
+<li>Южная точка — гора <a href="/wiki/%D0%92%D0%B5%D0%B9%D0%BA%D0%B0%D1%82%D0%B0" title="Вейката">Вейката</a>, <a href="/wiki/%D0%9A%D1%8B%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Кырджалийская область">Кырджалийская область</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r136820016" /><span class="coordinates plainlinks nourlexpansion" data-param="41&#95;14&#95;05&#95;N&#95;25&#95;17&#95;18&#95;E&#95;"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/14/41.23472/25.28833/ru" data-zoom="14" data-lat="41.23472" data-lon="25.28833" data-lang="ru" data-overlays="[&quot;_02a99d1f56173c00fa869b2533f48c16ad72f451&quot;]">41°14′05″&#160;с.&#160;ш. 25°17′18″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;params=41_14_05_N_25_17_18_E_"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=41.23472,25.28833&amp;q=41.23472,25.28833&amp;spn=0.03,0.03&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=25.28833,41.23472&amp;pt=25.28833,41.23472&amp;spn=0.03,0.03&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=41.23472&amp;mlon=25.28833&amp;zoom=14"><span>O</span></a></span></sup></span>)</li>
+<li>Западная точка — гора Шулеп Кымак , <a href="/wiki/%D0%9A%D1%8E%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%B8%D0%BB%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Кюстендилская область">Кюстендилская область</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r136820016" /><span class="coordinates plainlinks nourlexpansion" data-param="42&#95;18&#95;45&#95;N&#95;22&#95;21&#95;36&#95;E&#95;"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/14/42.3125/22.36/ru" data-zoom="14" data-lat="42.3125" data-lon="22.36" data-lang="ru" data-overlays="[&quot;_010844392dd07ae81cdf92fb0b00ae2ebfb4da6a&quot;]">42°18′45″&#160;с.&#160;ш. 22°21′36″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;params=42_18_45_N_22_21_36_E_"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=42.31250,22.36000&amp;q=42.31250,22.36000&amp;spn=0.03,0.03&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=22.36000,42.31250&amp;pt=22.36000,42.31250&amp;spn=0.03,0.03&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=42.31250&amp;mlon=22.36000&amp;zoom=14"><span>O</span></a></span></sup></span>)</li>
+<li>Восточная точка — <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%B0" title="Шабла">Шабла</a>, <a href="/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%B8%D1%87%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Добричская область">Добричская область</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r136820016" /><span class="coordinates plainlinks nourlexpansion" data-param="43&#95;32&#95;22&#95;N&#95;28&#95;36&#95;25&#95;E&#95;"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/14/43.53944/28.60694/ru" data-zoom="14" data-lat="43.53944" data-lon="28.60694" data-lang="ru" data-overlays="[&quot;_2b4277e886838b0a1477beff6f9c80edff86fb86&quot;]">43°32′22″&#160;с.&#160;ш. 28°36′25″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;params=43_32_22_N_28_36_25_E_"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=43.53944,28.60694&amp;q=43.53944,28.60694&amp;spn=0.03,0.03&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=28.60694,43.53944&amp;pt=28.60694,43.53944&amp;spn=0.03,0.03&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=43.53944&amp;mlon=28.60694&amp;zoom=14"><span>O</span></a></span></sup></span>)</li>
+<li>Юго-западная точка — <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B0_%D0%A2%D1%83%D0%BC%D0%B1%D0%B0" class="mw-redirect" title="Гора Тумба">гора Тумба</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r136820016" /><span class="coordinates plainlinks nourlexpansion" data-param="41&#95;20&#95;17&#95;N&#95;22&#95;56&#95;33&#95;E&#95;"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/14/41.33806/22.9425/ru" data-zoom="14" data-lat="41.33806" data-lon="22.9425" data-lang="ru" data-overlays="[&quot;_8c7ef302c18f48e201578543a8936c1680ae4c98&quot;]">41°20′17″&#160;с.&#160;ш. 22°56′33″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;params=41_20_17_N_22_56_33_E_"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=41.33806,22.94250&amp;q=41.33806,22.94250&amp;spn=0.03,0.03&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=22.94250,41.33806&amp;pt=22.94250,41.33806&amp;spn=0.03,0.03&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=41.33806&amp;mlon=22.94250&amp;zoom=14"><span>O</span></a></span></sup></span>)</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Крайние_высоты"><span id=".D0.9A.D1.80.D0.B0.D0.B9.D0.BD.D0.B8.D0.B5_.D0.B2.D1.8B.D1.81.D0.BE.D1.82.D1.8B"></span>Крайние высоты</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Крайние высоты»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;section=2" title="Редактировать код раздела «Крайние высоты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Высочайшая точка — гора <a href="/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BB%D0%B0" title="Мусала">Мусала</a>, <a href="/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Софийская область">Софийская область</a> (2925 м)</li></ul>
+<dl><dd><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r136820016" /><span class="coordinates plainlinks nourlexpansion" data-param="42&#95;10&#95;47&#95;N&#95;23&#95;35&#95;12&#95;E&#95;"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw-kartographer="maplink" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/14/42.17972/23.58667/ru" data-zoom="14" data-lat="42.17972" data-lon="23.58667" data-lang="ru" data-overlays="[&quot;_84aa3b3cd50d9512fcfb8fa2dd8d5086f5e8bd64&quot;]">42°10′47″&#160;с.&#160;ш. 23°35′12″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;params=42_10_47_N_23_35_12_E_"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=42.17972,23.58667&amp;q=42.17972,23.58667&amp;spn=0.03,0.03&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="https://yandex.ru/maps/?ll=23.58667,42.17972&amp;pt=23.58667,42.17972&amp;spn=0.03,0.03&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=42.17972&amp;mlon=23.58667&amp;zoom=14"><span>O</span></a></span></sup></span></dd></dl>
+<ul><li>Низшая точка — <a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Черноморское побережье Болгарии">Черноморское побережье Болгарии</a> (0 м).</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r140508045">.mw-parser-output .ts-ПозКарта-карта .thumbimage{background:#fff;max-width:100%;overflow:hidden;position:relative}.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map thumb ts-ПозКарта-карта" style="width:787px; ;margin:0 auto"><div class="thumbinner"><div class="thumbimage notheme" style="width:777px;"><figure class="notpageimage noresize mw-ext-imagemap-desc-bottom-right" typeof="mw:File"><span title="Крайние точки Болгарии (Болгария)"><img alt="Крайние точки Болгарии (Болгария)" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bulgaria_location_map.svg/960px-Bulgaria_location_map.svg.png" decoding="async" width="777" height="490" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bulgaria_location_map.svg/1280px-Bulgaria_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bulgaria_location_map.svg/1920px-Bulgaria_location_map.svg.png 2x" data-file-width="1642" data-file-height="1036" usemap="#ImageMap_f44f1b0f807332d9" resource="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bulgaria_location_map.svg" /></span><map name="ImageMap_f44f1b0f807332d9"><area href="/wiki/%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2" shape="poly" coords="633,272,634,290,615,292,616,280,617,272" alt="Бургасский залив" title="Бургасский залив" /><area href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" shape="poly" coords="776,463,698,424,685,405,682,388,681,372,680,352,647,317,649,308,638,290,636,273,632,262,642,259,646,248,665,252,663,229,663,199,670,183,676,173,692,150,712,146,726,153,745,134,745,114,741,100,754,59,753,32,746,17,760,0,775,0" alt="Чёрное море" title="Чёрное море" /><area href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" shape="poly" coords="0,486,73,481,78,454,97,453,86,356,28,310,3,312" alt="Северная Македония" title="Северная Македония" /><area href="/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" shape="poly" coords="48,488,53,486,73,483,77,458,128,453,176,447,221,437,229,423,280,425,285,438,307,453,325,445,361,467,397,462,424,457,453,455,466,448,468,440,460,411,454,402,466,395,500,405,516,417,520,455,507,456,482,468,481,488,65,489" alt="Греция" title="Греция" /><area href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" shape="poly" coords="483,396,489,382,511,380,516,359,540,358,565,350,572,345,590,342,621,365,642,362,681,360,681,372,684,391,773,460,776,463,775,489,484,488,484,466,519,450,512,409,485,395" alt="Турция" title="Турция" /><area href="/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D1%8F" shape="poly" coords="0,0,0,309,20,301,26,309,39,305,46,292,49,282,37,272,45,246,38,234,48,226,74,224,79,209,101,188,101,180,94,176,72,150,61,148,48,137,44,114,31,102,29,86,35,57,58,50,67,18,51,13,42,0" alt="Сербия" title="Сербия" /><area href="/wiki/%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F" shape="poly" coords="47,2,51,14,68,17,66,25,75,29,84,37,101,43,108,44,108,48,102,56,88,70,96,87,113,88,142,79,170,87,188,88,248,106,279,92,316,100,335,100,356,105,369,113,384,114,388,109,411,105,428,94,444,75,458,62,481,53,526,48,552,38,576,38,595,44,602,52,621,54,638,53,643,63,656,63,666,57,677,82,739,97,756,54,748,9,754,0" alt="Румыния" title="Румыния" /><area href="/wiki/%D0%9B%D0%BE%D0%B2%D0%B5%D1%87%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="222,174,217,195,229,211,239,225,237,241,264,241,273,238,284,239,296,249,314,249,338,245,325,224,318,210,326,202,328,184,329,177,345,180,347,169,341,161,334,148,331,160,324,163,308,163,297,165,287,175,272,174,260,166,243,173" alt="Ловечская область" title="Ловечская область" /><area href="/wiki/%D0%93%D0%B0%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="329,178,328,185,323,193,328,204,321,207,326,228,335,244,354,239,369,248,403,243,402,221,396,217,396,207,396,204,378,197,369,199,366,193,345,194,345,185" alt="Габровская область" title="Габровская область" /><area href="/wiki/%D0%A2%D1%8B%D1%80%D0%B3%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="469,211,463,213,460,206,459,197,456,179,456,164,454,157,449,155,445,148,438,143,443,137,454,126,472,125,482,126,493,135,501,142,503,150,511,154,519,152,525,142,532,146,537,164,530,181,518,200,516,204,500,202,482,202" alt="Тырговиштская область" title="Тырговиштская область" /><area href="/wiki/%D0%A8%D1%83%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="511,217,522,198,529,180,537,161,533,149,534,139,545,126,559,111,569,104,584,110,599,117,607,117,606,124,597,130,597,142,590,155,593,168,592,178,584,185,581,192,586,199,574,205,567,212,569,217,558,218,541,216,535,223,525,218" alt="Шуменская область" title="Шуменская область" /><area href="/wiki/%D0%A1%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="467,317,453,314,448,307,431,290,434,278,435,264,427,237,455,236,458,223,469,211,484,202,505,202,513,209,514,225,520,244,526,246,526,254,520,264,504,265,496,274,479,288,473,286,467,299,473,307" alt="Сливенская область" title="Сливенская область" /><area href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="333,244,333,278,344,284,352,285,352,293,342,302,346,315,338,324,348,336,364,334,378,343,387,332,400,328,407,336,414,337,420,346,431,335,445,344,453,355,466,351,466,336,474,322,466,315,454,315,442,305,435,287,427,242,407,238,402,242,374,240,353,239" alt="Старозагорская область" title="Старозагорская область" /><area href="/wiki/%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="262,245,262,255,271,265,271,272,264,274,262,289,277,334,268,337,272,370,303,374,311,400,328,394,330,378,345,383,359,369,374,336,362,330,347,329,337,324,341,315,351,314,343,306,345,292,352,297,351,281,338,280,333,245,299,250,287,240,275,239" alt="Пловдивская область" title="Пловдивская область" /><area href="/wiki/%D0%9F%D0%B0%D0%B7%D0%B0%D1%80%D0%B4%D0%B6%D0%B8%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="253,396,229,404,208,386,193,378,190,354,196,346,193,325,207,309,213,316,216,311,214,307,215,297,224,294,225,284,217,286,207,271,217,270,224,272,244,263,249,263,257,271,265,273,263,282,270,290,277,327,270,335,271,366,258,378" alt="Пазарджикская область" title="Пазарджикская область" /><area href="/wiki/%D0%92%D0%B8%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="78,149,69,148,49,134,40,114,40,102,31,77,35,58,59,50,59,28,93,36,108,46,103,56,87,73,103,88,113,97" alt="Видинская область" title="Видинская область" /><area href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="78,150,83,135,92,121,102,109,110,103,111,95,107,89,136,82,152,80,167,83,172,91,174,92,168,123,174,129,166,135,160,132,150,141,151,158,144,166,156,172,155,178,151,185,135,192,117,192,107,178,97,177,86,165" alt="Монтанская область" title="Монтанская область" /><area href="/wiki/%D0%92%D1%80%D0%B0%D1%86%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="141,165,152,146,152,136,162,135,175,130,176,123,168,117,172,106,175,88,194,88,207,98,227,99,241,105,255,105,253,109,241,113,230,118,222,116,221,135,225,141,219,152,215,162,215,170,218,176,223,182,223,186,220,192,214,192,214,202,213,204,205,200,190,198,184,202,175,198,167,211,158,193,158,185,153,184,151,177,159,174" alt="Врацкая область" title="Врацкая область" /><area href="/wiki/%D0%9F%D0%BB%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="255,104,250,112,221,120,221,140,226,141,211,174,226,176,255,171,261,164,287,176,307,159,326,164,334,149,347,162,362,158,348,142,357,128,353,116,361,108,352,105,334,99,319,99,298,101,276,94" alt="Плевенская область" title="Плевенская область" /><area href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D1%82%D1%8B%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="364,109,353,115,353,133,352,143,359,155,343,183,345,192,368,192,370,199,398,204,405,240,448,237,466,214,458,206,456,160,395,141,394,112" alt="Великотырновская область" title="Великотырновская область" /><area href="/wiki/%D0%A0%D1%83%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="396,114,385,121,398,143,444,159,447,152,440,147,456,126,466,126,465,110,478,106,483,112,500,107,499,89,488,88,488,78,492,57,488,53,449,74,427,97" alt="Русенская область" title="Русенская область" /><area href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="493,65,487,86,501,88,499,108,473,109,466,118,471,129,480,125,489,136,491,141,500,139,506,148,502,153,522,157,533,143,543,132,539,125,549,118,563,108,558,97,543,82,526,80,512,69" alt="Разградская область" title="Разградская область" /><area href="/wiki/%D0%A1%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="494,52,493,65,545,88,563,103,574,103,577,107,586,107,588,94,614,78,617,83,623,71,631,73,638,58,636,51,626,56,607,53,589,38,556,37" alt="Силистренская область" title="Силистренская область" /><area href="/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%B8%D1%87%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="585,99,584,112,602,119,607,117,616,127,618,132,625,132,630,128,658,152,672,147,683,158,691,146,723,148,729,154,746,125,739,97,711,97,674,79,666,56,657,64,642,65,641,59,633,64,628,75,623,70,620,80,609,80,598,88" alt="Добричская область" title="Добричская область" /><area href="/wiki/%D0%92%D0%B0%D1%80%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="611,119,596,132,600,141,592,151,595,158,592,173,595,178,581,191,588,199,571,207,576,212,587,212,607,222,628,224,649,229,664,230,669,177,679,159,670,146,660,151,650,142" alt="Варненская область" title="Варненская область" /><area href="/wiki/%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="661,231,653,233,636,224,621,224,602,219,592,210,577,210,518,219,516,239,531,254,544,280,552,290,556,291,556,294,548,295,547,308,559,340,569,344,583,346,590,341,623,367,645,361,656,365,659,355,680,358,648,318,649,307,644,293,627,286,621,275,637,270,643,250,664,251" alt="Бургасская область" title="Бургасская область" /><area href="/wiki/%D0%AF%D0%BC%D0%B1%D0%BE%D0%BB%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="530,253,523,252,519,262,517,266,499,273,490,282,483,287,470,284,468,299,474,302,469,323,502,333,513,368,517,361,554,356,564,344,554,333,559,324,547,299,547,296,554,293" alt="Ямболская область" title="Ямболская область" /><area href="/wiki/%D0%A5%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="454,400,465,422,466,438,457,453,442,456,431,444,425,437,426,432,423,424,426,413,426,407,415,411,401,412,402,404,403,393,375,387,369,379,359,376,362,365,371,352,373,341,379,338,392,331,400,330,414,339,432,340,447,346,457,350,462,349,465,332,473,326,505,332,513,369,510,377,500,381,488,384,478,397,460,395" alt="Хасковская область" title="Хасковская область" /><area href="/wiki/%D0%9A%D1%8B%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="345,453,351,431,349,426,341,427,338,429,332,418,343,411,339,387,349,377,358,370,362,382,372,383,401,396,403,413,413,411,421,405,425,413,421,422,428,433,431,449,438,452,437,460,426,453,419,457,403,460,387,463,374,467,365,468,359,466" alt="Кырджалийская область" title="Кырджалийская область" /><area href="/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="229,423,230,399,242,396,254,400,259,379,272,366,281,373,298,369,307,378,315,405,335,378,341,387,344,414,333,420,336,429,352,429,349,454,318,446,310,452,302,443,289,441,280,420,255,427,248,418" alt="Смолянская область" title="Смолянская область" /><area href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B5%D0%B2%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="99,454,98,411,110,396,104,389,100,387,88,352,97,344,111,352,128,343,151,348,163,343,174,331,191,329,196,352,197,382,230,406,225,435,212,439,207,429,189,446,175,450,158,443,143,450,138,443,130,451,130,454" alt="Благоевградская область" title="Благоевградская область" /><area href="/wiki/%D0%9A%D1%8E%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%B8%D0%BB%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="43,262,38,274,50,283,48,300,35,309,44,329,60,343,84,354,96,343,117,353,127,342,151,350,165,340,154,329,145,330,140,328,149,321,139,303,122,298,79,298,57,264" alt="Кюстендилская область" title="Кюстендилская область" /><area href="/wiki/%D0%9F%D0%B5%D1%80%D0%BD%D0%B8%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="43,260,45,246,40,234,54,227,79,228,101,243,110,252,121,264,135,276,131,294,129,302,83,302,75,290,59,263" alt="Перникская область" title="Перникская область" /><area href="/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_(%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" shape="poly" coords="110,253,113,247,127,247,132,225,147,233,161,229,175,230,174,245,167,254,161,261,169,273,171,286,178,290,177,292,166,296,161,282,154,281,150,288,143,282,138,278,132,273,121,269,122,263" alt="София" title="София" /><area href="/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" shape="poly" coords="76,224,108,251,113,247,129,249,133,223,145,229,156,228,171,230,183,238,171,252,160,258,164,267,167,279,175,288,176,295,167,296,163,286,155,280,152,288,140,283,133,285,130,297,141,302,147,317,139,326,147,335,155,331,162,344,174,334,193,326,208,313,213,313,215,308,213,301,218,296,224,289,216,287,209,278,217,271,227,272,237,265,250,261,264,272,270,271,272,260,264,253,263,246,248,240,237,237,238,224,234,216,226,203,220,196,207,199,183,195,177,199,165,204,160,204,152,183,147,181,138,186,135,190,123,190,117,188,111,181,103,182,102,192,95,196,91,205,77,211" alt="Софийская область" title="Софийская область" /></map><figcaption>Крайние точки Болгарии (Болгария)</figcaption></figure><div class="ts-ПозКарта-метка" style="left:8.33%; top:6.06%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Красная точка"><img alt="Красная точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">Тимок</div></div>
+  <div class="ts-ПозКарта-метка" style="left:46.81%; top:95.96%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Красная точка"><img alt="Красная точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">гора Вейката</div></div>
+  <div class="ts-ПозКарта-метка" style="left:3.68%; top:63.64%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Красная точка"><img alt="Красная точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">гора Шулеп Кымак</div></div>
+  <div class="ts-ПозКарта-метка" style="left:95.59%; top:26.26%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Красная точка"><img alt="Красная точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px">Шабла</div></div>
+  <div class="ts-ПозКарта-метка" style="left:21.81%; top:67.68%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Красная точка"><img alt="Красная точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png" decoding="async" width="9" height="9" class="mw-file-element" data-file-width="64" data-file-height="64" /></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">гора Мусала</div></div></div><div class="thumbcaption">Крайние точки Болгарии</div></div></div>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;veaction=edit&amp;section=3" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;section=3" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="География Болгарии">География Болгарии</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Страны&#95;Европы:&#95;Крайние&#95;точки" data-name="Европа по темам"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B0%D0%BC" title="Перейти к шаблону «Европа по темам»"><img alt="Перейти к шаблону «Европа по темам»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Страны&#95;Европы:&#95;Крайние&#95;точки" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2_%D0%B8_%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D1%8B%D1%85_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B" title="Список государств и зависимых территорий Европы">Страны</a> <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0" title="Европа">Европы</a>: Крайние точки</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Независимые государства</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Австрии (страница отсутствует)">Австрия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0" title="Крайние точки Азербайджана">Азербайджан</a><sup>1</sup></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Албании (страница отсутствует)">Албания</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Андорры (страница отсутствует)">Андорра</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Армении (страница отсутствует)">Армения</a><sup>1</sup></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8" title="Крайние точки Беларуси">Беларусь</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Бельгии (страница отсутствует)">Бельгия</a></li>
+<li><a class="mw-selflink selflink">Болгария</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D0%B8_%D0%B8_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Боснии и Герцеговины (страница отсутствует)">Босния и Герцеговина</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Ватикана (страница отсутствует)">Ватикан</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Великобритании (страница отсутствует)">Великобритания</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D0%B8" title="Крайние точки Венгрии">Венгрия</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Германии (страница отсутствует)">Германия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8" class="mw-redirect" title="Крайние точки Греции">Греция</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Грузии (страница отсутствует)">Грузия</a><sup>1</sup></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Дании (страница отсутствует)">Дания</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Ирландии (страница отсутствует)">Ирландия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" class="mw-redirect" title="Крайние точки Исландии">Исландия</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Испании (страница отсутствует)">Испания</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Италии (страница отсутствует)">Италия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Крайние точки Казахстана">Казахстан</a><sup>2</sup></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Латвии (страница отсутствует)">Латвия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9B%D0%B8%D1%82%D0%B2%D1%8B" title="Крайние точки Литвы">Литва</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9B%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Лихтенштейна (страница отсутствует)">Лихтенштейн</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Люксембурга (страница отсутствует)">Люксембург</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Мальты (страница отсутствует)">Мальта</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Молдовы (страница отсутствует)">Молдова</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9C%D0%BE%D0%BD%D0%B0%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Монако (страница отсутствует)">Монако</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Нидерландов (страница отсутствует)">Нидерланды</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Норвегии (страница отсутствует)">Норвегия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Крайние точки Польши">Польша</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Португалии (страница отсутствует)">Португалия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Крайние точки России">Россия</a><sup>2</sup></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8" title="Крайние точки Румынии">Румыния</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Сан-Марино (страница отсутствует)">Сан-Марино</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Северной Македонии (страница отсутствует)">Северная Македония</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D0%B8" title="Крайние точки Сербии">Сербия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D0%B8" title="Крайние точки Словакии">Словакия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B8" title="Крайние точки Словении">Словения</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Турции (страница отсутствует)">Турция</a><sup>2</sup></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Крайние точки Украины">Украина</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Финляндии (страница отсутствует)">Финляндия</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Крайние точки Франции">Франция</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D0%B8" title="Крайние точки Хорватии">Хорватия</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Черногории (страница отсутствует)">Черногория</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A7%D0%B5%D1%85%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Чехии (страница отсутствует)">Чехия</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Швейцарии (страница отсутствует)">Швейцария</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8" title="Крайние точки Швеции">Швеция</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Эстонии (страница отсутствует)">Эстония</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Зависимые территории</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%90%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Аландских островов (страница отсутствует)">Аландские острова</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%93%D0%B5%D1%80%D0%BD%D1%81%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Гернси (страница отсутствует)">Гернси</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%93%D0%B8%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Гибралтара (страница отсутствует)">Гибралтар</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Джерси (страница отсутствует)">Джерси</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9C%D1%8D%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки острова Мэн (страница отсутствует)">Остров Мэн</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A4%D0%B0%D1%80%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Фарерских островов (страница отсутствует)">Фарерские острова</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%A8%D0%BF%D0%B8%D1%86%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Шпицбергена (страница отсутствует)">Шпицберген</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%AF%D0%BD-%D0%9C%D0%B0%D0%B9%D0%B5%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Ян-Майена (страница отсутствует)">Ян-Майен</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0" title="Непризнанные и частично признанные государства">Непризнанные и частично<br />признанные государства</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%9F%D1%80%D0%B8%D0%B4%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Приднестровской Молдавской Республики (страница отсутствует)">Приднестровье</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Крайние точки Южной Осетии (страница отсутствует)">Южная Осетия</a><sup>1</sup></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup>1</sup> В основном или полностью в Азии, в зависимости от проведения <a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%B9_%D0%B8_%D0%90%D0%B7%D0%B8%D0%B5%D0%B9" title="Граница между Европой и Азией">границы между Европой и Азией</a>. <sup>2</sup> В основном в Азии.</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="География&#95;Болгарии" data-name="География Болгарии"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Перейти к шаблону «География Болгарии»"><img alt="Перейти к шаблону «География Болгарии»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="География&#95;Болгарии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="География Болгарии">География Болгарии</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Литосфера</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список островов Болгарии (страница отсутствует)">Острова Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D1%80_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список гор Болгарии (страница отсутствует)">Горы Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список вулканов Болгарии (страница отсутствует)">Вулканы Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%B5%D1%89%D0%B5%D1%80_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список пещер Болгарии (страница отсутствует)">Пещеры Болгарии</a></li>
+<li><a class="mw-selflink selflink">Крайние точки Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%BD_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список равнин Болгарии (страница отсутствует)">Равнины Болгарии</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Гидросфера</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9C%D0%BE%D1%80%D1%8F_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Моря Болгарии (страница отсутствует)">Моря Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%97%D0%B0%D0%BB%D0%B8%D0%B2%D1%8B_%D0%B8_%D0%B1%D1%83%D1%85%D1%82%D1%8B_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Заливы и бухты Болгарии (страница отсутствует)">Заливы и бухты Болгарии</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Реки Болгарии">Реки Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D0%B7%D1%91%D1%80%D0%B0_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Озёра Болгарии (страница отсутствует)">Озёра Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Водохранилища Болгарии (страница отсутствует)">Водохранилища Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Каналы Болгарии (страница отсутствует)">Каналы Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D0%BE%D0%B2_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список водопадов Болгарии (страница отсутствует)">Водопады Болгарии</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Атмосфера</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/w/index.php?title=%D0%9A%D0%BB%D0%B8%D0%BC%D0%B0%D1%82_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Климат Болгарии (страница отсутствует)">Климат Болгарии</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Биосфера</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список заповедников Болгарии (страница отсутствует)">Заповедники Болгарии</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Список национальных парков Болгарии">Национальные парки Болгарии</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список заказников Болгарии (страница отсутствует)">Заказники Болгарии</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Антропосфера</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/w/index.php?title=%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Экология Болгарии (страница отсутствует)">Экология Болгарии</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐586cccddb‐gckck
+Cached time: 20260201200106
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.210 seconds
+Real time usage: 0.279 seconds
+Preprocessor visited node count: 3176/1000000
+Revision size: 2083/2097152 bytes
+Post‐expand include size: 141853/2097152 bytes
+Template argument size: 9796/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 22895/5000000 bytes
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 1149527/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  226.630      1 -total
+ 40.12%   90.926      1 Шаблон:ПозКарта+
+ 33.85%   76.704      6 Шаблон:Coord
+ 21.43%   48.575      1 Шаблон:Европа_по_темам
+ 20.46%   46.367      2 Шаблон:Навигационная_таблица
+ 16.19%   36.695      5 Шаблон:ПозКарта~
+  7.69%   17.428     10 Шаблон:ПозКарта/x
+  5.78%   13.090     84 Шаблон:ПозКарта_Болгария
+  4.18%    9.478      1 Шаблон:География_Болгарии
+  3.47%    7.867     59 Шаблон:Страна_по_темам
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:5850996:|#|:idhash:canonical and timestamp 20260201200106 and revision id 94894436. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Крайние_точки_Болгарии&amp;oldid=94894436">https://ru.wikipedia.org/w/index.php?title=Крайние_точки_Болгарии&amp;oldid=94894436</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Категория:География Болгарии">География Болгарии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Категория:Крайние точки по странам">Крайние точки по странам</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5+%D1%82%D0%BE%D1%87%D0%BA%D0%B8+%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5+%D1%82%D0%BE%D1%87%D0%BA%D0%B8+%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;oldid=94894436" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;id=94894436&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25B0%25D0%25B9%25D0%25BD%25D0%25B8%25D0%25B5_%25D1%2582%25D0%25BE%25D1%2587%25D0%25BA%25D0%25B8_%25D0%2591%25D0%25BE%25D0%25BB%25D0%25B3%25D0%25B0%25D1%2580%25D0%25B8%25D0%25B8"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25B0%25D0%25B9%25D0%25BD%25D0%25B8%25D0%25B5_%25D1%2582%25D0%25BE%25D1%2587%25D0%25BA%25D0%25B8_%25D0%2591%25D0%25BE%25D0%25BB%25D0%25B3%25D0%25B0%25D1%2580%25D0%25B8%25D0%25B8"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3244593" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F" title="Крайни точки на България — болгарский" lang="bg" hreflang="bg" data-title="Крайни точки на България" data-language-autonym="Български" data-language-local-name="болгарский" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Krajn%C3%AD_body_Bulharska" title="Krajní body Bulharska — чешский" lang="cs" hreflang="cs" data-title="Krajní body Bulharska" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/List_of_extreme_points_of_Bulgaria" title="List of extreme points of Bulgaria — английский" lang="en" hreflang="en" data-title="List of extreme points of Bulgaria" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Liste_de_points_extr%C3%AAmes_de_la_Bulgarie" title="Liste de points extrêmes de la Bulgarie — французский" lang="fr" hreflang="fr" data-title="Liste de points extrêmes de la Bulgarie" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Pontos_extremos_da_Bulg%C3%A1ria" title="Pontos extremos da Bulgária — португальский" lang="pt" hreflang="pt" data-title="Pontos extremos da Bulgária" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D1%96_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%96%D1%97" title="Крайні точки Болгарії — украинский" lang="uk" hreflang="uk" data-title="Крайні точки Болгарії" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3244593#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 4 сентября 2018 года в 16:06.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-4rqvz","wgBackendResponseTime":124,"wgPageParseReport":{"limitreport":{"cputime":"0.210","walltime":"0.279","ppvisitednodes":{"value":3176,"limit":1000000},"revisionsize":{"value":2083,"limit":2097152},"postexpandincludesize":{"value":141853,"limit":2097152},"templateargumentsize":{"value":9796,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":22895,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  226.630      1 -total"," 40.12%   90.926      1 Шаблон:ПозКарта+"," 33.85%   76.704      6 Шаблон:Coord"," 21.43%   48.575      1 Шаблон:Европа_по_темам"," 20.46%   46.367      2 Шаблон:Навигационная_таблица"," 16.19%   36.695      5 Шаблон:ПозКарта~","  7.69%   17.428     10 Шаблон:ПозКарта/x","  5.78%   13.090     84 Шаблон:ПозКарта_Болгария","  4.18%    9.478      1 Шаблон:География_Болгарии","  3.47%    7.867     59 Шаблон:Страна_по_темам"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":1149527,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-586cccddb-gckck","timestamp":"20260201200106","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041a\u0440\u0430\u0439\u043d\u0438\u0435 \u0442\u043e\u0447\u043a\u0438 \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3244593","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3244593","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-07-04T10:02:34Z","headline":"\u0441\u0442\u0430\u0442\u044c\u044f-\u0441\u043f\u0438\u0441\u043e\u043a \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"}</script>
+</body>
+</html>

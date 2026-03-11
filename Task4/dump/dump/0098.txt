@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Андерсон, Шерри — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9e32c35e-7099-40fa-95ef-0080d21e9281","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Андерсон,_Шерри","wgTitle":"Андерсон, Шерри","wgCurRevisionId":151506564,"wgRevisionId":151506564,"wgArticleId":6244957,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Биографии современников","Википедия:Статьи с источниками из Викиданных","Википедия:Статьи без изображений (тип: человек; род занятий: кёрлингист)","Родившиеся 6 января","Родившиеся в 1964 году","Родившиеся в Принс-Альберте","Персоналии по алфавиту","Спортсмены по алфавиту","Кёрлингисты по алфавиту","Кёрлингисты Канады","Участники розыгрышей Континентального кубка по кёрлингу","Члены Зала славы канадского кёрлинга"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Андерсон,_Шерри","wgRelevantArticleId":6244957,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":151506564,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q7495382","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Андерсон, Шерри — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Андерсон_Шерри rootpage-Андерсон_Шерри skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Андерсон, Шерри</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD" class="mw-disambig" title="Андерсон">Андерсон</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r139651234/mw-parser-output/.infobox-029814a427a692fc">.mw-parser-output .infobox-029814a427a692fc .infobox-above,.mw-parser-output .infobox-029814a427a692fc .infobox-header,.mw-parser-output .infobox-029814a427a692fc .infobox-below{background:var(--background-color-neutral,#eaecf0)}</style><table class="infobox infobox-029814a427a692fc" style="" data-name="Спортсмен"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Шерри Андерсон</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-claim-id="Q7495382$abb696ae-48ef-e771-a119-77f17042d672" class="wikidata-claim" data-wikidata-property-id="P1559&#91;LANGUAGE!:RU&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Sherry Anderson</span></span></span></td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Личная информация</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Пол</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q7495382$2CD6D1C0-3D33-48A4-89AB-EA315BF872FE" class="wikidata-claim" data-wikidata-property-id="P21"><span class="wikidata-snak wikidata-main-snak">женский</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q7495382$B5FD9F34-52E5-4152-9D38-A4B0389A575D" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/20px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x" data-file-width="1200" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">Канада</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Специализация</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q7495382$32b4a636-49c9-8435-7da6-565a7adf1bbe" class="wikidata-claim" data-wikidata-property-id="P641"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Кёрлинг">кёрлинг</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Клуб</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P54" class="no-wikidata">Nutana CC (<a href="/wiki/%D0%A1%D0%B0%D1%81%D0%BA%D0%B0%D1%82%D1%83%D0%BD" title="Саскатун">Саскатун</a>)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q7495382$1E161A25-7288-43D7-A0DB-935BFF625006" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/6_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="6 января">6 января</a> <a href="/wiki/1964_%D0%B3%D0%BE%D0%B4" title="1964 год">1964</a></span><span style="display:none">(<span class="bday">1964-01-06</span>)</span></span> <span style="white-space:nowrap;">(62 года)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q7495382$46792AD3-B03D-41AB-9DD9-7FE07C0E7349" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%81-%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_(%D0%A1%D0%B0%D1%81%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%B0%D0%BD)" title="Принс-Альберт (Саскачеван)">Принс-Альберт</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%B0%D1%81%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%B0%D0%BD" title="Саскачеван">Саскачеван</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">Канада</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Рабочая сторона</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q7495382$1cfab328-5f9f-4422-8ab0-178355ee174f" class="wikidata-claim" data-wikidata-property-id="P741"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D1%88%D0%B0" title="Правша">праворукость</a></span><sup id="cite&#95;ref-&#95;0056e187381e2016&#95;1-0" class="reference"><a href="#cite_note-_0056e187381e2016-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;">
+<style data-mw-deduplicate="TemplateStyles:r139372431">.mw-parser-output .ts-infobox-medals{margin:-2px}body.skin-minerva .mw-parser-output .ts-infobox-medals{margin:-7px -10px;overflow:hidden}.mw-parser-output .ts-infobox-medals .mw-collapsible-toggle-placeholder::before{font-weight:normal}.mw-parser-output .ts-infobox-medals .mw-collapsible-toggle{text-align:right;width:5.5em}.mw-parser-output .ts-infobox-medals>.infobox-header{font-weight:bold;padding:1px 0}html.client-js .mw-parser-output .ts-infobox-medals.mw-collapsible>.infobox-header{padding-left:5.5em}body.skin-minerva .mw-parser-output .ts-infobox-medals:not(.mw-made-collapsible)>.infobox-header{padding:7px 10px}body.skin-minerva .mw-parser-output .ts-infobox-medals td:first-child{width:auto!important}.mw-parser-output .ts-infobox-medals-content{margin:0 -2px}.mw-parser-output .ts-infobox-medals-table{background:transparent;border-collapse:separate;margin:0;display:table;width:100%}.mw-parser-output .ts-infobox-medals-table table{margin:0 auto}</style>
+<div class="ts-infobox-medals mw-collapsible"><div class="infobox-header"><div class="mw-collapsible-toggle-placeholder"></div>Награды и медали</div><div class="ts-infobox-medals-content mw-collapsible-content">
+<table class="ts-infobox-medals-table">
+<tbody><tr>
+<td>
+</td></tr>
+<tr>
+<th colspan="3" class="infobox-header" scope="colgroup" style="background:#bacfeb"><a href="/wiki/%D0%9A%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Кёрлинг">Кёрлинг</a>
+</th></tr></tbody></table>
+</div></div></td>
+</tr>
+</tbody></table>
+<p><b>Ше́рри А́ндерсон</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Sherry Anderson</span>; род. <span data-wikidata-claim-id="Q7495382$1E161A25-7288-43D7-A0DB-935BFF625006" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/6_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="6 января">6 января</a> <a href="/wiki/1964_%D0%B3%D0%BE%D0%B4" title="1964 год">1964</a></span></span></span>, <span data-wikidata-claim-id="Q7495382$46792AD3-B03D-41AB-9DD9-7FE07C0E7349" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%81-%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_(%D0%A1%D0%B0%D1%81%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%B0%D0%BD)" title="Принс-Альберт (Саскачеван)">Принс-Альберт</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%B0%D1%81%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%B0%D0%BD" title="Саскачеван">Саскачеван</a></span></span>)&#160;— <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">канадская</a> <a href="/wiki/%D0%9A%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Кёрлинг">кёрлингистка</a>.
+</p><p>Играет на позиции <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0#Ч" title="Словарь терминов кёрлинга">четвёртого</a> (в 2010—2015 в команде <a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a> играла на позиции <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0#Т" title="Словарь терминов кёрлинга">третьего</a>). <a href="/wiki/%D0%A1%D0%BA%D0%B8%D0%BF_(%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3)" title="Скип (кёрлинг)">Скип</a> своей команды.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Спортивная_карьера"><span class="tocnumber">1</span> <span class="toctext">Спортивная карьера</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Достижения"><span class="tocnumber">2</span> <span class="toctext">Достижения</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Команды"><span class="tocnumber">3</span> <span class="toctext">Команды</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Частная_жизнь"><span class="tocnumber">4</span> <span class="toctext">Частная жизнь</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Спортивная_карьера"><span id=".D0.A1.D0.BF.D0.BE.D1.80.D1.82.D0.B8.D0.B2.D0.BD.D0.B0.D1.8F_.D0.BA.D0.B0.D1.80.D1.8C.D0.B5.D1.80.D0.B0"></span>Спортивная карьера</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Спортивная карьера»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «Спортивная карьера»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Начала заниматься кёрлингом в 8 лет<sup id="cite&#95;ref-lawton&#95;2-0" class="reference"><a href="#cite_note-lawton-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Участвовала, представляя провинцию Саскачеван, в восьми <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD" title="Чемпионат Канады по кёрлингу среди женщин">чемпионатах Канады</a>, из них четыре раза как скип. На своём первом <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_1994" title="Чемпионат Канады по кёрлингу среди женщин 1994">чемпионате в 1994</a>, будучи скипом, заняла 4-е место, проиграв в полуфинале на тот момент двукратной чемпионке Канады <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D0%B8_%D0%9B%D0%B0%D0%BB%D0%B8%D0%B1%D1%91%D1%80%D1%82%D0%B5" class="mw-redirect" title="Конни Лалибёрте">Конни Лалибёрте</a>. На <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_1995" title="Чемпионат Канады по кёрлингу среди женщин 1995">следующем чемпионате в 1995</a> её команда не прошла в <a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%B9-%D0%BE%D1%84%D1%84" class="mw-redirect" title="Плей-офф">плей-офф</a>, выиграв в шести и проиграв в пяти матчах группового этапа. На <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2000" title="Чемпионат Канады по кёрлингу среди женщин 2000">чемпионате в 2000</a> она была запасной в команде Джун Кэмпбелл (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">June Campbell</span>); команда вышла в плей-офф, но проиграла в четвертьфинале будущему вице-чемпиону команде <a href="/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8_%D0%9B%D0%BE%D1%83" class="mw-redirect" title="Келли Лоу">Келли Лоу</a>. На <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2002" title="Чемпионат Канады по кёрлингу среди женщин 2002">чемпионате в 2002</a> Андерсон, снова как скип, проиграла в финале <a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%9A%D0%BE%D0%BB%D0%B8%D0%BD_(%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%82%D0%BA%D0%B0)" class="mw-redirect" title="Джонс, Колин (кёрлингистка)">Колин Джонс</a>. На <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2004" title="Чемпионат Канады по кёрлингу среди женщин 2004">чемпионате в 2004</a> команда скипа Андерсон вновь не вышла в плей-офф, на групповом этапе выиграв 7 матчей и проиграв 4, заняв в итоге 5-е место.
+</p><p>В 2010 Андерсон присоединилась к команде <a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a> на позиции третьего, и, будучи вице-скипом, она и Лоутон фактически на равных, как два скипа, обсуждали ход игры и принимали решения. На <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2014" title="Чемпионат Канады по кёрлингу среди женщин 2014">чемпионате в 2014</a> Андерсон вместе с командой Лоутон проиграли в матче за 3-е место команде <a href="/wiki/%D0%A7%D0%B5%D0%BB%D1%81%D0%B8_%D0%9A%D1%8D%D1%80%D0%B8" class="mw-redirect" title="Челси Кэри">Челси Кэри</a>; на следующий год, на <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2015" title="Чемпионат Канады по кёрлингу среди женщин 2015">чемпионате 2015</a> они вновь заняли 4-е место, проиграв в матче за бронзовую медаль команде <a href="/wiki/%D0%A0%D1%8D%D0%B9%D1%87%D0%B5%D0%BB_%D0%A5%D0%BE%D0%BC%D0%B0%D0%BD" class="mw-redirect" title="Рэйчел Хоман">Рэйчел Хоман</a>, на тот момент двукратной чемпионке Канады и вице-чемпионке мира.
+</p><p>Дважды попадала в состав «<a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD#Команды_всех_звёзд_(All_Stars_teams)" title="Чемпионат Канады по кёрлингу среди женщин">команды всех звёзд</a>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">All-Stars teams</span>) чемпионатов Канады&#160;— в 2010 как скип, в 2015 как третий.
+</p><p>Четыре раза получала на чемпионатах Канады «<a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B7_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D0%B0%D1%80%D0%B4%D0%B6_%D0%9C%D0%B8%D1%82%D1%87%D0%B5%D0%BB%D0%BB_%D0%B7%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Приз имени Мардж Митчелл за спортивное мастерство">Приз имени Мардж Митчелл за спортивное мастерство</a>»&#160;— в <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2004" title="Чемпионат Канады по кёрлингу среди женщин 2004">2004</a>, <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2014" title="Чемпионат Канады по кёрлингу среди женщин 2014">2014</a>, <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2015" title="Чемпионат Канады по кёрлингу среди женщин 2015">2015</a> и <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2018" title="Чемпионат Канады по кёрлингу среди женщин 2018">2018</a>.
+</p><p>Андерсон и со своими командами, и с Лоутон принимала участие, часто небезуспешное, во многих турнирах: в частности, с командой Лоутон дважды выиграла <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Кубок Канады по кёрлингу">Кубок Канады по кёрлингу</a> (в <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2010" title="Кубок Канады по кёрлингу 2010">2010</a>, победив в финале олимпийскую вице-чемпионку <a href="/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D0%BB_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4" class="mw-redirect" title="Шерил Бернард">Шерил Бернард</a>, и в <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2012" title="Кубок Канады по кёрлингу 2012">2012</a>, победив в финале команду <a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8%D1%84%D0%B5%D1%80_(%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%82%D0%BA%D0%B0)" title="Джонс, Дженнифер (кёрлингистка)">Дженнифер Джонс</a>, где заболевшую Джонс заменяла как скип её третий, <a href="/wiki/%D0%9A%D0%B5%D0%B9%D1%82%D0%BB%D0%B8%D0%BD_%D0%9B%D0%BE%D1%83%D1%81" class="mw-redirect" title="Кейтлин Лоус">Кейтлин Лоус</a>).
+</p><p>После чемпионата Канады 2015 Андерсон ушла из команды Лоутон и вновь набрала собственную команду, пригласив в неё молодых кёрлингисток<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 2024 была введена в <a href="/wiki/%D0%97%D0%B0%D0%BB_%D1%81%D0%BB%D0%B0%D0%B2%D1%8B_%D0%BA%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0" title="Зал славы канадского кёрлинга">Зал славы канадского кёрлинга</a><sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Достижения"><span id=".D0.94.D0.BE.D1.81.D1.82.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span>Достижения</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Достижения»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit&amp;section=2" title="Редактировать код раздела «Достижения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD" title="Чемпионат Канады по кёрлингу среди женщин">Чемпионат Канады по кёрлингу среди женщин</a>: серебро (<a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2002" title="Чемпионат Канады по кёрлингу среди женщин 2002">2002</a>), бронза (<a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_1994" title="Чемпионат Канады по кёрлингу среди женщин 1994">1994</a>).</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Канадский олимпийский отбор по кёрлингу">Канадский олимпийский отбор по кёрлингу</a>: серебро (<a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2001" title="Канадский олимпийский отбор по кёрлингу 2001">2001</a>).</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Кубок Канады по кёрлингу">Кубок Канады по кёрлингу</a>: золото (<a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2010" title="Кубок Канады по кёрлингу 2010">2010</a>, <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2012" title="Кубок Канады по кёрлингу 2012">2012</a>), серебро (<a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2004" title="Кубок Канады по кёрлингу 2004">2004</a>).</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Чемпионат мира по кёрлингу среди ветеранов">Чемпионат мира по кёрлингу среди ветеранов</a>: золото (<a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2018" title="Чемпионат мира по кёрлингу среди ветеранов 2018">2018</a>, <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2019" title="Чемпионат мира по кёрлингу среди ветеранов 2019">2019</a>, <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2023" title="Чемпионат мира по кёрлингу среди ветеранов 2023">2023</a>).</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Чемпионат Канады по кёрлингу среди ветеранов">Чемпионат Канады по кёрлингу среди ветеранов</a>: золото (2017, 2018, 2019, 2021, 2022), серебро (<a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2016" title="Чемпионат Канады по кёрлингу среди ветеранов 2016">2016</a>).</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Команды"><span id=".D0.9A.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D1.8B"></span>Команды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Команды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit&amp;section=3" title="Редактировать код раздела «Команды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Сезон</th>
+<th>Четвёртый</th>
+<th>Третий</th>
+<th>Второй</th>
+<th>Первый</th>
+<th>Запасной</th>
+<th>Турниры
+</th></tr>
+<tr>
+<td>1993—94</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kay Montgomery</td>
+<td>Donna Gignac</td>
+<td>Elaine McCloy</td>
+<td>Cathy Fahlman</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_1994" title="Чемпионат Канады по кёрлингу среди женщин 1994">ЧК 1994</a> <span style="display:none" class="sortkey">03&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="3" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/20px-Bronze_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/40px-Bronze_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>1994—95</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kay Montgomery</td>
+<td>Donna Gignac</td>
+<td>Elaine McCloy</td>
+<td>Twyla Fisher</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_1995" title="Чемпионат Канады по кёрлингу среди женщин 1995">ЧК 1995</a> (7 место)
+</td></tr>
+<tr>
+<td>1995—96</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kay Montgomery</td>
+<td>Donna Gignac</td>
+<td>Elaine McCloy</td>
+<td></td>
+<td><sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>1998—99</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Sandra Mulroney</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>1999—00</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Sandra Mulroney</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>1999—00</td>
+<td><b>June Campbell</b></td>
+<td><a href="/wiki/%D0%9A%D1%8D%D1%82%D0%B8_%D0%A3%D0%BE%D0%BB%D1%82%D0%B5%D1%80" class="mw-redirect" title="Кэти Уолтер">Кэти Уолтер</a></td>
+<td>Karen Daku</td>
+<td>Leanne Whitrow</td>
+<td>Шерри Андерсон</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2000" title="Чемпионат Канады по кёрлингу среди женщин 2000">ЧК 2000</a> (4 место)
+</td></tr>
+<tr>
+<td>2000—01</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Sandra Mulroney</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2001—02</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Sandra Mulroney</td>
+<td>Donna Gignac</td>
+<td>Heather Walsh<br /><i><small>тренер: Ron Meyers</small></i></td>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2001" title="Канадский олимпийский отбор по кёрлингу 2001">КООК 2001</a> <span style="display:none" class="sortkey">02&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/20px-Silver_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/40px-Silver_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span><br /><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2002" title="Чемпионат Канады по кёрлингу среди женщин 2002">ЧК 2002</a> <span style="display:none" class="sortkey">02&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/20px-Silver_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/40px-Silver_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2002—03</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Sandra Mulroney</td>
+<td>Donna Gignac</td>
+<td></td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2003" title="Кубок Канады по кёрлингу 2003">КК 2003</a> (5 место)
+</td></tr>
+<tr>
+<td>2003—04</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Sandra Mulroney</td>
+<td>Donna Gignac</td>
+<td>Heather Walsh (ЧК)<br /><i><small>тренер: Bob Miller</small></i></td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2004" title="Кубок Канады по кёрлингу 2004">КК 2004</a> <span style="display:none" class="sortkey">02&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/20px-Silver_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/40px-Silver_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span><br /><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2004" title="Чемпионат Канады по кёрлингу среди женщин 2004">ЧК 2004</a> (5 место)
+</td></tr>
+<tr>
+<td>2004—05</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Heather Walsh</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2004—05</td>
+<td><b><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a></b></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BB%D1%81%D0%B8_%D0%9C%D1%8D%D1%82%D1%81%D0%BE%D0%BD" class="mw-redirect" title="Челси Мэтсон">Челси Мэтсон</a></td>
+<td>Шерри Андерсон<br /><i><small>тренер: Bob Miller</small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2005" title="Чемпионат Канады по кёрлингу среди женщин 2005">ЧК 2005</a> (4 место)
+</td></tr>
+<tr>
+<td>2005—06</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Heather Walsh</td>
+<td>Donna Gignac</td>
+<td><a href="/wiki/%D0%AD%D0%BC%D0%B1%D0%B5%D1%80_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4" class="mw-redirect" title="Эмбер Холланд">Эмбер Холланд</a></td>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2005" title="Канадский олимпийский отбор по кёрлингу 2005">КООК 2005</a> (5 место)
+</td></tr>
+<tr>
+<td>2006—07</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Heather Walsh</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2007—08</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Heather Walsh</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2008—09</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Heather Walsh</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2009—10</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kim Hodson</td>
+<td>Heather Walsh</td>
+<td>Donna Gignac</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2010—11</td>
+<td><b><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a></b></td>
+<td>Шерри Андерсон</td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td></td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2010" title="Кубок Канады по кёрлингу 2010">КК 2010</a> <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2011—12</td>
+<td><b><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a></b></td>
+<td>Шерри Андерсон</td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td></td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2011" title="Кубок Канады по кёрлингу 2011">КК 2011</a> (7 место)<br /><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" class="mw-redirect" title="Континентальный Кубок по кёрлингу">ККК</a> 2012 <span style="display:none" class="sortkey">02&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/20px-Silver_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/40px-Silver_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2012—13</td>
+<td><b><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a></b></td>
+<td>Шерри Андерсон</td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td><a href="/wiki/%D0%91%D0%B0%D1%80%D1%82%D0%B5%D0%BB,_%D0%9A%D0%BE%D1%80%D0%B8" title="Бартел, Кори">Кори Моррис</a> (КООК)<br /><i><small>тренер: <a href="/wiki/%D0%A0%D0%B8%D0%BA_%D0%A4%D0%BE%D0%BB%D0%BA" class="mw-redirect" title="Рик Фолк">Рик Фолк</a></small></i></td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2012" title="Кубок Канады по кёрлингу 2012">КК 2012</a> <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span><br /><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2013" title="Канадский олимпийский отбор по кёрлингу 2013">КООК 2013</a> (7 место)
+</td></tr>
+<tr>
+<td>2013—14</td>
+<td><b><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a></b></td>
+<td>Шерри Андерсон</td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td><a href="/wiki/%D0%A1%D0%B8%D0%B2%D0%B5%D1%80%D1%82%D1%81%D0%BE%D0%BD,_%D0%94%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD" class="mw-redirect" title="Сивертсон, Дайлин">Дайлин Сивертсон</a><br /><i><small>тренер: <a href="/wiki/%D0%A0%D0%B8%D0%BA_%D0%A4%D0%BE%D0%BB%D0%BA" class="mw-redirect" title="Рик Фолк">Рик Фолк</a></small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2014" title="Чемпионат Канады по кёрлингу среди женщин 2014">ЧК 2014</a> (4 место)
+</td></tr>
+<tr>
+<td>2014—15 (1)<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></td>
+<td><b>Шерри Андерсон</b></td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td><a href="/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8" title="Шмидт, Стефани">Стефани Шмидт</a></td>
+<td></td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_2014" title="Кубок Канады по кёрлингу 2014">КК 2014</a> (4 место)
+</td></tr>
+<tr>
+<td>2014—15 (2)<sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></td>
+<td><b><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%9B%D0%BE%D1%83%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Стефани Лоутон">Стефани Лоутон</a></b></td>
+<td>Шерри Андерсон</td>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D1%80%D0%B8_%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%80" class="mw-redirect" title="Шерри Синглер">Шерри Синглер</a><sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><br /><a href="/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8" title="Шмидт, Стефани">Стефани Шмидт</a><sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_%D0%9A%D1%8D%D1%81%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Марлиз Кэснер">Марлиз Кэснер</a></td>
+<td><a href="/wiki/%D0%92%D1%8D%D0%B9,_%D0%9B%D0%B0%D0%BD%D0%B0" title="Вэй, Лана">Лана Вэй</a><br /><i><small>тренер: <a href="/wiki/%D0%A0%D0%B8%D0%BA_%D0%A4%D0%BE%D0%BB%D0%BA" class="mw-redirect" title="Рик Фолк">Рик Фолк</a></small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2015" title="Чемпионат Канады по кёрлингу среди женщин 2015">ЧК 2015</a> (4 место)
+</td></tr>
+<tr>
+<td>2015—16</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Jessica Hanson</td>
+<td>Elyse Lafrance</td>
+<td>Brie Spilchen</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2015—16</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Patty Hersikorn</td>
+<td>Brenda Goertzen</td>
+<td>Anita Silvernagle</td>
+<td></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2016" title="Чемпионат Канады по кёрлингу среди ветеранов 2016">ЧКВ 2016</a> <span style="display:none" class="sortkey">02&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/20px-Silver_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/40px-Silver_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2016—17</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Patty Hersikorn</td>
+<td>Brenda Goertzen</td>
+<td>Anita Silvernagle</td>
+<td></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Чемпионат Канады по кёрлингу среди ветеранов">ЧКВ</a> 2017 <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2017—18</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Kourtney Fesser</td>
+<td>Krista Fesser</td>
+<td>Karlee Korchinski</td>
+<td><a href="/wiki/%D0%9A%D0%B8%D0%BC_%D0%A8%D0%BD%D0%B5%D0%B9%D0%B4%D0%B5%D1%80" class="mw-redirect" title="Ким Шнейдер">Ким Шнейдер</a><br /><i><small>тренер: <a href="/wiki/%D0%A0%D0%B8%D0%BA_%D0%A4%D0%BE%D0%BB%D0%BA" class="mw-redirect" title="Рик Фолк">Рик Фолк</a></small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2018" title="Чемпионат Канады по кёрлингу среди женщин 2018">ЧК 2018</a> (11 место)
+</td></tr>
+<tr>
+<td>2017—18</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Patty Hersikorn</td>
+<td>Brenda Goertzen</td>
+<td>Anita Silvernagle</td>
+<td><i><small>тренер: <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%BB_%D0%A7%D0%B8%D1%80%D1%85%D0%B0%D1%80%D1%82" class="mw-redirect" title="Билл Чирхарт">Билл Чирхарт</a></small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Чемпионат Канады по кёрлингу среди ветеранов">ЧКВ</a> 2018 <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span><br /><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2018" title="Чемпионат мира по кёрлингу среди ветеранов 2018">ЧМВ 2018</a> <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2018—19</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Patty Hersikorn</td>
+<td>Brenda Goertzen</td>
+<td>Anita Silvernagle</td>
+<td><i><small>тренер: <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%BB_%D0%A7%D0%B8%D1%80%D1%85%D0%B0%D1%80%D1%82" class="mw-redirect" title="Билл Чирхарт">Билл Чирхарт</a></small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2019" title="Чемпионат мира по кёрлингу среди ветеранов 2019">ЧМВ 2019</a> <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr>
+<tr>
+<td>2020—21</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Nancy Martin</td>
+<td>Chaelynn Kitz</td>
+<td><a href="/wiki/%D0%91%D1%80%D0%B5%D0%B0%D0%BD%D0%BD%D0%B0_%D0%9D%D0%B0%D0%BF%D0%BF" class="mw-redirect" title="Бреанна Напп">Бреанна Напп</a></td>
+<td><a href="/wiki/%D0%AD%D0%BC%D0%B1%D0%B5%D1%80_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4" class="mw-redirect" title="Эмбер Холланд">Эмбер Холланд</a><br /><i><small>тренер: Shane Kitz</small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2021" title="Чемпионат Канады по кёрлингу среди женщин 2021">ЧК 2021</a> (6 место)
+</td></tr>
+<tr>
+<td>2021—22</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Patty Hersikorn</td>
+<td>Brenda Goertzen</td>
+<td>Anita Silvernagle</td>
+<td>Denise Hersikorn (ЧМВ)</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Чемпионат Канады по кёрлингу среди ветеранов">ЧКВ</a> 2021 <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span><br /><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2022" title="Чемпионат мира по кёрлингу среди ветеранов 2022">ЧМВ 2022</a> (5 место)
+</td></tr>
+<tr>
+<td>2022—23</td>
+<td><b>Шерри Андерсон</b></td>
+<td>Patty Hersikorn</td>
+<td>Brenda Goertzen</td>
+<td>Anita Silvernagle</td>
+<td><i><small>тренер: <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%BB_%D0%A7%D0%B8%D1%80%D1%85%D0%B0%D1%80%D1%82" class="mw-redirect" title="Билл Чирхарт">Билл Чирхарт</a> (ЧМВ)</small></i></td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Чемпионат Канады по кёрлингу среди ветеранов">ЧКВ</a> 2022 <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span><br /><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2023" title="Чемпионат мира по кёрлингу среди ветеранов 2023">ЧМВ 2023</a> <span style="display:none" class="sortkey">01&#32;!</span><span class="sorttext"><span class="mw-default-size" typeof="mw:File"><span><img alt="1" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/20px-Gold_medal_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/40px-Gold_medal_icon.svg.png 1.5x" data-file-width="16" data-file-height="16" /></span></span></span>
+</td></tr></tbody></table>
+<p><i>(<b><a href="/wiki/%D0%A1%D0%BA%D0%B8%D0%BF_(%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3)" title="Скип (кёрлинг)">скипы</a></b> выделены полужирным шрифтом)</i>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Частная_жизнь"><span id=".D0.A7.D0.B0.D1.81.D1.82.D0.BD.D0.B0.D1.8F_.D0.B6.D0.B8.D0.B7.D0.BD.D1.8C"></span>Частная жизнь</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Частная жизнь»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit&amp;section=4" title="Редактировать код раздела «Частная жизнь»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Окончила университет Carlton Comprehensive High School<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Замужем, муж Колин Кобин (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Colin Coben</span>), трое <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%8B%D0%BD%D0%BE%D0%BA" title="Пасынок">пасынков</a>: Крис (Chris, род. 1976), Кимберли (Cimberly, род. 1978), Кортни (Courtney, род. 1984)<sup id="cite&#95;ref-lawton&#95;2-1" class="reference"><a href="#cite_note-lawton-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Работает как владелец и партнёр (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">owner/partner</span>) в компании мужа, C&amp;S Promotions.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit&amp;section=5" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-&#95;0056e187381e2016-1"><span class="mw-cite-backlink"><a href="#cite_ref-_0056e187381e2016_1-0">↑</a></span> <span class="reference-text"><span class="wikidata&#95;cite citetype&#95;Q29043181" data-entity-id="Q21705650">results worldcurling&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span><span class="wef&#95;low&#95;priority&#95;links"></span></span></span>
+</li>
+<li id="cite&#95;note-lawton-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-lawton_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-lawton_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cloudfront9.curling.ca/2013roaroftherings-en/files/2013/12/2013ROTR_MorningRoar_Day4.pdf">Morning Roar | Issue 4&#160;— Wednesday, December 4, 2013</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140222232756/http://cloudfront9.curling.ca/2013roaroftherings-en/files/2013/12/2013ROTR_MorningRoar_Day4.pdf">Архивная копия</a> от 22 февраля 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (page 13)&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.paherald.sk.ca/Sports/Curling/2016-01-28/article-4419338/Familiar-face/1">Familiar face&#160;— Curling&#160;— The Prince Albert Daily Herald</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160311004632/http://www.paherald.sk.ca/Sports/Curling/2016-01-28/article-4419338/Familiar-face/1">Архивная копия</a> от 11 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.worldcurl.com/teams.php?teamid=86593">Tour Profile: Team Anderson&#160;— World Curling Tour</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160302060025/http://www.worldcurl.com/teams.php?teamid=86593">Архивная копия</a> от 2 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.curling.ca/blog/2024/02/15/hall-of-fame-grows/">Hall of Fame grows</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;<i>Curling Canada</i>&#32;(15 февраля 2024).&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20240225071536/https://www.curling.ca/blog/2024/02/15/hall-of-fame-grows/">Архивировано</a> 25 февраля 2024 года.</span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://curlsask.ca/competitions/saskatchewans-past-provincial-champions/">History of Competition Champions&#160;— CURLSASK</a> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150208073705/http://curlsask.ca/competitions/saskatchewans-past-provincial-champions/">Архивировано</a> 8&#160;февраля 2015&#160;года.</small>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Состав команды Лоутон в сезоне 2014—2015 до февраля 2015, пока Стефани Лоутон была беременна или восстанавливалась после родов; Лоутон в этом составе числилась запасной.</span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Состав команды Лоутон в сезоне 2014—2015 после января 2015, на чемпионате Канады 2015 и до конца сезона.</span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Шерри Синглер не участвовала в <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2015" title="Чемпионат Канады по кёрлингу среди женщин 2015">чемпионате Канады 2015</a>, поскольку заболела. На чемпионате Канады её заменяла <a href="/wiki/%D0%92%D1%8D%D0%B9,_%D0%9B%D0%B0%D0%BD%D0%B0" title="Вэй, Лана">Лана Вэй</a> (в качестве запасной, но в куртке с её фамилией, так как именно Синглер была заявлена на чемпионат в составе). В остальных турнирах сезона участвовала на позиции второго.</span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Только на <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_2015" title="Чемпионат Канады по кёрлингу среди женщин 2015">чемпионате Канады 2015</a>, заменяя заболевшую Шерри Синглер. После чемпионата Канады (конец февраля 2015) до окончания сезона&#160;— запасная.</span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ontariocurlingtour.com/player.php?playerid=1505">Ontario Curling Tour&#160;— Powered by CurlingZone.com</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160302223934/http://www.ontariocurlingtour.com/player.php?playerid=1505">Архивная копия</a> от 2 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit&amp;section=6" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="https://stats.curling.io/players/anderson-sherry">Sherry Anderson – Curling Canada Stats Archive</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q7495382#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.curlingzone.com/player.php?playerid=1505">CurlingZone</a></li>
+<li><a rel="nofollow" class="external text" href="https://results.worldcurling.org/Person/Details/8758">Всемирная федерация кёрлинга</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Чемпионы&#95;мира&#95;по&#95;кёрлингу&#95;среди&#95;ветеранов&#95;(женщины,&#95;указаны&#95;скипы&#95;команд)" data-name="Чемпионы мира по кёрлингу среди ветеранов (женщины)"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D1%8B_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_(%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B)" title="Перейти к шаблону «Чемпионы мира по кёрлингу среди ветеранов (женщины)»"><img alt="Перейти к шаблону «Чемпионы мира по кёрлингу среди ветеранов (женщины)»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Чемпионы&#95;мира&#95;по&#95;кёрлингу&#95;среди&#95;ветеранов&#95;(женщины,&#95;указаны&#95;скипы&#95;команд)" style="font-size:114%;margin:0 5em">Чемпионы мира по кёрлингу среди ветеранов <i>(женщины, указаны скипы команд)</i></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2002" title="Чемпионат мира по кёрлингу среди ветеранов 2002">2002</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Anne Dunn</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2003" title="Чемпионат мира по кёрлингу среди ветеранов 2003">2003</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%9D%D1%8D%D0%BD%D1%81%D0%B8" title="Керр, Нэнси">Нэнси Керр</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2004" title="Чемпионат мира по кёрлингу среди ветеранов 2004">2004</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Anne Dunn</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2005" title="Чемпионат мира по кёрлингу среди ветеранов 2005">2005</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Шотландии по кёрлингу">↗</a><span class="nowrap" data-sort-value="Шотландия"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Шотландия" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/60px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></span></span></span>&#160;Carolyn Morris</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2006" title="Чемпионат мира по кёрлингу среди ветеранов 2006">2006</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Швеции по кёрлингу">↗</a><span class="nowrap" data-sort-value="Швеция"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Швеция" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/40px-Flag_of_Sweden.svg.png" decoding="async" width="22" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/60px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></span></span></span></span>&#160;<a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%B4%D0%B0%D0%BB%D1%8C,_%D0%98%D0%BD%D0%B3%D1%80%D0%B8%D0%B4" title="Мельдаль, Ингрид">Ингрид Мельдаль</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2007" title="Чемпионат мира по кёрлингу среди ветеранов 2007">2007</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Швеции по кёрлингу">↗</a><span class="nowrap" data-sort-value="Швеция"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Швеция" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/40px-Flag_of_Sweden.svg.png" decoding="async" width="22" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/60px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></span></span></span></span>&#160;<a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%B4%D0%B0%D0%BB%D1%8C,_%D0%98%D0%BD%D0%B3%D1%80%D0%B8%D0%B4" title="Мельдаль, Ингрид">Ингрид Мельдаль</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2008" title="Чемпионат мира по кёрлингу среди ветеранов 2008">2008</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Diane Foster</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2009" title="Чемпионат мира по кёрлингу среди ветеранов 2009">2009</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D1%81,_%D0%9F%D1%8D%D1%82" title="Сандерс, Пэт">Пэт Сандерс</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2010" title="Чемпионат мира по кёрлингу среди ветеранов 2010">2010</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Colleen Pinkney</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2011" title="Чемпионат мира по кёрлингу среди ветеранов 2011">2011</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%BE%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD" title="Юргенсон, Кристин">Кристин Юргенсон</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2012" title="Чемпионат мира по кёрлингу среди ветеранов 2012">2012</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Heidi Hanlon</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2013" title="Чемпионат мира по кёрлингу среди ветеранов 2013">2013</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%B3,_%D0%9A%D1%8D%D1%82%D0%B8_(%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%82%D0%BA%D0%B0)" title="Кинг, Кэти (кёрлингистка)">Кэти Кинг</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2014" title="Чемпионат мира по кёрлингу среди ветеранов 2014">2014</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Шотландии по кёрлингу">↗</a><span class="nowrap" data-sort-value="Шотландия"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Шотландия" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/60px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%9A%D1%8D%D0%BD%D0%BD%D0%BE%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD" title="Кэннон, Кристин">Кристин Кэннон</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2015" title="Чемпионат мира по кёрлингу среди ветеранов 2015">2015</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Lois Fowler</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2016" title="Чемпионат мира по кёрлингу среди ветеранов 2016">2016</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Шотландии по кёрлингу">↗</a><span class="nowrap" data-sort-value="Шотландия"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Шотландия" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/60px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%9B%D0%BE%D0%BA%D1%85%D0%B0%D1%80%D1%82,_%D0%94%D0%B6%D0%B5%D0%BA%D0%B8" title="Локхарт, Джеки">Джеки Локхарт</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2017" title="Чемпионат мира по кёрлингу среди ветеранов 2017">2017</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%9A%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD" title="Джонс, Коллин">Коллин Джонс</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2018" title="Чемпионат мира по кёрлингу среди ветеранов 2018">2018</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a class="mw-selflink selflink">Шерри Андерсон</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2019" title="Чемпионат мира по кёрлингу среди ветеранов 2019">2019</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a class="mw-selflink selflink">Шерри Андерсон</a></li>
+<li><s>2020</s>&#160;отменён</li>
+<li><s>2021</s>&#160;отменён</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2022" title="Чемпионат мира по кёрлингу среди ветеранов 2022">2022</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Швейцарии по кёрлингу">↗</a><span class="nowrap" data-sort-value="Швейцария"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Швейцария" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 1.5x" data-file-width="512" data-file-height="512" /></span></span></span></span>&#160;<a class="mw-selflink selflink">Шерри Андерсон</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2023" title="Чемпионат мира по кёрлингу среди ветеранов 2023">2023</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;<a class="mw-selflink selflink">Шерри Андерсон</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2024" title="Чемпионат мира по кёрлингу среди ветеранов 2024">2024</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Канады по кёрлингу">↗</a><span class="nowrap" data-sort-value="Канада"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Канада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span></span>&#160;Susan Froud</li>
+<li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_2024" title="Чемпионат мира по кёрлингу среди ветеранов 2024">2024</a>&#160;<a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Мужская сборная ветеранов Шотландии по кёрлингу">↗</a><span class="nowrap" data-sort-value="Шотландия"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="Шотландия" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png" decoding="async" width="22" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/60px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></span></span></span>&#160;<a href="/wiki/%D0%9B%D0%BE%D0%BA%D1%85%D0%B0%D1%80%D1%82,_%D0%94%D0%B6%D0%B5%D0%BA%D0%B8" title="Локхарт, Джеки">Джеки Локхарт</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐c6g5q
+Cached time: 20260212102218
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.698 seconds
+Real time usage: 0.927 seconds
+Preprocessor visited node count: 9604/1000000
+Revision size: 17313/2097152 bytes
+Post‐expand include size: 110229/2097152 bytes
+Template argument size: 11512/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9863/5000000 bytes
+Lua time usage: 0.434/10.000 seconds
+Lua memory usage: 7697687/52428800 bytes
+Number of Wikibase entities loaded: 17/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  837.881      1 -total
+ 62.19%  521.077      1 Шаблон:Спортсмен
+ 59.78%  500.896      1 Шаблон:Карточка
+ 14.43%  120.872     11 Шаблон:Wikidata
+ 11.12%   93.145      1 Шаблон:Чемпионы_мира_по_кёрлингу_среди_ветеранов_(женщины)
+ 10.78%   90.340      1 Шаблон:Навигационная_таблица
+  9.93%   83.162     22 Шаблон:СборнаяФБС
+  7.12%   59.667      1 Шаблон:Карточка/оригинал_имени
+  6.70%   56.122      1 Шаблон:Внешние_ссылки
+  5.76%   48.228      1 Шаблон:ВД-Преамбула
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:6244957:|#|:idhash:canonical and timestamp 20260212102218 and revision id 151506564. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Андерсон,_Шерри&amp;oldid=151506564">https://ru.wikipedia.org/w/index.php?title=Андерсон,_Шерри&amp;oldid=151506564</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_6_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="Категория:Родившиеся 6 января">Родившиеся 6 января</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1964_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1964 году">Родившиеся в 1964 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9F%D1%80%D0%B8%D0%BD%D1%81-%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%B5" title="Категория:Родившиеся в Принс-Альберте">Родившиеся в Принс-Альберте</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Спортсмены по алфавиту">Спортсмены по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Кёрлингисты по алфавиту">Кёрлингисты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%82%D1%8B_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B" title="Категория:Кёрлингисты Канады">Кёрлингисты Канады</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%BE%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D1%88%D0%B5%D0%B9_%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D1%83%D0%B1%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83" title="Категория:Участники розыгрышей Континентального кубка по кёрлингу">Участники розыгрышей Континентального кубка по кёрлингу</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%97%D0%B0%D0%BB%D0%B0_%D1%81%D0%BB%D0%B0%D0%B2%D1%8B_%D0%BA%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0" title="Категория:Члены Зала славы канадского кёрлинга">Члены Зала славы канадского кёрлинга</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%82)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: кёрлингист)">Википедия:Статьи без изображений (тип: человек; род занятий: кёрлингист)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD%2C+%D0%A8%D0%B5%D1%80%D1%80%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD%2C+%D0%A8%D0%B5%D1%80%D1%80%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;oldid=151506564" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD%2C_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;id=151506564&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25B4%25D0%25B5%25D1%2580%25D1%2581%25D0%25BE%25D0%25BD%2C_%25D0%25A8%25D0%25B5%25D1%2580%25D1%2580%25D0%25B8"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25B4%25D0%25B5%25D1%2580%25D1%2581%25D0%25BE%25D0%25BD%2C_%25D0%25A8%25D0%25B5%25D1%2580%25D1%2580%25D0%25B8"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD%2C_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7495382" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%8A%D8%B1%D9%8A_%D8%A3%D9%86%D8%AF%D8%B1%D8%B3%D9%88%D9%86" title="شيري أندرسون — арабский" lang="ar" hreflang="ar" data-title="شيري أندرسون" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Sherry_Anderson" title="Sherry Anderson — английский" lang="en" hreflang="en" data-title="Sherry Anderson" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7495382#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 2 февраля 2026 года в 20:59.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-c6g5q","wgBackendResponseTime":1135,"wgPageParseReport":{"limitreport":{"cputime":"0.698","walltime":"0.927","ppvisitednodes":{"value":9604,"limit":1000000},"revisionsize":{"value":17313,"limit":2097152},"postexpandincludesize":{"value":110229,"limit":2097152},"templateargumentsize":{"value":11512,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9863,"limit":5000000},"entityaccesscount":{"value":17,"limit":500},"timingprofile":["100.00%  837.881      1 -total"," 62.19%  521.077      1 Шаблон:Спортсмен"," 59.78%  500.896      1 Шаблон:Карточка"," 14.43%  120.872     11 Шаблон:Wikidata"," 11.12%   93.145      1 Шаблон:Чемпионы_мира_по_кёрлингу_среди_ветеранов_(женщины)"," 10.78%   90.340      1 Шаблон:Навигационная_таблица","  9.93%   83.162     22 Шаблон:СборнаяФБС","  7.12%   59.667      1 Шаблон:Карточка/оригинал_имени","  6.70%   56.122      1 Шаблон:Внешние_ссылки","  5.76%   48.228      1 Шаблон:ВД-Преамбула"]},"scribunto":{"limitreport-timeusage":{"value":"0.434","limit":"10.000"},"limitreport-memusage":{"value":7697687,"limit":52428800},"limitreport-logs":"Loaded datatype monolingualtext of P1449 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype monolingualtext of P1449 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P641 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P54 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P741 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P286 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2048 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2067 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-c6g5q","timestamp":"20260212102218","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043d\u0434\u0435\u0440\u0441\u043e\u043d, \u0428\u0435\u0440\u0440\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A8%D0%B5%D1%80%D1%80%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7495382","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7495382","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-02-19T13:01:12Z","headline":"\u043a\u0430\u043d\u0430\u0434\u0441\u043a\u0430\u044f \u043a\u0451\u0440\u043b\u0438\u043d\u0433\u0438\u0441\u0442\u043a\u0430"}</script>
+</body>
+</html>

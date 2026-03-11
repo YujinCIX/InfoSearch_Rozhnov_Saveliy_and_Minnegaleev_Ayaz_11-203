@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Ленки — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"2f795d95-e2c0-4028-91ab-e1bcac0addfd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ленки","wgTitle":"Ленки","wgCurRevisionId":151491218,"wgRevisionId":151491218,"wgArticleId":938283,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи без источников (тип: таксон)","Википедия:Нет источников с мая 2020","Википедия:Статьи с утверждениями без источников более 14 дней","Википедия:Статьи без ссылок на источники с мая 2020 года","Животные по алфавиту","Лососёвые","Роды лучепёрых рыб"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Ленки","wgRelevantArticleId":938283,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":151491218,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q12607217","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/de/Brachymystax_lenokBMNHM.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="791">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Ленки — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ленки rootpage-Ленки skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Ленки</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Ленки (значения)">Ленки (значения)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r143790059">.mw-parser-output .ts-Таксон-ids{width:100%;border-collapse:collapse;background:transparent}.mw-parser-output .ts-Таксон-ids th{font-weight:normal;text-align:right;vertical-align:middle;width:40%}.mw-parser-output .ts-Таксон-ids td{text-align:left;vertical-align:middle}body.skin--responsive.skin-minerva .mw-parser-output .infobox .ts-Таксон-ids th,body.skin--responsive.skin-minerva .mw-parser-output .infobox .ts-Таксон-ids td{padding:4px 1px;vertical-align:middle}</style><style data-mw-deduplicate="TemplateStyles:r145942173">.mw-parser-output .ts-Taxonomy-rang-row{text-align:left;width:100%;border-spacing:0}.mw-parser-output .ts-Taxonomy-rang-row:not([hidden]){display:table}.mw-parser-output .ts-Taxonomy-rang-label{display:table-cell;text-align:right;vertical-align:top;padding-right:0.3em!important;white-space:nowrap}.mw-parser-output .ts-Taxonomy-rang-name{display:table-cell;text-align:left;vertical-align:bottom}.mw-parser-output .ts-Taxonomy-error{color:var(--color-subtle,#54595d);background:var(--background-color-disabled,#c8ccd1);font-size:85%}body.skin-minerva .mw-parser-output .ts-Taxonomy-rang-label{width:40%}@media(min-width:720px){.mw-parser-output .ts-Taxonomy-rang-label{width:40%!important}}</style>
+<table class="infobox infobox-317d5ef50720e981" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; width:275px;" data-name="Таксон"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:#ffc3cd;font-size:130%;">Ленки</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Brachymystax_lenokBMNHM.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brachymystax_lenokBMNHM.jpg/330px-Brachymystax_lenokBMNHM.jpg" decoding="async" width="275" height="181" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brachymystax_lenokBMNHM.jpg/500px-Brachymystax_lenokBMNHM.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brachymystax_lenokBMNHM.jpg/551px-Brachymystax_lenokBMNHM.jpg 2x" data-file-width="551" data-file-height="363" /></a></span></span> </td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#ffd1d9;font-size:110%;"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">Научная классификация</a></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<div data-expandtext="подробно" data-collapsetext="кратко" class="mw-collapsible mw-collapsed" style="font-size:95%; background-color: transparent; color: inherit; border:0;"><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Домен:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eukaryota" class="mw-redirect" title="Eukaryota">Эукариоты</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Царство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Animalia" class="mw-redirect" title="Animalia">Животные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подцарство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eumetazoa" class="mw-redirect" title="Eumetazoa">Эуметазои</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Без ранга:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Bilateria" class="mw-redirect" title="Bilateria">Двусторонне-симметричные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Без ранга:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Deuterostomia" class="mw-redirect" title="Deuterostomia">Вторичноротые</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Тип:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Chordata" class="mw-redirect" title="Chordata">Хордовые</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подтип:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Vertebrata" class="mw-redirect" title="Vertebrata">Позвоночные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Инфратип:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Gnathostomata" class="mw-redirect" title="Gnathostomata">Челюстноротые</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Группа:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Osteichthyes" class="mw-redirect" title="Osteichthyes">Костные рыбы</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Класс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Actinopterygii" class="mw-redirect" title="Actinopterygii">Лучепёрые рыбы</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подкласс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Neopterygii" class="mw-redirect" title="Neopterygii">Новопёрые рыбы</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Инфракласс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Teleostei" class="mw-redirect" title="Teleostei">Костистые рыбы</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Надотряд:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Protacanthopterygii&amp;action=edit&amp;redlink=1" class="new" title="Protacanthopterygii (страница отсутствует)">Протакантоптеригии</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Отряд:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Salmoniformes" class="mw-redirect" title="Salmoniformes">Лососеобразные</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Семейство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Salmonidae" class="mw-redirect" title="Salmonidae">Лососёвые</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подсемейство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Salmoninae" class="mw-redirect" title="Salmoninae">Лососёвые</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Род:</div><div class="ts-Taxonomy-rang-name"><b>Ленки</b></div></div></div></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#ffd1d9;font-size:110%;">Международное научное название</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<i>Brachymystax</i> <span style="font-variant:small-caps;"><a href="/wiki/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82" title="Гюнтер, Альберт">Günther</a>, 1866</span></td>
+</tr><tr><td colspan="2" class="infobox-below" style="background:#ffe0e5; font-size:90%; line-height:140%;;"><table role="presentation" width="100%" class="plainlinks" cellspacing="0" cellpadding="4"><tbody><tr><td style="vertical-align:middle"><span typeof="mw:File"><a href="https://species.wikimedia.org/wiki/Brachymystax?uselang=ru"><img alt="Логотип Викивидов" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png" decoding="async" width="17" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png 1.5x" data-file-width="941" data-file-height="1103" /></a></span><br /><a class="external text" href="https://species.wikimedia.org/wiki/Brachymystax?uselang=ru">Систематика<br />в&#160;Викивидах</a></td><td style="vertical-align:middle"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Brachymystax"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span><br /><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Brachymystax">Изображения<br />на&#160;Викискладе</a></td><td><table class="ts-Таксон-ids">
+<tbody><tr><th scope="row"><a href="/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0" title="Объединённая таксономическая информационная служба">ITIS</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q12607217$B906E587-51EB-44F1-8D25-74D3E7A8EF53" class="wikidata-claim" data-wikidata-property-id="P815"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=623307">623307</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B1%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Национальный центр биотехнологической информации">NCBI</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q12607217$826C731D-7AEB-4529-B419-028F253F6061" class="wikidata-claim" data-wikidata-property-id="P685"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=62066">62066</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Энциклопедия жизни">EOL</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q12607217$8D9DBC6A-2851-4D5C-8508-693720DE3852" class="wikidata-claim" data-wikidata-property-id="P830"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://eol.org/pages/27639">27639</a></span></span></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table>
+<p><b>Ленки</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">Brachymystax</span>, от <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">βρᾰχύς μύσταξ</span></span> «короткая верхняя губа»)&#160;— род <a href="/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%80%D1%8B%D0%B1%D1%8B" title="Пресноводные рыбы">пресноводных</a> <a href="/wiki/%D0%9B%D1%83%D1%87%D0%B5%D0%BF%D1%91%D1%80%D1%8B%D0%B5_%D1%80%D1%8B%D0%B1%D1%8B" title="Лучепёрые рыбы">лучепёрых рыб</a> семейства <a href="/wiki/%D0%9B%D0%BE%D1%81%D0%BE%D1%81%D1%91%D0%B2%D1%8B%D0%B5" title="Лососёвые">лососёвых</a> (Salmonidae).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Систематика_и_виды"><span class="tocnumber">1</span> <span class="toctext">Систематика и виды</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Описание"><span class="tocnumber">2</span> <span class="toctext">Описание</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#В_литературе"><span class="tocnumber">3</span> <span class="toctext">В литературе</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Систематика_и_виды"><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0.D1.82.D0.B8.D0.BA.D0.B0_.D0.B8_.D0.B2.D0.B8.D0.B4.D1.8B"></span>Систематика и виды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Систематика и виды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «Систематика и виды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Первоначально род содержал один вид <i>Brachymystax lenok</i>, описанный <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D1%81,_%D0%9F%D1%91%D1%82%D1%80_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD" title="Паллас, Пётр Симон">П. Палласом</a> в 1773 году, с двумя ярко выраженными формами&#160;— остромордой и тупомордой.
+</p><p>Позже таксономия была пересмотрена, и формы были выделены в отдельные виды:
+</p>
+<ul><li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Brachymystax_lenok&amp;action=edit&amp;redlink=1" class="new" title="Brachymystax lenok (страница отсутствует)">Brachymystax lenok</a></span>&#32;<span style="font-variant:small-caps;">(<a href="/wiki/Pallas" class="mw-redirect" title="Pallas">Pallas</a>, 1773)</span>&#32;—&#32;<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%BE%D0%BA" class="mw-redirect" title="Ленок">ленок</a>; остромордый</li>
+<li><span style="font-style:italic;" lang="LA"><a href="/wiki/Brachymystax_savinovi" class="mw-redirect" title="Brachymystax savinovi">Brachymystax savinovi</a></span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/%D0%9C%D0%B8%D1%82%D1%80%D0%BE%D1%84%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Митрофанов, Валерий Петрович">Mitrofanov</a>, 1959</span>&#32;—&#32;<a href="/wiki/%D0%A3%D1%81%D0%BA%D1%83%D1%87_(%D1%80%D1%8B%D0%B1%D0%B0)" title="Ускуч (рыба)">ускуч</a>; тупомордый</li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Brachymystax_tumensis&amp;action=edit&amp;redlink=1" class="new" title="Brachymystax tumensis (страница отсутствует)">Brachymystax tumensis</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Mori&amp;action=edit&amp;redlink=1" class="new" title="Mori (страница отсутствует)">Mori</a>, 1930</span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Brachymystax_tsinlingensis&amp;action=edit&amp;redlink=1" class="new" title="Brachymystax tsinlingensis (страница отсутствует)">Brachymystax tsinlingensis</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=%D0%9B%D0%B8_%D0%A1%D1%8B%D1%87%D0%B6%D1%83%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Ли Сычжун (страница отсутствует)">Li</a>, 1966</span></li></ul>
+<p>Существует ещё пучеглазый ленок, который обитает в бассейне рек <a href="/wiki/%D0%90%D0%BC%D1%83%D1%80" title="Амур">Амура</a> (оз. Сулук, оз. Корбохон)<style data-mw-deduplicate="TemplateStyles:r141254988">.mw-parser-output .ts-fix-template{font-style:normal;font-weight:normal;white-space:nowrap}.mw-parser-output .ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}html.skin-theme-clientpref-night .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented>a:not(:hover){border-bottom:1px dotted;text-decoration:none}}</style><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (24 мая 2020)">источник&#32;не указан 2090 дней</span></a></i>&#93;</sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Описание"><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span>Описание</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Описание»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;section=2" title="Редактировать код раздела «Описание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Распространена в реках и горных озёрах <a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C" title="Сибирь">Сибири</a> и <a href="/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Дальний Восток">Дальнего Востока</a>, <a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Китай">Китая</a>, <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D1%8F" title="Монголия">Монголии</a>, а также в <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Корейская Народно-Демократическая Республика">Северной Корее</a>, западнее <a href="/wiki/%D0%A3%D1%80%D0%B0%D0%BB" title="Урал">Урала</a> не встречается.<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141254988" /><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (24 мая 2020)">источник&#32;не указан 2090 дней</span></a></i>&#93;</sup>
+</p><p>Предпочитает быстрые холодные реки, главным образом их верховья. Держится небольшими <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%B8_%D0%B8_%D0%BA%D0%BE%D1%81%D1%8F%D0%BA%D0%B8_%D1%80%D1%8B%D0%B1" title="Стаи и косяки рыб">стайками</a>, крупные&#160;— в одиночку.
+</p><p>Достигает длины около 70&#160;см и массы 6&#160;кг. Темп роста невысокий.
+</p><p>По форме тела ленок похож на <a href="/wiki/%D0%A1%D0%B8%D0%B3%D0%B8" title="Сиги">сигов</a>. Тело брусковатое, прогонистое, рот маленький с небольшими острыми зубами, <a href="/wiki/%D0%A7%D0%B5%D1%88%D1%83%D1%8F" title="Чешуя">чешуя</a> мелкая, плотная. Окраска тела зависит от условий обитания, тёмно-бурое, на спине и боках с обилием тёмных округлых пятнышек и золотистым налётом, светлое в брюшной части, в нерестовую пору на боках выступают красные пятна, верхний, <a href="/wiki/%D0%96%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA" title="Жировой плавник">жировой</a> и <a href="/wiki/%D0%A5%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA" title="Хвостовой плавник">хвостовой плавники</a> в пятнышках. Ленок, обитающий на перекатах, имеет серебристую окраску с тёмно-серой спинкой, плавники с желтоватым отливом.
+</p><p><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B7%D1%80%D0%B5%D0%BB%D0%BE%D1%81%D1%82%D1%8C" title="Половая зрелость">Половой зрелости</a> ленок достигает на пятом&#160;— восьмом году жизни при длине 38&#160;см и массе 600—800&#160;г. Самки обычно созревают на год позже самцов. <a href="/wiki/%D0%9D%D0%B5%D1%80%D0%B5%D1%81%D1%82" title="Нерест">Нерест</a> происходит в мае&#160;— июне, на глубине 0,5—1,5&#160;м. Диаметр икры 4—4,5&#160;мм, масса 50—60&#160;мг. <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B8_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85" title="Продолжительность жизни растений и животных">Продолжительность жизни</a> ленка обычно не превышает 15 лет.
+</p><p><a href="/wiki/%D0%A5%D0%B8%D1%89%D0%BD%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%B0" title="Хищная рыба">Хищная рыба</a>. Молодь ленка в раннем возрасте питается <a href="/wiki/%D0%97%D0%BE%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%BA%D1%82%D0%BE%D0%BD" title="Зоопланктон">зоопланктоном</a>, по мере роста переходит на потребление <a href="/wiki/%D0%91%D0%B5%D0%BD%D1%82%D0%BE%D1%81" title="Бентос">донных организмов</a>&#160;— <a href="/wiki/%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0" title="Личинка">личинок насекомых</a> (личинки веснянок, <a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%91%D0%BD%D0%BA%D0%B8" title="Подёнки">подёнок</a>, <a href="/wiki/%D0%A0%D1%83%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" class="mw-redirect" title="Ручейник">ручейников</a>, <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BA%D0%BE%D0%B7%D1%8B" title="Стрекозы">стрекоз</a>, <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%87%D0%B8%D0%BA" class="mw-redirect" title="Кузнечик">кузнечиков</a> и других <a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BA%D0%BE%D0%BC%D1%8B%D0%B5" title="Насекомые">насекомых</a>, <a href="/wiki/%D0%93%D0%B0%D0%BC%D0%BC%D0%B0%D1%80%D0%B8%D0%B4%D1%8B" title="Гаммариды">гаммариды</a>, <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Водоросли">водоросли</a>), <a href="/wiki/%D0%91%D0%BE%D0%BA%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D1%8B" title="Бокоплавы">бокоплавов</a>, <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BB%D1%8E%D1%81%D0%BA%D0%B8" title="Моллюски">мелких моллюсков</a>, <a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%8B%D0%B5_%D1%87%D0%B5%D1%80%D0%B2%D0%B8" title="Земляные черви">дождевых червей</a>, <a href="/wiki/%D0%98%D0%BA%D1%80%D0%B0_(%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Икра (зоология)">икру</a> и молодь других видов рыб (<a href="/wiki/%D0%93%D0%BE%D0%BB%D1%8C%D1%8F%D0%BD" class="mw-redirect" title="Гольян">гольян</a>, <a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BA%D0%B0%D1%80%D1%8C" class="mw-redirect" title="Пескарь">пескарь</a>, <a href="/wiki/%D0%95%D0%BB%D0%B5%D1%86_(%D1%80%D1%8B%D0%B1%D0%B0)" title="Елец (рыба)">елец</a>, <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%89%D0%B8%D0%BA_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9" class="mw-redirect" title="Подкаменщик обыкновенный">подкаменщик</a>, <a href="/wiki/%D0%9E%D0%BA%D1%83%D0%BD%D0%B8" class="mw-redirect" title="Окуни">окунь</a> и <a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B8%D1%83%D1%81" class="mw-redirect" title="Хариус">хариус</a>). Крупные ленки иногда заглатывают <a href="/wiki/%D0%9C%D1%8B%D1%88%D0%B8%D0%BD%D1%8B%D0%B5" title="Мышиные">мышей</a>, <a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B5%D1%80%D0%BE%D0%B9%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5" title="Землеройковые">землероек</a>, <a href="/wiki/%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B8" title="Лягушки">лягушек</a>. Питается ленок в любое время суток, особенно активно утром и вечером.<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141254988" /><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (24 мая 2020)">источник&#32;не указан 2090 дней</span></a></i>&#93;</sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="В_литературе"><span id=".D0.92_.D0.BB.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B5"></span>В литературе</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit&amp;section=3" title="Редактировать раздел «В литературе»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;section=3" title="Редактировать код раздела «В литературе»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/%D0%94%D1%80%D0%B0%D0%B2%D0%B5%D1%80%D1%82,_%D0%9F%D1%91%D1%82%D1%80_%D0%9B%D1%8E%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%87" title="Драверт, Пётр Людовикович">П.&#160;Л.&#160;Драверт</a> написал стихи экспедиции в Саяны и ловле рыбы «Ленок», опубликованы в 1944 году в <a href="/wiki/%D0%9E%D0%BC%D1%81%D0%BA" title="Омск">Омске</a><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>. <a href="/wiki/%D0%90%D1%81%D1%82%D0%B0%D1%84%D1%8C%D0%B5%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Астафьев, Виктор Петрович">В. П. Астафьев</a> описал процесс ловли ленка в повести «<a href="/wiki/%D0%A6%D0%B0%D1%80%D1%8C-%D1%80%D1%8B%D0%B1%D0%B0_(%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C)" title="Царь-рыба (повесть)">Царь-рыба</a>».
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;section=4" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Драверт П. Л.</i> Ленок: Brachymystax lenok, Pall. // <a href="/wiki/%D0%9E%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85" title="Омский альманах">Омский альманах</a>. Книга 4. Омск: Омский ОГИЗ, 1944. С. 79.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;section=5" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><i>Астафьев В. П.</i> Царь-рыба. Москва: Издательство «Э», 2015. С. 47.</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Нет&#95;источников plainlinks metadata ambox ambox-content"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/60px-Question_book-4.svg.png" decoding="async" width="48" height="37" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/120px-Question_book-4.svg.png 1.5x" data-file-width="262" data-file-height="204" /></span></span></div></div><div class="mbox-text"><div class="mbox-text-div">В статье <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span>  <span class="mbox-date"><i>(<span class="date">24 мая 2020</span>)</i></span></div></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;section=6" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sevin.ru/vertebrates/index.html?Fishes/29.html">Ленок</a>&#160;— Позвоночные животные России.</li>
+<li><a rel="nofollow" class="external text" href="http://fish.krasu.ru/fauna/index_f.php3?6+1">Ленок</a> на сайте Рыбы Енисея.</li>
+<li><a rel="nofollow" class="external text" href="http://zooex.baikal.ru/vertebrata/lenok.htm">Ленок</a> на сайте zooex.baikal.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q12607217#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Таксономия</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://eol.org/pages/27639">EOL</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2351354">GBIF</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/87063">iNaturalist</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=62066">NCBI</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=1110740">IRMNG</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=623307">ITIS TSN</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=268582">WoRMS</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐79fc48df‐4lwxd
+Cached time: 20260212101638
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.454 seconds
+Real time usage: 0.630 seconds
+Preprocessor visited node count: 5866/1000000
+Revision size: 6906/2097152 bytes
+Post‐expand include size: 60373/2097152 bytes
+Template argument size: 12866/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6813/5000000 bytes
+Lua time usage: 0.292/10.000 seconds
+Lua memory usage: 5733146/52428800 bytes
+Number of Wikibase entities loaded: 5/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  571.665      1 -total
+ 55.33%  316.304      1 Шаблон:Таксон
+ 44.22%  252.782      1 Шаблон:Карточка
+ 26.03%  148.785     27 Шаблон:Wikidata
+ 13.58%   77.637      1 Шаблон:Нет_источников
+ 12.17%   69.592      1 Шаблон:Ambox
+ 11.17%   63.831      1 Шаблон:ВС
+ 11.04%   63.114      8 Шаблон:If-wikidata
+  9.35%   53.427      3 Шаблон:Нет_АИ
+  6.01%   34.338      1 Шаблон:Другие_значения
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:938283:|#|:idhash:canonical and timestamp 20260212101638 and revision id 151491218. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Ленки&amp;oldid=151491218">https://ru.wikipedia.org/w/index.php?title=Ленки&amp;oldid=151491218</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Животные по алфавиту">Животные по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%BE%D1%81%D0%BE%D1%81%D1%91%D0%B2%D1%8B%D0%B5" title="Категория:Лососёвые">Лососёвые</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D1%8B_%D0%BB%D1%83%D1%87%D0%B5%D0%BF%D1%91%D1%80%D1%8B%D1%85_%D1%80%D1%8B%D0%B1" title="Категория:Роды лучепёрых рыб">Роды лучепёрых рыб</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD)" title="Категория:Википедия:Статьи без источников (тип: таксон)">Википедия:Статьи без источников (тип: таксон)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D0%BC%D0%B0%D1%8F_2020" title="Категория:Википедия:Нет источников с мая 2020">Википедия:Нет источников с мая 2020</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D0%BC%D0%B0%D1%8F_2020_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без ссылок на источники с мая 2020 года">Википедия:Статьи без ссылок на источники с мая 2020 года</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;oldid=151491218" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;id=151491218&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259B%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25B8"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259B%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25B8"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Brachymystax" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Brachymystax" hreflang="en"><span>Викивиды</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12607217" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Lenok" title="Lenok — азербайджанский" lang="az" hreflang="az" data-title="Lenok" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bxr mw-list-item"><a href="https://bxr.wikipedia.org/wiki/%D0%97%D1%8D%D0%B1%D0%B3%D1%8D%D0%BD" title="Зэбгэн — бурятский" lang="bxr" hreflang="bxr" data-title="Зэбгэн" data-language-autonym="Буряад" data-language-local-name="бурятский" class="interlanguage-link-target"><span>Буряад</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Brachymystax" title="Brachymystax — себуано" lang="ceb" hreflang="ceb" data-title="Brachymystax" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Brachymystax" title="Brachymystax — немецкий" lang="de" hreflang="de" data-title="Brachymystax" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%92%CF%81%CE%B1%CF%87%CF%85%CE%BC%CF%8D%CF%83%CF%84%CE%B1%CE%BE" title="Βραχυμύσταξ — греческий" lang="el" hreflang="el" data-title="Βραχυμύσταξ" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Lenok" title="Lenok — английский" lang="en" hreflang="en" data-title="Lenok" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Brachymystax" title="Brachymystax — испанский" lang="es" hreflang="es" data-title="Brachymystax" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%84%E2%80%8C%D8%A2%D9%84%D8%A7%DB%8C_%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C" title="قزل‌آلای آسیایی — персидский" lang="fa" hreflang="fa" data-title="قزل‌آلای آسیایی" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Lenokit" title="Lenokit — финский" lang="fi" hreflang="fi" data-title="Lenokit" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Brachymystax" title="Brachymystax — французский" lang="fr" hreflang="fr" data-title="Brachymystax" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Brachymystax" title="Brachymystax — галисийский" lang="gl" hreflang="gl" data-title="Brachymystax" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Brachymystax" title="Brachymystax — итальянский" lang="it" hreflang="it" data-title="Brachymystax" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D2%9B%D0%B0%D0%BF" title="Майқап — казахский" lang="kk" hreflang="kk" data-title="Майқап" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%97%B4%EB%AA%A9%EC%96%B4%EC%86%8D" title="열목어속 — корейский" lang="ko" hreflang="ko" data-title="열목어속" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Lenokai" title="Lenokai — литовский" lang="lt" hreflang="lt" data-title="Lenokai" data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%97%D1%8D%D0%B2%D1%8D%D0%B3" title="Зэвэг — монгольский" lang="mn" hreflang="mn" data-title="Зэвэг" data-language-autonym="Монгол" data-language-local-name="монгольский" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Brachymystax" title="Brachymystax — нидерландский" lang="nl" hreflang="nl" data-title="Brachymystax" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Brachymystax" title="Brachymystax — польский" lang="pl" hreflang="pl" data-title="Brachymystax" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Brachymystax" title="Brachymystax — шведский" lang="sv" hreflang="sv" data-title="Brachymystax" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tyv mw-list-item"><a href="https://tyv.wikipedia.org/wiki/%D0%9C%D1%8B%D0%B9%D1%8B%D1%82" title="Мыйыт — тувинский" lang="tyv" hreflang="tyv" data-title="Мыйыт" data-language-autonym="Тыва дыл" data-language-local-name="тувинский" class="interlanguage-link-target"><span>Тыва дыл</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%BE%D0%BA" title="Ленок — украинский" lang="uk" hreflang="uk" data-title="Ленок" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Brachymystax" title="Brachymystax — варай" lang="war" hreflang="war" data-title="Brachymystax" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%BB%86%E9%B3%9E%E9%B2%91%E5%B1%9E" title="细鳞鲑属 — китайский" lang="zh" hreflang="zh" data-title="细鳞鲑属" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12607217#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 февраля 2026 года в 22:14.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-79fc48df-vlh76","wgBackendResponseTime":177,"wgPageParseReport":{"limitreport":{"cputime":"0.454","walltime":"0.630","ppvisitednodes":{"value":5866,"limit":1000000},"revisionsize":{"value":6906,"limit":2097152},"postexpandincludesize":{"value":60373,"limit":2097152},"templateargumentsize":{"value":12866,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6813,"limit":5000000},"entityaccesscount":{"value":5,"limit":500},"timingprofile":["100.00%  571.665      1 -total"," 55.33%  316.304      1 Шаблон:Таксон"," 44.22%  252.782      1 Шаблон:Карточка"," 26.03%  148.785     27 Шаблон:Wikidata"," 13.58%   77.637      1 Шаблон:Нет_источников"," 12.17%   69.592      1 Шаблон:Ambox"," 11.17%   63.831      1 Шаблон:ВС"," 11.04%   63.114      8 Шаблон:If-wikidata","  9.35%   53.427      3 Шаблон:Нет_АИ","  6.01%   34.338      1 Шаблон:Другие_значения"]},"scribunto":{"limitreport-timeusage":{"value":"0.292","limit":"10.000"},"limitreport-memusage":{"value":5733146,"limit":52428800},"limitreport-logs":"Loaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-79fc48df-4lwxd","timestamp":"20260212101638","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041b\u0435\u043d\u043a\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9B%D0%B5%D0%BD%D0%BA%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q12607217","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q12607217","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-21T09:16:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Brachymystax_lenokBMNHM.jpg","headline":"\u0440\u043e\u0434 \u0440\u044b\u0431"}</script>
+</body>
+</html>
