@@ -1,148 +1,98 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-# Скрипт для построения инвертированного индекса по выкачанным HTML-страницам.
-# Читает файлы из папки pages/, извлекает текст, токенизирует, лемматизирует,
-# удаляет стоп-слова и строит словарь {термин: [список номеров документов]}.
-# Результат сохраняется в JSON-файл.
-
 import os
-import re
-import json
-import argparse
+from pathlib import Path
 from collections import defaultdict
-from bs4 import BeautifulSoup
-import pymorphy2
 
-# Встроенный список стоп-слов (русские)
-DEFAULT_STOPWORDS = {
-    'и', 'в', 'во', 'не', 'что', 'он', 'на', 'я', 'с', 'со', 'как', 'а', 'то',
-    'все', 'она', 'так', 'его', 'но', 'да', 'ты', 'к', 'у', 'же', 'вы', 'за',
-    'бы', 'по', 'только', 'ее', 'мне', 'было', 'вот', 'от', 'меня', 'еще',
-    'нет', 'о', 'из', 'ему', 'теперь', 'когда', 'даже', 'ну', 'вдруг', 'ли',
-    'если', 'уже', 'или', 'ни', 'быть', 'был', 'него', 'до', 'вас', 'нибудь',
-    'опять', 'уж', 'вам', 'ведь', 'там', 'потом', 'себя', 'ничего', 'ей',
-    'может', 'они', 'тут', 'где', 'есть', 'надо', 'ней', 'для', 'мы', 'тебя',
-    'их', 'чем', 'была', 'сам', 'чтоб', 'без', 'будто', 'чего', 'раз', 'тоже',
-    'себе', 'под', 'будет', 'ж', 'тогда', 'кто', 'этот', 'того', 'потому',
-    'этого', 'какой', 'совсем', 'ним', 'здесь', 'этом', 'один', 'почти', 'мой',
-    'тем', 'чтобы', 'нее', 'сейчас', 'были', 'куда', 'зачем', 'всех', 'никогда',
-    'можно', 'при', 'наконец', 'два', 'об', 'другой', 'хоть', 'после', 'над',
-    'больше', 'тот', 'через', 'эти', 'нас', 'про', 'них', 'какая', 'много',
-    'разве', 'три', 'эту', 'моя', 'впрочем', 'хорошо', 'свою', 'этой', 'перед',
-    'иногда', 'лучше', 'чуть', 'том', 'нельзя', 'такой', 'им', 'более', 'всегда',
-    'конечно', 'всю', 'между'
-}
+# Пути
+LEMMAS_DIR = Path("lemmas")  # папка с файлами лемм
+OUTPUT_FILE = Path("inverted_index.txt")  # выходной файл
 
-def load_stopwords(filepath):
-    # Загружает стоп-слова из текстового файла (по одному слову на строку).
-    # Если файл не указан или не существует, возвращает встроенный список.
-    if filepath and os.path.exists(filepath):
-        with open(filepath, 'r', encoding='utf-8') as f:
-            return set(line.strip() for line in f)
-    return DEFAULT_STOPWORDS
 
-def extract_text_from_html(html_content):
-    # Извлекает чистый текст из HTML-разметки.
-    # Удаляет теги <script> и <style>, так как они не содержат полезного контента.
-    # Возвращает строку, в которой слова разделены пробелами.
-    soup = BeautifulSoup(html_content, 'lxml')
-    # Удаляем скрипты и стили
-    for script in soup(['script', 'style']):
-        script.decompose()
-    return soup.get_text(separator=' ')
+def create_inverted_index():
+    """Создает инвертированный индекс на основе файлов с леммами"""
 
-def tokenize(text):
-    # Разбивает текст на токены.
-    # Токен — последовательность букв длиной не менее 2 символов.
-    # Возвращает список слов в нижнем регистре.
+    index = defaultdict(list)
 
-    # Регулярное выражение ищет слова из букв (включая букву ё) длиной >= 2
-    return re.findall(r'\b[а-яёa-z]{2,}\b', text.lower())
+    # Проверяем, существует ли папка с леммами
+    if not LEMMAS_DIR.exists():
+        print(f"Ошибка: папка {LEMMAS_DIR} не найдена!")
+        return None
 
-def lemmatize_tokens(tokens, morph):
-    # Приводит каждый токен к нормальной форме (лемме) с помощью pymorphy2.
-    # Возвращает список лемм.
-    lemmas = []
-    for token in tokens:
-        p = morph.parse(token)[0]   # берём первый (наиболее вероятный) вариант разбора
-        lemmas.append(p.normal_form)
-    return lemmas
+    # Получаем все файлы с леммами (*_lemmas.txt)
+    lemma_files = list(LEMMAS_DIR.glob("*_lemmas.txt"))
 
-def build_index(pages_dir, index_txt_path, output_json, stopwords_file=None):
-    # Основная функция построения инвертированного индекса.
-    # pages_dir      - папка с файлами страниц (например, "pages/")
-    # index_txt_path - путь к файлу index.txt (содержит номера и URL)
-    # output_json    - имя выходного JSON-файла с индексом
-    # stopwords_file - опциональный файл со стоп-словами
-    
-    # Загружаем стоп-слова
-    stopwords = load_stopwords(stopwords_file)
+    print(f"Найдено файлов с леммами: {len(lemma_files)}")
 
-    # Читаем index.txt, извлекаем только номера документов (строки с ведущими нулями)
-    doc_ids = set()
-    with open(index_txt_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            parts = line.strip().split(maxsplit=1)
-            if parts:
-                doc_id = parts[0]          # строка, например "0001"
-                doc_ids.add(doc_id)
+    if not lemma_files:
+        print("Нет файлов для обработки!")
+        return None
 
-    # Инициализируем лемматизатор для русского языка
-    morph = pymorphy2.MorphAnalyzer()
+    # Сортируем файлы по имени (0001, 0002, 0003...)
+    lemma_files.sort()
 
-    # Инвертированный индекс: термин -> множество doc_id (строки)
-    index = defaultdict(set)
+    for lemma_file in lemma_files:
+        # Получаем номер документа из имени файла и преобразуем в int
+        # "0001_lemmas.txt" -> "0001" -> 1
+        doc_num = int(lemma_file.name.replace('_lemmas.txt', ''))
 
-    # Обрабатываем каждый файл
-    for doc_id in doc_ids:
-        file_path = os.path.join(pages_dir, f"{doc_id}.txt")
-        if not os.path.exists(file_path):
-            print(f"Предупреждение: файл {file_path} не найден, пропускаем.")
-            continue
+        print(f"Обработка документа {doc_num:04d}")  # выводим с ведущими нулями
 
-        with open(file_path, 'r', encoding='utf-8') as f:
-            html = f.read()
+        # Читаем леммы из файла
+        with open(lemma_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    # Формат файла: "лемма токен1 токен2 токен3 ..."
+                    parts = line.split()
+                    if parts:
+                        lemma = parts[0]  # первое слово - это лемма
+                        # Добавляем номер документа в индекс для этой леммы
+                        if doc_num not in index[lemma]:
+                            index[lemma].append(doc_num)
 
-        # Извлекаем текст из HTML
-        text = extract_text_from_html(html)
+    return index
 
-        # Токенизация
-        tokens = tokenize(text)
 
-        # Удаление стоп-слов
-        tokens = [t for t in tokens if t not in stopwords]
+def save_index_simple(index):
+    """Сохраняет индекс в самом простом формате"""
 
-        # Лемматизация
-        lemmas = lemmatize_tokens(tokens, morph)
+    if index is None:
+        print("Нет данных для сохранения!")
+        return
 
-        # Убираем дубликаты внутри документа
-        unique_lemmas = set(lemmas)
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        # Сортируем леммы по алфавиту
+        for lemma in sorted(index.keys()):
+            # Сортируем номера документов (теперь они int)
+            docs = ' '.join(str(d) for d in sorted(index[lemma]))
+            f.write(f"{lemma} {docs}\n")
 
-        # Добавляем в индекс
-        for lemma in unique_lemmas:
-            index[lemma].add(doc_id)
+    print(f"\nИндекс сохранен в: {OUTPUT_FILE}")
+    print(f"Всего уникальных лемм: {len(index)}")
 
-    # Преобразуем множества в списки для JSON-сериализации
-    serializable_index = {term: list(doc_ids) for term, doc_ids in index.items()}
 
-    # Добавляем служебную информацию: список всех doc_id
-    serializable_index['__all_docs'] = list(doc_ids)
+def main():
+    print("Создание инвертированного индекса лемм...")
+    print(f"Поиск файлов в: {LEMMAS_DIR.absolute()}")
 
-    # Сохраняем в JSON
-    with open(output_json, 'w', encoding='utf-8') as f:
-        json.dump(serializable_index, f, ensure_ascii=False, indent=2)
+    index = create_inverted_index()
 
-    print(f"Индекс построен и сохранён в {output_json}")
-    print(f"Всего терминов: {len(index)}")
-    print(f"Всего документов: {len(doc_ids)}")
+    if index:
+        save_index_simple(index)
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Построение инвертированного индекса')
-    parser.add_argument('--pages_dir', required=True, help='Папка с файлами страниц (например, pages/)')
-    parser.add_argument('--index_txt', required=True, help='Путь к index.txt')
-    parser.add_argument('--output', default='inverted_index.json', help='Имя выходного JSON-файла')
-    parser.add_argument('--stopwords', help='Файл со стоп-словами (по умолчанию встроенный список)')
-    args = parser.parse_args()
+        # Показываем небольшой пример
+        print("\nПример первых 10 лемм в индексе:")
+        for i, lemma in enumerate(sorted(index.keys())[:10]):
+            docs = ' '.join(str(d) for d in sorted(index[lemma])[:5])
+            print(f"  {lemma}: {docs}...")
 
-    build_index(args.pages_dir, args.index_txt, args.output, args.stopwords)
+        # Показываем статистику
+        all_docs = set()
+        for docs in index.values():
+            all_docs.update(docs)
+        print(f"\nСтатистика:")
+        print(f"  Всего документов: {len(all_docs)}")
+        print(f"  Всего лемм: {len(index)}")
+
+
+if __name__ == "__main__":
+    main()

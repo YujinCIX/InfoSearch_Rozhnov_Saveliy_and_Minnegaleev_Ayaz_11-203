@@ -1,181 +1,230 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import json
-import argparse
 import os
+import re
+from pathlib import Path
+from collections import defaultdict
+from typing import Set, Dict, List, Union
 
-# Приоритеты операторов (чем больше число, тем выше приоритет)
-PRECEDENCE = {
-    'NOT': 3,
-    'AND': 2,
-    'OR': 1,
-}
-LEFT_ASSOC = True  # все бинарные операторы левоассоциативны (AND и OR)
+# Пути
+INDEX_FILE = Path("../inverted_index.txt")
 
-def load_index(json_path):
-    # Загружает индекс из JSON-файла.
-    #Возвращает кортеж (index, all_docs), где:
-    #    index     - словарь {термин: множество doc_id}
-    #    all_docs  - множество всех номеров документов
-    with open(json_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    # Извлекаем служебный список всех документов
-    all_docs = set(data.pop('__all_docs', []))
-    # Преобразуем списки doc_id обратно в множества для быстрых операций
-    index = {term: set(doc_ids) for term, doc_ids in data.items()}
-    return index, all_docs
 
-def load_urls(index_txt_path):
-    # Загружает соответствие doc_id -> url из index.txt.
-    # doc_id хранятся как строки (с ведущими нулями).
-    urls = {}
-    with open(index_txt_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            parts = line.strip().split(maxsplit=1)
-            if len(parts) == 2:
-                doc_id, url = parts
-                urls[doc_id] = url
-    return urls
+class BooleanSearch:
+    def __init__(self, index_file: Path):
+        """Инициализация поиска: загрузка индекса"""
+        self.index: Dict[str, Set[int]] = {}
+        self.all_docs: Set[int] = set()
+        self.load_index(index_file)
 
-def tokenize_query(query):
-    # Разбивает строку запроса на токены.
-    # Скобки выделяются в отдельные токены, операторы приводятся к верхнему регистру,
-    # остальные слова — к нижнему (так как в индексе термины хранятся в нижнем регистре).
-    
-    # Добавляем пробелы вокруг скобок, чтобы они стали отдельными токенами
-    query = query.replace('(', ' ( ').replace(')', ' ) ')
-    tokens = query.split()
-    result = []
-    for tok in tokens:
-        if tok.upper() in {'AND', 'OR', 'NOT'}:
-            result.append(tok.upper())
-        elif tok in {'(', ')'}:
-            result.append(tok)
-        else:
-            result.append(tok.lower())  # термин в нижнем регистре
-    return result
+    def load_index(self, index_file: Path):
+        """Загрузка инвертированного индекса из файла"""
+        print("Загрузка индекса...")
 
-def infix_to_rpn(tokens):
-    # Преобразует инфиксную запись (со скобками и операторами) в обратную польскую нотацию (ОПН).
-    # Используется алгоритм сортировочной станции Эдсгера Дейкстры.
-    output = []  # выходная очередь (ОПН)
-    stack = []   # стек операторов и скобок
+        with open(index_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    parts = line.split()
+                    if len(parts) >= 2:
+                        term = parts[0]
+                        # Преобразуем строки с номерами документов в множество int
+                        docs = set(int(doc) for doc in parts[1:])
+                        self.index[term] = docs
+                        self.all_docs.update(docs)
 
-    for token in tokens:
-        if token == '(':
-            stack.append(token)
-        elif token == ')':
-            # Выталкиваем всё до открывающей скобки
-            while stack and stack[-1] != '(':
-                output.append(stack.pop())
-            if not stack:
-                raise ValueError("Несбалансированные скобки")
-            stack.pop()  # удаляем '('
-        elif token in PRECEDENCE:  # оператор
-            # Пока на вершине стека оператор с большим или равным приоритетом (и левая ассоциативность)
-            while (stack and stack[-1] != '(' and
-                   (PRECEDENCE[stack[-1]] > PRECEDENCE[token] or
-                    (PRECEDENCE[stack[-1]] == PRECEDENCE[token] and LEFT_ASSOC))):
-                output.append(stack.pop())
-            stack.append(token)
-        else:  # термин (слово)
-            output.append(token)
 
-    # Выталкиваем оставшиеся операторы
-    while stack:
-        if stack[-1] == '(':
-            raise ValueError("Несбалансированные скобки")
-        output.append(stack.pop())
+    def parse_query(self, query: str) -> Union[Set[int], str]:
+        """
+        Парсит и выполняет булев запрос.
+        Поддерживает операторы AND, OR, NOT и скобки.
+        """
+        # Удаляем лишние пробелы и приводим к нижнему регистру
+        query = query.strip().lower()
 
-    return output
+        if not query:
+            return "Пустой запрос"
 
-def evaluate_rpn(rpn, index, all_docs):
-    # Вычисляет значение выражения, заданного в ОПН.
-    # Операнды — множества номеров документов (строки).
-    stack = []
-    for token in rpn:
-        if token == 'NOT':
-            if not stack:
-                raise ValueError("NOT требует операнда")
-            operand = stack.pop()
-            result = all_docs - operand   # дополнение до всех документов
-            stack.append(result)
-        elif token == 'AND':
-            if len(stack) < 2:
-                raise ValueError("AND требует двух операндов")
-            right = stack.pop()
-            left = stack.pop()
-            stack.append(left & right)    # пересечение множеств
-        elif token == 'OR':
-            if len(stack) < 2:
-                raise ValueError("OR требует двух операндов")
-            right = stack.pop()
-            left = stack.pop()
-            stack.append(left | right)    # объединение множеств
-        else:  # термин
-            # Если термин отсутствует в индексе, возвращаем пустое множество
-            stack.append(index.get(token, set()))
-
-    if len(stack) != 1:
-        raise ValueError("Ошибка вычисления выражения: в стеке осталось несколько элементов")
-    return stack[0]
-
-def boolean_search(query, index, all_docs):
-    # Основная функция поиска: принимает строку запроса, возвращает множество doc_id или None с ошибкой.
-    tokens = tokenize_query(query)
-    try:
-        rpn = infix_to_rpn(tokens)
-    except ValueError as e:
-        return None, str(e)
-    try:
-        result_docs = evaluate_rpn(rpn, index, all_docs)
-    except ValueError as e:
-        return None, str(e)
-    return result_docs, None
-
-def main():
-    parser = argparse.ArgumentParser(description='Булев поиск по индексу')
-    parser.add_argument('--index', default='inverted_index.json', help='JSON-файл индекса')
-    parser.add_argument('--index_txt', required=True, help='Файл index.txt для отображения ссылок')
-    args = parser.parse_args()
-
-    # Загружаем индекс
-    if not os.path.exists(args.index):
-        print(f"Файл индекса {args.index} не найден. Сначала запустите build_index.py")
-        return
-    index, all_docs = load_index(args.index)
-    urls = load_urls(args.index_txt)
-
-    print("Булев поиск (поддерживаются AND, OR, NOT, скобки).")
-    print("Пример: (Клеопатра AND Цезарь) OR (Антоний AND NOT Цицерон) OR Помпей")
-    print("Для выхода введите 'exit'")
-
-    while True:
         try:
-            query = input("\nЗапрос > ").strip()
-            if query.lower() == 'exit':
+            # Токенизируем запрос
+            tokens = self.tokenize_query(query)
+
+            # Преобразуем инфиксную запись в постфиксную (обратная польская нотация)
+            postfix = self.infix_to_postfix(tokens)
+
+            # Вычисляем результат
+            result = self.evaluate_postfix(postfix)
+
+            return result
+
+        except Exception as e:
+            return f"Ошибка в запросе: {e}"
+
+    def tokenize_query(self, query: str) -> List[str]:
+        """
+        Разбивает запрос на токены (термины, операторы, скобки)
+        """
+        # Добавляем пробелы вокруг скобок для удобства токенизации
+        query = query.replace('(', ' ( ').replace(')', ' ) ')
+
+        # Разбиваем на токены
+        tokens = []
+        for token in query.split():
+            if token:  # пропускаем пустые
+                tokens.append(token)
+
+        return tokens
+
+    def infix_to_postfix(self, tokens: List[str]) -> List[str]:
+        """
+        Преобразует инфиксную запись в постфиксную (алгоритм сортировочной станции)
+        """
+        # Приоритет операторов
+        precedence = {
+            'not': 3,
+            'and': 2,
+            'or': 1,
+            '(': 0,
+            ')': 0
+        }
+
+        output = []
+        stack = []
+
+        for token in tokens:
+            if token == '(':
+                stack.append(token)
+
+            elif token == ')':
+                # Выталкиваем все операторы до открывающей скобки
+                while stack and stack[-1] != '(':
+                    output.append(stack.pop())
+                if stack and stack[-1] == '(':
+                    stack.pop()  # удаляем '('
+
+            elif token in precedence:  # это оператор
+                while (stack and stack[-1] != '(' and
+                       precedence.get(stack[-1], 0) >= precedence.get(token, 0)):
+                    output.append(stack.pop())
+                stack.append(token)
+
+            else:  # это термин
+                output.append(token)
+
+        # Выталкиваем оставшиеся операторы
+        while stack:
+            output.append(stack.pop())
+
+        return output
+
+    def evaluate_postfix(self, postfix: List[str]) -> Set[int]:
+        """
+        Вычисляет значение выражения в постфиксной записи
+        """
+        stack = []
+
+        for token in postfix:
+            if token == 'and':
+                if len(stack) < 2:
+                    raise ValueError("Недостаточно операндов для AND")
+                right = stack.pop()
+                left = stack.pop()
+                result = self.and_operation(left, right)
+                stack.append(result)
+
+            elif token == 'or':
+                if len(stack) < 2:
+                    raise ValueError("Недостаточно операндов для OR")
+                right = stack.pop()
+                left = stack.pop()
+                result = self.or_operation(left, right)
+                stack.append(result)
+
+            elif token == 'not':
+                if len(stack) < 1:
+                    raise ValueError("Недостаточно операндов для NOT")
+                operand = stack.pop()
+                result = self.not_operation(operand)
+                stack.append(result)
+
+            else:  # это термин
+                # Получаем множество документов для термина
+                docs = self.index.get(token, set())
+                stack.append(docs)
+
+        if len(stack) != 1:
+            raise ValueError("Некорректное выражение")
+
+        return stack[0]
+
+    def and_operation(self, set1: Set[int], set2: Set[int]) -> Set[int]:
+        """Операция AND: пересечение множеств"""
+        return set1 & set2
+
+    def or_operation(self, set1: Set[int], set2: Set[int]) -> Set[int]:
+        """Операция OR: объединение множеств"""
+        return set1 | set2
+
+    def not_operation(self, docs: Set[int]) -> Set[int]:
+        """Операция NOT: дополнение множества"""
+        return self.all_docs - docs
+
+    def format_results(self, result: Union[Set[int], str]) -> str:
+        """Форматирует результаты для вывода"""
+        if isinstance(result, str):  # сообщение об ошибке
+            return result
+
+        if not result:
+            return "Документы не найдены"
+
+        # Сортируем результаты
+        sorted_results = sorted(result)
+
+        # Форматируем вывод
+        output = [f"Найдено документов: {len(sorted_results)}"]
+        output.append("Номера документов: " + ", ".join(str(d) for d in sorted_results[:20]))
+
+        if len(sorted_results) > 20:
+            output.append(f"... и еще {len(sorted_results) - 20}")
+
+        return "\n".join(output)
+
+    def search_interactive(self):
+        print("\n" + "=" * 60)
+        print("БУЛЕВ ПОИСК")
+        print("=" * 60)
+        print("\nПоддерживаемые операторы:")
+        print("  AND - логическое И")
+        print("  OR  - логическое ИЛИ")
+        print("  NOT - логическое НЕ")
+        print("\nМожно использовать скобки для группировки")
+        print("\nПримеры запросов:")
+        print('  кот AND собака')
+        print('  (клеопатра AND цезарь) OR (антоний AND цицерон)')
+        print('  компьютер NOT (игра OR развлечение)')
+        print("\nДля выхода введите 'exit' или 'quit'")
+
+        while True:
+            print("\n" + "-" * 60)
+            query = input("Введите запрос: ").strip()
+
+            if query.lower() in ['exit', 'quit', 'выход']:
+                print("До свидания!")
                 break
+
             if not query:
                 continue
 
-            result_docs, error = boolean_search(query, index, all_docs)
-            if error:
-                print(f"Ошибка: {error}")
-                continue
+            print("\nРезультат:")
+            result = self.parse_query(query)
+            print(self.format_results(result))
 
-            if not result_docs:
-                print("Ничего не найдено.")
-            else:
-                print(f"Найдено документов: {len(result_docs)}")
-                # Сортируем номера для удобства (лексикографически, т.к. это строки "0001")
-                for doc_id in sorted(result_docs):
-                    url = urls.get(doc_id, 'URL не найден')
-                    print(f"{doc_id}\t{url}")
-        except KeyboardInterrupt:
-            break
-        except Exception as e:
-            print(f"Непредвиденная ошибка: {e}")
 
-if __name__ == '__main__':
+def main():
+    # Создаем поисковую систему
+    search = BooleanSearch(INDEX_FILE)
+
+    # Запускаем интерактивный режим
+    search.search_interactive()
+
+
+if __name__ == "__main__":
     main()
