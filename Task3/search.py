@@ -2,22 +2,26 @@ import os
 import re
 from pathlib import Path
 from collections import defaultdict
-from typing import Set, Dict, List, Union
+from typing import Set, Dict, List, Union, Tuple
 
 # Пути
-INDEX_FILE = Path("../inverted_index.txt")
+INDEX_FILE = Path("inverted_index.txt")
+LINKS_FILE = Path("index.txt")  # файл с соответствием номеров и ссылок
 
 
 class BooleanSearch:
-    def __init__(self, index_file: Path):
-        """Инициализация поиска: загрузка индекса"""
+    def __init__(self, index_file: Path, links_file: Path):
+        """Инициализация поиска: загрузка индекса и ссылок"""
         self.index: Dict[str, Set[int]] = {}
         self.all_docs: Set[int] = set()
+        self.links: Dict[int, str] = {}  # словарь {номер_документа: ссылка}
+
         self.load_index(index_file)
+        self.load_links(links_file)
 
     def load_index(self, index_file: Path):
         """Загрузка инвертированного индекса из файла"""
-        print("Загрузка индекса...")
+
 
         with open(index_file, 'r', encoding='utf-8') as f:
             for line in f:
@@ -31,6 +35,32 @@ class BooleanSearch:
                         self.index[term] = docs
                         self.all_docs.update(docs)
 
+
+    def load_links(self, links_file: Path):
+        """Загрузка соответствия номеров документов и ссылок"""
+
+        try:
+            with open(links_file, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and '\t' in line:
+                        # Формат: номер_документа<TAB>ссылка
+                        parts = line.split('\t')
+                        if len(parts) >= 2:
+                            doc_num = int(parts[0])
+                            link = parts[1]
+                            self.links[doc_num] = link
+
+
+
+            # Проверяем, есть ли ссылки для всех документов
+            missing_links = self.all_docs - set(self.links.keys())
+            if missing_links:
+                print(f"Внимание: нет ссылок для документов: {sorted(missing_links)}")
+
+        except FileNotFoundError:
+            print(f"Ошибка: файл {links_file} не найден!")
+            self.links = {}
 
     def parse_query(self, query: str) -> Union[Set[int], str]:
         """
@@ -168,7 +198,7 @@ class BooleanSearch:
         return self.all_docs - docs
 
     def format_results(self, result: Union[Set[int], str]) -> str:
-        """Форматирует результаты для вывода"""
+        """Форматирует результаты для вывода с ссылками"""
         if isinstance(result, str):  # сообщение об ошибке
             return result
 
@@ -180,17 +210,27 @@ class BooleanSearch:
 
         # Форматируем вывод
         output = [f"Найдено документов: {len(sorted_results)}"]
-        output.append("Номера документов: " + ", ".join(str(d) for d in sorted_results[:20]))
+        output.append("-" * 60)
 
-        if len(sorted_results) > 20:
-            output.append(f"... и еще {len(sorted_results) - 20}")
+        for i, doc_num in enumerate(sorted_results, 1):
+            # Получаем ссылку для документа
+            link = self.links.get(doc_num, "Ссылка не найдена")
+
+
+            output.append(f"{i:3}. Документ {doc_num:04d}: {link}")
+
+            # Ограничиваем вывод для очень больших результатов
+            if i >= 50 and len(sorted_results) > 50:
+                output.append(f"\n... и еще {len(sorted_results) - 50} документов")
+                break
 
         return "\n".join(output)
 
     def search_interactive(self):
-        print("\n" + "=" * 60)
-        print("БУЛЕВ ПОИСК")
-        print("=" * 60)
+        """Интерактивный режим поиска"""
+        print("\n" + "=" * 70)
+        print("БУЛЕВ ПОИСК С ССЫЛКАМИ НА ДОКУМЕНТЫ")
+        print("=" * 70)
         print("\nПоддерживаемые операторы:")
         print("  AND - логическое И")
         print("  OR  - логическое ИЛИ")
@@ -203,7 +243,7 @@ class BooleanSearch:
         print("\nДля выхода введите 'exit' или 'quit'")
 
         while True:
-            print("\n" + "-" * 60)
+            print("\n" + "-" * 70)
             query = input("Введите запрос: ").strip()
 
             if query.lower() in ['exit', 'quit', 'выход']:
@@ -213,14 +253,23 @@ class BooleanSearch:
             if not query:
                 continue
 
-            print("\nРезультат:")
+            print("\nРезультат поиска:")
             result = self.parse_query(query)
             print(self.format_results(result))
 
 
 def main():
+    # Проверяем существование файлов
+    if not INDEX_FILE.exists():
+        print(f"Ошибка: файл индекса {INDEX_FILE} не найден!")
+        return
+
+    if not LINKS_FILE.exists():
+        print(f"Ошибка: файл со ссылками {LINKS_FILE} не найден!")
+        return
+
     # Создаем поисковую систему
-    search = BooleanSearch(INDEX_FILE)
+    search = BooleanSearch(INDEX_FILE, LINKS_FILE)
 
     # Запускаем интерактивный режим
     search.search_interactive()
