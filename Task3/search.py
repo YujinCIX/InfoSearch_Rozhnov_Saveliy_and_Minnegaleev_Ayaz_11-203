@@ -1,153 +1,169 @@
-import os
 import re
 from pathlib import Path
-from collections import defaultdict
-from typing import Set, Dict, List, Union, Tuple
+from typing import Set, Dict, List, Union
 
-# Пути
-INDEX_FILE = Path("inverted_index.txt")
-LINKS_FILE = Path("index.txt")  # файл с соответствием номеров и ссылок
+# Попытка импорта лемматизатора 
+try:
+    from pymorphy2 import MorphAnalyzer
+    MORPH_AVAILABLE = True
+except ImportError:
+    MORPH_AVAILABLE = False
+    print("Предупреждение: pymorphy2 не установлен. Лемматизация отключена.")
+
+# Пути к файлам
+INDEX_FILE = Path("inverted_index.txt")   # инвертированный индекс
+LINKS_FILE = Path("index.txt")            # соответствие номеров и ссылок
 
 
 class BooleanSearch:
+    """
+    Класс для булева поиска по инвертированному индексу.
+    """
+
     def __init__(self, index_file: Path, links_file: Path):
-        """Инициализация поиска: загрузка индекса и ссылок"""
-        self.index: Dict[str, Set[int]] = {}
-        self.all_docs: Set[int] = set()
-        self.links: Dict[int, str] = {}  # словарь {номер_документа: ссылка}
+        """
+        Инициализация: загрузка индекса, ссылок и подготовка лемматизатора.
+        """
+        self.index: Dict[str, Set[int]] = {}   # лемма -> множество номеров документов
+        self.all_docs: Set[int] = set()        # множество всех документов (для NOT)
+        self.links: Dict[int, str] = {}        # номер документа -> URL
+
+        # Инициализация лемматизатора (если доступен)
+        self.morph = MorphAnalyzer() if MORPH_AVAILABLE else None
 
         self.load_index(index_file)
         self.load_links(links_file)
 
-    def load_index(self, index_file: Path):
-        """Загрузка инвертированного индекса из файла"""
-
-
-        with open(index_file, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if line:
+    def load_index(self, index_file: Path) -> None:
+        """
+        Загружает инвертированный индекс из файла.
+        Формат каждой строки: <лемма> <номер1> <номер2> ...
+        """
+        try:
+            with open(index_file, 'r', encoding='utf-8') as f:
+                for line_num, line in enumerate(f, 1):
+                    line = line.strip()
+                    if not line:
+                        continue
                     parts = line.split()
-                    if len(parts) >= 2:
-                        term = parts[0]
-                        # Преобразуем строки с номерами документов в множество int
-                        docs = set(int(doc) for doc in parts[1:])
-                        self.index[term] = docs
-                        self.all_docs.update(docs)
+                    if len(parts) < 2:
+                        print(f"Предупреждение: строка {line_num} в {index_file} пропущена (мало частей)")
+                        continue
+                    lemma = parts[0]
+                    # Преобразуем остальные части в целые числа (номера документов)
+                    docs = set()
+                    for doc_str in parts[1:]:
+                        try:
+                            docs.add(int(doc_str))
+                        except ValueError:
+                            print(f"Предупреждение: неверный номер документа '{doc_str}' в строке {line_num}")
+                    self.index[lemma] = docs
+                    self.all_docs.update(docs)
+            print(f"Загружен индекс: {len(self.index)} лемм, {len(self.all_docs)} документов.")
+        except FileNotFoundError:
+            print(f"Ошибка: файл индекса {index_file} не найден.")
+            raise
 
-
-    def load_links(self, links_file: Path):
-        """Загрузка соответствия номеров документов и ссылок"""
-
+    def load_links(self, links_file: Path) -> None:
+        """
+        Загружает соответствие номеров документов и URL из index.txt.
+        Формат строки: <номер_документа>\t<URL>
+        """
         try:
             with open(links_file, 'r', encoding='utf-8') as f:
-                for line in f:
+                for line_num, line in enumerate(f, 1):
                     line = line.strip()
-                    if line and '\t' in line:
-                        # Формат: номер_документа<TAB>ссылка
-                        parts = line.split('\t')
-                        if len(parts) >= 2:
-                            doc_num = int(parts[0])
-                            link = parts[1]
-                            self.links[doc_num] = link
+                    if not line:
+                        continue
+                    if '\t' not in line:
+                        print(f"Предупреждение: строка {line_num} в {links_file} не содержит табуляции, пропущена.")
+                        continue
+                    doc_str, url = line.split('\t', 1)
+                    try:
+                        doc_num = int(doc_str)
+                        self.links[doc_num] = url
+                    except ValueError:
+                        print(f"Предупреждение: неверный номер документа '{doc_str}' в строке {line_num}")
 
-
-
-            # Проверяем, есть ли ссылки для всех документов
-            missing_links = self.all_docs - set(self.links.keys())
-            if missing_links:
-                print(f"Внимание: нет ссылок для документов: {sorted(missing_links)}")
-
+            # Проверим, есть ли ссылки для всех документов из индекса
+            missing = self.all_docs - set(self.links.keys())
+            if missing:
+                print(f"Внимание: для документов {sorted(missing)} отсутствуют ссылки.")
+            print(f"Загружено ссылок: {len(self.links)}")
         except FileNotFoundError:
-            print(f"Ошибка: файл {links_file} не найден!")
+            print(f"Ошибка: файл ссылок {links_file} не найден. Ссылки будут недоступны.")
             self.links = {}
 
-    def parse_query(self, query: str) -> Union[Set[int], str]:
+    def lemmatize(self, word: str) -> str:
         """
-        Парсит и выполняет булев запрос.
-        Поддерживает операторы AND, OR, NOT и скобки.
+        Приводит слово к нормальной форме (лемме).
+        Если лемматизатор недоступен, возвращает слово в нижнем регистре.
         """
-        # Удаляем лишние пробелы и приводим к нижнему регистру
-        query = query.strip().lower()
-
-        if not query:
-            return "Пустой запрос"
-
-        try:
-            # Токенизируем запрос
-            tokens = self.tokenize_query(query)
-
-            # Преобразуем инфиксную запись в постфиксную (обратная польская нотация)
-            postfix = self.infix_to_postfix(tokens)
-
-            # Вычисляем результат
-            result = self.evaluate_postfix(postfix)
-
-            return result
-
-        except Exception as e:
-            return f"Ошибка в запросе: {e}"
+        if self.morph is not None:
+            # pymorphy2 возвращает список разборов; берём нормальную форму первого
+            return self.morph.parse(word)[0].normal_form
+        return word.lower()
 
     def tokenize_query(self, query: str) -> List[str]:
         """
-        Разбивает запрос на токены (термины, операторы, скобки)
+        Разбивает запрос на токены: операторы, скобки, ключевые слова.
+        Расставляет пробелы вокруг скобок для удобства.
         """
-        # Добавляем пробелы вокруг скобок для удобства токенизации
+        # Добавляем пробелы вокруг скобок
         query = query.replace('(', ' ( ').replace(')', ' ) ')
-
-        # Разбиваем на токены
-        tokens = []
-        for token in query.split():
-            if token:  # пропускаем пустые
-                tokens.append(token)
-
+        # Разделяем по пробелам и удаляем пустые токены
+        tokens = [t for t in query.split() if t]
         return tokens
 
     def infix_to_postfix(self, tokens: List[str]) -> List[str]:
         """
-        Преобразует инфиксную запись в постфиксную (алгоритм сортировочной станции)
+        Преобразует инфиксную запись в постфиксную (обратную польскую нотацию)
+        с использованием алгоритма сортировочной станции.
+        Поддерживаются операторы: NOT (унарный), AND, OR.
         """
-        # Приоритет операторов
         precedence = {
-            'not': 3,
+            'not': 3,   # наивысший приоритет (унарный)
             'and': 2,
             'or': 1,
             '(': 0,
             ')': 0
         }
-
         output = []
         stack = []
 
         for token in tokens:
             if token == '(':
                 stack.append(token)
-
             elif token == ')':
                 # Выталкиваем все операторы до открывающей скобки
                 while stack and stack[-1] != '(':
                     output.append(stack.pop())
                 if stack and stack[-1] == '(':
                     stack.pop()  # удаляем '('
-
-            elif token in precedence:  # это оператор
+                else:
+                    raise ValueError("Несбалансированные скобки")
+            elif token in precedence:  # оператор
+                # Пока в стеке есть оператор с большим или равным приоритетом, выталкиваем его
                 while (stack and stack[-1] != '(' and
-                       precedence.get(stack[-1], 0) >= precedence.get(token, 0)):
+                       precedence.get(stack[-1], 0) >= precedence[token]):
                     output.append(stack.pop())
                 stack.append(token)
-
-            else:  # это термин
+            else:  # термин (слово)
                 output.append(token)
 
         # Выталкиваем оставшиеся операторы
         while stack:
-            output.append(stack.pop())
+            op = stack.pop()
+            if op == '(' or op == ')':
+                raise ValueError("Несбалансированные скобки")
+            output.append(op)
 
         return output
 
     def evaluate_postfix(self, postfix: List[str]) -> Set[int]:
         """
-        Вычисляет значение выражения в постфиксной записи
+        Вычисляет значение выражения в постфиксной записи.
+        Для каждого терма применяет лемматизацию и получает множество документов из индекса.
         """
         stack = []
 
@@ -157,122 +173,125 @@ class BooleanSearch:
                     raise ValueError("Недостаточно операндов для AND")
                 right = stack.pop()
                 left = stack.pop()
-                result = self.and_operation(left, right)
-                stack.append(result)
-
+                stack.append(left & right)
             elif token == 'or':
                 if len(stack) < 2:
                     raise ValueError("Недостаточно операндов для OR")
                 right = stack.pop()
                 left = stack.pop()
-                result = self.or_operation(left, right)
-                stack.append(result)
-
+                stack.append(left | right)
             elif token == 'not':
                 if len(stack) < 1:
                     raise ValueError("Недостаточно операндов для NOT")
                 operand = stack.pop()
-                result = self.not_operation(operand)
-                stack.append(result)
-
-            else:  # это термин
-                # Получаем множество документов для термина
-                docs = self.index.get(token, set())
+                stack.append(self.all_docs - operand)
+            else:  # термин – применяем лемматизацию
+                # Очищаем от пунктуации (на случай, если слово пришло с запятой и т.п.)
+                clean_token = re.sub(r'[^\w\s]', '', token)
+                if not clean_token:
+                    clean_token = token  # если осталась пустота, оставляем как есть
+                lemma = self.lemmatize(clean_token)
+                docs = self.index.get(lemma, set())
                 stack.append(docs)
 
         if len(stack) != 1:
-            raise ValueError("Некорректное выражение")
+            raise ValueError("Некорректное выражение: осталось несколько значений в стеке")
 
         return stack[0]
 
-    def and_operation(self, set1: Set[int], set2: Set[int]) -> Set[int]:
-        """Операция AND: пересечение множеств"""
-        return set1 & set2
+    def parse_query(self, query: str) -> Union[Set[int], str]:
+        """
+        Основной метод: принимает строку запроса, возвращает множество номеров документов
+        или сообщение об ошибке.
+        """
+        query = query.strip()
+        if not query:
+            return "Пустой запрос"
 
-    def or_operation(self, set1: Set[int], set2: Set[int]) -> Set[int]:
-        """Операция OR: объединение множеств"""
-        return set1 | set2
-
-    def not_operation(self, docs: Set[int]) -> Set[int]:
-        """Операция NOT: дополнение множества"""
-        return self.all_docs - docs
+        try:
+            tokens = self.tokenize_query(query)
+            postfix = self.infix_to_postfix(tokens)
+            result = self.evaluate_postfix(postfix)
+            return result
+        except Exception as e:
+            return f"Ошибка при обработке запроса: {e}"
 
     def format_results(self, result: Union[Set[int], str]) -> str:
-        """Форматирует результаты для вывода с ссылками"""
-        if isinstance(result, str):  # сообщение об ошибке
-            return result
-
+        """
+        Форматирует результат для вывода пользователю: количество, список с номерами и ссылками.
+        """
+        if isinstance(result, str):
+            return result  # сообщение об ошибке
         if not result:
-            return "Документы не найдены"
+            return "Документы не найдены."
 
-        # Сортируем результаты
-        sorted_results = sorted(result)
+        sorted_docs = sorted(result)
+        lines = [f"Найдено документов: {len(sorted_docs)}", "-" * 60]
 
-        # Форматируем вывод
-        output = [f"Найдено документов: {len(sorted_results)}"]
-        output.append("-" * 60)
-
-        for i, doc_num in enumerate(sorted_results, 1):
-            # Получаем ссылку для документа
-            link = self.links.get(doc_num, "Ссылка не найдена")
-
-
-            output.append(f"{i:3}. Документ {doc_num:04d}: {link}")
-
-            # Ограничиваем вывод для очень больших результатов
-            if i >= 50 and len(sorted_results) > 50:
-                output.append(f"\n... и еще {len(sorted_results) - 50} документов")
+        for i, doc_num in enumerate(sorted_docs, 1):
+            link = self.links.get(doc_num, "ссылка не найдена")
+            lines.append(f"{i:3}. Документ {doc_num:04d}: {link}")
+            # Ограничим вывод, если документов очень много
+            if i >= 50 and len(sorted_docs) > 50:
+                lines.append(f"\n... и ещё {len(sorted_docs) - 50} документов")
                 break
 
-        return "\n".join(output)
+        return "\n".join(lines)
 
-    def search_interactive(self):
-        """Интерактивный режим поиска"""
+    def interactive_search(self):
+        """
+        Запускает интерактивный режим поиска.
+        """
         print("\n" + "=" * 70)
-        print("БУЛЕВ ПОИСК С ССЫЛКАМИ НА ДОКУМЕНТЫ")
+        print("БУЛЕВ ПОИСК ПО ИНВЕРТИРОВАННОМУ ИНДЕКСУ (с лемматизацией)")
         print("=" * 70)
-        print("\nПоддерживаемые операторы:")
-        print("  AND - логическое И")
-        print("  OR  - логическое ИЛИ")
-        print("  NOT - логическое НЕ")
-        print("\nМожно использовать скобки для группировки")
+        print("\nПоддерживаемые операторы: AND, OR, NOT (регистр не важен).")
+        print("Можно использовать круглые скобки для группировки.")
         print("\nПримеры запросов:")
-        print('  кот AND собака')
-        print('  (клеопатра AND цезарь) OR (антоний AND цицерон)')
-        print('  компьютер NOT (игра OR развлечение)')
-        print("\nДля выхода введите 'exit' или 'quit'")
+        print("  кот AND собака")
+        print("  (клеопатра AND цезарь) OR (антоний AND цицерон)")
+        print("  компьютер NOT (игра OR развлечение)")
+        print("\nДля выхода введите 'exit' или 'quit'.")
+        print("-" * 70)
 
         while True:
-            print("\n" + "-" * 70)
-            query = input("Введите запрос: ").strip()
-
-            if query.lower() in ['exit', 'quit', 'выход']:
-                print("До свидания!")
+            try:
+                query = input("Запрос > ").strip()
+            except (KeyboardInterrupt, EOFError):
+                print("\nДо свидания!")
                 break
 
+            if query.lower() in ('exit', 'quit', 'выход'):
+                print("До свидания!")
+                break
             if not query:
                 continue
 
-            print("\nРезультат поиска:")
+            print("\nРезультат:")
             result = self.parse_query(query)
             print(self.format_results(result))
+            print("-" * 70)
 
 
 def main():
-    # Проверяем существование файлов
+    """
+    Точка входа: проверяет наличие файлов и запускает поиск.
+    """
     if not INDEX_FILE.exists():
-        print(f"Ошибка: файл индекса {INDEX_FILE} не найден!")
+        print(f"Ошибка: файл индекса {INDEX_FILE} не найден.")
+        print("Сначала запустите build_index.py для построения индекса.")
         return
 
     if not LINKS_FILE.exists():
-        print(f"Ошибка: файл со ссылками {LINKS_FILE} не найден!")
+        print(f"Ошибка: файл ссылок {LINKS_FILE} не найден.")
+        print("Убедитесь, что index.txt (из задания 1) присутствует.")
         return
 
-    # Создаем поисковую систему
-    search = BooleanSearch(INDEX_FILE, LINKS_FILE)
-
-    # Запускаем интерактивный режим
-    search.search_interactive()
+    try:
+        searcher = BooleanSearch(INDEX_FILE, LINKS_FILE)
+        searcher.interactive_search()
+    except Exception as e:
+        print(f"Критическая ошибка: {e}")
 
 
 if __name__ == "__main__":
